@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_ann-elliott.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-07-27T00:00:00+00:00</updated><entry><title>Playing with PyEphem</title><link href="http://pyvideo.org/pyohio-2013/playing-with-pyephem.html" rel="alternate"></link><published>2013-07-27T00:00:00+00:00</published><updated>2013-07-27T00:00:00+00:00</updated><author><name>Ann Elliott</name></author><id>tag:pyvideo.org,2013-07-27:pyohio-2013/playing-with-pyephem.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;PyEphem is a powerful astronomy library. This talk covers some simple
+things you can do with PyEphem that relate to your everyday life, such
+as matching your sleep cycle to the sunrise and seeing what the moon is
+up to tonight. This will also include plotting data about the sky using
+matplotlib.&lt;/p&gt;
+</summary><category term="talk"></category></entry></feed>

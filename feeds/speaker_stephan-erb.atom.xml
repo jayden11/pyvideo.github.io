@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_stephan-erb.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-05T00:00:00+00:00</updated><entry><title>Release Management with Devpi</title><link href="http://pyvideo.org/europython-2015/release-management-with-devpi.html" rel="alternate"></link><published>2015-08-05T00:00:00+00:00</published><updated>2015-08-05T00:00:00+00:00</updated><author><name>Stephan Erb</name></author><id>tag:pyvideo.org,2015-08-05:europython-2015/release-management-with-devpi.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Stephan Erb - Release Management with Devpi
+[EuroPython 2015]
+[22 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Devpi is an open source PyPi-compatible package server. Its versatile
+features make it the Swiss Army knife of Python package and release
+management, enabling anyone to shape a custom release workflow.&lt;/p&gt;
+&lt;p&gt;In this talk, I will detail how we use our company-wide Devpi
+installation in order to share a large set of packages across teams,
+deploy binary packages to our application servers, and mix and mash
+open source packages with our own. With Devpi being a critical part of
+our release and deployment infrastructure, I will also cover our high-
+availability setup and how we perform major version updates with
+minimal downtime.&lt;/p&gt;
+&lt;p&gt;While this talk is not meant to be an exhaustive introduction of all
+available Devpi features, it can offer insights on how Devpi can be
+used at a larger scale.&lt;/p&gt;
+</summary></entry></feed>

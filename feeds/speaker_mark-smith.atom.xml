@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_mark-smith.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-07-24T00:00:00+00:00</updated><entry><title>A Deep-Dive Into Python Classes</title><link href="http://pyvideo.org/europython-2011/a-deep-dive-into-python-classes.html" rel="alternate"></link><published>2011-07-15T00:00:00+00:00</published><updated>2011-07-15T00:00:00+00:00</updated><author><name>Mark Smith</name></author><id>tag:pyvideo.org,2011-07-15:europython-2011/a-deep-dive-into-python-classes.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Mark Smith - 22 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk aims to lift the lid on the system that governs how types
+behave in Python - everything except Metaclasses.&lt;/p&gt;
+&lt;p&gt;The talk answers questions such as:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;What is a class, and how can we think of them?&lt;/li&gt;
+&lt;li&gt;How are classes instantiated?&lt;/li&gt;
+&lt;li&gt;How are attributes obtained from a class or an instance?&lt;/li&gt;
+&lt;li&gt;Why do I get a different thing when accessing a method via its class
+instead of its instance?&lt;/li&gt;
+&lt;li&gt;How do the classmethod and staticmethod decorators work?&lt;/li&gt;
+&lt;li&gt;How can I modify classes and instances after they've been
+initialised?&lt;/li&gt;
+&lt;li&gt;Does any of this allow me to do any clever tricks?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Attendees should understand at least the basics of object oriented
+programming in Python. This talk doesn't aim to explain
+object-orientation, o-o design, or how Python represents objects in C.&lt;/p&gt;
+</summary><category term="decorators"></category></entry><entry><title>Writing Awesome Command-Line Programs in Python</title><link href="http://pyvideo.org/europython-2014/writing-awesome-command-line-programs-in-python.html" rel="alternate"></link><published>2014-07-24T00:00:00+00:00</published><updated>2014-07-24T00:00:00+00:00</updated><author><name>Mark Smith</name></author><id>tag:pyvideo.org,2014-07-24:europython-2014/writing-awesome-command-line-programs-in-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Command-Line programs can have a lot to them - usually more than you
+think, yet often suffer from a lack of thought.&lt;/p&gt;
+&lt;p&gt;This is a tour through how to structure your code, tools in the standard
+library and some 3rd party libraries. Take your command-line programs to
+the next level!&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python is a great language for writing command-line tools - which is why
+so much of Linux is secretly written in Python these days.
+Unfortunately, what starts as a simple script can quickly get out of
+hand as more features are added and more people start using it!&lt;/p&gt;
+&lt;p&gt;The talk will consist of a tour through various useful libraries and
+practical code showing how each can be used, and include advice on how
+to best structure simple and complex command-line tools.&lt;/p&gt;
+&lt;p&gt;Things to consider when writing command-line apps:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Single-file vs Multiple-file&lt;/li&gt;
+&lt;li&gt;Standard library only vs. 3rd party requirements&lt;/li&gt;
+&lt;li&gt;Installation - setup.py vs. native packaging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The different parts of a command-line program:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Option Parsing:&lt;ul&gt;
+&lt;li&gt;Libraries: getopt, optparse, argparse, docopt&lt;/li&gt;
+&lt;li&gt;Sub-commands&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Configuration:&lt;ul&gt;
+&lt;li&gt;Formats: Ini file, JSON, YAML&lt;/li&gt;
+&lt;li&gt;Where should it be stored (cross-platform);&lt;/li&gt;
+&lt;li&gt;Having multiple configuration files, and allowing user config to
+override global config&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Output:&lt;ul&gt;
+&lt;li&gt;Colour - colorama&lt;/li&gt;
+&lt;li&gt;Formatting output for the user&lt;/li&gt;
+&lt;li&gt;Formatting output for other programs&lt;/li&gt;
+&lt;li&gt;How do you know when your output is being piped to another
+program?&lt;/li&gt;
+&lt;li&gt;Managing logging and verbosity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Managing streamed input&lt;/li&gt;
+&lt;li&gt;Exit values: What are the conventions?&lt;/li&gt;
+&lt;li&gt;Interactive apps - REPL&lt;/li&gt;
+&lt;li&gt;Structuring a bunch of programs/commands around a shared codebase.&lt;/li&gt;
+&lt;li&gt;Command-line frameworks: clint, compago &amp;amp; cliff&lt;/li&gt;
+&lt;li&gt;Testing command-line apps&lt;/li&gt;
+&lt;li&gt;Writing command-line tools in Python 3 vs Python 2&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry></feed>

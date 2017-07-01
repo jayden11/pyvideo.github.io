@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 16 Feb 2017 00:00:00 +0000</lastBuildDate><item><title>Writing Beautiful Code</title><link>http://pyvideo.org/pycon-pune-2017/writing-beautiful-code.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Writing code is hard. Writing beautiful code is even more so.&lt;/p&gt;
+&lt;p&gt;How to write code that is pleasant to read, easy to understand and joy
+to maintain?&lt;/p&gt;
+&lt;p&gt;Simple things like using right variable names, avoiding to much nesting,
+using white space and comments etc. makes a lot difference to
+readability of the code. Even though these things look very simple, it
+is very hard to put them in practice.&lt;/p&gt;
+&lt;p&gt;In this talk, I’ll try summarise the age old wisdom of writing beautiful
+code using python examples.&lt;/p&gt;
+&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;Choose meaningful variable names&lt;/div&gt;
+&lt;div class="line"&gt;Avoid generic names&lt;/div&gt;
+&lt;div class="line"&gt;Give names to magic numbers&lt;/div&gt;
+&lt;div class="line"&gt;Avoid too many nested levels&lt;/div&gt;
+&lt;div class="line"&gt;Avoid too many branches&lt;/div&gt;
+&lt;div class="line"&gt;Use “telephone test” for readability&lt;/div&gt;
+&lt;div class="line"&gt;Use idioms of the language&lt;/div&gt;
+&lt;div class="line"&gt;Avoid superficial comments&lt;/div&gt;
+&lt;div class="line"&gt;Add comments to explain complex piece of software&lt;/div&gt;
+&lt;div class="line"&gt;Avoid writing comments by writing code clearly&lt;/div&gt;
+&lt;div class="line"&gt;Avoid side effects&lt;/div&gt;
+&lt;div class="line"&gt;Try to make functions stateless&lt;/div&gt;
+&lt;div class="line"&gt;Let one function do one thing well&lt;/div&gt;
+&lt;div class="line"&gt;Write smaller functions - the 7 plus or minus 2 rule&lt;/div&gt;
+&lt;div class="line"&gt;Separate “what” from “how”&lt;/div&gt;
+&lt;div class="line"&gt;Don’t sacrifice clarity for efficiency&lt;/div&gt;
+&lt;div class="line"&gt;The Zen of Python&lt;/div&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anand Chitipothu</dc:creator><pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-02-16:pycon-pune-2017/writing-beautiful-code.html</guid></item></channel></rss>

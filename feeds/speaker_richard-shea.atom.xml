@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_richard-shea.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-04T00:00:00+00:00</updated><entry><title>Stop and smell the Djangos</title><link href="http://pyvideo.org/pycon-au-2015/stop-and-smell-the-djangos.html" rel="alternate"></link><published>2015-08-04T00:00:00+00:00</published><updated>2015-08-04T00:00:00+00:00</updated><author><name>Richard Shea</name></author><id>tag:pyvideo.org,2015-08-04:pycon-au-2015/stop-and-smell-the-djangos.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;A great strength of Django is how much functionality there is baked in
+without the developer doing anything to obtain it.&lt;/p&gt;
+&lt;p&gt;A corollary of this is that there’s a great deal of functionality in
+Django which the average developer is hardly aware exists. The happy dev
+is pleased to ignore the problems that have been solved for them as
+their requests rush in and their responses rush out.&lt;/p&gt;
+&lt;p&gt;There's Middleware, Signals, Authentication, Caching,
+Internationalization, Serialization and ... a lot more and that's just
+the core framework.&lt;/p&gt;
+&lt;p&gt;In this talk we’re going to stop and admire the view .&lt;/p&gt;
+&lt;p&gt;We’ll demonstrate the effects that these core aspects of Django have on
+a request - response cycle by reviewing how they work and feeling the
+pain of what life would be like without them.&lt;/p&gt;
+&lt;p&gt;My talk is aimed at the average Django dev who has been happy to ignore
+what goes on under the hood. By better understanding the machinery that
+Django relies on it gives us all the opportunity to exploit it in our
+work and, of course, to impress our colleagues!&lt;/p&gt;
+</summary></entry></feed>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 16 Mar 2013 00:00:00 +0000</lastBuildDate><item><title>Things to make writing tests easier</title><link>http://pyvideo.org/pycon-us-2013/things-to-make-writing-tests-easier.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Writing tests is often hard enough as it is, without having to keep on
+writing the same boiler plate to set things up and check outcomes. I've
+collected a bunch of these tools that are all documented, flexible and
+have unit tests of their own. I'd like to share those with people
+interested in using them so they can spend more time writing code and
+less time worrying about how to test it properly.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris Withers</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-03-16:pycon-us-2013/things-to-make-writing-tests-easier.html</guid><category>talk</category></item></channel></rss>

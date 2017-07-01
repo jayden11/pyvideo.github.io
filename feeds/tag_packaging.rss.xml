@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 09 Jul 2014 00:00:00 +0000</lastBuildDate><item><title>Conda: A Cross Platform Package Manager for any Binary Distribution</title><link>http://pyvideo.org/scipy-2014/conda-a-cross-platform-package-manager-for-any-b.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Conda is an open source package manager, which can be used to manage
+binary packages and virtual environments on any platform. It is the
+package manager of the Anaconda Python distribution, although it can be
+used independently of Anaconda. We will look at how conda solves many of
+the problems that have plagued Python packaging in the past, followed by
+a demonstration of its features.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;We will look at the issues that have plagued packaging in the Python
+ecosystem in the past, and discuss how Conda solves these problems. We
+will show how to use conda to manage multiple environments. Finally, we
+will look at how to build your own conda packages.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;What is the packaging problem? We will briefly look at the history of
+the problem and the various solutions to it. There are two sides to
+the packaging problem: the problem of installing existing packages
+and the problem of building packages to be installed. We look at the
+history of distutils, setuptools, distribute, and pip, the some of
+the problems they solved, and issues that arose, particularly for the
+scientific Python community.&lt;/li&gt;
+&lt;li&gt;We will look at the conda package format, the design decisions that
+guided the format, and the implications of those decisions. A conda
+package is a bz2 compressed tarfile of all the files installed in a
+prefix, along with a metadata directory for the package. A conda
+package is typically installed by hard linking these files into the
+install prefix. Conda packages should be relocatable, so that they
+can be installed into any prefix. This allows conda packages to be
+installed into many virtual environments at once. A conda package is
+not Python specific.&lt;/li&gt;
+&lt;li&gt;We will look at how basic commands for installation and environment
+management. Conda uses a SAT solver to solve package dependency
+constraints, which is a simple, rigorous, and modern way to ensure
+that the set of packages that are installed are consistent with one
+another.&lt;/li&gt;
+&lt;li&gt;Conda has an extensive build framework which allows anybody to build
+their own conda packages. We will show how to use these tools and how
+to upload them to Binstar, a free packaging hosting service.&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aaron Meurer</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-09:scipy-2014/conda-a-cross-platform-package-manager-for-any-b.html</guid><category>conda</category><category>packaging</category></item><item><title>Reproducible, Relocatable, Customizable Builds and Packaging with HashDist Part1</title><link>http://pyvideo.org/scipy-2014/reproducible-relocatable-customizable-builds-an.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This talk introduces HashDist, a critical component of the scientific
+software development workflow. HashDist enables highly customizable,
+source-driven, and reproducible builds for scientific software stacks.
+HashDist builds can be made relocatable, allowing the easy
+redistribution of binaries on all three major operating systems as well
+as cloud and supercomputing platforms.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Developing scientific software is a continuous balance between not
+reinventing the wheel and getting fragile codes to interoperate with one
+another. Binary software distributions such as Anaconda provide a robust
+starting point for many scientific software packages, but this solution
+alone is insufficient for many scientific software developers. HashDist
+provides a critical component of the development workflow, enabling
+highly customizable, source-driven, and reproducible builds for
+scientific software stacks, available from both the IPython Notebook and
+the command line.&lt;/p&gt;
+&lt;p&gt;To address these issues, the Coastal and Hydraulics Laboratory at the US
+Army Engineer Research and Development Center has funded the development
+of HashDist in collaboration with Simula Research Laboratories and the
+University of Texas at Austin. HashDist is motivated by a functional
+approach to package build management, and features intelligent caching
+of sources and builds, parametrized build specifications, and the
+ability to interoperate with system compilers and packages. HashDist
+enables the easy specification of &amp;quot;software stacks&amp;quot;, which allow both
+the novice user to install a default environment and the advanced user
+to configure every aspect of their build in a modular fashion. As an
+advanced feature, HashDist builds can be made relocatable, allowing the
+easy redistribution of binaries on all three major operating systems as
+well as cloud, and supercomputing platforms. As a final benefit, all
+HashDist builds are reproducible, with a build hash specifying exactly
+how each component of the software stack was installed.&lt;/p&gt;
+&lt;p&gt;This talk will feature an introduction to the problem of packaging
+Python-based scientific software, a discussion of the basic tools
+available to scientific Python developers, and a detailed discussion and
+demonstration of the HashDist package build manager.&lt;/p&gt;
+&lt;p&gt;The HashDist documentation is available from:
+&lt;a class="reference external" href="http://hashdist.readthedocs.org/en/latest/"&gt;http://hashdist.readthedocs.org/en/latest/&lt;/a&gt; HashDist is currently hosted
+at: &lt;a class="reference external" href="https://github.com/hashdist/hashdist"&gt;https://github.com/hashdist/hashdist&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-09:scipy-2014/reproducible-relocatable-customizable-builds-an.html</guid><category>packaging</category><category>reproducible research</category></item><item><title>Django Package Thunderdome: Is Your Package Worthy?</title><link>http://pyvideo.org/djangocon-2011/djangocon-2011--django-package-thunderdome--is-yo.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django Package Thunderdome: Is Your Package Worthy&lt;/p&gt;
+&lt;p&gt;Audrey Roy, Daniel Greenfeld&lt;/p&gt;
+&lt;p&gt;What makes a package useful? What is it about certain packages that
+makes them must-haves for any project? I’ll go over topics like:
+purpose, structure, docs, tests, availability on PyPI and
+Github/Bitbucket, activity, and more. I will visit some of the most
+useful grids on djangopackages.com and highlight my top package picks,
+showing examples of what makes these top packages so great.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--django-package-thunderdome--is-yo.html</guid><category>djangocon</category><category>djangocon2011</category><category>packaging</category></item><item><title>Lightning talks</title><link>http://pyvideo.org/kiwi-pycon-2009/lightning-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Morris Jones (Simple robot using python on a wifi router)&lt;/li&gt;
+&lt;li&gt;John Graves (Voice interaction)&lt;/li&gt;
+&lt;li&gt;Charles Manning (A noob does ctypes)&lt;/li&gt;
+&lt;li&gt;Raazesh Sainudiin (Computational Statistical Laboratories with SAGE
+Notebook Server)&lt;/li&gt;
+&lt;li&gt;Juergen Brendel (WSGI is easy)&lt;/li&gt;
+&lt;li&gt;Michael Hoppe (Basic data acquisition and analysis)&lt;/li&gt;
+&lt;li&gt;Carl Cerecke (A faster, cleaner goto statement)&lt;/li&gt;
+&lt;li&gt;Douglas Bagnall (Booki, Objavi, Espri: the FLOSS Manuals publishing
+suite)&lt;/li&gt;
+&lt;li&gt;Peter Harrison (Introduction to Autonomous Systems)&lt;/li&gt;
+&lt;li&gt;Jim Tittsler (Educational Content Packaging)&lt;/li&gt;
+&lt;li&gt;David Hood (Little lies to tell when teaching Python Programming)&lt;/li&gt;
+&lt;li&gt;Dylan Jay (How to host Python app for $20 in 20mins -
+collective.hostout)&lt;/li&gt;
+&lt;li&gt;Greg Hewgill (PSIL - Python S-expression Intermediate Language)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:kiwi-pycon-2009/lightning-talks.html</guid><category>ctypes</category><category>flossmanuals</category><category>goto</category><category>kiwipycon</category><category>kiwipycon2009</category><category>packaging</category><category>psil</category><category>robot</category><category>wsgi</category></item><item><title>PyConAU 2010: Don't Break It: Continuous Integration &amp; Deployment</title><link>http://pyvideo.org/pycon-au-2010/pyconau-2010--don--39-t-break-it--continuous-inte.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Don't Break It: Continuous Integration &amp;amp; Deployment&lt;/p&gt;
+&lt;p&gt;Presented by Benno Rice&lt;/p&gt;
+&lt;p&gt;So you've developed your application, it appears to work and you may
+even have some tests to back that up. Now what?&lt;/p&gt;
+&lt;p&gt;One part of software development that tends to receive not nearly enough
+attention is the process of deploying, supporting and maintaining your
+code in production. This demonstration will give an overview of using
+tools such as Hudson, nose, stdeb and freshen to automate the testing,
+packaging, deployment and verification of production software.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benno Rice</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--don--39-t-break-it--continuous-inte.html</guid><category>agile</category><category>architecture</category><category>packaging</category><category>pyconau</category><category>pyconau2010</category><category>testing</category></item><item><title>PyConAU 2010: Esky: keep your frozen apps fresh</title><link>http://pyvideo.org/pycon-au-2010/pyconau-2010--esky--keep-your-frozen-apps-fresh.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Esky: keep your frozen apps fresh&lt;/p&gt;
+&lt;p&gt;Presented by Ryan F Kelly&lt;/p&gt;
+&lt;p&gt;Esky (&lt;a class="reference external" href="http://pypi.python.org/pypi/esky/"&gt;http://pypi.python.org/pypi/esky/&lt;/a&gt;) is an auto-update framework for
+frozen Python applications, designed to be simple to use while
+guaranteeing the safety of your app in case of failed or partial
+updates. It provides easy support for differential updates and is
+compatible with py2exe, py2app, cx-freeze and bbfreeze.&lt;/p&gt;
+&lt;p&gt;This talk will give an overview of esky's features, and show how to
+extend an existing frozen application with auto-update support.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ryan F Kelly</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--esky--keep-your-frozen-apps-fresh.html</guid><category>esky</category><category>packaging</category><category>pyconau</category><category>pyconau2010</category></item><item><title>Python Packages</title><link>http://pyvideo.org/pycon-de-2013/python-packages.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;setup.py, PyPI, easy_install, pip, distutils, setuptools, virtualenv -
+wer ein Paket nutzen oder den eigenen Code als Paket verteilen will muss
+sich durch einen Dschungel von Modulen und Werkzeugen kämpfen. Dieser
+Vortrag bringt Licht ins Dunkel und stellt aktuelle Best Practices für
+die Verwendung und Erstellung von Python-Paketen vor.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Hepper</dc:creator><pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-17:pycon-de-2013/python-packages.html</guid><category>packaging</category><category>pip</category><category>pypi</category><category>setuptools</category><category>virtualenv</category></item><item><title>devpi: driving packaging and testing needs</title><link>http://pyvideo.org/pycon-de-2013/devpi-driving-packaging-and-testing-needs.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;devpi provides both a private pypi server, a self-updating
+pypi.python.org package cache, and work flow commands for uploading,
+testing and installing packages. This talk shows some example scenarios
+and discusses the unique feature of seemlessly &amp;quot;inheriting&amp;quot; the
+pypi.python.org packages into your private index. We'll also look into
+how you can perform testing of a package before you push a release to
+the public index or your company-specific private index.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel</dc:creator><pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-15:pycon-de-2013/devpi-driving-packaging-and-testing-needs.html</guid><category>packaging</category><category>qa</category><category>testing</category></item><item><title>PyCon 2009: How to Build Applications Linux Distributions will Package (#78)</title><link>http://pyvideo.org/pycon-us-2009/pycon-2009--how-to-build-applications-linux-distr.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;[VIDEO HAS ISSUES: no audio first 1.5m] If you've ever created a nifty
+application that makes people's lives easier you know the truly hard
+part is convincing others to use it. One way to increase the number of
+people installing your software is to convince Linux distributions to
+package your software so that their end users can install by using the
+system tools they're used to. One way of convincing them is by making
+your application easy to package.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pycon-us-2009/pycon-2009--how-to-build-applications-linux-distr.html</guid><category>linux</category><category>packaging</category><category>pycon</category><category>pycon2009</category></item><item><title>Cross platform application development and distribution (#116)</title><link>http://pyvideo.org/pycon-us-2010/pycon-2010--cross-platform-application-developmen.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Cross platform application development and distribution&lt;/p&gt;
+&lt;p&gt;Presented by Stani Michiels and Nadia Alramli&lt;/p&gt;
+&lt;p&gt;You think Python gives you native cross platform applications for free?
+Think twice. Are you interested in distributing your application to
+other platforms but not sure how?&lt;/p&gt;
+&lt;p&gt;We will give tips and examples on how to enhance the native feel of your
+application: notifications, registration of file types and more. The
+talk will also help you to avoid common pitfalls and provides solutions
+for designing cross platform user interfaces. (Although we use wxPython
+as an example, the principles are valid for other toolkits as well.)
+We'll show you where to start if you want to distribute your application
+to different platforms, briefly discussing tools like py2exe, py2app and
+Debian/Ubuntu packaging ecosystem. This talk is based on our experience
+from developing Phatch (Photo Batch Processor) and SPE (Python Editor).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nadia Alramli</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--cross-platform-application-developmen.html</guid><category>crossplatform</category><category>packaging</category><category>py2app</category><category>py2exe</category><category>pycon</category><category>pycon2010</category><category>wxpython</category></item><item><title>The state of Packaging (#63)</title><link>http://pyvideo.org/pycon-us-2010/pycon-2010--the-state-of-packaging---63.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The state of Packaging&lt;/p&gt;
+&lt;p&gt;Presented by Tarek Ziadé&lt;/p&gt;
+&lt;p&gt;The Python Package Index (PyPI) became over the last years an essential
+tool to share your Python programs. As long as you use Distutils
+standards, you can register and upload your work at PyPI in a few
+seconds.&lt;/p&gt;
+&lt;p&gt;Projects like Setuptools and Pip added great features on the top of this
+: the ability to fetch PyPI to install a project and its dependencies.
+So you can &amp;quot;easy_install A-Program&amp;quot; and everything is done
+automatically for you.&lt;/p&gt;
+&lt;p&gt;But all these features have shown the flaws and limitations of the
+current Distutils design, and the urgency to make it evolve with respect
+to the existing OS-specific packaging systems.&lt;/p&gt;
+&lt;p&gt;This talk will detail the biggest issues that need to be solved, and the
+work that is being done. It will end up with a presentation of the
+Distutils roadmap, and an overview of the Distribute project, the
+Setuptools replacer.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tarek Ziadé</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--the-state-of-packaging---63.html</guid><category>distribute</category><category>distutils</category><category>easy_install</category><category>packaging</category><category>pip</category><category>pycon</category><category>pycon2010</category><category>pypi</category><category>setuptools</category></item></channel></rss>

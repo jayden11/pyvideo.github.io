@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 12 Mar 2017 00:00:00 +0000</lastBuildDate><item><title>A documentation crash course for developers</title><link>http://pyvideo.org/pycon-sk-2017/a-documentation-crash-course-for-developers.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;How many times have you come across an awesome looking library or tool that you're keen to work with in your own project but can't even begin to understand how to use it?&lt;/p&gt;
+&lt;p&gt;Programmers are great at creating amazing and cutting-edge code, but not always so good and explaining themselves, and I want to help.&lt;/p&gt;
+&lt;p&gt;In this presentation I want to draw upon my experience in writing tutorials and technical documentation to help you write clear, concise and usable documentation for your own projects.&lt;/p&gt;
+&lt;p&gt;We will cover topics such as:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Why write documentation?&lt;/li&gt;
+&lt;li&gt;Explaining your point and motivation&lt;/li&gt;
+&lt;li&gt;Creating context and meaning&lt;/li&gt;
+&lt;li&gt;Writing clear copy&lt;/li&gt;
+&lt;li&gt;Creating meaningful examples and tutorials&lt;/li&gt;
+&lt;li&gt;Documentation systems and formats&lt;/li&gt;
+&lt;li&gt;Making documentation part of build processes&lt;/li&gt;
+&lt;li&gt;Testing Docs&lt;/li&gt;
+&lt;li&gt;Versioning of Docs and maintaining consistency&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris Ward</dc:creator><pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-03-12:pycon-sk-2017/a-documentation-crash-course-for-developers.html</guid></item></channel></rss>

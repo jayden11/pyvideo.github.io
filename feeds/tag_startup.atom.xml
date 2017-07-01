@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_startup.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>1990-01-01T00:00:00+00:00</updated><entry><title>From Designer to Django'er in Six Weeks: A Story from Solo Founder</title><link href="http://pyvideo.org/djangocon-2011/djangocon-2011--from-designer-to-django--39-er-in.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Tracy Osborn</name></author><id>tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--from-designer-to-django--39-er-in.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;From Designer to Django'er in Six Weeks: A Story from Solo Founder&lt;/p&gt;
+&lt;p&gt;Presented by Tracy Osborn&lt;/p&gt;
+&lt;p&gt;Django gives you the tools to start a successful web app even if you're
+new to development. Learn how to build and launch a web startup while
+avoiding common pitfalls and problems.&lt;/p&gt;
+</summary><category term="djangocon"></category><category term="djangocon2011"></category><category term="startup"></category></entry></feed>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 12 Nov 2016 00:00:00 +0000</lastBuildDate><item><title>GitHub’s Deployments API: let GitHub be your deployment glue</title><link>http://pyvideo.org/pycon-ca-2016/githubs-deployments-api-let-github-be-your-deployment-glue.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Github's Deployments API allows Github itself to sit in the middle of
+your deployment pipeline, acting as the glue needed to pull together
+loosely- coupled deployment tooling. This talk will discuss how the
+author used Github's Deployments API to connect a chatbot to a custom CI
+server, allowing for chat-based deploys to a custom Docker-based
+infrastructure.&lt;/p&gt;
+&lt;div class="section" id="jay-parlar-bio"&gt;
+&lt;h4&gt;Jay Parlar Bio&lt;/h4&gt;
+&lt;p&gt;Jay is a Hamilton-based software developer at Rackspace, working on
+internal tools to improve the quality of life of his coworkers. He
+spends his days writing JavaScript and Python, contributing both to
+front-end and back-end systems.&lt;/p&gt;
+&lt;p&gt;He earned his Ph.D. in Software Engineering from McMaster University,
+where he focused on hard real-time embedded systems and vibration
+analysis, topics that have little-to-nothing to do with his current job.&lt;/p&gt;
+&lt;p&gt;Outside of work, Jay spends most of his time with his wife and three
+kids.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jay Parlar</dc:creator><pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-12:pycon-ca-2016/githubs-deployments-api-let-github-be-your-deployment-glue.html</guid></item></channel></rss>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_andrei-vlasovskikh.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-01-31T00:00:00+00:00</updated><entry><title>Python — это не Haskell</title><link href="http://pyvideo.org/pycon-belarus-2015/python-eto-ne-haskell.html" rel="alternate"></link><published>2015-01-31T00:00:00+00:00</published><updated>2015-01-31T00:00:00+00:00</updated><author><name>Андрей Власовских</name></author><id>tag:pyvideo.org,2015-01-31:pycon-belarus-2015/python-eto-ne-haskell.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Идеи функционального программирования довольно популярны, в том числе и
+в среде программистов на Python, который не является функциональным
+языком. В докладе речь пойдёт об особенностях функционального стиля в
+Python, об его отличиях от типичных функциональных языков типа Haskell.&lt;/p&gt;
+</summary></entry><entry><title>Многозадачность в Python и других языках</title><link href="http://pyvideo.org/pycon-russia-2014/mnogozadachnost-v-python-i-drugikh-iazykakh.html" rel="alternate"></link><published>2014-06-02T00:00:00+00:00</published><updated>2014-06-02T00:00:00+00:00</updated><author><name>Андрей Власовских</name></author><id>tag:pyvideo.org,2014-06-02:pycon-russia-2014/mnogozadachnost-v-python-i-drugikh-iazykakh.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;В Python существует долгая традиция заимствования механизмов многозадачности из других языков.
+Вначале это были C и окружение POSIX, затем Java и C#.
+В докладе будет рассказано о том, как устроены и чего позволяют достичь механизмымногозадачности в Python, включая новые механизмы Python 3 concurrent.futures и asyncio.
+Мы рассмотрим какие механизмы подходят для задач, ограниченных по CPU и IO, в частности, какими преимуществами и недостатками обладают механизмы в Python.
+Наконец мы поговорим о том, какие подходы к многозадачности есть в языках Erlang и Go и насколько они применимы к Python.&lt;/p&gt;
+</summary></entry></feed>

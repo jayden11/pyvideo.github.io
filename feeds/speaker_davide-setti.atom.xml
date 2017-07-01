@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_davide-setti.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-05-29T00:00:00+00:00</updated><entry><title>Un programmatore python tra gli elefanti (di Hadoop)</title><link href="http://pyvideo.org/pycon-italia-2015/un-programmatore-python-tra-gli-elefanti-di-hado.html" rel="alternate"></link><published>2015-05-29T00:00:00+00:00</published><updated>2015-05-29T00:00:00+00:00</updated><author><name>Davide Setti</name></author><id>tag:pyvideo.org,2015-05-29:pycon-italia-2015/un-programmatore-python-tra-gli-elefanti-di-hado.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Una vita idilliaca tra list comprehension e generator, senza
+preoccuparti troppo dei tipi. Sei felice. E poi arriva lui. Hadoop. Ma
+tu non devi abbatterti. C’è speranza. Come sopravvivere in un ecosistema
+Java? L’obiettivo di questo talk è di introdurre Hadoop e come è
+possibile utilizzare Python, quando ha senso farlo. Verranno introdotti:&lt;/p&gt;
+&lt;p&gt;Hadoop MapReduce e HDFS Hadoop Streaming Pig YARN Spark&lt;/p&gt;
+&lt;p&gt;Non si vuole proporre un uso forzato di Python dove non ha senso, ma
+solo suggerire in base all’esperienza maturata quando è utile e quali
+sono i limiti.&lt;/p&gt;
+</summary></entry></feed>

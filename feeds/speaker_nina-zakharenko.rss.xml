@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Tue, 31 May 2016 00:00:00 +0000</lastBuildDate><item><title>Memory Management in Python - The Basics</title><link>http://pyvideo.org/pycon-us-2016/nina-zakharenko-memory-management-in-python-the-basics-pycon-2016.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Nina Zakharenko&lt;/p&gt;
+&lt;p&gt;As a new python developer, do you find memory management in Python confusing? Come to this talk to learn about the basics of how Memory Management works in Python. We'll cover the concepts of reference counting, garbage collection, weak references, __slots__, and the Global Interpreter Lock.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nina Zakharenko</dc:creator><pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-05-31:pycon-us-2016/nina-zakharenko-memory-management-in-python-the-basics-pycon-2016.html</guid></item><item><title>AngularJS + Django = A Perfect Match</title><link>http://pyvideo.org/djangocon-2014/angularjs-django-a-perfect-match.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;AngularJS is a powerful MVC framework that can easily integrate with
+Django templates.&lt;/p&gt;
+&lt;p&gt;Let's walk through integrating the two for fantastic results. The result
+is a fast, dynamic single page application.&lt;/p&gt;
+&lt;p&gt;Help us caption &amp;amp; translate this video!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://amara.org/v/FOP2/"&gt;http://amara.org/v/FOP2/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nina Zakharenko</dc:creator><pubDate>Wed, 17 Sep 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-09-17:djangocon-2014/angularjs-django-a-perfect-match.html</guid></item><item><title>Django REST API - So easy you can learn it in 25 minutes</title><link>http://pyvideo.org/djangocon-2014/django-rest-api-so-easy-you-can-learn-it-in-25.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Django REST Framework can make creating a RESTFUL api quick and easy.&lt;/p&gt;
+&lt;p&gt;Join me as I go over: - What makes an API Restful - How Serializers can
+make representing your existing models in JSON a breeze - What the built
+in Views provide for you, and how to provide authentication for your API
+- How to route to your new Endpoints - Last but not least, how to Unit
+Test them&lt;/p&gt;
+&lt;p&gt;Help us caption &amp;amp; translate this video!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://amara.org/v/FNEj/"&gt;http://amara.org/v/FNEj/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nina Zakharenko</dc:creator><pubDate>Fri, 12 Sep 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-09-12:djangocon-2014/django-rest-api-so-easy-you-can-learn-it-in-25.html</guid></item><item><title>Technical Debt</title><link>http://pyvideo.org/pycon-us-2015/technical-debt.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Technical debt is the code monster hiding in everyone's closet. If you
+ignore it, it will terrorize you at night. To banish it and re-gain your
+productivity, you'll need to face it head on.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nina Zakharenko</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-11:pycon-us-2015/technical-debt.html</guid></item></channel></rss>

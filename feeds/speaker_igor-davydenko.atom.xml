@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_igor-davydenko.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-02-04T00:00:00+00:00</updated><entry><title>Circle CI or: How I learned to stop worrying and love CI again</title><link href="http://pyvideo.org/pycon-ukraine-2016/circle-ci-or-how-i-learned-to-stop-worrying-and-love-ci-again.html" rel="alternate"></link><published>2016-04-23T00:00:00+00:00</published><updated>2016-04-23T00:00:00+00:00</updated><author><name>Igor Davydenko</name></author><id>tag:pyvideo.org,2016-04-23:pycon-ukraine-2016/circle-ci-or-how-i-learned-to-stop-worrying-and-love-ci-again.html</id><summary type="html"></summary></entry><entry><title>Why Python 3.6 is faster than Python 3.5?</title><link href="http://pyvideo.org/pycon-belarus-2017/why-python-36-is-faster-than-python-35.html" rel="alternate"></link><published>2017-02-04T00:00:00+00:00</published><updated>2017-02-04T00:00:00+00:00</updated><author><name>Igor Davydenko</name></author><id>tag:pyvideo.org,2017-02-04:pycon-belarus-2017/why-python-36-is-faster-than-python-35.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Detailed review of changes &amp;amp; optimizations in Python 3.6, which
+increased performance compared to Python 3.5 code. With examples and
+explanations.&lt;/p&gt;
+</summary></entry><entry><title>Welcome to async/await era</title><link href="http://pyvideo.org/pycon-finland-2015/welcome-to-asyncawait-era.html" rel="alternate"></link><published>2015-10-19T00:00:00+00:00</published><updated>2015-10-19T00:00:00+00:00</updated><author><name>Igor Davydenko</name></author><id>tag:pyvideo.org,2015-10-19:pycon-finland-2015/welcome-to-asyncawait-era.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon Finland 2015
+Igor Davydenko - Welcome to async/await era&lt;/p&gt;
+&lt;p&gt;PEP492 accepted and Python 3.5 will have new async/await statements. Talk will introduce them to the audience and shows examples on how to and when to use.&lt;/p&gt;
+&lt;p&gt;Talk also covers how async/await helps to write better and clear asyncio web applications on top of aiohttp library and shows common patterns to use, while making backend applications on Python 3.5.&lt;/p&gt;
+&lt;p&gt;About the author:  Python &amp;amp; React.js developer from Kyiv, Ukraine. Love creating API for humans, open source libraries, and giving talks about the process. In Python 3 &amp;amp; asyncio I trust.&lt;/p&gt;
+</summary></entry><entry><title>Asyncio Stack &amp; React.js or Development on the Edge</title><link href="http://pyvideo.org/europython-2015/asyncio-stack-reactjs-or-development-on-the-edge.html" rel="alternate"></link><published>2015-08-03T00:00:00+00:00</published><updated>2015-08-03T00:00:00+00:00</updated><author><name>Igor Davydenko</name></author><id>tag:pyvideo.org,2015-08-03:europython-2015/asyncio-stack-reactjs-or-development-on-the-edge.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Igor Davydenko - Asyncio Stack &amp;amp; React.js or Development on the Edge
+[EuroPython 2015]
+[20 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Times changed, with introducing asyncio to Python standard library
+many and many developers think about switching from previous solutions
+to aio stack. Talk will introduce aiohttp, aioredis &amp;amp; aiopg -
+cornerstones for building modern Python backends and show common
+problems &amp;amp; solutions while switching to aio stack.&lt;/p&gt;
+&lt;p&gt;But not only Python changed. In second part, I'll talk about what new
+happened in frontend development, how new ES6 features modified
+JavaScript, and what React.js &amp;amp; Flux means for Python developers.&lt;/p&gt;
+&lt;p&gt;Talk will cover real-world web application, which used aio stack on
+backend and React.js &amp;amp; Flux approach on frontend and provide useful
+observations for other developers interested in these topics.&lt;/p&gt;
+</summary></entry></feed>

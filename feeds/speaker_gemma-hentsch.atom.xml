@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_gemma-hentsch.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-09-19T00:00:00+00:00</updated><entry><title>Why I have an unhealthy love of tests</title><link href="http://pyvideo.org/pycon-uk-2015/why-i-have-an-unhealthy-love-of-tests.html" rel="alternate"></link><published>2015-09-19T00:00:00+00:00</published><updated>2015-09-19T00:00:00+00:00</updated><author><name>Gemma Hentsch</name></author><id>tag:pyvideo.org,2015-09-19:pycon-uk-2015/why-i-have-an-unhealthy-love-of-tests.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Why I have an unhealthy love of tests, and why you shouldn't be scared about writing them&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Tests, I used to hate them, and actually when I start writing tests on a
+new project I still do.&lt;/p&gt;
+&lt;p&gt;But, you don't have to be scared about them, and I'd like to cover
+developing your testing strategy, what to test, what not to test, and
+how to explain how to convince higher ups that its not just a useful
+spending of time, its a vital part of your job.&lt;/p&gt;
+</summary></entry></feed>

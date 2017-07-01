@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_tutorial.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-07T00:00:00+00:00</updated><entry><title>Matplotlib Plot Tutorial: Histograms, Scatter Plots &amp; Legend</title><link href="http://pyvideo.org/datacamp/Matplotlib-Plot-Tutorial-For-Beginners.html" rel="alternate"></link><published>2016-02-01T00:00:00+00:00</published><updated>2016-02-01T00:00:00+00:00</updated><author><name>Filip Schouwenaars</name></author><id>tag:pyvideo.org,2016-02-01:datacamp/Matplotlib-Plot-Tutorial-For-Beginners.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Matplotlib makes it easy to create meaningful and insightful plots. In this beginner video, you will learn how to build various types of data visualizations such as histograms, scatter plots and line plots. You will also see how to customize them to make them more visually appealing and interpretable.&lt;/p&gt;
+&lt;p&gt;Want to do the corresponding exercises? Go to our &lt;cite&gt;Python For Data Science Tutorial &amp;lt;https://www.datacamp.com/courses/intro-to-python-for-data-science&amp;gt;&lt;/cite&gt; where you can do them for free.&lt;/p&gt;
+</summary><category term="Matplotlib"></category><category term="data science"></category><category term="data visualization"></category><category term="tutorial"></category><category term="DataCamp"></category></entry><entry><title>Julia Tutorial</title><link href="http://pyvideo.org/pydata-dc-2016/julia-tutorial.html" rel="alternate"></link><published>2016-10-07T00:00:00+00:00</published><updated>2016-10-07T00:00:00+00:00</updated><author><name>Chase Coleman</name></author><id>tag:pyvideo.org,2016-10-07:pydata-dc-2016/julia-tutorial.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData DC 2016&lt;/p&gt;
+&lt;p&gt;Github: &lt;a class="reference external" href="https://github.com/cc7768/PyDataDC_julia"&gt;https://github.com/cc7768/PyDataDC_julia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Julia is a programming language oriented around the just in time (JIT) compiler technology. This tutorial will be an introduction to Julia and the core concepts that make it a good choice for certain types of problems.&lt;/p&gt;
+</summary><category term="julia"></category><category term="tutorial"></category></entry><entry><title>How do I apply a function to a pandas Series or DataFrame?</title><link href="http://pyvideo.org/data-school/pandas-30-apply-function.html" rel="alternate"></link><published>2016-08-23T00:00:00+00:00</published><updated>2016-08-23T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-08-23:data-school/pandas-30-apply-function.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever struggled to figure out the differences between apply, map, and applymap? In this video, I'll explain when you should use each of these methods and demonstrate a few common use cases. Watch the end of the video for three important announcements!&lt;/p&gt;
+&lt;p&gt;This is video 30 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="NumPy"></category></entry><entry><title>How do I create a pandas DataFrame from another object?</title><link href="http://pyvideo.org/data-school/pandas-29-dummy-dataframe.html" rel="alternate"></link><published>2016-08-16T00:00:00+00:00</published><updated>2016-08-16T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-08-16:data-school/pandas-29-dummy-dataframe.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever needed to create a DataFrame of &amp;quot;dummy&amp;quot; data, but without reading from a file? In this video, I'll demonstrate how to create a DataFrame from a dictionary, a list, and a NumPy array. I'll also show you how to create a new Series and attach it to the DataFrame.&lt;/p&gt;
+&lt;p&gt;This is video 29 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="NumPy"></category></entry><entry><title>How do I change display options in pandas?</title><link href="http://pyvideo.org/data-school/pandas-28-customize-display.html" rel="alternate"></link><published>2016-08-09T00:00:00+00:00</published><updated>2016-08-09T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-08-09:data-school/pandas-28-customize-display.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever wanted to change the way your DataFrame is displayed? Perhaps you needed to see more rows or columns, or modify the formatting of numbers? In this video, I'll demonstrate how to change the settings for five common display options in pandas.&lt;/p&gt;
+&lt;p&gt;This is video 28 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>How do I avoid a SettingWithCopyWarning in pandas?</title><link href="http://pyvideo.org/data-school/pandas-27-setting-with-copy-warning.html" rel="alternate"></link><published>2016-08-02T00:00:00+00:00</published><updated>2016-08-02T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-08-02:data-school/pandas-27-setting-with-copy-warning.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;If you've been using pandas for a while, you've likely encountered a SettingWithCopyWarning. The proper response is to modify your code appropriately, not to turn off the warning! In this video, I'll show you two common scenarios in which this warning arises, explain why it's occurring, and then demonstrate how to address it.&lt;/p&gt;
+&lt;p&gt;This is video 27 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="missing data"></category></entry><entry><title>How do I find and remove duplicate rows in pandas?</title><link href="http://pyvideo.org/data-school/pandas-26-duplicate-data.html" rel="alternate"></link><published>2016-07-26T00:00:00+00:00</published><updated>2016-07-26T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-07-26:data-school/pandas-26-duplicate-data.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;During the data cleaning process, you will often need to figure out whether you have duplicate data, and if so, how to deal with it. In this video, I'll demonstrate the two key methods for finding and removing duplicate rows, as well as how to modify their behavior to suit your specific needs.&lt;/p&gt;
+&lt;p&gt;This is video 26 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="duplicate data"></category></entry><entry><title>How do I work with dates and times in pandas?</title><link href="http://pyvideo.org/data-school/pandas-25-dates-and-times.html" rel="alternate"></link><published>2016-07-19T00:00:00+00:00</published><updated>2016-07-19T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-07-19:data-school/pandas-25-dates-and-times.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Let's say that you have dates and times in your DataFrame and you want to analyze your data by minute, month, or year. What should you do? In this video, I'll demonstrate how you can convert your data to &amp;quot;datetime&amp;quot; format, enabling you to access a ton of convenient attributes and perform datetime comparisons and mathematical operations.&lt;/p&gt;
+&lt;p&gt;This is video 25 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="data visualization"></category></entry><entry><title>How do I create dummy variables in pandas?</title><link href="http://pyvideo.org/data-school/pandas-24-dummy-variables.html" rel="alternate"></link><published>2016-07-12T00:00:00+00:00</published><updated>2016-07-12T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-07-12:data-school/pandas-24-dummy-variables.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;If you want to include a categorical feature in your machine learning model, one common solution is to create dummy variables. In this video, I'll demonstrate three different ways you can create dummy variables from your existing DataFrame columns. I'll also show you a trick for simplifying your code that was introduced in pandas 0.18.&lt;/p&gt;
+&lt;p&gt;This is video 24 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="machine learning"></category></entry><entry><title>More of your pandas questions answered!</title><link href="http://pyvideo.org/data-school/pandas-23-viewer-questions.html" rel="alternate"></link><published>2016-07-05T00:00:00+00:00</published><updated>2016-07-05T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-07-05:data-school/pandas-23-viewer-questions.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this video, I'm answering a few of the pandas questions I've received in the YouTube comments: Could you explain how to read the pandas documentation? What is the difference between ufo.isnull() and pd.isnull(ufo)? Why are DataFrame slices inclusive when using .loc, but exclusive when using .iloc? How do I randomly sample rows from a DataFrame?&lt;/p&gt;
+&lt;p&gt;This is video 23 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="reproducibility"></category></entry><entry><title>How do I use pandas with scikit-learn to create Kaggle submissions?</title><link href="http://pyvideo.org/data-school/pandas-22-prepare-for-machine-learning.html" rel="alternate"></link><published>2016-06-28T00:00:00+00:00</published><updated>2016-06-28T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-06-28:data-school/pandas-22-prepare-for-machine-learning.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you been using scikit-learn for machine learning, and wondering whether pandas could help you to prepare your data and export your predictions? In this video, I'll demonstrate the simplest way to integrate pandas into your machine learning workflow, and will create a submission for Kaggle's Titanic competition in just a few lines of code!&lt;/p&gt;
+&lt;p&gt;This is video 22 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="scikit-learn"></category><category term="machine learning"></category></entry><entry><title>How do I make my pandas DataFrame smaller and faster?</title><link href="http://pyvideo.org/data-school/pandas-21-reduce-dataframe-size.html" rel="alternate"></link><published>2016-06-21T00:00:00+00:00</published><updated>2016-06-21T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-06-21:data-school/pandas-21-reduce-dataframe-size.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Are you working with a large dataset in pandas, and wondering if you can reduce its memory footprint or improve its efficiency? In this video, I'll show you how to do exactly that in one line of code using the &amp;quot;category&amp;quot; data type, introduced in pandas 0.15. I'll explain how it works, and how to know when you shouldn't use it.&lt;/p&gt;
+&lt;p&gt;This is video 21 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>When should I use the "inplace" parameter in pandas?</title><link href="http://pyvideo.org/data-school/pandas-20-inplace-parameter.html" rel="alternate"></link><published>2016-06-14T00:00:00+00:00</published><updated>2016-06-14T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-06-14:data-school/pandas-20-inplace-parameter.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;We've used the &amp;quot;inplace&amp;quot; parameter many times during this video series, but what exactly does it do, and when should you use it? In this video, I'll explain how &amp;quot;inplace&amp;quot; affects methods such as &amp;quot;drop&amp;quot; and &amp;quot;dropna&amp;quot;, and why it is always False by default.&lt;/p&gt;
+&lt;p&gt;This is video 20 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="missing data"></category></entry><entry><title>How do I select multiple rows and columns from a pandas DataFrame?</title><link href="http://pyvideo.org/data-school/pandas-19-select-dataframe-rows-and-columns.html" rel="alternate"></link><published>2016-06-07T00:00:00+00:00</published><updated>2016-06-07T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-06-07:data-school/pandas-19-select-dataframe-rows-and-columns.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever been confused about the &amp;quot;right&amp;quot; way to select rows and columns from a DataFrame? pandas gives you an incredible number of options for doing so, but in this video, I'll outline the current best practices for row and column selection using the loc, iloc, and ix methods.&lt;/p&gt;
+&lt;p&gt;This is video 19 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>What do I need to know about the pandas index? (Part 2)</title><link href="http://pyvideo.org/data-school/pandas-18-index-part-2.html" rel="alternate"></link><published>2016-06-02T00:00:00+00:00</published><updated>2016-06-02T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-06-02:data-school/pandas-18-index-part-2.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In part two of our discussion of the index, we'll switch our focus from the DataFrame index to the Series index. After discussing index-based selection and sorting, I'll demonstrate how automatic index alignment during mathematical operations and concatenation enables us to easily work with incomplete data in pandas.&lt;/p&gt;
+&lt;p&gt;This is video 18 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="missing data"></category></entry><entry><title>What do I need to know about the pandas index? (Part 1)</title><link href="http://pyvideo.org/data-school/pandas-17-index-part-1.html" rel="alternate"></link><published>2016-05-31T00:00:00+00:00</published><updated>2016-05-31T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-05-31:data-school/pandas-17-index-part-1.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The DataFrame index is core to the functionality of pandas, yet it's confusing to many users. In this video, I'll explain what the index is used for and why you might want to store your data in the index. I'll also demonstrate how to set and reset the index, and show how that affects the DataFrame's shape and contents.&lt;/p&gt;
+&lt;p&gt;This is video 17 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>How do I handle missing values in pandas?</title><link href="http://pyvideo.org/data-school/pandas-16-missing-values.html" rel="alternate"></link><published>2016-05-26T00:00:00+00:00</published><updated>2016-05-26T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-05-26:data-school/pandas-16-missing-values.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Most datasets contain &amp;quot;missing values&amp;quot;, meaning that the data is incomplete. Deciding how to handle missing values can be challenging! In this video, I'll cover all of the basics: how missing values are represented in pandas, how to locate them, and options for how to drop them or fill them in.&lt;/p&gt;
+&lt;p&gt;This is video 16 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="missing data"></category></entry><entry><title>How do I explore a pandas Series?</title><link href="http://pyvideo.org/data-school/pandas-15-explore-series.html" rel="alternate"></link><published>2016-05-24T00:00:00+00:00</published><updated>2016-05-24T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-05-24:data-school/pandas-15-explore-series.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;When you start working with a new dataset, how should you go about exploring it? In this video, I'll demonstrate some of the basic tools in pandas for exploring both numeric and non-numeric data. I'll also show you how to create simple visualizations in a single line of code!&lt;/p&gt;
+&lt;p&gt;This is video 15 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="data visualization"></category></entry><entry><title>When should I use a "groupby" in pandas?</title><link href="http://pyvideo.org/data-school/pandas-14-analyze-data-by-category.html" rel="alternate"></link><published>2016-05-19T00:00:00+00:00</published><updated>2016-05-19T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-05-19:data-school/pandas-14-analyze-data-by-category.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The pandas &amp;quot;groupby&amp;quot; method allows you to split a DataFrame into groups, apply a function to each group independently, and then combine the results back together. This is called the &amp;quot;split-apply-combine&amp;quot; pattern, and is a powerful tool for analyzing data across different categories. In this video, I'll explain when you should use a groupby and then demonstrate its flexibility using four different examples.&lt;/p&gt;
+&lt;p&gt;This is video 14 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="data visualization"></category></entry><entry><title>How do I change the data type of a pandas Series?</title><link href="http://pyvideo.org/data-school/pandas-13-change-data-type-of-series.html" rel="alternate"></link><published>2016-05-17T00:00:00+00:00</published><updated>2016-05-17T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-05-17:data-school/pandas-13-change-data-type-of-series.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever tried to do math with a pandas Series that you thought was numeric, but it turned out that your numbers were stored as strings? In this video, I'll demonstrate two different ways to change the data type of a Series so that you can fix incorrect data types. I'll also show you the easiest way to convert a boolean Series to integers, which is useful for creating dummy/indicator variables for machine learning.&lt;/p&gt;
+&lt;p&gt;This is video 13 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>How do I use string methods in pandas?</title><link href="http://pyvideo.org/data-school/pandas-12-string-methods.html" rel="alternate"></link><published>2016-05-12T00:00:00+00:00</published><updated>2016-05-12T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-05-12:data-school/pandas-12-string-methods.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;pandas includes powerful string manipulation capabilities that you can easily apply to any Series of strings. In this video, I'll show you how to access string methods in pandas (along with a few examples), and then end with two bonus tips to help you maximize your efficiency.&lt;/p&gt;
+&lt;p&gt;This is video 12 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="regular expressions"></category><category term="string processing"></category></entry><entry><title>How do I use the "axis" parameter in pandas?</title><link href="http://pyvideo.org/data-school/pandas-11-dataframe-axis.html" rel="alternate"></link><published>2016-05-10T00:00:00+00:00</published><updated>2016-05-10T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-05-10:data-school/pandas-11-dataframe-axis.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;When performing operations on a pandas DataFrame, such as dropping columns or calculating row means, it is often necessary to specify the &amp;quot;axis&amp;quot;. But what exactly is an axis? In this video, I'll help you to build a mental model for understanding the axis parameter so that you will know when and how to use it.&lt;/p&gt;
+&lt;p&gt;This is video 11 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>Your pandas questions answered!</title><link href="http://pyvideo.org/data-school/pandas-10-viewer-questions.html" rel="alternate"></link><published>2016-05-05T00:00:00+00:00</published><updated>2016-05-05T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-05-05:data-school/pandas-10-viewer-questions.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this video, I'm answering a few of the pandas questions I've received in the YouTube comments: When reading from a file, how do I read in only a subset of the columns or rows? How do I iterate through a Series or a DataFrame? How do I drop all non-numeric columns from a DataFrame? How do I know whether I should pass an argument as a string or a list?&lt;/p&gt;
+&lt;p&gt;This is video 10 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>How do I apply multiple filter criteria to a pandas DataFrame?</title><link href="http://pyvideo.org/data-school/pandas-09-multiple-filter-criteria.html" rel="alternate"></link><published>2016-05-03T00:00:00+00:00</published><updated>2016-05-03T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-05-03:data-school/pandas-09-multiple-filter-criteria.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Let's say that you want to filter the rows of a DataFrame by multiple conditions. In this video, I'll demonstrate how to do this using two different logical operators. I'll also explain the special rules in pandas for combining filter criteria, and end with a trick for simplifying chained conditions!&lt;/p&gt;
+&lt;p&gt;This is video 9 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>How do I filter rows of a pandas DataFrame by column value?</title><link href="http://pyvideo.org/data-school/pandas-08-filter-dataframe-rows.html" rel="alternate"></link><published>2016-04-28T00:00:00+00:00</published><updated>2016-04-28T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-04-28:data-school/pandas-08-filter-dataframe-rows.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Let's say that you only want to display the rows of a DataFrame which have a certain column value. How would you do it? pandas makes it easy, but the notation can be confusing and thus difficult to remember. In this video, I'll work up to the solution step-by-step using regular Python code so that you can truly understand the logic behind pandas filtering notation.&lt;/p&gt;
+&lt;p&gt;This is video 8 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>How do I sort a pandas DataFrame or a Series?</title><link href="http://pyvideo.org/data-school/pandas-07-sort-dataframe-or-series.html" rel="alternate"></link><published>2016-04-26T00:00:00+00:00</published><updated>2016-04-26T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-04-26:data-school/pandas-07-sort-dataframe-or-series.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;pandas allows you to sort a DataFrame by one of its columns (known as a &amp;quot;Series&amp;quot;), and also allows you to sort a Series alone. The sorting API changed in pandas version 0.17, so in this video, I'll demonstrate both the &amp;quot;old way&amp;quot; and the &amp;quot;new way&amp;quot; to sort. I'll also show you how to sort a DataFrame by multiple columns at once!&lt;/p&gt;
+&lt;p&gt;This is video 7 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>How do I remove columns from a pandas DataFrame?</title><link href="http://pyvideo.org/data-school/pandas-06-remove-dataframe-column.html" rel="alternate"></link><published>2016-04-21T00:00:00+00:00</published><updated>2016-04-21T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-04-21:data-school/pandas-06-remove-dataframe-column.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;If you have DataFrame columns that you're never going to use, you may want to remove them entirely in order to focus on the columns that you do use. In this video, I'll show you how to remove columns (and rows), and will briefly explain the meaning of the &amp;quot;axis&amp;quot; and &amp;quot;inplace&amp;quot; parameters.&lt;/p&gt;
+&lt;p&gt;This is video 6 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>How do I rename columns in a pandas DataFrame?</title><link href="http://pyvideo.org/data-school/pandas-05-rename-dataframe-column.html" rel="alternate"></link><published>2016-04-19T00:00:00+00:00</published><updated>2016-04-19T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-04-19:data-school/pandas-05-rename-dataframe-column.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You will often want to rename the columns of a DataFrame so that their names are descriptive, easy to type, and don't contain any spaces. In this video, I'll demonstrate three different strategies for renaming columns so that you can choose the best strategy to fit your particular situation.&lt;/p&gt;
+&lt;p&gt;This is video 5 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>Why do some pandas commands end with parentheses (and others don't)?</title><link href="http://pyvideo.org/data-school/pandas-04-methods-and-attributes.html" rel="alternate"></link><published>2016-04-14T00:00:00+00:00</published><updated>2016-04-14T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-04-14:data-school/pandas-04-methods-and-attributes.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;To access most of the functionality in pandas, you have to call the methods and attributes of DataFrame and Series objects. In this video, I'll discuss some common methods and attributes, and show you how to tell the difference between them. (Hint: It's all about the parentheses!)&lt;/p&gt;
+&lt;p&gt;This is video 4 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>How do I select a pandas Series from a DataFrame?</title><link href="http://pyvideo.org/data-school/pandas-03-select-series-from-dataframe.html" rel="alternate"></link><published>2016-04-12T00:00:00+00:00</published><updated>2016-04-12T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-04-12:data-school/pandas-03-select-series-from-dataframe.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;DataFrames and Series are the two main object types in pandas for data storage: a DataFrame is like a table, and each column of the table is called a Series. You will often select a Series in order to analyze or manipulate it. In this video, I'll show you how to select a Series using &amp;quot;bracket notation&amp;quot; and &amp;quot;dot notation&amp;quot;, and will discuss the limitations of dot notation. I'll also demonstrate how to create a new Series in a DataFrame.&lt;/p&gt;
+&lt;p&gt;This is video 3 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>What is pandas? (Introduction to the Q&amp;A series)</title><link href="http://pyvideo.org/data-school/pandas-01-introduction.html" rel="alternate"></link><published>2016-04-07T00:00:00+00:00</published><updated>2016-04-07T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-04-07:data-school/pandas-01-introduction.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;pandas is a full-featured Python library for data analysis, manipulation, and visualization. This video series is for anyone who wants to work with data in Python, regardless of whether you are brand new to pandas or have some experience.&lt;/p&gt;
+&lt;p&gt;This is video 1 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category></entry><entry><title>How do I read a tabular data file into pandas?</title><link href="http://pyvideo.org/data-school/pandas-02-read-tabular-data-file.html" rel="alternate"></link><published>2016-04-07T00:00:00+00:00</published><updated>2016-04-07T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2016-04-07:data-school/pandas-02-read-tabular-data-file.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&amp;quot;Tabular data&amp;quot; is just data that has been formatted as a table, with rows and columns (like a spreadsheet). You can easily read a tabular data file into pandas, even directly from a URL! In this video, I'll walk you through how to do that, including how to modify some of the default arguments of the read_table function to solve common problems.&lt;/p&gt;
+&lt;p&gt;This is video 2 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="data science"></category><category term="data analysis"></category><category term="data wrangling"></category><category term="data processing"></category><category term="pandas"></category><category term="tutorial"></category><category term="Data School"></category><category term="csv"></category></entry><entry><title>How to evaluate a classifier in scikit-learn</title><link href="http://pyvideo.org/data-school/scikit-learn-09-evaluating-classification-models.html" rel="alternate"></link><published>2015-10-23T00:00:00+00:00</published><updated>2015-10-23T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2015-10-23:data-school/scikit-learn-09-evaluating-classification-models.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this video, you'll learn how to properly evaluate a classification model using a variety of common tools and metrics, as well as how to adjust the performance of a classifier to best match your business objectives. I'll start by demonstrating the weaknesses of classification accuracy as an evaluation metric. I'll then discuss the confusion matrix, the ROC curve and AUC, and metrics such as sensitivity, specificity, and precision. By the end of the video, you will have a solid foundation for intelligently evaluating your own classification model.&lt;/p&gt;
+&lt;p&gt;This is the ninth video in the series, &lt;a class="reference external" href="http://www.dataschool.io/machine-learning-with-scikit-learn/"&gt;Introduction to machine learning with scikit-learn&lt;/a&gt;. The notebook and resources shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/scikit-learn-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="machine learning"></category><category term="data science"></category><category term="scikit-learn"></category><category term="tutorial"></category><category term="Data School"></category><category term="model evaluation"></category><category term="classification"></category><category term="confusion matrix"></category><category term="ROC curve"></category><category term="AUC"></category></entry><entry><title>How to find the best model parameters in scikit-learn</title><link href="http://pyvideo.org/data-school/scikit-learn-08-parameter-tuning-with-grid-search.html" rel="alternate"></link><published>2015-07-15T00:00:00+00:00</published><updated>2015-07-15T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2015-07-15:data-school/scikit-learn-08-parameter-tuning-with-grid-search.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this video, you'll learn how to efficiently search for the optimal tuning parameters (or &amp;quot;hyperparameters&amp;quot;) for your machine learning model in order to maximize its performance. I'll start by demonstrating an exhaustive &amp;quot;grid search&amp;quot; process using scikit-learn's GridSearchCV class, and then I'll compare it with RandomizedSearchCV, which can often achieve similar results in far less time.&lt;/p&gt;
+&lt;p&gt;This is the eighth video in the series, &lt;a class="reference external" href="http://www.dataschool.io/machine-learning-with-scikit-learn/"&gt;Introduction to machine learning with scikit-learn&lt;/a&gt;. The notebook and resources shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/scikit-learn-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="machine learning"></category><category term="data science"></category><category term="scikit-learn"></category><category term="tutorial"></category><category term="Data School"></category><category term="cross-validation"></category><category term="model evaluation"></category><category term="parameter tuning"></category><category term="grid search"></category></entry><entry><title>Selecting the best model in scikit-learn using cross-validation</title><link href="http://pyvideo.org/data-school/scikit-learn-07-model-evaluation-with-cross-validation.html" rel="alternate"></link><published>2015-06-28T00:00:00+00:00</published><updated>2015-06-28T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2015-06-28:data-school/scikit-learn-07-model-evaluation-with-cross-validation.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this video, we'll learn about K-fold cross-validation and how it can be used for selecting optimal tuning parameters, choosing between models, and selecting features. We'll compare cross-validation with the train/test split procedure, and we'll also discuss some variations of cross-validation that can result in more accurate estimates of model performance.&lt;/p&gt;
+&lt;p&gt;This is the seventh video in the series, &lt;a class="reference external" href="http://www.dataschool.io/machine-learning-with-scikit-learn/"&gt;Introduction to machine learning with scikit-learn&lt;/a&gt;. The notebook and resources shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/scikit-learn-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="machine learning"></category><category term="data science"></category><category term="scikit-learn"></category><category term="tutorial"></category><category term="Data School"></category><category term="cross-validation"></category><category term="model evaluation"></category><category term="feature selection"></category><category term="parameter tuning"></category></entry><entry><title>Data science in Python: pandas, seaborn, scikit-learn</title><link href="http://pyvideo.org/data-school/scikit-learn-06-data-science-pipeline.html" rel="alternate"></link><published>2015-05-28T00:00:00+00:00</published><updated>2015-05-28T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2015-05-28:data-school/scikit-learn-06-data-science-pipeline.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this video, we'll cover the data science pipeline from data ingestion (with pandas) to data visualization (with seaborn) to machine learning (with scikit-learn). We'll learn how to train and interpret a linear regression model, and then compare three possible evaluation metrics for regression problems. Finally, we'll apply the train/test split procedure to decide which features to include in our model.&lt;/p&gt;
+&lt;p&gt;This is the sixth video in the series, &lt;a class="reference external" href="http://www.dataschool.io/machine-learning-with-scikit-learn/"&gt;Introduction to machine learning with scikit-learn&lt;/a&gt;. The notebook and resources shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/scikit-learn-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="machine learning"></category><category term="data science"></category><category term="scikit-learn"></category><category term="tutorial"></category><category term="Data School"></category><category term="pandas"></category><category term="seaborn"></category><category term="linear regression"></category><category term="model evaluation"></category><category term="feature selection"></category><category term="visualization"></category></entry><entry><title>Comparing machine learning models in scikit-learn</title><link href="http://pyvideo.org/data-school/scikit-learn-05-comparing-machine-learning-models.html" rel="alternate"></link><published>2015-05-14T00:00:00+00:00</published><updated>2015-05-14T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2015-05-14:data-school/scikit-learn-05-comparing-machine-learning-models.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;We've learned how to train different machine learning models and make predictions, but how do we actually choose which model is &amp;quot;best&amp;quot;? We'll cover the train/test split process for model evaluation, which allows you to avoid &amp;quot;overfitting&amp;quot; by estimating how well a model is likely to perform on new data. We'll use that same process to locate optimal tuning parameters for a KNN model, and then we'll re-train our model so that it's ready to make real predictions.&lt;/p&gt;
+&lt;p&gt;This is the fifth video in the series, &lt;a class="reference external" href="http://www.dataschool.io/machine-learning-with-scikit-learn/"&gt;Introduction to machine learning with scikit-learn&lt;/a&gt;. The notebook and resources shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/scikit-learn-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="machine learning"></category><category term="data science"></category><category term="scikit-learn"></category><category term="tutorial"></category><category term="Data School"></category><category term="model evaluation"></category><category term="overfitting"></category></entry><entry><title>Training a machine learning model with scikit-learn</title><link href="http://pyvideo.org/data-school/scikit-learn-04-training-a-machine-learning-model.html" rel="alternate"></link><published>2015-04-29T00:00:00+00:00</published><updated>2015-04-29T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2015-04-29:data-school/scikit-learn-04-training-a-machine-learning-model.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Now that we're familiar with the famous iris dataset, let's actually use a classification model in scikit-learn to predict the species of an iris! We'll learn how the K-nearest neighbors (KNN) model works, and then walk through the four steps for model training and prediction in scikit-learn. Finally, we'll see how easy it is to try out a different classification model, namely logistic regression.&lt;/p&gt;
+&lt;p&gt;This is the fourth video in the series, &lt;a class="reference external" href="http://www.dataschool.io/machine-learning-with-scikit-learn/"&gt;Introduction to machine learning with scikit-learn&lt;/a&gt;. The notebook and resources shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/scikit-learn-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="machine learning"></category><category term="data science"></category><category term="scikit-learn"></category><category term="tutorial"></category><category term="Data School"></category><category term="classification"></category><category term="KNN"></category></entry><entry><title>Getting started in scikit-learn with the famous iris dataset</title><link href="http://pyvideo.org/data-school/scikit-learn-03-getting-started-with-machine-learning.html" rel="alternate"></link><published>2015-04-21T00:00:00+00:00</published><updated>2015-04-21T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2015-04-21:data-school/scikit-learn-03-getting-started-with-machine-learning.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Now that we've set up Python for machine learning, let's get started by loading an example dataset into scikit-learn! We'll explore the famous &amp;quot;iris&amp;quot; dataset, learn some important machine learning terminology, and discuss the four key requirements for working with data in scikit-learn.&lt;/p&gt;
+&lt;p&gt;This is the third video in the series, &lt;a class="reference external" href="http://www.dataschool.io/machine-learning-with-scikit-learn/"&gt;Introduction to machine learning with scikit-learn&lt;/a&gt;. The notebook and resources shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/scikit-learn-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="machine learning"></category><category term="data science"></category><category term="scikit-learn"></category><category term="tutorial"></category><category term="Data School"></category><category term="NumPy"></category></entry><entry><title>Setting up Python for machine learning: scikit-learn and IPython Notebook</title><link href="http://pyvideo.org/data-school/scikit-learn-02-machine-learning-setup.html" rel="alternate"></link><published>2015-04-15T00:00:00+00:00</published><updated>2015-04-15T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2015-04-15:data-school/scikit-learn-02-machine-learning-setup.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Want to get started with machine learning in Python? I'll discuss the pros and cons of the scikit-learn library, show how to install my preferred Python distribution, and demonstrate the basic functionality of the IPython Notebook. If you don't yet know any Python, I'll also provide four recommended resources for learning Python.&lt;/p&gt;
+&lt;p&gt;This is the second video in the series, &lt;a class="reference external" href="http://www.dataschool.io/machine-learning-with-scikit-learn/"&gt;Introduction to machine learning with scikit-learn&lt;/a&gt;. The notebook and resources shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/scikit-learn-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="machine learning"></category><category term="data science"></category><category term="scikit-learn"></category><category term="tutorial"></category><category term="Data School"></category><category term="IPython notebook"></category><category term="Jupyter notebook"></category></entry><entry><title>What is machine learning, and how does it work?</title><link href="http://pyvideo.org/data-school/scikit-learn-01-what-is-machine-learning.html" rel="alternate"></link><published>2015-04-07T00:00:00+00:00</published><updated>2015-04-07T00:00:00+00:00</updated><author><name>Kevin Markham</name></author><id>tag:pyvideo.org,2015-04-07:data-school/scikit-learn-01-what-is-machine-learning.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you heard of &amp;quot;machine learning&amp;quot;, and you're trying to figure out exactly what that means? I'll give you my definition, provide some examples of machine learning, and explain at a high level how machine learning &amp;quot;works&amp;quot;.&lt;/p&gt;
+&lt;p&gt;This is the first video in the series, &lt;a class="reference external" href="http://www.dataschool.io/machine-learning-with-scikit-learn/"&gt;Introduction to machine learning with scikit-learn&lt;/a&gt;. The notebook and resources shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/scikit-learn-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="machine learning"></category><category term="data science"></category><category term="scikit-learn"></category><category term="tutorial"></category><category term="Data School"></category><category term="supervised learning"></category><category term="unsupervised learning"></category></entry><entry><title>Applied Time Series Econometrics in Python and R</title><link href="http://pyvideo.org/pydata-san-francisco-2016/applied-time-series-econometrics-in-python-and-r.html" rel="alternate"></link><published>2016-08-24T00:00:00+00:00</published><updated>2016-08-24T00:00:00+00:00</updated><author><name>Jeffrey Yau</name></author><id>tag:pyvideo.org,2016-08-24:pydata-san-francisco-2016/applied-time-series-econometrics-in-python-and-r.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData SF 2016&lt;/p&gt;
+&lt;p&gt;Time series data is ubitious, and time series statistical models should be included in any data scientists’ toolkit. This tutorial covers the mathematical formulation, statistical foundation, and practical considerations of one of the most important classes of time series models: the AutoRegression Integrated Moving Average with Explanatory Variables model and its seasonal counterpart.&lt;/p&gt;
+&lt;p&gt;Time series data is ubitious, both within and out of the field of data science: weekly initial unemployment claim, tick level stock prices, weekly company sales, daily number of steps taken recorded by a wearable, just to name a few. Some of the most important and commonly used data science techniques to analyze time series data are those in developed in the field of statistics. For this reason, time series statistical models should be included in any data scientists’ toolkit.&lt;/p&gt;
+&lt;p&gt;This 120-minute tutorial covers the mathematical formulation, statistical foundation, and practical considerations of one of the most important classes of time series models, AutoRegression Integrated Moving Average with Explanatory Variables (ARIMAX) models, and its Seasonal counterpart (SARIMAX).&lt;/p&gt;
+</summary><category term="tutorial"></category></entry><entry><title>Build Data Apps by Deploying ML Models as API Services</title><link href="http://pyvideo.org/pydata-san-francisco-2016/build-data-apps-by-deploying-ml-models-as-api-services.html" rel="alternate"></link><published>2016-08-24T00:00:00+00:00</published><updated>2016-08-24T00:00:00+00:00</updated><author><name>Ramesh Sampath</name></author><id>tag:pyvideo.org,2016-08-24:pydata-san-francisco-2016/build-data-apps-by-deploying-ml-models-as-api-services.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData SF 2016
+Ramesh Sampath | Build Data Apps by Deploying ML Models as API Services&lt;/p&gt;
+&lt;p&gt;As data scientists, we love building models using IPython Notebooks / Scikit-Learn / Pandas eco-system. But integrating these models with an web app can be a challenge. In this tutorial, we will take our machine learning models and make them available as APIs for use by Web and Mobile Apps. We will also build a simple webapp that uses our prediction service.&lt;/p&gt;
+&lt;p&gt;Deploy your ML Models as a Service&lt;/p&gt;
+&lt;p&gt;In this talk, we will learn one way to take our Machine Learning models and make them available as a Prediction Service. We will work through the following steps.&lt;/p&gt;
+&lt;p&gt;Create a Simple Machine learning Model using Scikit-Learn / Pandas
+Pickle the model
+Using Tornado Web App, Make this model available as an API Service
+Build an Web App that uses this deployed Model
+Add Authentication to our Prediction API
+Optionally, add Redis to Cache Prediction Results
+Deploy the model in the Cloud (AWS)
+Please have Anaconda or Miniconda installed on your local machine. I will mostly be using Python 3.5, but Python 2.7 should be fine as well.&lt;/p&gt;
+</summary><category term="tutorial"></category><category term="machine learning"></category><category term="scikit-learn"></category><category term="pandas"></category><category term="tornado"></category></entry><entry><title>Building a live face recognition system in the blink of a very slow eye</title><link href="http://pyvideo.org/pydata-amsterdam-2016/building-a-live-face-recognition-system-in-the-blink-of-a-very-slow-eye.html" rel="alternate"></link><published>2016-03-26T00:00:00+00:00</published><updated>2016-03-26T00:00:00+00:00</updated><author><name>Rodrigo Agundez</name></author><id>tag:pyvideo.org,2016-03-26:pydata-amsterdam-2016/building-a-live-face-recognition-system-in-the-blink-of-a-very-slow-eye.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Amsterdam 2016&lt;/p&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;p&gt;In this tutorial we will create a face recognition application from scratch, it will provide you hands-on experience on the basics of Face Recognition. We will use the OpenCV library which makes the tutorial accessible to beginners. Together, we'll go from building our face dataset to recognizing faces in a live video. If time permits we will use this face recognition system to classify banking da&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Building a live face recognition system in the blink of a very slow eye&lt;/p&gt;
+&lt;p&gt;In this hands-on tutorial we will build a live face recognition system from scratch with the use of the OpenCV methods. Since face recognition is the main goal of this tutorial we will form teams of 2-3 people and recognize the faces in a live feed. We will make use of the OpenCV computer vision and machine learning library. OpenCV includes a comprehensive set of both classic and state-of-the-art computer vision and machine learning algorithms&lt;/p&gt;
+</summary><category term="tutorial"></category><category term="opencv"></category></entry><entry><title>Software Carpentry 2 Day Scientific Python Course Part 4 of 4</title><link href="http://pyvideo.org/scipy-2015/software-carpentry-2-day-scientific-python-course-part-4-of-4.html" rel="alternate"></link><published>2015-07-15T00:00:00+00:00</published><updated>2015-07-15T00:00:00+00:00</updated><author><name>Azalee Bos</name></author><id>tag:pyvideo.org,2015-07-15:scipy-2015/software-carpentry-2-day-scientific-python-course-part-4-of-4.html</id><summary type="html"></summary><category term="tutorial"></category></entry><entry><title>Efficient Python for High Performance Parallel Computing</title><link href="http://pyvideo.org/scipy-2015/efficient-python-for-high-performance-parallel-computing.html" rel="alternate"></link><published>2015-07-10T00:00:00+00:00</published><updated>2015-07-10T00:00:00+00:00</updated><author><name>Mike McKerns</name></author><id>tag:pyvideo.org,2015-07-10:scipy-2015/efficient-python-for-high-performance-parallel-computing.html</id><summary type="html"></summary><category term="Tutorial"></category></entry><entry><title>Modern Optimization Methods in Python</title><link href="http://pyvideo.org/scipy-2015/modern-optimization-methods-in-python.html" rel="alternate"></link><published>2015-07-10T00:00:00+00:00</published><updated>2015-07-10T00:00:00+00:00</updated><author><name>Mike McKerns</name></author><id>tag:pyvideo.org,2015-07-10:scipy-2015/modern-optimization-methods-in-python.html</id><summary type="html"></summary><category term="tutorial"></category></entry><entry><title>Anatomy of matplotlib</title><link href="http://pyvideo.org/scipy-2015/anatomy-of-matplotlib.html" rel="alternate"></link><published>2015-07-09T00:00:00+00:00</published><updated>2015-07-09T00:00:00+00:00</updated><author><name>Benjamin Root</name></author><id>tag:pyvideo.org,2015-07-09:scipy-2015/anatomy-of-matplotlib.html</id><summary type="html"></summary><category term="Tutorial"></category></entry><entry><title>Building Python Data Apps with Blaze and Bokeh</title><link href="http://pyvideo.org/scipy-2015/building-python-data-apps-with-blaze-and-bokeh.html" rel="alternate"></link><published>2015-07-09T00:00:00+00:00</published><updated>2015-07-09T00:00:00+00:00</updated><author><name>Christine Doig-Cardet</name></author><id>tag:pyvideo.org,2015-07-09:scipy-2015/building-python-data-apps-with-blaze-and-bokeh.html</id><summary type="html"></summary><category term="Tutorial"></category></entry><entry><title>Cython: Blend the Best of Python and C++</title><link href="http://pyvideo.org/scipy-2015/cython-blend-the-best-of-python-and-c.html" rel="alternate"></link><published>2015-07-09T00:00:00+00:00</published><updated>2015-07-09T00:00:00+00:00</updated><author><name>Kurt Smith</name></author><id>tag:pyvideo.org,2015-07-09:scipy-2015/cython-blend-the-best-of-python-and-c.html</id><summary type="html"></summary><category term="Tutorial"></category></entry><entry><title>Jupyter Advanced Topics Tutorial</title><link href="http://pyvideo.org/scipy-2015/jupyter-advanced-topics-tutorial.html" rel="alternate"></link><published>2015-07-09T00:00:00+00:00</published><updated>2015-07-09T00:00:00+00:00</updated><author><name>Jonathan Frederic</name></author><id>tag:pyvideo.org,2015-07-09:scipy-2015/jupyter-advanced-topics-tutorial.html</id><summary type="html"></summary><category term="tutorial"></category></entry><entry><title>Software Carpentry 2 Day Scientific Python Course Part 3 of 4</title><link href="http://pyvideo.org/scipy-2015/software-carpentry-2-day-scientific-python-course-part-3-of-4.html" rel="alternate"></link><published>2015-07-09T00:00:00+00:00</published><updated>2015-07-09T00:00:00+00:00</updated><author><name>Azalee Bos</name></author><id>tag:pyvideo.org,2015-07-09:scipy-2015/software-carpentry-2-day-scientific-python-course-part-3-of-4.html</id><summary type="html"></summary><category term="tutorial"></category></entry><entry><title>Analyzing and Manipulating Data with Pandas</title><link href="http://pyvideo.org/scipy-2015/analyzing-and-manipulating-data-with-pandas.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Jonathan Rocher</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/analyzing-and-manipulating-data-with-pandas.html</id><summary type="html"></summary><category term="Tutorial"></category></entry><entry><title>Computational Statistics I</title><link href="http://pyvideo.org/scipy-2015/computational-statistics-i.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Allen Downey</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/computational-statistics-i.html</id><summary type="html"></summary><category term="Tutorial"></category></entry><entry><title>Computational Statistics II</title><link href="http://pyvideo.org/scipy-2015/computational-statistics-ii.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Chris Fonnesbeck</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/computational-statistics-ii.html</id><summary type="html"></summary><category term="Tutorial"></category></entry><entry><title>Decorating Drones Using Drones to Delve Deeper into Intermediate Python</title><link href="http://pyvideo.org/scipy-2015/decorating-drones-using-drones-to-delve-deeper-into-intermediate-python.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Matt Harrison</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/decorating-drones-using-drones-to-delve-deeper-into-intermediate-python.html</id><summary type="html"></summary><category term="Tutorial"></category></entry><entry><title>Geospatial Data with Open Source Tools in Python</title><link href="http://pyvideo.org/scipy-2015/geospatial-data-with-open-source-tools-in-python.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Kelsey Jordahl</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/geospatial-data-with-open-source-tools-in-python.html</id><summary type="html"></summary><category term="Tutorial"></category></entry><entry><title>Image Analysis in Python with SciPy and Scikit Image</title><link href="http://pyvideo.org/scipy-2015/image-analysis-in-python-with-scipy-and-scikit-image.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Stefan Van der Walt</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/image-analysis-in-python-with-scipy-and-scikit-image.html</id><summary type="html"></summary><category term="Tutorial"></category></entry><entry><title>Introduction to NumPy</title><link href="http://pyvideo.org/scipy-2015/introduction-to-numpy.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Eric Jones</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/introduction-to-numpy.html</id><summary type="html"></summary><category term="tutorial"></category></entry><entry><title>Machine Learning with Scikit Learn - Part I</title><link href="http://pyvideo.org/scipy-2015/machine-learning-with-scikit-learn-part-i.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Andreas Mueller</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/machine-learning-with-scikit-learn-part-i.html</id><summary type="html"></summary><category term="tutorial"></category></entry><entry><title>Machine Learning with Scikit Learn - Part II</title><link href="http://pyvideo.org/scipy-2015/machine-learning-with-scikit-learn-part-ii.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Andreas Mueller</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/machine-learning-with-scikit-learn-part-ii.html</id><summary type="html"></summary><category term="tutorial"></category></entry><entry><title>Multibody Dynamics and Control with Python</title><link href="http://pyvideo.org/scipy-2015/multibody-dynamics-and-control-with-python.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Jason Moore</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/multibody-dynamics-and-control-with-python.html</id><summary type="html"></summary><category term="tutorial"></category></entry><entry><title>Software Carpentry 2 Day Scientific Python Course Part 1 of 4</title><link href="http://pyvideo.org/scipy-2015/software-carpentry-2-day-scientific-python-course-part-1-of-4.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Azalee Bos</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/software-carpentry-2-day-scientific-python-course-part-1-of-4.html</id><summary type="html"></summary><category term="tutorial"></category></entry><entry><title>Software Carpentry 2 Day Scientific Python Course Part 2 of 4</title><link href="http://pyvideo.org/scipy-2015/software-carpentry-2-day-scientific-python-course-part-2-of-4.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Azalee Bos</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/software-carpentry-2-day-scientific-python-course-part-2-of-4.html</id><summary type="html"></summary><category term="tutorial"></category></entry><entry><title>Simulating Robot, Vehicle, Spacecraft, and Animal Motion w/ Python Advanced</title><link href="http://pyvideo.org/scipy-2016/simulating-robot-vehicle-spacecraft-and-animal-motion-w-python-advanced-scipy-2016-tutorial.html" rel="alternate"></link><published>2016-07-11T00:00:00+00:00</published><updated>2016-07-11T00:00:00+00:00</updated><author><name>Jason K. Moore</name></author><id>tag:pyvideo.org,2016-07-11:scipy-2016/simulating-robot-vehicle-spacecraft-and-animal-motion-w-python-advanced-scipy-2016-tutorial.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this tutorial, attendees will learn how to derive, simulate, control, and visualize the motion of a multibody dynamic system with Python tools. These methods and techniques play an important role in the design and understanding of robots, vehicles, spacecraft, manufacturing machines, human motion, etc. In particular, the attendees will develop code to simulate the motion of a human balancing while standing. This is an advanced tutorial and domain specific but we have found that a broad audience enjoys the topic. Attendees should be familiar with the basics of the SciPy stack, in particular NumPy, SciPy, SymPy, and IPython and have some familiarity with classical mechanics. Details In this tutorial, attendees will learn how to derive, simulate, and visualize the motion of a multibody dynamic system with Python tools. The tutorial will demonstrate an advanced symbolic and numeric pipeline for a typical multibody simulation problem. By the end, the attendees will have developed code to simulate the uncontrolled and controlled motion of a human balancing while standing. We will highlight the derivation of realistic models of motion with the SymPy Mechanics package. Then we will cover code generation to create fast numerical functions that can be used to simulate the system. The simulation results will be plotted and visualized with a 3D WebGL browser based tool. Finally, we will use packages for optimal control to develop a controller that mimics human standing and visualize these results.&lt;/p&gt;
+&lt;p&gt;Materials for this tutorial may be found here: &lt;a class="reference external" href="https://github.com/pydy/pydy-tutorial-human-standing"&gt;https://github.com/pydy/pydy-tutorial-human-standing&lt;/a&gt;&lt;/p&gt;
+</summary><category term="tutorial"></category><category term="pydy"></category></entry><entry><title>Symbolic Computation with Python using SymPy (Beginner)</title><link href="http://pyvideo.org/scipy-2016/symbolic-compution-with-python-using-sympy-beginner-scipy-2016-tutorial-ondrej-certik-et-al.html" rel="alternate"></link><published>2016-07-11T00:00:00+00:00</published><updated>2016-07-11T00:00:00+00:00</updated><author><name>Ondřej Čertík</name></author><id>tag:pyvideo.org,2016-07-11:scipy-2016/symbolic-compution-with-python-using-sympy-beginner-scipy-2016-tutorial-ondrej-certik-et-al.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Materials for this tutorial are found here: &lt;a class="reference external" href="https://github.com/sympy/scipy-2016-tutorial"&gt;https://github.com/sympy/scipy-2016-tutorial&lt;/a&gt;&lt;/p&gt;
+</summary><category term="SciPy 2016"></category><category term="tutorial"></category><category term="SymPy"></category></entry><entry><title>PyOhio 2010: Python 101 for the .NET Developer</title><link href="http://pyvideo.org/pyohio-2010/pyohio-2010--python-101-for-the--net-developer.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Sarah Dutkiewicz</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2010/pyohio-2010--python-101-for-the--net-developer.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python 101 for the .NET Developer&lt;/p&gt;
+&lt;p&gt;Presented by Sarah Dutkiewicz&lt;/p&gt;
+&lt;p&gt;The first part of the session will cover the basics of Python - its
+history, how its data structures compare to those we're familiar with in
+the primary .NET languages, its strong and weak points, who's using it,
+and why you as a developer - both generally speaking and as a .NET
+developer - should care about Python. The second part of the session
+will get into the demos - starting with some basic Python scripts and
+getting into IronPython scripts, if time allows. By the end of this
+session, you'll have an idea of what Python is, why you should know it
+as a developer and specifically as a .NET developer, and how to get
+setup and write a basic app in both Python and IronPython.&lt;/p&gt;
+</summary><category term="ironpython"></category><category term=".net"></category><category term="pyohio"></category><category term="pyohio2010"></category><category term="python-basics"></category><category term="tutorial"></category></entry><entry><title>PyOhio 2010: So You Just Took "Python 101" -- What's Next?</title><link href="http://pyvideo.org/pyohio-2010/pyohio-2010--so-you-just-took--quot-python-101-qu.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Greg Lindstrom</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2010/pyohio-2010--so-you-just-took--quot-python-101-qu.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;So You Just Took &amp;quot;Python 101&amp;quot; -- What's Next?&lt;/p&gt;
+&lt;p&gt;Presented by Greg Lindstrom&lt;/p&gt;
+&lt;p&gt;In this class we will develop, step-by-step and as a class, two simple
+games, Hi/Low and Hangman. We will start from scratch and walk through
+each step of each game discussing decision making, loops (&amp;quot;for&amp;quot;, &amp;quot;while&amp;quot;
+and &amp;quot;if&amp;quot;), data structures (tuple, list and dictionary) and looking at
+different ways to &amp;quot;get-r-done&amp;quot;.&lt;/p&gt;
+&lt;p&gt;You should know a little about Python but don't have to know anything
+else about programming (you should know how to edit and run a Python
+program on your Operating System). Bring a computer with Python
+installed if you want to play along.&lt;/p&gt;
+</summary><category term="datastructures"></category><category term="pyohio"></category><category term="pyohio2010"></category><category term="python-basics"></category><category term="tutorial"></category></entry><entry><title>PyOhio 2010: Teach Me Python Bugfixing</title><link href="http://pyvideo.org/pyohio-2010/pyohio-2010--teach-me-python-bugfixing.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Catherine Devlin</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2010/pyohio-2010--teach-me-python-bugfixing.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Teach Me Python Bugfixing&lt;/p&gt;
+&lt;p&gt;Presented by Catherine Devlin&lt;/p&gt;
+&lt;p&gt;Python wants YOU to help maintain and extend the language we love so
+much... but maybe you don't know how to go about making your
+contribution. Catherine doesn't either. David Murray, an experienced
+Python contributor, will guide her - and you - through the process, live
+and unscripted. Come take part in learner-controlled instruction. No C
+programming required!&lt;/p&gt;
+</summary><category term="bugfixing"></category><category term="core"></category><category term="pyohio"></category><category term="pyohio2010"></category><category term="tutorial"></category></entry><entry><title>PyOhio 2011: Multi-player Games using Panda3D and Python</title><link href="http://pyvideo.org/pyohio-2011/pyohio-2011--multi-player-games-using-panda3d-and.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Peter Carswell</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2011/pyohio-2011--multi-player-games-using-panda3d-and.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Multi-player Games using Panda3D and Python&lt;/p&gt;
+&lt;p&gt;Presented by Peter Carswell&lt;/p&gt;
+&lt;p&gt;This two-hour tutorial is designed to investigate the implementation of
+a multi-player game using the game engine Panda3D. Panda3D's intended
+game- development language is Python. The concepts involve Object
+Oriented Programming structures, modeling and texture mapping,
+key-binding motion, collisions and, finally, networking techniques.&lt;/p&gt;
+</summary><category term="panda3d"></category><category term="pyohio"></category><category term="pyohio2011"></category><category term="tutorial"></category></entry><entry><title>PyOhio 2011: Python 102</title><link href="http://pyvideo.org/pyohio-2011/pyohio-2011--python-100.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Michael Yanovich</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2011/pyohio-2011--python-100.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python 102&lt;/p&gt;
+&lt;p&gt;Presented by Michael Yanovich&lt;/p&gt;
+&lt;p&gt;Now you know the basics of Python. What can you do with Python? Well the
+better question should be &amp;quot;What can't you do with Python?&amp;quot; In this
+tutorial/talk we'll cover more advance topics that include how to use
+the Python Standard Library, advance data type manipulation, and basic
+network programming. This class will be more like a talk depending on
+the comfortability of everyone in the class.&lt;/p&gt;
+</summary><category term="pyohio"></category><category term="pyohio2011"></category><category term="tutorial"></category></entry><entry><title>PyOhio 2011: Python 101</title><link href="http://pyvideo.org/pyohio-2011/pyohio-2011--python-101.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Michael Yanovich</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2011/pyohio-2011--python-101.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python 101&lt;/p&gt;
+&lt;p&gt;Presented by Michael Yanovich&lt;/p&gt;
+&lt;p&gt;Are you completely new to Python? Have you been wanting to learn Python
+but haven't had the time? Well give you a crash course on the basics of
+Python. We'll start off with why Python is unique compared to other
+languages and then quickly start into basic syntax, data types, and the
+Python philosophy for coding.&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: The presenter dropped the mic on the ground and there
+it lay. So the sound kind of sucks.]&lt;/p&gt;
+</summary><category term="learningpython"></category><category term="pyohio"></category><category term="pyohio2011"></category><category term="tutorial"></category></entry><entry><title>PyOhio 2011: Python 102</title><link href="http://pyvideo.org/pyohio-2011/pyohio-2011--python-102.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Michael Yanovich</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2011/pyohio-2011--python-102.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python 102&lt;/p&gt;
+&lt;p&gt;Presented by Michael Yanovich&lt;/p&gt;
+&lt;p&gt;Now you know the basics of Python. What can you do with Python? Well the
+better question should be &amp;quot;What can't you do with Python?&amp;quot; In this
+tutorial/talk we'll cover more advance topics that include how to use
+the Python Standard Library, advance data type manipulation, and basic
+network programming. This class will be more like a talk depending on
+the comfortability of everyone in the class.&lt;/p&gt;
+</summary><category term="learningpython"></category><category term="pyohio"></category><category term="pyohio2011"></category><category term="tutorial"></category></entry><entry><title>PyOhio 2011: SqlAlchemy tutorial</title><link href="http://pyvideo.org/pyohio-2011/pyohio-2011--sqlalchemy-tutorial.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Rick Harding</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2011/pyohio-2011--sqlalchemy-tutorial.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;SqlAlchemy tutorial&lt;/p&gt;
+&lt;p&gt;Presented by Rick Harding&lt;/p&gt;
+&lt;p&gt;SqlAlchemy is one of the top 5 &amp;quot;must have&amp;quot; modules for Python. We'll go
+through why you might want to use an ORM, situations to use the
+different layers of SqlAlchemy, and some tips and tricks on a real
+sample application.&lt;/p&gt;
+</summary><category term="pyohio"></category><category term="pyohio2011"></category><category term="sqlalchemy"></category><category term="tutorial"></category></entry><entry><title>PyOhio 2011: Toilets and Teleports - A study in Model-View-Control (MVC)</title><link href="http://pyvideo.org/pyohio-2011/pyohio-2011--toilets-and-teleports---a-study-in-m.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Howard Mooneyham</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2011/pyohio-2011--toilets-and-teleports---a-study-in-m.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Toilets and Teleports - A study in Model-View-Control (MVC)&lt;/p&gt;
+&lt;p&gt;Presented by Howard Mooneyham&lt;/p&gt;
+&lt;p&gt;Have you ever wondered how to create a Model View Control program? Come
+to my talk and we will go through building a simple MVC program, Toilets
+and Teleports. We will then use one of the benefits of MVC to replace
+the View with a production quality version with GUI no other changes. I
+will pass out flow charts and documents showing how the program was
+created.&lt;/p&gt;
+</summary><category term="mvc"></category><category term="pyohio"></category><category term="pyohio2011"></category><category term="tutorial"></category></entry><entry><title>Develop Games with Panda3D and Python</title><link href="http://pyvideo.org/pyohio-2013/develop-games-with-panda3d-and-python-0.html" rel="alternate"></link><published>2013-07-28T00:00:00+00:00</published><updated>2013-07-28T00:00:00+00:00</updated><author><name>Peter Carswell</name></author><id>tag:pyvideo.org,2013-07-28:pyohio-2013/develop-games-with-panda3d-and-python-0.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In the brief amount of time available, this tutorial will take a simple
+game concept and implement a multi-player game. Game development with
+Panda3D will consist of writing a Python program that controls the
+Panda3D library. Computer lab projects will provide hands-on experience
+investigating the various components of a network game.&lt;/p&gt;
+</summary><category term="tutorial"></category></entry><entry><title>Simple Games for Beginners</title><link href="http://pyvideo.org/pyohio-2013/simple-games-for-beginners.html" rel="alternate"></link><published>2013-07-28T00:00:00+00:00</published><updated>2013-07-28T00:00:00+00:00</updated><author><name>Greg Lindstrom</name></author><id>tag:pyvideo.org,2013-07-28:pyohio-2013/simple-games-for-beginners.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;We will build one or two simple games. Along the way we will talk about
+program structure, loops, conditionals, and other concepts you will use
+in larger programs. If you are new to programming, this class is for
+you! Bring your laptop with Python 2 or 3 installed and play along as we
+build games together.&lt;/p&gt;
+</summary><category term="tutorial"></category></entry><entry><title>Super Advanced Python</title><link href="http://pyvideo.org/pyohio-2013/super-advanced-python.html" rel="alternate"></link><published>2013-07-28T00:00:00+00:00</published><updated>2013-07-28T00:00:00+00:00</updated><author><name>Raymond Chandler III</name></author><id>tag:pyvideo.org,2013-07-28:pyohio-2013/super-advanced-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In this tutorial we will touch on some of the more complex features of
+the Python programming language including, functional tools(filter map
+reduce), itertools, metaclasses, decorators and more.&lt;/p&gt;
+</summary><category term="tutorial"></category></entry><entry><title>Fundamentals of Python Debugging</title><link href="http://pyvideo.org/pyohio-2013/fundamentals-of-python-debugging.html" rel="alternate"></link><published>2013-07-27T00:00:00+00:00</published><updated>2013-07-27T00:00:00+00:00</updated><author><name>Chris Calloway</name></author><id>tag:pyvideo.org,2013-07-27:pyohio-2013/fundamentals-of-python-debugging.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Find out how to use Python's built-in debugging facilities.&lt;/p&gt;
+</summary><category term="tutorial"></category></entry><entry><title>Kivy - Creating Desktop and Mobile Apps with Python</title><link href="http://pyvideo.org/pyohio-2013/kivy-creating-desktop-and-mobile-apps-with-pyth.html" rel="alternate"></link><published>2013-07-27T00:00:00+00:00</published><updated>2013-07-27T00:00:00+00:00</updated><author><name>Ben Rousch</name></author><id>tag:pyvideo.org,2013-07-27:pyohio-2013/kivy-creating-desktop-and-mobile-apps-with-pyth.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Learn to create cross-platform apps with Kivy, a multitouch desktop and
+mobile GUI framework for Python.&lt;/p&gt;
+</summary><category term="kivy"></category><category term="tutorial"></category></entry><entry><title>Model-View-Controller &amp; Pygame</title><link href="http://pyvideo.org/pyohio-2013/model-view-controller-pygame.html" rel="alternate"></link><published>2013-07-27T00:00:00+00:00</published><updated>2013-07-27T00:00:00+00:00</updated><author><name>Jay Shaffstall</name></author><id>tag:pyvideo.org,2013-07-27:pyohio-2013/model-view-controller-pygame.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The presentation starts by introducing the Model-View-Controller (MVC)
+architecture. We’ll develop a complete MVC program with two separate
+views, a text based view and a Pygame based view. If you’re experienced
+with Python but new to MVC, come prepared to code! If you’re new to
+Python, you can follow along with the concepts and get the source code
+to the example after the conference.&lt;/p&gt;
+</summary><category term="tutorial"></category></entry><entry><title>Python 101</title><link href="http://pyvideo.org/pyohio-2013/python-101.html" rel="alternate"></link><published>2013-07-27T00:00:00+00:00</published><updated>2013-07-27T00:00:00+00:00</updated><author><name>Michael Yanovich</name></author><id>tag:pyvideo.org,2013-07-27:pyohio-2013/python-101.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Are you new to Python? Want a crash course to learn how to &amp;quot;get started&amp;quot;
+in this wonderful language? Never programmed before and looking to
+start? This is the class for you!&lt;/p&gt;
+</summary><category term="tutorial"></category></entry><entry><title>Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities - Part 1</title><link href="http://pyvideo.org/pyohio-2013/shiny-lets-be-bad-guys-exploiting-and-mitigati-0.html" rel="alternate"></link><published>2013-07-27T00:00:00+00:00</published><updated>2013-07-27T00:00:00+00:00</updated><author><name>David Stanek</name></author><id>tag:pyvideo.org,2013-07-27:pyohio-2013/shiny-lets-be-bad-guys-exploiting-and-mitigati-0.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The Internet is a dangerous place, filled with evildoers out to attack
+your code for fun or profit, so it's not enough to just ship your
+awesome new web app--you have to take the security of your application,
+your users, and your data seriously. You'll get into the mindset of the
+bad guys as we discuss, exploit, and mitigate the most common web app
+security flaws in a controlled environment.&lt;/p&gt;
+</summary><category term="tutorial"></category></entry><entry><title>Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities - Part 2</title><link href="http://pyvideo.org/pyohio-2013/shiny-lets-be-bad-guys-exploiting-and-mitigati-1.html" rel="alternate"></link><published>2013-07-27T00:00:00+00:00</published><updated>2013-07-27T00:00:00+00:00</updated><author><name>David Stanek</name></author><id>tag:pyvideo.org,2013-07-27:pyohio-2013/shiny-lets-be-bad-guys-exploiting-and-mitigati-1.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The Internet is a dangerous place, filled with evildoers out to attack
+your code for fun or profit, so it's not enough to just ship your
+awesome new web app--you have to take the security of your application,
+your users, and your data seriously. You'll get into the mindset of the
+bad guys as we discuss, exploit, and mitigate the most common web app
+security flaws in a controlled environment.&lt;/p&gt;
+</summary><category term="tutorial"></category></entry><entry><title>Beginner's Guide to Machine Learning Competitions</title><link href="http://pyvideo.org/pytexas-2015/beginners-guide-to-machine-learning-competitions.html" rel="alternate"></link><published>2015-10-09T00:00:00+00:00</published><updated>2015-10-09T00:00:00+00:00</updated><author><name>Christine Doig</name></author><id>tag:pyvideo.org,2015-10-09:pytexas-2015/beginners-guide-to-machine-learning-competitions.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This tutorial will offer a hands-on introduction to machine learning and
+the process of applying these concepts in a Kaggle competition. We will
+introduce attendees to machine learning concepts, examples and flows,
+while building up their skills to solve an actual problem. At the end of
+the tutorial attendees will be familiar with a real data science flow:
+feature preparation, modeling, optimization and validation.&lt;/p&gt;
+&lt;p&gt;Packages used in the tutorial will include: IPython notebook,
+scikit-learn, pandas and NLTK. We’ll use IPython notebook for
+interactive exploration and visualization, in order to gain a basic
+understanding of what’s in the data. From there, we’ll extract features
+and train a model using scikit-learn. This will bring us to our first
+submission. We’ll then learn how to structure the problem for offline
+evaluation and use scikit-learn’s clean model API to train many models
+simultaneously and perform feature selection and hyperparameter
+optimization.&lt;/p&gt;
+&lt;p&gt;At the end of session, attendees will have time to work on their own to
+improve their models and make multiple submissions to get to the top of
+the leaderboard, just like in a real competition. Hopefully attendees
+will not only leave the tutorial having learned the core data science
+concepts and flow, but also having had a great time doing it.&lt;/p&gt;
+</summary><category term="tutorial"></category><category term="machine learning"></category><category term="nltk"></category><category term="pandas"></category><category term="scikit-learn"></category><category term="ipython"></category></entry><entry><title>Advanced Matplotlib</title><link href="http://pyvideo.org/scipy-2012/advanced-matplotlib.html" rel="alternate"></link><published>2012-07-16T00:00:00+00:00</published><updated>2012-07-16T00:00:00+00:00</updated><author><name>Ryan May</name></author><id>tag:pyvideo.org,2012-07-16:scipy-2012/advanced-matplotlib.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Matplotlib is one of the main plotting libraries in use within the
+scientific Python community. This tutorial covers advanced features of
+the Matplotlib library, including many recent additions: laying out
+axes, animation support, Basemap (for plotting on maps), and other
+tweaks for creating aesthetic plots. The goal of this tutorial is to
+expose attendees to several of the chief sub- packages within
+Matplotlib, helping to ensure that users maximize the use of the full
+capabilities of the library. Additionally, the attendees will be run
+through a 'grab-bag' of tweaks for plots that help to increase the
+aesthetic appeal of created figures. Attendees should be familiar with
+creating basic plots in Matplotlib as well as basic use of NumPy for
+manipulating data.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://github.com/dopplershift%20/Python-Tutorials"&gt;iPython notebooks used in the
+tutorial&lt;/a&gt;&lt;/p&gt;
+</summary><category term="advanced"></category><category term="matplotlib"></category><category term="tutorial"></category></entry><entry><title>Geospatial data in Python: Database, Desktop, and the Web part 1</title><link href="http://pyvideo.org/scipy-2014/geospatial-data-in-python-database-desktop-and.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Carson Farmer</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/geospatial-data-in-python-database-desktop-and.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Using the wide range of tools and libraries available for working with
+geospatial data, it is now possible to transport geospatial data from a
+database to a web-interface in only a few lines of code. In this
+tutorial, we explore some of these libraries and work through examples
+which showcase the power of Python for geospatial data.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Tools and libraries for working with geospatial data in Python are
+currently undergoing rapid development and expansion. Libraries such as
+shapely, fiona, rasterio, geopandas, and others now provide Pythonic
+ways of reading, writing, editing, and manipulating geographic data. In
+this tutorial, participants will be exposed to a number of new and
+legacy geospatial libraries in Python, with a focus on simple and rapid
+interaction with geospatial data.&lt;/p&gt;
+&lt;p&gt;We will utilize Python to interact with geographic data from a database
+to a web interface, all the while showcasing how Python can be used to
+access data from online resources, query spatially enabled databases,
+perform coordinate transformations and geoprocessing functions, and
+export geospatial data to web-enabled formats for visualizing and
+sharing with others. Time permitting, we will also briefly explore
+Python plugin development for the QGIS Desktop GIS environment.&lt;/p&gt;
+&lt;p&gt;This tutorial should be accessible to anyone who has basic Python
+knowledge (though familiarity with Pandas, NumPy, matplotlib, etc. will
+be helpful) as well as familiarity with IPython Notebook. We will take
+some time at the start of the tutorial to go over installation
+strategies for geospatial libraries (GDAL/OGR, Proj.4, GEOS) and their
+Python bindings (Shapely, Fiona, GeoPandas) on Windows, Mac, and Linux.
+Some knowledge of geospatial concepts such as map projections and GIS
+data formats will also be helpful.&lt;/p&gt;
+&lt;div class="section" id="outline"&gt;
+&lt;h4&gt;Outline&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction to geospatial data&lt;ul&gt;
+&lt;li&gt;Map projections, data formats, and looking at maps&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Introduction to geospatial libraries&lt;ul&gt;
+&lt;li&gt;GDAL/OGR (Fiona); Shapely (GEOS); PostGIS; GeoPandas; and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;GeoPandas&lt;ul&gt;
+&lt;li&gt;Reading data from various sources&lt;/li&gt;
+&lt;li&gt;Data manipulation and plotting&lt;/li&gt;
+&lt;li&gt;Writing data to various sources&lt;/li&gt;
+&lt;li&gt;Getting data from the web&lt;/li&gt;
+&lt;li&gt;Pushing data to the web (for maps)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Putting it all together&lt;ul&gt;
+&lt;li&gt;Quick example: From database to web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Introduction to QGIS Desktop GIS (time permitting)&lt;ul&gt;
+&lt;li&gt;Python interface (PyQGIS)&lt;/li&gt;
+&lt;li&gt;Building a simple plugin&lt;/li&gt;
+&lt;li&gt;Plugin deployment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><category term="geospatial"></category><category term="gis"></category><category term="tutorial"></category></entry><entry><title>Geospatial data in Python: Database, Desktop, and the Web part 2</title><link href="http://pyvideo.org/scipy-2014/geospatial-data-in-python-database-desktop-and-0.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Carson Farmer</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/geospatial-data-in-python-database-desktop-and-0.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Using the wide range of tools and libraries available for working with
+geospatial data, it is now possible to transport geospatial data from a
+database to a web-interface in only a few lines of code. In this
+tutorial, we explore some of these libraries and work through examples
+which showcase the power of Python for geospatial data.&lt;/p&gt;
+</summary><category term="geospatial"></category><category term="gis"></category><category term="tutorial"></category></entry><entry><title>Geospatial data in Python: Database, Desktop and the Web - Part 3</title><link href="http://pyvideo.org/scipy-2014/geospatial-data-in-python-database-desktop-and-1.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Carson Farmer</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/geospatial-data-in-python-database-desktop-and-1.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Using the wide range of tools and libraries available for working with
+geospatial data, it is now possible to transport geospatial data from a
+database to a web-interface in only a few lines of code. In this
+tutorial, we explore some of these libraries and work through examples
+which showcase the power of Python for geospatial data.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Tools and libraries for working with geospatial data in Python are
+currently undergoing rapid development and expansion. Libraries such as
+shapely, fiona, rasterio, geopandas, and others now provide Pythonic
+ways of reading, writing, editing, and manipulating geographic data. In
+this tutorial, participants will be exposed to a number of new and
+legacy geospatial libraries in Python, with a focus on simple and rapid
+interaction with geospatial data.&lt;/p&gt;
+&lt;p&gt;We will utilize Python to interact with geographic data from a database
+to a web interface, all the while showcasing how Python can be used to
+access data from online resources, query spatially enabled databases,
+perform coordinate transformations and geoprocessing functions, and
+export geospatial data to web-enabled formats for visualizing and
+sharing with others. Time permitting, we will also briefly explore
+Python plugin development for the QGIS Desktop GIS environment.&lt;/p&gt;
+&lt;p&gt;This tutorial should be accessible to anyone who has basic Python
+knowledge (though familiarity with Pandas, NumPy, matplotlib, etc. will
+be helpful) as well as familiarity with IPython Notebook. We will take
+some time at the start of the tutorial to go over installation
+strategies for geospatial libraries (GDAL/OGR, Proj.4, GEOS) and their
+Python bindings (Shapely, Fiona, GeoPandas) on Windows, Mac, and Linux.
+Some knowledge of geospatial concepts such as map projections and GIS
+data formats will also be helpful.&lt;/p&gt;
+&lt;div class="section" id="outline"&gt;
+&lt;h4&gt;Outline&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction to geospatial data&lt;ul&gt;
+&lt;li&gt;Map projections, data formats, and looking at maps&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Introduction to geospatial libraries&lt;ul&gt;
+&lt;li&gt;GDAL/OGR (Fiona); Shapely (GEOS); PostGIS; GeoPandas; and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;GeoPandas&lt;ul&gt;
+&lt;li&gt;Reading data from various sources&lt;/li&gt;
+&lt;li&gt;Data manipulation and plotting&lt;/li&gt;
+&lt;li&gt;Writing data to various sources&lt;/li&gt;
+&lt;li&gt;Getting data from the web&lt;/li&gt;
+&lt;li&gt;Pushing data to the web (for maps)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Putting it all together&lt;ul&gt;
+&lt;li&gt;Quick example: From database to web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Introduction to QGIS Desktop GIS (time permitting)&lt;ul&gt;
+&lt;li&gt;Python interface (PyQGIS)&lt;/li&gt;
+&lt;li&gt;Building a simple plugin&lt;/li&gt;
+&lt;li&gt;Plugin deployment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><category term="geospatial"></category><category term="gis"></category><category term="tutorial"></category></entry><entry><title>HDF5 is for Lovers part 2</title><link href="http://pyvideo.org/scipy-2014/hdf5-is-for-lovers-part-2.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Anthony Scopatz</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/hdf5-is-for-lovers-part-2.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;HDF5 is a hierarchical, binary database format that has become the de
+facto standard for scientific computing. While the spec may be used in a
+relatively simple way it also supports several high-level features that
+prove invaluable. HDF5 bindings exist for almost every language -
+including two Python libraries (PyTables and h5py). This tutorial will
+cover HDF5 through the lens of PyTables.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;div class="section" id="description"&gt;
+&lt;h4&gt;Description&lt;/h4&gt;
+&lt;p&gt;HDF5 is a hierarchical, binary database format that has become the de
+facto standard for scientific computing. While the specification may be
+used in a relatively simple way (persistence of static arrays) it also
+supports several high-level features that prove invaluable. These
+include chunking, ragged data, extensible data, parallel I/O,
+compression, complex selection, and in-core calculations. Moreover, HDF5
+bindings exist for almost every language - including two Python
+libraries (PyTables and h5py). This tutorial will cover HDF5 itself
+through the lens of PyTables.&lt;/p&gt;
+&lt;p&gt;This tutorial will discuss tools, strategies, and hacks for really
+squeezing every ounce of performance out of HDF5 in new or existing
+projects. It will also go over fundamental limitations in the
+specification and provide creative and subtle strategies for getting
+around them. Overall, this tutorial will show how HDF5 plays nicely with
+all parts of an application making the code and data both faster and
+smaller. With such powerful features at the developer's disposal, what
+is not to love?!&lt;/p&gt;
+&lt;p&gt;Knowledge of Python, NumPy, C or C++, and basic HDF5 is recommended but
+not required.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="outline"&gt;
+&lt;h4&gt;Outline&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Meaning in layout (20 min)&lt;ul&gt;
+&lt;li&gt;Tips for choosing your hierarchy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Advanced datatypes (20 min)&lt;ul&gt;
+&lt;li&gt;Tables&lt;/li&gt;
+&lt;li&gt;Nested types&lt;/li&gt;
+&lt;li&gt;Tricks with malloc() and byte-counting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercise on above topics&lt;/strong&gt; (20 min)&lt;/li&gt;
+&lt;li&gt;Chunking (20 min)&lt;ul&gt;
+&lt;li&gt;How it works&lt;/li&gt;
+&lt;li&gt;How to properly select your chunksize&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Queries and Selections (20 min)&lt;ul&gt;
+&lt;li&gt;In-core vs Out-of-core calculations&lt;/li&gt;
+&lt;li&gt;PyTables.where()&lt;/li&gt;
+&lt;li&gt;Datasets vs Dataspaces&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercise on above topics&lt;/strong&gt; (20 min)&lt;/li&gt;
+&lt;li&gt;The Starving CPU Problem (1 hr)&lt;ul&gt;
+&lt;li&gt;Why you should always use compression&lt;/li&gt;
+&lt;li&gt;Compression algorithms available&lt;/li&gt;
+&lt;li&gt;Choosing the correct one&lt;/li&gt;
+&lt;li&gt;Exercise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Integration with other databases (1 hr)&lt;ul&gt;
+&lt;li&gt;Migrating to/from SQL&lt;/li&gt;
+&lt;li&gt;HDF5 in other databases (JSON example)&lt;/li&gt;
+&lt;li&gt;Other Databases in HDF5 (JSON example)&lt;/li&gt;
+&lt;li&gt;Exercise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><category term="HDF5"></category><category term="PyTables"></category><category term="tutorial"></category></entry><entry><title>HDF5 is for Lovers, Tutorial part 1</title><link href="http://pyvideo.org/scipy-2014/hdf5-is-for-lovers-tutorial-part-1.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Anthony Scopatz</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/hdf5-is-for-lovers-tutorial-part-1.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;HDF5 is a hierarchical, binary database format that has become the de
+facto standard for scientific computing. While the spec may be used in a
+relatively simple way it also supports several high-level features that
+prove invaluable. HDF5 bindings exist for almost every language -
+including two Python libraries (PyTables and h5py). This tutorial will
+cover HDF5 through the lens of PyTables.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;div class="section" id="description"&gt;
+&lt;h4&gt;Description&lt;/h4&gt;
+&lt;p&gt;HDF5 is a hierarchical, binary database format that has become the de
+facto standard for scientific computing. While the specification may be
+used in a relatively simple way (persistence of static arrays) it also
+supports several high-level features that prove invaluable. These
+include chunking, ragged data, extensible data, parallel I/O,
+compression, complex selection, and in-core calculations. Moreover, HDF5
+bindings exist for almost every language - including two Python
+libraries (PyTables and h5py). This tutorial will cover HDF5 itself
+through the lens of PyTables.&lt;/p&gt;
+&lt;p&gt;This tutorial will discuss tools, strategies, and hacks for really
+squeezing every ounce of performance out of HDF5 in new or existing
+projects. It will also go over fundamental limitations in the
+specification and provide creative and subtle strategies for getting
+around them. Overall, this tutorial will show how HDF5 plays nicely with
+all parts of an application making the code and data both faster and
+smaller. With such powerful features at the developer's disposal, what
+is not to love?!&lt;/p&gt;
+&lt;p&gt;Knowledge of Python, NumPy, C or C++, and basic HDF5 is recommended but
+not required.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="outline"&gt;
+&lt;h4&gt;Outline&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Meaning in layout (20 min)&lt;ul&gt;
+&lt;li&gt;Tips for choosing your hierarchy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Advanced datatypes (20 min)&lt;ul&gt;
+&lt;li&gt;Tables&lt;/li&gt;
+&lt;li&gt;Nested types&lt;/li&gt;
+&lt;li&gt;Tricks with malloc() and byte-counting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercise on above topics&lt;/strong&gt; (20 min)&lt;/li&gt;
+&lt;li&gt;Chunking (20 min)&lt;ul&gt;
+&lt;li&gt;How it works&lt;/li&gt;
+&lt;li&gt;How to properly select your chunksize&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Queries and Selections (20 min)&lt;ul&gt;
+&lt;li&gt;In-core vs Out-of-core calculations&lt;/li&gt;
+&lt;li&gt;PyTables.where()&lt;/li&gt;
+&lt;li&gt;Datasets vs Dataspaces&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Exercise on above topics&lt;/strong&gt; (20 min)&lt;/li&gt;
+&lt;li&gt;The Starving CPU Problem (1 hr)&lt;ul&gt;
+&lt;li&gt;Why you should always use compression&lt;/li&gt;
+&lt;li&gt;Compression algorithms available&lt;/li&gt;
+&lt;li&gt;Choosing the correct one&lt;/li&gt;
+&lt;li&gt;Exercise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Integration with other databases (1 hr)&lt;ul&gt;
+&lt;li&gt;Migrating to/from SQL&lt;/li&gt;
+&lt;li&gt;HDF5 in other databases (JSON example)&lt;/li&gt;
+&lt;li&gt;Other Databases in HDF5 (JSON example)&lt;/li&gt;
+&lt;li&gt;Exercise&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><category term="HDF5"></category><category term="PyTables"></category><category term="tutorial"></category></entry><entry><title>Reproducible Science: Walking the Walk Part 1</title><link href="http://pyvideo.org/scipy-2014/reproducible-science-walking-the-walk-part-1.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Aashish Chaudhary</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/reproducible-science-walking-the-walk-part-1.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This tutorial will train reproducible research warriors on the practices
+and tools that make experimental verification possible with an
+end-to-end data analysis workflow. &amp;nbsp;The tutorial will expose attendees
+to open science methods during data gathering, storage, analysis up to
+publication into a reproducible article. &amp;nbsp;Attendees are expected to have
+basic familiarity with scientific Python and Git.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The tutorial will cover four hours with the following topics&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction (10min)&lt;/li&gt;
+&lt;li&gt;History of scientific societies and publications&lt;ul&gt;
+&lt;li&gt;Leeuwenhoek was the Man !&lt;/li&gt;
+&lt;li&gt;The Invisible College&lt;/li&gt;
+&lt;li&gt;Nullius in Verba&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Replication of the early microscope experiments by Leeuwenhoek[a][b]&lt;/li&gt;
+&lt;li&gt;Image Acquisition (15 min)&lt;ul&gt;
+&lt;li&gt;Hands on: Cell camera phone microscope&lt;ul&gt;
+&lt;li&gt;With drop of water&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hands on: Each pair acquires images&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Data Sharing (45min)&lt;ul&gt;
+&lt;li&gt;Image gathering, storage, and sharing (15min)&lt;ul&gt;
+&lt;li&gt;GitHub (www.github.com)&lt;/li&gt;
+&lt;li&gt;Figshare (www.figshare.com)&lt;/li&gt;
+&lt;li&gt;Midas (www.midasplatform.com)&lt;/li&gt;
+&lt;li&gt;Hands on: Upload the images&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Metadata Identifiers (15 min)&lt;ul&gt;
+&lt;li&gt;Citable&lt;/li&gt;
+&lt;li&gt;Machine Readable&lt;/li&gt;
+&lt;li&gt;Hands on: Create data citation and machine readable metadata&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hands on: Download data via RESTful API (15min)&lt;ul&gt;
+&lt;li&gt;Provenance and&lt;/li&gt;
+&lt;li&gt;Python scripts&lt;/li&gt;
+&lt;li&gt;Hands on: Download the data via HTTP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Break (10min)&lt;/li&gt;
+&lt;li&gt;Local processing (60min)&lt;ul&gt;
+&lt;li&gt;Replication Enablement (20min)&lt;ul&gt;
+&lt;li&gt;Package versioning&lt;/li&gt;
+&lt;li&gt;Virtual Machines&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Cloud services&lt;/li&gt;
+&lt;li&gt;Hands on:&lt;ul&gt;
+&lt;li&gt;Create a virtualenv&lt;/li&gt;
+&lt;li&gt;Run our tutorial package verification script&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Revision Control with Git (20min)&lt;ul&gt;
+&lt;li&gt;Keeping track of changes&lt;/li&gt;
+&lt;li&gt;Unique hashes&lt;/li&gt;
+&lt;li&gt;Hands on:&lt;ul&gt;
+&lt;li&gt;Forking a repository in GitHub&lt;/li&gt;
+&lt;li&gt;Cloning a repository&lt;/li&gt;
+&lt;li&gt;Creating a branch&lt;/li&gt;
+&lt;li&gt;Making a commit&lt;/li&gt;
+&lt;li&gt;Pushing a branch&lt;/li&gt;
+&lt;li&gt;Diffing&lt;/li&gt;
+&lt;li&gt;Merging&lt;/li&gt;
+&lt;li&gt;Pushing again&lt;/li&gt;
+&lt;li&gt;Create pull request&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Python scripts (20min)&lt;ul&gt;
+&lt;li&gt;Data analysis, particle counting.&lt;/li&gt;
+&lt;li&gt;Hands on:&lt;ul&gt;
+&lt;li&gt;Run scripts on new data&lt;/li&gt;
+&lt;li&gt;Generate histogram for the data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Testing (30min)&lt;ul&gt;
+&lt;li&gt;Unit testing with known data&lt;/li&gt;
+&lt;li&gt;Regression testing with known data&lt;/li&gt;
+&lt;li&gt;Hands on:&lt;ul&gt;
+&lt;li&gt;Run tests&lt;/li&gt;
+&lt;li&gt;Add coverage for another method to the unit tests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Break (10min)&lt;/li&gt;
+&lt;li&gt;Publication Tools (30min)&lt;ul&gt;
+&lt;li&gt;Article generation&lt;/li&gt;
+&lt;li&gt;RST to HTML&lt;/li&gt;
+&lt;li&gt;GitHub replication and sharing&lt;/li&gt;
+&lt;li&gt;Hands on:&lt;ul&gt;
+&lt;li&gt;Run dexy to generate the document&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reproducibility Verification (30min)&lt;ul&gt;
+&lt;li&gt;Reproducing Works&lt;/li&gt;
+&lt;li&gt;Publication of Positive and Negative results&lt;/li&gt;
+&lt;li&gt;Hands on:&lt;ul&gt;
+&lt;li&gt;Create Open Science Framework (OSF) project&lt;/li&gt;
+&lt;li&gt;Connect Figshare and Github to OSF project&lt;/li&gt;
+&lt;li&gt;Fork or link another group’s project in the OSF to run dexy on
+their work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Infrastructure:&lt;/p&gt;
+&lt;p&gt;Attendees will use software installed in their laptops to gather and
+process data, then publish and share a reproducible report.&lt;/p&gt;
+&lt;p&gt;They will access repositories in GitHub, upload data to a repository and
+publish materials necessary to replicate their data analysis.&lt;/p&gt;
+&lt;p&gt;We expect that wireless network will be have moderate bandwidth to allow
+all attendees to move data, source code and publications between their
+laptops and hosting servers.&lt;/p&gt;
+</summary><category term="open science"></category><category term="reproducible research"></category><category term="tutorial"></category></entry><entry><title>Reproducible Science: Walking the Walk Part 2</title><link href="http://pyvideo.org/scipy-2014/reproducible-science-walking-the-walk-part-2.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Aashish Chaudhary</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/reproducible-science-walking-the-walk-part-2.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This tutorial will train reproducible research warriors on the practices
+and tools that make experimental verification possible with an
+end-to-end data analysis workflow. &amp;nbsp;The tutorial will expose attendees
+to open science methods during data gathering, storage, analysis up to
+publication into a reproducible article. &amp;nbsp;Attendees are expected to have
+basic familiarity with scientific Python and Git.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The tutorial will cover four hours with the following topics&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction (10min)&lt;/li&gt;
+&lt;li&gt;History of scientific societies and publications&lt;ul&gt;
+&lt;li&gt;Leeuwenhoek was the Man !&lt;/li&gt;
+&lt;li&gt;The Invisible College&lt;/li&gt;
+&lt;li&gt;Nullius in Verba&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Replication of the early microscope experiments by Leeuwenhoek[a][b]&lt;/li&gt;
+&lt;li&gt;Image Acquisition (15 min)&lt;ul&gt;
+&lt;li&gt;Hands on: Cell camera phone microscope&lt;ul&gt;
+&lt;li&gt;With drop of water&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hands on: Each pair acquires images&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Data Sharing (45min)&lt;ul&gt;
+&lt;li&gt;Image gathering, storage, and sharing (15min)&lt;ul&gt;
+&lt;li&gt;GitHub (www.github.com)&lt;/li&gt;
+&lt;li&gt;Figshare (www.figshare.com)&lt;/li&gt;
+&lt;li&gt;Midas (www.midasplatform.com)&lt;/li&gt;
+&lt;li&gt;Hands on: Upload the images&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Metadata Identifiers (15 min)&lt;ul&gt;
+&lt;li&gt;Citable&lt;/li&gt;
+&lt;li&gt;Machine Readable&lt;/li&gt;
+&lt;li&gt;Hands on: Create data citation and machine readable metadata&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hands on: Download data via RESTful API (15min)&lt;ul&gt;
+&lt;li&gt;Provenance and&lt;/li&gt;
+&lt;li&gt;Python scripts&lt;/li&gt;
+&lt;li&gt;Hands on: Download the data via HTTP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Break (10min)&lt;/li&gt;
+&lt;li&gt;Local processing (60min)&lt;ul&gt;
+&lt;li&gt;Replication Enablement (20min)&lt;ul&gt;
+&lt;li&gt;Package versioning&lt;/li&gt;
+&lt;li&gt;Virtual Machines&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;li&gt;Cloud services&lt;/li&gt;
+&lt;li&gt;Hands on:&lt;ul&gt;
+&lt;li&gt;Create a virtualenv&lt;/li&gt;
+&lt;li&gt;Run our tutorial package verification script&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Revision Control with Git (20min)&lt;ul&gt;
+&lt;li&gt;Keeping track of changes&lt;/li&gt;
+&lt;li&gt;Unique hashes&lt;/li&gt;
+&lt;li&gt;Hands on:&lt;ul&gt;
+&lt;li&gt;Forking a repository in GitHub&lt;/li&gt;
+&lt;li&gt;Cloning a repository&lt;/li&gt;
+&lt;li&gt;Creating a branch&lt;/li&gt;
+&lt;li&gt;Making a commit&lt;/li&gt;
+&lt;li&gt;Pushing a branch&lt;/li&gt;
+&lt;li&gt;Diffing&lt;/li&gt;
+&lt;li&gt;Merging&lt;/li&gt;
+&lt;li&gt;Pushing again&lt;/li&gt;
+&lt;li&gt;Create pull request&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Python scripts (20min)&lt;ul&gt;
+&lt;li&gt;Data analysis, particle counting.&lt;/li&gt;
+&lt;li&gt;Hands on:&lt;ul&gt;
+&lt;li&gt;Run scripts on new data&lt;/li&gt;
+&lt;li&gt;Generate histogram for the data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Testing (30min)&lt;ul&gt;
+&lt;li&gt;Unit testing with known data&lt;/li&gt;
+&lt;li&gt;Regression testing with known data&lt;/li&gt;
+&lt;li&gt;Hands on:&lt;ul&gt;
+&lt;li&gt;Run tests&lt;/li&gt;
+&lt;li&gt;Add coverage for another method to the unit tests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Break (10min)&lt;/li&gt;
+&lt;li&gt;Publication Tools (30min)&lt;ul&gt;
+&lt;li&gt;Article generation&lt;/li&gt;
+&lt;li&gt;RST to HTML&lt;/li&gt;
+&lt;li&gt;GitHub replication and sharing&lt;/li&gt;
+&lt;li&gt;Hands on:&lt;ul&gt;
+&lt;li&gt;Run dexy to generate the document&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Reproducibility Verification (30min)&lt;ul&gt;
+&lt;li&gt;Reproducing Works&lt;/li&gt;
+&lt;li&gt;Publication of Positive and Negative results&lt;/li&gt;
+&lt;li&gt;Hands on:&lt;ul&gt;
+&lt;li&gt;Create Open Science Framework (OSF) project&lt;/li&gt;
+&lt;li&gt;Connect Figshare and Github to OSF project&lt;/li&gt;
+&lt;li&gt;Fork or link another group’s project in the OSF to run dexy on
+their work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Infrastructure:&lt;/p&gt;
+&lt;p&gt;Attendees will use software installed in their laptops to gather and
+process data, then publish and share a reproducible report.&lt;/p&gt;
+&lt;p&gt;They will access repositories in GitHub, upload data to a repository and
+publish materials necessary to replicate their data analysis.&lt;/p&gt;
+&lt;p&gt;We expect that wireless network will be have moderate bandwidth to allow
+all attendees to move data, source code and publications between their
+laptops and hosting servers.&lt;/p&gt;
+</summary><category term="open science"></category><category term="reproducible research"></category><category term="tutorial"></category></entry><entry><title>SymPy Tutorial Part 1</title><link href="http://pyvideo.org/scipy-2014/sympy-tutorial-part-1.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Aaron Meurer</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/sympy-tutorial-part-1.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;SymPy is a pure Python library for symbolic mathematics. It aims to
+become a full-featured computer algebra system (CAS) while keeping the
+code as simple as possible in order to be comprehensible and easily
+extensible. SymPy is written entirely in Python and does not require any
+external libraries.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this tutorial we will introduce attendees to SymPy. We will show
+basics of constructing and manipulating mathematical expressions in
+SymPy, the most common issues and differences from other computer
+algebra systems, and how to deal with them. In the last part of this
+tutorial we will show how to solve some practical problems with SymPy.
+This will include showing how to interface SymPy with popular numeric
+libraries like NumPy.&lt;/p&gt;
+&lt;p&gt;This knowledge should be enough for attendees to start using SymPy for
+solving mathematical problems and hacking SymPy's internals (though
+hacking core modules may require additional expertise).&lt;/p&gt;
+</summary><category term="SymPy"></category><category term="tutorial"></category></entry><entry><title>SymPy Tutorial Part 2</title><link href="http://pyvideo.org/scipy-2014/sympy-tutorial-part-2.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Aaron Meurer</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/sympy-tutorial-part-2.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;SymPy is a pure Python library for symbolic mathematics. It aims to
+become a full-featured computer algebra system (CAS) while keeping the
+code as simple as possible in order to be comprehensible and easily
+extensible. SymPy is written entirely in Python and does not require any
+external libraries.&lt;/p&gt;
+</summary><category term="SymPy"></category><category term="tutorial"></category></entry><entry><title>SymPy Tutorial Part 3</title><link href="http://pyvideo.org/scipy-2014/sympy-tutorial-part-3.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Aaron Meurer</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/sympy-tutorial-part-3.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;SymPy is a pure Python library for symbolic mathematics. It aims to
+become a full-featured computer algebra system (CAS) while keeping the
+code as simple as possible in order to be comprehensible and easily
+extensible. SymPy is written entirely in Python and does not require any
+external libraries.&lt;/p&gt;
+</summary><category term="SymPy"></category><category term="tutorial"></category></entry><entry><title>SymPy Tutorial Part 4</title><link href="http://pyvideo.org/scipy-2014/sympy-tutorial-part-4.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Aaron Meurer</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/sympy-tutorial-part-4.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;SymPy is a pure Python library for symbolic mathematics. It aims to
+become a full-featured computer algebra system (CAS) while keeping the
+code as simple as possible in order to be comprehensible and easily
+extensible. SymPy is written entirely in Python and does not require any
+external libraries.&lt;/p&gt;
+</summary><category term="SymPy"></category><category term="tutorial"></category></entry><entry><title>Objects and classes in Python (and JavaScript)</title><link href="http://pyvideo.org/europython-2011/objects-and-classes-in-python-and-javascript.html" rel="alternate"></link><published>2011-07-21T00:00:00+00:00</published><updated>2011-07-21T00:00:00+00:00</updated><author><name>Jonathan Fine</name></author><id>tag:pyvideo.org,2011-07-21:europython-2011/objects-and-classes-in-python-and-javascript.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Jonathan Fine - 23 June 2011 in &amp;quot;Training Pizza Napoli&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python has a well-thought out system for classes. Beginners can use it
+without understanding it all. Experts can use it to produce code that is
+both elegant and powerful (such as models and class-based views in
+Django). Python classes can be used for many purposes.&lt;/p&gt;
+&lt;p&gt;This tutorial arises from the author's experience in using classes to
+solve problems, such as:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Add custom methods and attributes to objects that are, at root, just an integer&lt;/li&gt;
+&lt;li&gt;Construct dictionaries whose values are functions&lt;/li&gt;
+&lt;li&gt;Construct classes on-the-fly&lt;/li&gt;
+&lt;li&gt;Implement JavaScript object semantics in Python (advanced topic)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The outline syllabus is:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Review of the class statement in Python (and decorators)&lt;/li&gt;
+&lt;li&gt;Subclassing built-in types such as int and tuple&lt;/li&gt;
+&lt;li&gt;How to define classes without using a class statement&lt;/li&gt;
+&lt;li&gt;How to define a dispatch dictionary using a class statement&lt;/li&gt;
+&lt;li&gt;Metaclasses as syntactic sugar for class construction&lt;/li&gt;
+&lt;li&gt;Metaclasses to provide new class semantics&lt;/li&gt;
+&lt;li&gt;Review of JavaScript object semantics&lt;/li&gt;
+&lt;li&gt;Using Python classes to implement JavaScript object semantics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For Guido on the history of Python classes see:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://python-history.blogspot.com/2010/06/new-style-classes.html"&gt;http://python-history.blogspot.com/2010/06/new-style-classes.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html"&gt;http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://python-history.blogspot.com/2010/06/method-resolution-order.html"&gt;http://python-history.blogspot.com/2010/06/method-resolution-order.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This tutorial is for Intermediate or Advanced Python programmers.
+(Beginners will find it very hard going.) The aim of the course is to
+explain exactly what happens when a class in constructed, and to learn
+ways of using this knowledge.&lt;/p&gt;
+</summary><category term="dictionaries"></category><category term="javascript"></category><category term="tutorial"></category></entry><entry><title>PyPy hands-on</title><link href="http://pyvideo.org/europython-2011/pypy-hands-on.html" rel="alternate"></link><published>2011-07-21T00:00:00+00:00</published><updated>2011-07-21T00:00:00+00:00</updated><author><name>Antonio Cuni</name></author><id>tag:pyvideo.org,2011-07-21:europython-2011/pypy-hands-on.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Antonio Cuni,Armin Rigo - 21 June 2011 in &amp;quot;Training
+Pizza Margherita&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The session is divided into two parts, of roughly 2 hours each. People
+who are interested only in the first part, can leave the session after
+it. However, the first part is a prerequisite for the second one, thus
+people are not advised to join in the middle of the session.&lt;/p&gt;
+&lt;p&gt;The session is meant to be highly interactive. People are invited to
+bring their own laptop and try things by themselves.&lt;/p&gt;
+&lt;div class="section" id="part-1-run-your-application-under-pypy"&gt;
+&lt;h4&gt;Part 1: Run your application under PyPy&lt;/h4&gt;
+&lt;p&gt;This tutorial is targeted to Python users who want to run their favorite
+Python application under PyPy, and exploit the most of it. The following
+topics will be covered:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+- how to fix/avoid CPython implementation details (e.g., refcounting)
+
+- general overview of how the PyPy JIT works
+
+- how to optimize your program for the PyPy JIT
+
+- how to view and interpret the traces produced by the JIT
+
+- how to tweak the parameters of the JIT and the GC
+
+- how to use existing CPython C extensions on PyPy, and fix them if necessary
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="part-2-write-your-own-interpreter-with-pypy"&gt;
+&lt;h4&gt;Part 2: Write your own interpreter with PyPy&lt;/h4&gt;
+&lt;p&gt;PyPy is not only a Python interpreter, but also a toolchain to implement
+dynamic languages. This tutorial is targeted to people who want to
+implement their own programming languages, or who simply want to know
+more about how the PyPy JIT works internally.&lt;/p&gt;
+&lt;p&gt;The students will be given the source code for a toy language
+implemented in RPython. They will learn:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+- how to translate it to C using the PyPy translation toolchain
+
+- what are the &amp;quot;hints&amp;quot; needed by the JIT generator, and how to place them
+&lt;/pre&gt;
+&lt;p&gt;Then, they will be challenged to add the proper hints to the toy
+interpreter, to get the best result with the JIT.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;THINGS TO DO BEFORE THE TRAINING&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You are encouraged to bring your laptop to the training session.&lt;/p&gt;
+&lt;p&gt;Make sure that the following prerequisites are met:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Install PyPy 1.5:&lt;ul&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://pypy.org/download.html"&gt;http://pypy.org/download.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://doc.pypy.org/en/latest/getting-started.html#installing-pypy"&gt;http://doc.pypy.org/en/latest/getting-started.html#installing-pypy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Make sure that &lt;tt class="docutils literal"&gt;setuptools&lt;/tt&gt; or &lt;tt class="docutils literal"&gt;distribute&lt;/tt&gt; are installed (look
+at the URL above for instructions)&lt;/li&gt;
+&lt;li&gt;Clone the pypy repository, and update to the 1.5 version:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$ hg clone &lt;a class="reference external" href="http://bitbucket.org/pypy/pypy"&gt;http://bitbucket.org/pypy/pypy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$ cd pypy&lt;/p&gt;
+&lt;p&gt;$ hg up -r release-1.5&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Clone the jitviewer repository and install it on pypy:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$ hg clone &lt;a class="reference external" href="http://bitbucket.org/pypy/jitviewer"&gt;http://bitbucket.org/pypy/jitviewer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$ cd jitviewer&lt;/p&gt;
+&lt;p&gt;$ /path/to/pypy-1.5/bin/pypy setup.py develop&lt;/p&gt;
+&lt;p&gt;If you intend to follow also the second part (&amp;quot;Write your own
+interpreter with PyPy&amp;quot;), you need to make sure you have a working
+&lt;a class="reference external" href="http://doc.pypy.org/en/latest/getting-started-python.html%20#translating-the-pypy-python-interpreter"&gt;developing
+environment&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="cd"></category><category term="cpython"></category><category term="extensions"></category><category term="hg"></category><category term="jit"></category><category term="optimize"></category><category term="pypy"></category><category term="setup.py"></category><category term="tutorial"></category></entry><entry><title>Advanced Python</title><link href="http://pyvideo.org/europython-2011/advanced-python.html" rel="alternate"></link><published>2011-07-20T00:00:00+00:00</published><updated>2011-07-20T00:00:00+00:00</updated><author><name>Raymond Hettinger</name></author><id>tag:pyvideo.org,2011-07-20:europython-2011/advanced-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Raymond Hettinger - 21 June 2011 in &amp;quot;Training Pizza
+Margherita&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This tutorial will work through a series of real-world examples, showing
+how an understanding of the tools built into the Python interpreter or
+included in the standard library can be combined to solve difficult
+problems clearly and Pythonically. We will also discuss when and how to
+reach beyond the standard library when needed to address difficult
+algorithmic and optimization problems.&lt;/p&gt;
+</summary><category term="optimization"></category><category term="tutorial"></category></entry></feed>

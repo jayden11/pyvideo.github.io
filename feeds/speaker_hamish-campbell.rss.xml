@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 12 Sep 2013 00:00:00 +0000</lastBuildDate><item><title>Polyominoes - An Exploration in Problem Solving with Python</title><link>http://pyvideo.org/kiwi-pycon-2013/polyominoes-an-exploration-in-problem-solving-w.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;A &amp;quot;Polyomino&amp;quot; is a geometric figure of adjacent squares. But just how
+many &amp;quot;n&amp;quot; polyominos are there? Solving this question is one of our
+favourite interview questions and the techniques that can employed to
+solve it are instructive for a range of problems. In this talk, we
+discuss the potential solutions and offer prizes for the best solutions
+submitted by the end of the conference.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&amp;#64; Kiwi PyCon 2013 - Saturday, 07 Sep 2013 - Track 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Audience level&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intermediate&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A &amp;quot;Polyomino&amp;quot; is a geometric figure of adjacent squares. But just how
+many &amp;quot;n&amp;quot; polyominos are there?&lt;/p&gt;
+&lt;p&gt;This question has been one of our favourite interview questions. It's a
+deceptively simple problem with opportunities for innovative solutions
+and disastrous missteps. In this talk, we'll discuss the benefits of a
+number of approaches, demonstrate a few common pitfalls and challenge
+the audience to provide their own solutions, with prizes on offer at the
+end of the conference.&lt;/p&gt;
+&lt;p&gt;This is a talk for everyone: beginners will be introduced to a problem
+that can be solved using primitives, experts will see opportunities to
+deploy advanced optimizations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://speakerdeck.com/nzpug/hamish-campbell-polyominoes-an-exploration-in-problem-solving-with-python"&gt;https://speakerdeck.com/nzpug/hamish-campbell-polyominoes-an-exploration-in-problem-solving-with-python&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Hamish Campbell</dc:creator><pubDate>Thu, 12 Sep 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-09-12:kiwi-pycon-2013/polyominoes-an-exploration-in-problem-solving-w.html</guid></item></channel></rss>

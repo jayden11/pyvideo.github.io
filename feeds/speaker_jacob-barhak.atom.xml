@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_jacob-barhak.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-10-15T00:00:00+00:00</updated><entry><title>The Reference Model for Disease Progression and Latest Developments in the MIST</title><link href="http://pyvideo.org/pytexas-2015/the-reference-model-for-disease-progression-and-l.html" rel="alternate"></link><published>2015-10-15T00:00:00+00:00</published><updated>2015-10-15T00:00:00+00:00</updated><author><name>Jacob Barhak</name></author><id>tag:pyvideo.org,2015-10-15:pytexas-2015/the-reference-model-for-disease-progression-and-l.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Reference Model for Disease progression is a league of disease
+models that determines fitness of publicly available populations and
+models and assumptions. The Reference Model has grown to the point that
+it was hard to maintain the code base and increase the number of
+populations. Recent advances with the MIcro Simulation Tool (MIST), that
+runs the model, allow object oriented population generation.
+Evolutionary Computation, using the Python Inspyred library by Aaron
+Garrett, is a key element in MIST population generation. Recent
+developments allow easier introductions of variations in population
+generation to figure out fitness of unknown base assumptions. This is
+powerful in conjunction with High Performance Computing that allows
+testing multiple modeling assumptions in parallel.&lt;/p&gt;
+&lt;p&gt;Previous work was presented in this and other venues:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=vyvxiljc5vA"&gt;https://www.youtube.com/watch?v=vyvxiljc5vA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.youtube.com/watch?v=AD896WakR94"&gt;http://www.youtube.com/watch?v=AD896WakR94&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>MIST: Micro-Simulation Tool to Support Disease Modeling</title><link href="http://pyvideo.org/scipy-2013/mist-micro-simulation-tool-to-support-disease-mo-0.html" rel="alternate"></link><published>2013-07-01T00:00:00+00:00</published><updated>2013-07-01T00:00:00+00:00</updated><author><name>Jacob Barhak</name></author><id>tag:pyvideo.org,2013-07-01:scipy-2013/mist-micro-simulation-tool-to-support-disease-mo-0.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;MIST stands for Misco-Simulation Tool. It is a modeling and simulation
+framework that supports computational Chronic Disease Modeling
+activities.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Authors: Jacob Barhak&lt;/p&gt;
+&lt;p&gt;Track: Bioinformatics&lt;/p&gt;
+&lt;p&gt;MIST stands for Misco-Simulation Tool. It is a modeling and simulation
+framework that supports computational Chronic Disease Modeling
+activities. It is a fork from the IEST = Indirect Estimation and
+Simulation Tool GPL modeling framework.&lt;/p&gt;
+&lt;p&gt;MIST removes complexity associated with the estimation engine, with
+parameter definitions, and with rule restrictions. This significantly
+simplifies the system and allows its development in the Micro-simulation
+path less encumbered.&lt;/p&gt;
+&lt;p&gt;The incentive to split MIST was to adapt the code to use newer compiler
+technology to speed up simulations. There is wrong skepticism in the
+medical disease modeling community towards using Interpreters for
+simulations due to performance issues. The use of advanced compiler
+technology with Python may remedy this misconception and provide
+optimized python based simulations. MIST is a first step in this
+direction.&lt;/p&gt;
+&lt;p&gt;MIST takes care of a few documented and known issues. It also moves to
+use new scientific Python stacks such as Anaconda and PythonXY as its
+platform. This improves its accessibility to less sophisticated users
+that can now benefit from easier installation.&lt;/p&gt;
+&lt;p&gt;The Reference Model for disease progression intends to use MIST as its
+main platform. Yet MIST is equipped with a Micro-simulation compiler
+designed to accommodate Monte Carlo simulations for other purposes.&lt;/p&gt;
+</summary><category term="bioinformatics"></category></entry></feed>

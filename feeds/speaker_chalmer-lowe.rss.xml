@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 17 May 2017 00:00:00 +0000</lastBuildDate><item><title>bokeh: Data Visualization in Python</title><link>http://pyvideo.org/pycon-us-2017/bokeh-data-visualization-in-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Bokeh is a powerful data visualization library that creates fully
+interactive plots and integrates well with the data analysis tools you
+already know and love: pandas, matplotlib, seaborn, ggplot. Bokeh can
+produce stand-alone browser-based plots and much more sophisticated
+server-hosted visualizations.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Learn to use bokeh to create everything from basic graphs to advanced
+interactive plots, dashboards, and data applications&lt;/li&gt;
+&lt;li&gt;Incorporate bokeh within your Jupyter/IPython notebooks&lt;/li&gt;
+&lt;li&gt;Partner bokeh with other libraries such as matplotlib, seaborn,
+pandas, and ggplot&lt;/li&gt;
+&lt;li&gt;Learn about bokeh server: to serve up even more impressive realtime
+visualizations&lt;/li&gt;
+&lt;li&gt;Explore configurations and settings&lt;/li&gt;
+&lt;li&gt;Recognize and overcome common problems&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chalmer Lowe</dc:creator><pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-17:pycon-us-2017/bokeh-data-visualization-in-python.html</guid></item></channel></rss>

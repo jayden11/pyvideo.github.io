@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_vinicius-pacheco.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-07-31T00:00:00+00:00</updated><entry><title>APIs and Microservices With Go</title><link href="http://pyvideo.org/europython-2016/apis-and-microservices-with-go.html" rel="alternate"></link><published>2016-07-31T00:00:00+00:00</published><updated>2016-07-31T00:00:00+00:00</updated><author><name>Vinicius Pacheco</name></author><id>tag:pyvideo.org,2016-07-31:europython-2016/apis-and-microservices-with-go.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Vinicius Pacheco - APIs and Microservices With Go
+[EuroPython 2016]
+[19 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/apis-and-microservices-with-go"&gt;https://ep2016.europython.eu//conference/talks/apis-and-microservices-with-go&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;In this talk we show how the Go language helped us get a high
+performance in a concise and simple API. Everything will be
+exemplified using the backdrop of a real case of Globo.com: API
+registrations. We will see how we went from 200 to 19,000 records per
+second to the impacts of this rapid growth and the consequences of Go
+of use. We also show how our microservices architecture was used in
+the project.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;This talk is about Go, software architecture and parallelism. How we
+went from legacy, complex and slow software to new, speed, resilient
+and maintainable software.
+I'll start the talk showing the problemas and the challenges that my
+team had received. After that, I'll show the tests, tests of
+performance and the options that we did considering technologies and
+strategies of development. The difficulties and problems also will be
+show. Also I talk about:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Goroutines&lt;/li&gt;
+&lt;li&gt;Resilient patterns&lt;/li&gt;
+&lt;li&gt;Go tools&lt;/li&gt;
+&lt;li&gt;Architecture&lt;/li&gt;
+&lt;li&gt;Web performance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;How we leave of the Java ecosystem to new free ecosystem with
+microservices and how Go help us.&lt;/p&gt;
+</summary></entry></feed>

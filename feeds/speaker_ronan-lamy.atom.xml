@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_ronan-lamy.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-15T00:00:00+00:00</updated><entry><title>PyPy and it's ecosystem</title><link href="http://pyvideo.org/pycon-uk-2014/pypy-and-its-ecosystem.html" rel="alternate"></link><published>2014-10-14T00:00:00+00:00</published><updated>2014-10-14T00:00:00+00:00</updated><author><name>Ronan Lamy</name></author><id>tag:pyvideo.org,2014-10-14:pycon-uk-2014/pypy-and-its-ecosystem.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Presented by: Ronan Lamy&lt;/p&gt;
+&lt;p&gt;PyPy is a fast, compliant alternative implementation of the Python language (2.7.6 and 3.2.5). I will give an overview of the current status of and the on-going development efforts on all the pieces that combine to make it a compelling Python platform. In particular, I will mention the RPython toolchain, CFFI, the JIT, garbage collection, the numpy port, Python 3 support, software transactional memory.&lt;/p&gt;
+</summary></entry><entry><title>PyPy for mediocre programmers</title><link href="http://pyvideo.org/pycon-uk-2015/pypy-for-mediocre-programmers.html" rel="alternate"></link><published>2015-09-18T00:00:00+00:00</published><updated>2015-09-18T00:00:00+00:00</updated><author><name>Ronan Lamy</name></author><id>tag:pyvideo.org,2015-09-18:pycon-uk-2015/pypy-for-mediocre-programmers.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This is a talk for mediocre Python programmers by a mediocre programmer.
+PyPy is an alternative implementation of Python. It is notorious for
+being fast, but also for using clever algorithms pertaining to advanced
+concepts such as type inference, garbage collection, just-in-time
+compilation, etc. So, can we, mediocre programmers, realistically use
+PyPy?&lt;/p&gt;
+&lt;p&gt;Yes, absolutely. In fact, PyPy developers did all that hard work so that
+we wouldn't have to. As we'll see, it runs most Python code exactly like
+CPython does, save that it magically makes it faster.&lt;/p&gt;
+&lt;p&gt;Porting existing applications is always more involved than running a
+simple script, so we'll also examine likely difficulties such as code
+relying on CPython implementation details, and dependencies on C
+extensions, and explore simple principles to let PyPy run your code even
+faster.&lt;/p&gt;
+&lt;p&gt;Finally, we'll have a glimpse of the future by looking at what's brewing
+in the PyPy lair, such as software transactional memory, new speed
+optimisations, better support for Python 3 and NumPy, ...&lt;/p&gt;
+</summary></entry><entry><title>PyPy: Python faster than Python</title><link href="http://pyvideo.org/pycon-fr-2016/pypy-python-faster-than-python.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Ronan Lamy</name></author><id>tag:pyvideo.org,2016-10-15:pycon-fr-2016/pypy-python-faster-than-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyPy is a fast and highly-compatible alternative implementation of Python. Its just-in-time compiler, backed by a state-of-the art garbage collector, allow it to run pure-Python(2) code on average 7 times faster than CPython 2.7, the reference implementation.&lt;/p&gt;
+&lt;p&gt;This presentation will give a tour of PyPy's goals, history and features with special emphasis on recent developments:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;cpyext, PyPy's emulation layer for CPython's C API, has been overhauled in order to soon allow full compatibility with all C extensions.&lt;/li&gt;
+&lt;li&gt;Python 3 support is steadily improving with a recent 3.3-compatible release and development being started on a 3.5 version.&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>The state of PyPy</title><link href="http://pyvideo.org/pycon-uk-2016/the-state-of-pypy.html" rel="alternate"></link><published>2016-09-17T00:00:00+00:00</published><updated>2016-09-17T00:00:00+00:00</updated><author><name>Ronan Lamy</name></author><id>tag:pyvideo.org,2016-09-17:pycon-uk-2016/the-state-of-pypy.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The state of PyPy&lt;/p&gt;
+&lt;p&gt;Ronan Lamy&lt;/p&gt;
+&lt;p&gt;PyPy is a fast and highly-compatible alternative implementation of Python. Its just-in-time compiler, backed by a state-of-the art garbage collector, allow it to run pure-Python(2) code on average 7 times faster than CPython 2.7, the reference implementation.&lt;/p&gt;
+&lt;p&gt;This presentation will give a tour of PyPy's features with special emphasis on recent developments:&lt;/p&gt;
+&lt;p&gt;cpyext, PyPy's emulation layer for CPython's C API, has been overhauled in order to soon allow full compatibility with all C extensions.
+Python 3 support is steadily improving with a recent 3.3-compatible release and development being started on a 3.5 version.&lt;/p&gt;
+</summary></entry></feed>

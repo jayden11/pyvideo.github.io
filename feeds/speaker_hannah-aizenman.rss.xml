@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 12 Apr 2014 00:00:00 +0000</lastBuildDate><item><title>Beyond Defaults: Creating Polished Visualizations Using Matplotlib</title><link>http://pyvideo.org/pycon-us-2014/beyond-defaults-creating-polished-visualizations.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;When people hear of matplotlib, they think rudimentary graphs that will
+need to be touched up in photoshop. This tutorial aims to teach
+attendees how to exploit the functionality provided by various
+matplotlib libraries to create professional looking data visualizations.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Hannah Aizenman</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-04-12:pycon-us-2014/beyond-defaults-creating-polished-visualizations.html</guid></item></channel></rss>

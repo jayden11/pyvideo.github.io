@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 17 Sep 2016 00:00:00 +0000</lastBuildDate><item><title>How do I apply a function to a pandas Series or DataFrame?</title><link>http://pyvideo.org/data-school/pandas-30-apply-function.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever struggled to figure out the differences between apply, map, and applymap? In this video, I'll explain when you should use each of these methods and demonstrate a few common use cases. Watch the end of the video for three important announcements!&lt;/p&gt;
+&lt;p&gt;This is video 30 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kevin Markham</dc:creator><pubDate>Tue, 23 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-23:data-school/pandas-30-apply-function.html</guid><category>data science</category><category>data analysis</category><category>data wrangling</category><category>data processing</category><category>pandas</category><category>tutorial</category><category>Data School</category><category>NumPy</category></item><item><title>How do I create a pandas DataFrame from another object?</title><link>http://pyvideo.org/data-school/pandas-29-dummy-dataframe.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever needed to create a DataFrame of &amp;quot;dummy&amp;quot; data, but without reading from a file? In this video, I'll demonstrate how to create a DataFrame from a dictionary, a list, and a NumPy array. I'll also show you how to create a new Series and attach it to the DataFrame.&lt;/p&gt;
+&lt;p&gt;This is video 29 of 30 in the series, &lt;a class="reference external" href="http://www.dataschool.io/easier-data-analysis-with-pandas/"&gt;Easier data analysis in Python with pandas&lt;/a&gt;. The notebook and datasets shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/pandas-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kevin Markham</dc:creator><pubDate>Tue, 16 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-16:data-school/pandas-29-dummy-dataframe.html</guid><category>data science</category><category>data analysis</category><category>data wrangling</category><category>data processing</category><category>pandas</category><category>tutorial</category><category>Data School</category><category>NumPy</category></item><item><title>Getting started in scikit-learn with the famous iris dataset</title><link>http://pyvideo.org/data-school/scikit-learn-03-getting-started-with-machine-learning.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Now that we've set up Python for machine learning, let's get started by loading an example dataset into scikit-learn! We'll explore the famous &amp;quot;iris&amp;quot; dataset, learn some important machine learning terminology, and discuss the four key requirements for working with data in scikit-learn.&lt;/p&gt;
+&lt;p&gt;This is the third video in the series, &lt;a class="reference external" href="http://www.dataschool.io/machine-learning-with-scikit-learn/"&gt;Introduction to machine learning with scikit-learn&lt;/a&gt;. The notebook and resources shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/scikit-learn-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kevin Markham</dc:creator><pubDate>Tue, 21 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-21:data-school/scikit-learn-03-getting-started-with-machine-learning.html</guid><category>machine learning</category><category>data science</category><category>scikit-learn</category><category>tutorial</category><category>Data School</category><category>NumPy</category></item><item><title>¡Eureka! (Python y ciencia)</title><link>http://pyvideo.org/pyday-galicia-2016/eureka-python-y-ciencia.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;En esta charla se plantea una pregunta de física básica que se resolverá científicamente con ingenio, mátemáticas y python, aprovechando para (de una manera amena) ver librerías habituales en el entorno científico como sympy, numpy, scipy, matplotlib, bokeh, numba, pandas y sklearn.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miguel Sánchez de León Peque</dc:creator><pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-17:pyday-galicia-2016/eureka-python-y-ciencia.html</guid><category>pyday</category><category>sympy</category><category>numpy</category><category>scipy</category><category>matplotlib</category><category>bokeh</category><category>numba</category><category>pandas</category><category>sklearn</category></item><item><title>Speed without drag</title><link>http://pyvideo.org/pycon-es-2014/speed-without-drag.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Recorrido práctico a través de las opciones que Python ofrece para la optimización de código númerico de baja fricción (esto es, sin dejar de escribir Python), incluyendo: agotando CPython, NumPy, Numba, Parakeet, Cython, Theano, PyPy/NumPyPy, Pyston y Blaze.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Saul Díez Guerra</dc:creator><pubDate>Mon, 06 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-06:pycon-es-2014/speed-without-drag.html</guid><category>NumPy</category><category>Numba</category><category>Parakeet</category><category>Cython</category><category>Theano</category><category>PyPy</category><category>NumPyPy</category><category>Pyston</category><category>Blaze</category></item><item><title>Usando contenedores para Big Data</title><link>http://pyvideo.org/pycon-es-2015/usando-contenedores-para-big-data.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;En la actualidad existe una variedad bastante grande de contenedores de datos para almacenar grandes cantidades de datos en Python, tanto en memoria como en disco. En mi taller pasaremos revista a unos cuantos de los más útiles, empezando por los más básicos y generales (listas, diccionarios, NumPy/ndarray, pandas/DataFrames) a los más especializados (RDBMS, PyTables/Table/HDF5, bcolz/carray/ctable). Durante el camino se darán pistas de cuando usar unos u otros dependiendo del caso de uso.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francesc Alted</dc:creator><pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-02-02:pycon-es-2015/usando-contenedores-para-big-data.html</guid><category>workshop</category><category>big data</category><category>numpy</category><category>pandas</category><category>pytables</category><category>bcolz</category></item><item><title>Teaching programming in undergraduate psychology</title><link>http://pyvideo.org/pycon-au-2016/teaching-programming-in-undergraduate-psychology.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Damien Mannion&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/79/view_talk"&gt;https://2016.pycon-au.org/schedule/79/view_talk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Psychology is a diverse discipline that involves the scientific study of behaviour and cognition. As part of undergraduate training in psychology, students are required to develop substantial skills in research methods and critical thinking. Here, I will discuss our recent efforts to use computer programming to aid in the student achievement of such outcomes. We have introduced a programming component in two third-year undergraduate psychology courses. As part of 'Vision &amp;amp; Brain', students learn to use Python (particularly the package 'PsychoPy') to implement their own vision science experiments. As part of 'Research Internship', students learn to use Python (particularly the 'numpy' and 'veusz' packages) to perform data analyses and to produce visualisations. The aim of these new course components is to provide students with a set of skills that will increase their ability to conduct research, but also to increase their problem solving and critical thinking skills through the process of coding. I will discuss our educational and practical implementation of such material and will use the results of student surveys and feedback to evaluate their effectiveness. Finally, I will discuss some of the challenges we encountered and give some indications of potential future developments.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Damien Mannion</dc:creator><pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-15:pycon-au-2016/teaching-programming-in-undergraduate-psychology.html</guid><category>psychopy</category><category>numpy</category><category>veusz</category></item><item><title>Python at the Intersection of Data Science, Machine Learning &amp; Cyber Anomaly Detection</title><link>http://pyvideo.org/scipy-2016/python-at-the-intersection-of-data-science-machine-learning-cyber-anomaly-detection-scipy-2016.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will focus on the use of Python, scikit-learn, NumPy, SciPy, and pandas in Data Science and machine learning with a focus on cyber anomaly detection. The presentation will focus on how Python facilitates all stages of such analysis including data gathering, analytics, and scaling to large data sets.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Randy Paffenroth</dc:creator><pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-14:scipy-2016/python-at-the-intersection-of-data-science-machine-learning-cyber-anomaly-detection-scipy-2016.html</guid><category>scikit-learn</category><category>numpy</category><category>scipy</category><category>pandas</category></item><item><title>PyData: Data Analysis in Python with Pandas</title><link>http://pyvideo.org/pydata/pydata-data-analysis-in-python-with-pandas.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Coming from the 2012 PyData Workshop, Wes McKinney, CTO and cofounder of
+Lambda Foundry, gives us a tour of Pandas, a rich data manipulation tool
+built on top of NumPy. Frustrated with working in R, Wes started
+building Pandas in 2008 with a focus on fast, intuitive data structures
+and data manipulation capabilities. The Pandas project has seen huge
+growth in the last few years, and aims to be the ultimate data tool for
+Python.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><pubDate>Fri, 30 Mar 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-03-30:pydata/pydata-data-analysis-in-python-with-pandas.html</guid><category>numpy</category><category>pandas</category></item><item><title>Boosting NumPy with Numexpr and Cython</title><link>http://pyvideo.org/pydata/boosting-numpy-with-numexpr-and-cython.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In this video from the 2012 PyData Workshop Francesc Alted from
+Continuum Analytics is going to show you how you can boost NumPy with
+Numexpr and Cython.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Topics covered include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;The era of Big Data&lt;/li&gt;
+&lt;li&gt;NumPy and its ecosystem&lt;/li&gt;
+&lt;li&gt;Numexpr&lt;/li&gt;
+&lt;li&gt;Cython&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francesc Alted</dc:creator><pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-03-02:pydata/boosting-numpy-with-numexpr-and-cython.html</guid><category>cython</category><category>numexpr</category><category>numpy</category></item><item><title>Python in Big Data with an overview of NumPy &amp; SciPy</title><link>http://pyvideo.org/pydata/python-in-big-data-with-an-overview-of-numpy-sc.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Travis Oliphant, CEO of Continuum Analytics, kicks off the PyData
+Workshop with a talk on Python in Big Data. Topics addressed include
+what Python has to offer the world of Big Data, specific use-cases, as
+well asking why Hadoop is considered the de-facto standard.&lt;/p&gt;
+&lt;p&gt;Additionally, Travis gives an overview of NumPy and SciPy.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Travis Oliphant</dc:creator><pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-03-02:pydata/python-in-big-data-with-an-overview-of-numpy-sc.html</guid><category>hadoop</category><category>numpy</category><category>scipy</category></item><item><title>PyOhio 2010: Implementation of a Numerical Simulation in Python</title><link>http://pyvideo.org/pyohio-2010/pyohio-2010--implementation-of-a-numerical-simula.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Implementation of a Numerical Simulation in Python&lt;/p&gt;
+&lt;p&gt;Presented by Jeffrey B. Armstrong&lt;/p&gt;
+&lt;p&gt;The Python programming language is well suited for numerical computation
+under a variety of circumstances. Python offers advantages over
+competing free and commercial technologies, including price,
+functionality, and maintainability. Specifically, the combination of
+mature numerical libraries and liberal licensing allow complex
+simulations to be coded with ease and to be made available to nearly all
+interested parties. !NumPy/!SciPy, database access, networking, and
+optimization techniques are examined in detail with respect to numerical
+computation. A practical example involving an aerothermal commercial
+turbofan aircraft engine simulation showcases these advantages. An
+aircraft engine is broken down into discrete stages, including
+compressors, turbines, and other flow-related components. Commonalities
+between components, such as rotation and the presence of inlet and exit
+conditions, map cleanly to the object-oriented nature of Python. Based
+on simulation needs and hardware availability, Python allows for the
+parallel computation of simulations without the expense and complexity
+of commercial parallelization packages.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeffrey Armstrong</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pyohio-2010/pyohio-2010--implementation-of-a-numerical-simula.html</guid><category>database</category><category>networking</category><category>numpy</category><category>optimization</category><category>pyohio</category><category>pyohio2010</category><category>scipy</category><category>simulation</category></item><item><title>The Wonderful World of Scientific Computing with Python</title><link>http://pyvideo.org/scipy-2014/the-wonderful-world-of-scientific-computing-with.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;We will give an overview of the basics of the scientific computing
+ecosystem with Python: what does each of the fundamental packages
+(numpy, matplotlib, scipy, sympy and pandas) do, and how does it work?
+We will use the IPython Notebook in our quest to enter this wonderful
+world.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Starting out with scientific computing in Python can be daunting: Where
+do I start? What are the basic packages, and what is the use case for
+each of them? What are the fundamental ideas I need to understand each
+package and how it works?&lt;/p&gt;
+&lt;p&gt;In this tutorial, we will use examples of scientific questions and
+calculations which lead directly to the need for certain computational
+tools as a gateway to understand the basic structure of the scientific
+computing ecosystem. The specific packages we will touch on are
+&lt;tt class="docutils literal"&gt;numpy&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;matplotlib&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;scipy&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;sympy&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;pandas&lt;/tt&gt;, all
+viewed through the wonderful lens of the IPython Notebook.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David P. Sanders</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-09:scipy-2014/the-wonderful-world-of-scientific-computing-with.html</guid><category>matplotlib</category><category>numpy</category><category>pandas</category><category>scipy</category><category>sympy</category></item><item><title>Python for Scientific and High Performance Computing (3 of 4)</title><link>http://pyvideo.org/chipy/python-for-scientific-and-high-performance-compu0.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python for Scientific and High Performance Computing (part 3 of 4)&lt;/p&gt;
+&lt;p&gt;Python, a high-level portable multi-paradigm interpreted programming
+language is becoming increasingly popular with the scientific and HPC
+communities due to ease of use, large collection of modules,
+adaptability, and strong support from vendors and community alike. This
+tutorial provides an introduction to Python focused on HPC and
+scientific computing. Throughout, we provide concrete examples, hands-on
+examples, and links to additional sources of information. The result
+will be a clear sense of possibilities and best practices using Python
+in HPC environments. We will cover several key concepts: language
+basics, NumPy and SciPy, parallel programming, performance issues,
+integrating C and Fortran, basic visualization, large production codes,
+and finding resources. While it is impossible to address all libraries
+and application domains, at the end participants should be able to write
+a simple application making use of parallel programming techniques,
+visualize the output, and know how to confidently proceed with future
+projects with Python.&lt;/p&gt;
+&lt;p&gt;ChiPy is a group of Chicago Python Programmers, l33t, and n00bs.
+Meetings are held monthly at various locations around Chicago. Also,
+ChiPy is a proud sponsor of many Open Source and Educational efforts in
+Chicago.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2009-11-12:chipy/python-for-scientific-and-high-performance-compu0.html</guid><category>chipy</category><category>numpy</category><category>scipy</category></item><item><title>Python for Scientific and High Performance Computing (2 of 4)</title><link>http://pyvideo.org/chipy/python-for-scientific-and-high-performance-compu1.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python for Scientific and High Performance Computing (part 2 of 4)&lt;/p&gt;
+&lt;p&gt;Python, a high-level portable multi-paradigm interpreted programming
+language is becoming increasingly popular with the scientific and HPC
+communities due to ease of use, large collection of modules,
+adaptability, and strong support from vendors and community alike. This
+tutorial provides an introduction to Python focused on HPC and
+scientific computing. Throughout, we provide concrete examples, hands-on
+examples, and links to additional sources of information. The result
+will be a clear sense of possibilities and best practices using Python
+in HPC environments. We will cover several key concepts: language
+basics, NumPy and SciPy, parallel programming, performance issues,
+integrating C and Fortran, basic visualization, large production codes,
+and finding resources. While it is impossible to address all libraries
+and application domains, at the end participants should be able to write
+a simple application making use of parallel programming techniques,
+visualize the output, and know how to confidently proceed with future
+projects with Python.&lt;/p&gt;
+&lt;p&gt;ChiPy is a group of Chicago Python Programmers, l33t, and n00bs.
+Meetings are held monthly at various locations around Chicago. Also,
+ChiPy is a proud sponsor of many Open Source and Educational efforts in
+Chicago.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2009-11-12:chipy/python-for-scientific-and-high-performance-compu1.html</guid><category>chipy</category><category>numpy</category><category>scipy</category></item><item><title>Python for Scientific and High Performance Computing (1 of 4)</title><link>http://pyvideo.org/chipy/python-for-scientific-and-high-performance-compu2.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This tutorial provides an introduction to Python focused on HPC and
+scientific computing. Throughout, we provide concrete examples, hands-on
+examples, and links to additional sources of information. The result
+will be a clear sense of possibilities and best practices using Python
+in HPC environments.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python, a high-level portable multi-paradigm interpreted programming
+language is becoming increasingly popular with the scientific and HPC
+communities due to ease of use, large collection of modules,
+adaptability, and strong support from vendors and community alike. This
+tutorial provides an introduction to Python focused on HPC and
+scientific computing. Throughout, we provide concrete examples, hands-on
+examples, and links to additional sources of information. The result
+will be a clear sense of possibilities and best practices using Python
+in HPC environments. We will cover several key concepts: language
+basics, NumPy and SciPy, parallel programming, performance issues,
+integrating C and Fortran, basic visualization, large production codes,
+and finding resources. While it is impossible to address all libraries
+and application domains, at the end participants should be able to write
+a simple application making use of parallel programming techniques,
+visualize the output, and know how to confidently proceed with future
+projects with Python.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2009-11-12:chipy/python-for-scientific-and-high-performance-compu2.html</guid><category>chipy</category><category>numpy</category><category>scipy</category></item><item><title>Python for Scientific and High Performance Computing (4 of 4)</title><link>http://pyvideo.org/chipy/python-for-scientific-and-high-performance-comput.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python for Scientific and High Performance Computing (part 4 of 4)&lt;/p&gt;
+&lt;p&gt;Python, a high-level portable multi-paradigm interpreted programming
+language is becoming increasingly popular with the scientific and HPC
+communities due to ease of use, large collection of modules,
+adaptability, and strong support from vendors and community alike. This
+tutorial provides an introduction to Python focused on HPC and
+scientific computing. Throughout, we provide concrete examples, hands-on
+examples, and links to additional sources of information. The result
+will be a clear sense of possibilities and best practices using Python
+in HPC environments. We will cover several key concepts: language
+basics, NumPy and SciPy, parallel programming, performance issues,
+integrating C and Fortran, basic visualization, large production codes,
+and finding resources. While it is impossible to address all libraries
+and application domains, at the end participants should be able to write
+a simple application making use of parallel programming techniques,
+visualize the output, and know how to confidently proceed with future
+projects with Python.&lt;/p&gt;
+&lt;p&gt;ChiPy is a group of Chicago Python Programmers, l33t, and n00bs.
+Meetings are held monthly at various locations around Chicago. Also,
+ChiPy is a proud sponsor of many Open Source and Educational efforts in
+Chicago.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2009-11-12:chipy/python-for-scientific-and-high-performance-comput.html</guid><category>chipy</category><category>numpy</category><category>scipy</category></item><item><title>Building a Scientific Software Application with the Enthought Tool Suite</title><link>http://pyvideo.org/europython-2011/building-a-scientific-software-application-with-t.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Mark Dickinson - 24 June 2011 in &amp;quot;Training Pizza
+Margherita &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Enthought Tool Suite (ETS) is a collection of Python-based open
+source components that form a foundation for nearly every application
+that we deliver to our customers. In this talk I'll demonstrate how to
+use ETS to rapidly develop an example scientific software application.
+We'll concentrate particularly on introducing Traits, Traits UI, and the
+Chaco and Mayavi visualisation tools.&lt;/p&gt;
+&lt;p&gt;Prerequisites: some previous experience of working with Python and NumPy
+/ SciPy is recommended.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Dickinson</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-24:europython-2011/building-a-scientific-software-application-with-t.html</guid><category>enthought</category><category>numpy</category><category>scientific</category><category>scipy</category><category>traits</category></item><item><title>Derivatives Analytics with Python &amp; Numpy</title><link>http://pyvideo.org/europython-2011/derivatives-analytics-with-python-numpy.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Yves Hilpisch - 24 June 2011 in &amp;quot;Track Ravioli &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In financial engineering and derivatives analytics, C/C++/Java/VBA and
+other languages are still dominating. Visixion has developed with
+&lt;a class="reference external" href="http://www.dexision.com"&gt;DEXISION&lt;/a&gt; the first full fledged
+derivatives analytics suite with Python as core language.&lt;/p&gt;
+&lt;p&gt;DEXISION is an On Demand application that is completely Open Source
+based (LAMP). For derivatives valuation, it uses Monte Carlo simulation
+- an approach known to be computationally demanding. However, Numpy
+provides the performance and functionality needed to implement financial
+simulation algorithms in a fast and compact manner.&lt;/p&gt;
+&lt;p&gt;The talk illustrates the architecture of our analytics suite and
+demonstrates how to implement fast and compact simulation algorithms
+with Python and Numpy. The talk shows that the Python/Numpy combination
+reaches sufficient speed for productive financial applications -
+something still widely doubted.&lt;/p&gt;
+&lt;p&gt;[No prerequisites.]&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Yves J. Hilpisch</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-24:europython-2011/derivatives-analytics-with-python-numpy.html</guid><category>architecture</category><category>engineering</category><category>numpy</category><category>performance</category><category>simulation</category></item><item><title>Experiences making CPU-bound tasks run much faster</title><link>http://pyvideo.org/europython-2011/experiences-making-cpu-bound-tasks-run-much-faste.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Ian Ozsvald - 22 June 2011 in &amp;quot;Training Pizza
+Margherita &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;UPDATE - post-event I've created a &lt;a class="reference external" href="http://ianozsvald.com/2011/06/29/high-performance-python-tutorial-v0-1%20-from-my-4-hour-tutorial-at-europython-2011/"&gt;49 page PDF write-
+up&lt;/a&gt;
+which summarises the 4 hour tutorial&lt;/p&gt;
+&lt;p&gt;As a long-time R&amp;amp;D consultant I'm often working to make slow,
+experimental code run faster for tasks like physics simulation, flood
+modeling and natural language processing. Python allows a smooth
+progression from rough-and-ready (but slow) algorithms through to finely
+tuned tasks that efficiently use as much CPU power as you can bring to
+bear. Speed-ups of 10-500* can be expected for the Mandelbrot code
+we'll use.&lt;/p&gt;
+&lt;p&gt;In this talk I'll cover a set of libraries that make CPU-bound tasks run
+much faster. We'll begin with a look at profiling using RunSnakeRun and
+line_profiler to identify our bottleneck. We'll take a look at slow
+algorithms in Python and how they can run faster using numpy and
+numexpr.&lt;/p&gt;
+&lt;p&gt;Next we'll cover the use of multiprocessing to utilise multiple CPU
+cores along with Cython or ShedSkin to easily use C code in a friendly
+Python wrapper. Multiprocessing on a quad-core system can often provide
+a 4* speed-up for the right tasks. Next parallelpython will let us run
+our code on a network of machines.&lt;/p&gt;
+&lt;p&gt;Finally we'll look at pyCUDA to utilise an NVIDIA GPU. CUDA can give the
+best improvements for mathematical problems (over 100* on the right
+tasks) but works on a narrower set of problems.&lt;/p&gt;
+&lt;p&gt;How it'll work: The tutorial will be hands on, you'll be converting
+example files from normal Python to faster variants using the tools
+below. All of it is optional, you'll get the most benefit by having
+everything installed. We'll work in groups and open discussion is
+encouraged.&lt;/p&gt;
+&lt;p&gt;NOTE - you are expected to have all these tools installed &lt;em&gt;before&lt;/em&gt; the
+tutorial (if you don't, you might find it hard to follow what's going
+on!).&lt;/p&gt;
+&lt;p&gt;I'll be using Python 2.7.1 on a Macbook (Snow Leopard). All of these
+tools run on Windows and Linux, as long as your versions are fairly
+recent everything should run just fine.&lt;/p&gt;
+&lt;p&gt;My versions (roughly ordered by importance):&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Python 2.7.1&lt;/li&gt;
+&lt;li&gt;RunSnakeRun 2.0.1b6 (with wxPython 2.8.12.0 Unicode)&lt;/li&gt;
+&lt;li&gt;line_profiler (1.0b2)&lt;/li&gt;
+&lt;li&gt;Cython 0.14.1&lt;/li&gt;
+&lt;li&gt;ShedSkin 0.7.1&lt;/li&gt;
+&lt;li&gt;numpy 1.5.1&lt;/li&gt;
+&lt;li&gt;numexpr 1.4.2&lt;/li&gt;
+&lt;li&gt;ParallelPython 1.6.1&lt;/li&gt;
+&lt;li&gt;pyCUDA HEAD from git as of 14th June 2011 (with CUDA 4.0 drivers)&lt;/li&gt;
+&lt;li&gt;PyPy 1.5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some background reading:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://ianozsvald.com/2010/07/14/22937-faster-python-math-using-pycuda/"&gt;http://ianozsvald.com/2010/07/14/22937-faster-python-math-using-pycuda/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://ianozsvald.com/2008/11/17/making-python-math-196-faster-with-shedskin/"&gt;http://ianozsvald.com/2008/11/17/making-python-math-196-faster-with-shedskin/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ian Ozsvald</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-18:europython-2011/experiences-making-cpu-bound-tasks-run-much-faste.html</guid><category>cython</category><category>git</category><category>multiprocessing</category><category>network</category><category>numpy</category><category>nvidia</category><category>profiling</category><category>pycuda</category><category>runsnakerun</category><category>tutorial</category><category>windows</category><category>wxpython</category></item><item><title>Python(x,y): diving into scientific Python</title><link>http://pyvideo.org/europython-2011/pythonxy-diving-into-scientific-python.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Vincent Noel - 22 June 2011 in &amp;quot;Training Pizza
+Margherita &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This training session will introduce the Python scientific stack to
+beginner or intermediate-level Python programmers. The basics of
+scientific programming with Python will be presented:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;creation of arrays and structured arrays using numpy&lt;/li&gt;
+&lt;li&gt;fast, loopless manipulation of numpy arrays through fancy indexing
+and vectorized functions&lt;/li&gt;
+&lt;li&gt;convenient saving/loading of array variables using numpy&lt;/li&gt;
+&lt;li&gt;improved interactive use through ipython&lt;/li&gt;
+&lt;li&gt;data analysis using various scipy modules (signal analysis, image
+classification, etc)&lt;/li&gt;
+&lt;li&gt;plotting large time series, histograms, scatterplots, images etc.
+using matplotlib&lt;/li&gt;
+&lt;li&gt;saving/loading large datasets in structured scientific formats such
+as netCDF, HDF (depending on interest)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These concepts will be used in coding exercises, in the programming
+environnement provided by the Python(x,y) distribution, which is freely
+downloadable and includes recent versions of Python, numpy and
+matplotlib. The Python(x,y) distribution runs on Windows, which will be
+the OS of choice for this session. You should still be able to follow
+the examples in other Python distributions, e.g. EPD.&lt;/p&gt;
+&lt;p&gt;The entire talk (PDF), code samples and data files can be downloaded
+from the following
+&lt;a class="reference external" href="http://www.lmd.polytechnique.fr/~noel/EP2011/DivingIntoSci%20entificPython.zip"&gt;archive&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vincent Noel</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-13:europython-2011/pythonxy-diving-into-scientific-python.html</guid><category>analysis</category><category>datasets</category><category>image</category><category>numpy</category><category>python,</category><category>scientific</category><category>scipy</category></item><item><title>Weather field warping using Python</title><link>http://pyvideo.org/pycon-au-2011/weather-field-warping-using-python.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python is a great language for prototyping computer vision algorithms,
+the availability of libraries such as Numpy and Scipy make for rapid
+development similar to that of Matlab, R and IDL. At the Bureau of
+Meteorology (BoM) we are solving the interesting problem of weather
+field warping. Warping (aka non-linear image registration) is used, for
+example, to determine what the predicted temperature will be hourly if
+we only have predictions every three hours&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nathan Faggian</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-08-22:pycon-au-2011/weather-field-warping-using-python.html</guid><category>numpy</category><category>prototyping</category></item><item><title>Was Sie schon immer über „Visualisierung mit Python“ wissen wollten</title><link>http://pyvideo.org/pycon-de-2013/was-sie-schon-immer-uber-visualisierung-mit-pyth.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Schon lange hat sich Python in den Software-Entwicklungsabteilungen von
+Forschung und Industrie etabliert, nicht zuletzt wegen der Verbreitung
+von Bibliotheken wie SciPy oder Matplotlib. Bei der Verarbeitung großer
+Datenmengen oder im Zusammenspiel mit GUI-Toolkits stößt man aber leicht
+an die Grenzen der interpretativen Programmierung.&lt;/p&gt;
+&lt;p&gt;Der Vortrag zeigt auf, wie solche Anforderung auf der Basis des &lt;em&gt;GR
+Frameworks&lt;/em&gt;, einer &amp;quot;Lightweight&amp;quot;-Alternative zu Matplotlib, umgesetzt
+werden können. Im Einzelnen wird beschrieben wie man mit aktuellen
+Software-Technologien Echtzeit-Anwendungen oder rechenintensive
+Simulationen in Python realisieren kann. So lässt sich zum Beispiel
+durch die Verwendung von Just-In-Time Kompilierung mit Numba(Pro) eine
+enorme Performance-Steigerung erzielen. An konkreten Beispielen werden
+die Vorzüge des &lt;em&gt;GR Frameworks&lt;/em&gt; im Zusammenspiel mit JIT-Compilern,
+graphischen Benutzeroberflächen (GUIs) sowie OpenGL, aber auch vor dem
+Hintergrund einer stetig ansteigenden Paketflut beschrieben.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Josef Heinen</dc:creator><pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-17:pycon-de-2013/was-sie-schon-immer-uber-visualisierung-mit-pyth.html</guid><category>accelerate</category><category>anaconda</category><category>numba</category><category>numpy</category><category>opengl</category><category>pyqt</category><category>python</category><category>visualisierung</category></item><item><title>Entwicklung wissenschaftlicher Applikationen mit Python</title><link>http://pyvideo.org/pycon-de-2013/entwicklung-wissenschaftlicher-applikationen-mit.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Durch Experimente und Simulationen werden im wissenschaftlichen Bereich
+große Mengen an Daten erzeugt. Diese müssen geeignet aufbereitet werden,
+um sie in eine für die Wissenschaftler verständliche Form zu überführen.
+Ein Beispiel dafür ist die Untersuchung von Phasenwechselmaterialien,
+welche in wiederbeschreibbaren optischen Medien eingesetzt werden. Der
+beim Löschen und Beschreiben eintretende Wechsel zwischen kristallinem
+und amorphen Zustand wird auf Großrechnern simuliert und die
+resultierende molekulare Struktur auf Hohlstellen hin untersucht, da
+diese Rückschlüsse auf das Verhalten des Materials zulassen. Den Kern
+der Präsentation nimmt die Entwicklung der Anwendung &lt;em&gt;pyMolDyn&lt;/em&gt; ein,
+welche die Analyse und Visualisierung der Moleküle und Hohlstellen
+übernimmt.&lt;/p&gt;
+&lt;p&gt;Dieser Vortrag gibt einen Einblick in die Erfahrungen, die während der
+mehrjährigen Entwicklung dieser Software gesammelt wurden. Zum einen
+wird dabei die rechenintensive Analyse der Daten betrachtet und wie
+diese durch Verwendung von NumPy und (py)OpenCL vereinfacht und
+beschleunigt werden kann. Zum anderen werden die grafischen
+Anwendungskomponenten beschrieben, welche mithilfe von wxPython,
+(py)OpenGL und einem gezielten Zusammenspiel dieser beiden Pakete
+umgesetzt werden konnten. Neben Performance und Einfachheit der
+Programmierung werden auch die gewonnenen Eindrücke zu
+Plattformunabhängigkeit und Interversionskompatibilität vorgestellt.
+Weiterhin werden Eigenheiten der Anwendungsentwicklung im Bereich der
+Forschung erläutert und es wird darauf eingegangen, welche Stärken und
+Schwächen Python in diesem Zusammenhang bietet. Abschließend folgt ein
+Überblick darüber, wie sich die weitere Entwicklung von &lt;em&gt;pyMolDyn&lt;/em&gt;
+gestalten wird und welche Konsequenzen die gesammelten Erfahrungen in
+Zukunft für das Projekt haben werden.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florian Rhiem</dc:creator><pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-15:pycon-de-2013/entwicklung-wissenschaftlicher-applikationen-mit.html</guid><category>anwendungsentwicklung</category><category>numpy</category><category>opencl</category><category>opengl</category><category>python</category><category>visualisierung</category><category>wxpython</category></item><item><title>Über die Verwendung von Python zur Strukturanalyse von Schiffen</title><link>http://pyvideo.org/pycon-de-2013/uber-die-verwendung-von-python-zur-strukturanalys.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Der Germanische Lloyd ist ein international tätiges technisches
+Dienstleistungsunternehmen, das sich mit u.a. mit der
+sicherheitsrelevanten Bewertung von Schiffsstrukturen befasst.&lt;/p&gt;
+&lt;p&gt;Für die Festigkeits- und Schwingungsberechnung von neuen Konstruktionen
+wurden und werden beim Germanischen Lloyd Python Tools eingesetzt. Diese
+dienen zur Manipulation von Berechnungsmodellen, zur Bereitstellung von
+Simulationsmodellen in unterschiedlichste Berechnungsformate, zur
+Kopplung unterschiedlicher (kommerzieller und nicht kommerzieller)
+Berechnungsprogramme, zur Implementierung eigener Berechnungsverfahren
+sowie zur Ergebnisdarstellung. Für die unterschiedlichen Aufgaben werden
+verschiedene frei verfügbare Bibliotheken wie numpy oder scipy sowie
+eigene in C, C++ und FORTRAN geschriebene Extensions und Module
+eingesetzt. Für die Anbindung der Extensions an Python werden sowohl
+Interface Generatoren (f2py, Cython) als auch handgeschriebener Code
+unter Verwendung der Python C API verwendet.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Berthold Höllmann</dc:creator><pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-15:pycon-de-2013/uber-die-verwendung-von-python-zur-strukturanalys.html</guid><category>extension</category><category>fem</category><category>numpy</category></item><item><title>Python in quantitative finance (#158)</title><link>http://pyvideo.org/pycon-us-2010/python-in-quantitative-finance-158.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python in quantitative finance&lt;/p&gt;
+&lt;p&gt;Presented by Wes McKinney (AQR Capital Management, LLC)&lt;/p&gt;
+&lt;p&gt;This talk will show how Python and libraries such as NumPy were
+instrumental at AQR for building a robust research platform for
+prototyping and implementing quantitative trading models. We will
+discuss many different tools, including pandas, a new open source
+library designed for analyzing common financial and economic data sets.&lt;/p&gt;
+&lt;p&gt;A variety of examples will be presented to explore Python's current
+status as a replacement for other statistical computing environments (as
+compared with R, MATLAB, or other commercial and open-source statistical
+products).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Wes McKinney</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/python-in-quantitative-finance-158.html</guid><category>numpy</category><category>pandas</category><category>pycon</category><category>pycon2010</category></item></channel></rss>

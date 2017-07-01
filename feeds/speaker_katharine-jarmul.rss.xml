@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 08 Apr 2017 00:00:00 +0000</lastBuildDate><item><title>Building Data Pipelines with Python</title><link>http://pyvideo.org/pycon-sk-2017/building-data-pipelines-with-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Manging data at a company of any size can be a pain. Data pipelines and other automation workflows can help! In this talk, we'll cover how to determine if a task or data process is a good candidate for automation and review some likely frameworks you can use to do so: like Spotify's Luigi and Airbnb's Airflow. The talk will also cover potential issues in automation and how to best validate proper data processing with your new pipeline.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katharine Jarmul</dc:creator><pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-03-11:pycon-sk-2017/building-data-pipelines-with-python.html</guid></item><item><title>Ethical Machine Learning: Creating Fair Models in an Unjust World</title><link>http://pyvideo.org/pydata-amsterdam-2017/ethical-machine-learning-creating-fair-models-in-an-unjust-world.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Amsterdam 2017&lt;/p&gt;
+&lt;p&gt;The increased use of machine learning (both simple and advanced) to make decisions that impact business and at times, our culture and our lives, is simply a fact of our current world. Determining ways to make accountable, fair and ethical decisions when using AI or machine learning is a subject of much debate and current research. Join the conversation and explore how we can help build a more just&lt;/p&gt;
+&lt;p&gt;This talk aims to cover the current research in training and producing ethical and fair machine learning models. Based on many papers released in the past year, we can see we have a massive problem when it comes to AI and machine learning algorithms and models which make (often accurate) biased decisions based on race, location and gender. As machine learning researchers, data engineers and scientists, our decisions in choosing accuracy over ethics (or the opposite) can impact our lives, our research but also the world. This talk will provide questions and (some) answers about how to fight prejudicial training and work to create less prejudiced models in a biased world.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katharine Jarmul</dc:creator><pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-04-08:pydata-amsterdam-2017/ethical-machine-learning-creating-fair-models-in-an-unjust-world.html</guid></item><item><title>I Hate You, NLP... ;)</title><link>http://pyvideo.org/europython-2016/i-hate-you-nlp.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Katharine Jarmul - I Hate You, NLP... ;)
+[EuroPython 2016]
+[21 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/i-hate-you-nlp"&gt;https://ep2016.europython.eu//conference/talks/i-hate-you-nlp&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;In an era of almost-unlimited textual data, accurate sentiment
+analysis can be the key for determining if our products, services and
+communities are delighting or aggravating others. We'll take a look at
+the sentiment analysis landscape in Python: touching on simple
+libraries and approaches to try as well as more complex systems based
+on machine learning.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;div class="section" id="overview"&gt;
+&lt;h4&gt;Overview&lt;/h4&gt;
+&lt;p&gt;This talk aims to introduce the audience to the wide array of tools
+available in Python focused on sentiment analysis. It will cover basic
+semantic mapping, emoticon mapping as well as some of the more recent
+developments in applying neural networks, machine learning and deep
+learning to natural language processing. Participants will also learn
+some of the pitfalls of the different approaches and see some hands-on
+code for sentiment analysis.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="outline"&gt;
+&lt;h4&gt;Outline&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;NLP: then and now&lt;/li&gt;
+&lt;li&gt;Why Emotions Are Hard&lt;/li&gt;
+&lt;li&gt;Simple Analysis&lt;/li&gt;
+&lt;li&gt;TextBlob (&amp;amp; other available libraries)&lt;/li&gt;
+&lt;li&gt;Bag of Words&lt;/li&gt;
+&lt;li&gt;Naive Bayes&lt;/li&gt;
+&lt;li&gt;Complex Analysis&lt;/li&gt;
+&lt;li&gt;Preprocessing with word2vec&lt;/li&gt;
+&lt;li&gt;Metamind &amp;amp; RNLN&lt;/li&gt;
+&lt;li&gt;Optimus &amp;amp; CNN&lt;/li&gt;
+&lt;li&gt;TensorFlow&lt;/li&gt;
+&lt;li&gt;Watson&lt;/li&gt;
+&lt;li&gt;Live Demo&lt;/li&gt;
+&lt;li&gt;Q&amp;amp;A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katharine Jarmul</dc:creator><pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-04:europython-2016/i-hate-you-nlp.html</guid></item><item><title>Holy D@t*! How to Deal with Imperfect, Unclean Datasets</title><link>http://pyvideo.org/pydata-london-2016/katharine-jarmul-holy-dt-how-to-deal-with-imperfect-unclean-datasets.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Berlin 2016&lt;/p&gt;
+&lt;p&gt;Ever wondered what sort of sick person created the datasets you work with? Sadly, we can't answer that question directly, but we can aim to handle messy data problems. From the non-significant or null datasets, to unclean and unclear string data, to difficult formats like PDFs, we'll take a closer look at how to best work with imperfect data and what questions you can answer given your datasets.&lt;/p&gt;
+&lt;p&gt;This talk will cover how to handle and manage working with unclean and imperfect datasets. We'll cover several issues and suggestions as well as some code examples for managing that messy data.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;The Noble Quest against Messy Data&lt;/li&gt;
+&lt;li&gt;Working with null data&lt;/li&gt;
+&lt;li&gt;Insignificant data&lt;/li&gt;
+&lt;li&gt;Messy strings Regex Fuzzy Match&lt;/li&gt;
+&lt;li&gt;XML / HTML Data&lt;/li&gt;
+&lt;li&gt;PDF Data&lt;/li&gt;
+&lt;li&gt;Where to go from here&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Slides: &lt;a class="reference external" href="https://docs.google.com/presentation/d/1G-lgHKTdrqeeJhcvVmd7C9gOIfTRe429zhBN6lmKKzA/"&gt;https://docs.google.com/presentation/d/1G-lgHKTdrqeeJhcvVmd7C9gOIfTRe429zhBN6lmKKzA/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katharine Jarmul</dc:creator><pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-05-31:pydata-london-2016/katharine-jarmul-holy-dt-how-to-deal-with-imperfect-unclean-datasets.html</guid></item><item><title>Data wrangling with Python</title><link>http://pyvideo.org/djangocon-europe-2015/katherine-jarmul-data-wrangling-with-python-at.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katharine Jarmul</dc:creator><pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-10:djangocon-europe-2015/katherine-jarmul-data-wrangling-with-python-at.html</guid></item><item><title>Y'all Wanna Scrape with Us? Content Ain't a Thing : Web Scraping With Our Favorite Python Libraries</title><link>http://pyvideo.org/djangocon-2011/djangocon-2011--y--39-all-wanna-scrape-with-us--c.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Y'all Wanna Scrape with Us? Content Ain't a Thing: Web Scraping With Our
+Favorite Python Libraries&lt;/p&gt;
+&lt;p&gt;Presented by Katharine Jarmul&lt;/p&gt;
+&lt;p&gt;Love or hate them, the top python scraping libraries have some hidden
+gems and tricks that you can use to enhance, update and diversify your
+Django models. This talk will teach you more advanced techniques to
+aggregate content from RSS feeds, Twitter, Tumblr and normal old web
+sites for your Django projects.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katharine Jarmul</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--y--39-all-wanna-scrape-with-us--c.html</guid><category>djangocon</category><category>djangocon2011</category><category>lxml</category><category>scraping</category><category>web</category></item><item><title>Python for Programmers: A Project-Based Tutorial</title><link>http://pyvideo.org/pycon-us-2013/python-for-programmers-a-project-based-tutorial.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Are you a Python-curious programmer? Learn by writing your first
+project! You'll build a complete quiz creation web application. We will
+cover topics from data structures and classes, to debugging and testing.&lt;/p&gt;
+&lt;p&gt;Before the day of the workshop, you will need to have Python 2.7,
+CherryPy, IPython, and Jinja2 installed. Alternatively, you may arrive
+at the venue an hour early to receive assistance.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexandra Strong</dc:creator><pubDate>Wed, 13 Mar 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-03-13:pycon-us-2013/python-for-programmers-a-project-based-tutorial.html</guid><category>tutorial</category></item><item><title>Introduction to Web (and data!) Scraping with Python</title><link>http://pyvideo.org/pycon-us-2014/introduction-to-web-and-data-scraping-with-pyt.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Want to learn how to scrape the web (and / or organized data sets and
+APIs) for content? This tutorial will give you the building blocks (and
+code) to begin your own scraping adventures. We will review basic data
+scraping, API usage, form submission as well as how to scrape pesky bits
+like Javascript-usage for DOM manipulation.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katharine Jarmul</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-04-12:pycon-us-2014/introduction-to-web-and-data-scraping-with-pyt.html</guid></item><item><title>Python Scraping Showdown: A performance and accuracy review</title><link>http://pyvideo.org/pycon-us-2014/python-scraping-showdown-a-performance-and-accur.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Ever wondered how python web-scraping libraries compare in terms of
+speed and accuracy? I'll review lxml, html5lib, BeautifulSoup and scrapy
+with a series of sites evaluating how quickly they can parse pages and
+how accurately they can find data, particularly pieces of data that
+render after DOM loading and other pesky bits like hidden form data,
+internationalized data and mobile-compliant sites.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katharine Jarmul</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-04-12:pycon-us-2014/python-scraping-showdown-a-performance-and-accur.html</guid></item></channel></rss>

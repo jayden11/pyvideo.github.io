@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_dataanalysis.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>1990-01-01T00:00:00+00:00</updated><entry><title>PyGotham 2011: Powerful Pythonic data analysis using pandas</title><link href="http://pyvideo.org/pygotham-2011/pygotham-2011--powerful-pythonic-data-analysis-us.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Wes McKinney</name></author><id>tag:pyvideo.org,1990-01-01:pygotham-2011/pygotham-2011--powerful-pythonic-data-analysis-us.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In this talk I will give an overview on the pandas data analysis package
+for Python, its features, and plans for future development. I'll use
+various interesting data sets to illustrate the features and give
+motivation for how the tools can be applied in a diverse set of fields.&lt;/p&gt;
+</summary><category term="dataanalysis"></category><category term="pandas"></category><category term="pygotham"></category><category term="pygotham2011"></category></entry></feed>

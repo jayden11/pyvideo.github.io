@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 05 Aug 2016 00:00:00 +0000</lastBuildDate><item><title>PySpark - Data processing in Python on top of Apache Spark.</title><link>http://pyvideo.org/europython-2015/pyspark-data-processing-in-python-on-top-of-apache-spark.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Peter Hoffmann - PySpark - Data processing in Python on top of Apache Spark.
+[EuroPython 2015]
+[22 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;[Apache Spark][1] is a computational engine for large-scale data processing. It
+is responsible for scheduling, distribution and monitoring applications which
+consist of many computational task across many worker machines on a computing
+cluster.&lt;/p&gt;
+&lt;p&gt;This Talk will give an overview of PySpark with a focus on Resilient
+Distributed Datasets and the DataFrame API. While Spark Core itself is written
+in Scala and runs on the JVM, PySpark exposes the Spark programming model to
+Python. It defines an API for Resilient Distributed Datasets (RDDs). RDDs are a
+distributed memory abstraction that lets programmers perform in-memory
+computations on large clusters in a fault-tolerant manner. RDDs are immutable,
+partitioned collections of objects. Transformations construct a new RDD from a
+previous one. Actions compute a result based on an RDD. Multiple
+computation steps
+are expressed as directed acyclic graph (DAG). The DAG execution model is
+a generalization of the Hadoop MapReduce computation model.&lt;/p&gt;
+&lt;p&gt;The Spark DataFrame API was introduced in Spark 1.3. DataFrames envolve Spark's
+RDD model and are inspired by Pandas and R data frames. The API provides
+simplified operators for filtering, aggregating, and projecting over large
+datasets. The DataFrame API supports diffferent data sources like JSON
+datasources, Parquet files, Hive tables and JDBC database connections.&lt;/p&gt;
+&lt;p&gt;Resources:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;[An Architecture for Fast and General Data Processing on Large Clusters][2] Matei Zaharia&lt;/li&gt;
+&lt;li&gt;[Spark][6] Cluster Computing with Working Sets - Matei Zaharia et al.&lt;/li&gt;
+&lt;li&gt;[Resilient Distributed Datasets][5] A Fault-Tolerant Abstraction for In-Memory Cluster Computing -Matei Zaharia et al.&lt;/li&gt;
+&lt;li&gt;[Learning Spark][3] Lightning Fast Big Data Analysis - Oreilly&lt;/li&gt;
+&lt;li&gt;[Advanced Analytics with Spark][4] Patterns for Learning from Data at Scale - Oreilly&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[1]: &lt;a class="reference external" href="https://spark.apache.org"&gt;https://spark.apache.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2]: &lt;a class="reference external" href="http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-12.pdf"&gt;http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-12.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3]: &lt;a class="reference external" href="http://shop.oreilly.com/product/0636920028512.do"&gt;http://shop.oreilly.com/product/0636920028512.do&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[4]: &lt;a class="reference external" href="http://shop.oreilly.com/product/0636920035091.do"&gt;http://shop.oreilly.com/product/0636920035091.do&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[5]: &lt;a class="reference external" href="https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf"&gt;https://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[6]: &lt;a class="reference external" href="http://www.cs.berkeley.edu/~matei/papers/2010/hotcloud_spark.pdf"&gt;http://www.cs.berkeley.edu/~matei/papers/2010/hotcloud_spark.pdf&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Hoffmann</dc:creator><pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-03:europython-2015/pyspark-data-processing-in-python-on-top-of-apache-spark.html</guid><category>pyspark</category></item><item><title>SQLAlchemy as the backbone of a Data Science company</title><link>http://pyvideo.org/europython-2016/sqlalchemy-as-the-backbone-of-a-data-science-company.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Peter Hoffmann - SQLAlchemy as the backbone of a Data Science company
+[EuroPython 2016]
+[20 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/sqlalchemy-as-the-backbone-of-a-data-science-company"&gt;https://ep2016.europython.eu//conference/talks/sqlalchemy-as-the-backbone-of-a-data-science-company&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;In times of NoSQL databases and Map Reduce Algorithms it's surprising how far
+you can scale the relational data model. At &lt;a class="reference external" href="http://blue-yonder.com"&gt;Blue Yonder&lt;/a&gt;
+we use SQLAlchemy in all stages of our data science workflows and handle tenth
+of billions of records to feed our predictive algorithms. This talk will dive
+into SQLAlchemy beyond the Object Relational Mapping (ORM) parts and conentrate
+on the SQLAlchemy Core API, the Expression Language and Database Migrations
+with Alembic.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;In times of NoSQL databases and Map Reduce Algorithms it's surprising how far
+you can scale the relational data model. At &lt;a class="reference external" href="http://blue-yonder.com"&gt;Blue Yonder&lt;/a&gt;
+we use SQLAlchemy in all stages of our data science workflows and handle tenth
+of billions of records to feed our predictive algorithms. This talk will dive
+into SQLAlchemy beyond the Object Relational Mapping (ORM) parts and conentrate
+on the SQLAlchemy Core API and the Expression Language:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Database Abstraction&lt;/strong&gt;: Statements are generated properly for different database vendor and type without you having to think about it.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Security&lt;/strong&gt;: Database input is escaped and sanitized prior to beeing commited to the database. This prevents against common SQL injection attacks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Composability and Reuse&lt;/strong&gt;: Common building blocks of queries are expressed as SQLAlchemy selectables and can be reuesd in other queries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Testability&lt;/strong&gt;: SQLAlchemy allows you to perform functional tests against a database or mock out queries and connections.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reflection&lt;/strong&gt;: Reflection is a technique that allows you to generate a SQLAlchemy repesentation from an existing database. You can reflect tables, views, indexes, and foreign keys.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As a result of the usage of SQLAlchemy in Blue Yonder, we have implemented and
+open sourced a SQLAlchemy dialect for the in memory, column-oriented database
+system &lt;a class="reference external" href="https://github.com/blue-yonder/sqlalchemy_exasol"&gt;EXASolution&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Hoffmann</dc:creator><pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-05:europython-2016/sqlalchemy-as-the-backbone-of-a-data-science-company.html</guid></item><item><title>log everything with logstash and elasticsearch</title><link>http://pyvideo.org/europython-2014/log-everything-with-logstash-and-elasticsearch.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;When your application grows beyond one machine you need a central space
+to log, monitor and analyze what is going on. Logstash and elasticsearch
+let you store your logs in a structured way. Kibana is a web fronted to
+search and aggregate your logs. The talk gives an overview on how to add
+centralized, structured logging to a python application running on
+multiple servers. It focuses on useful patterns and shows the benefits
+from structured logging.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Hoffmann</dc:creator><pubDate>Tue, 22 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-22:europython-2014/log-everything-with-logstash-and-elasticsearch.html</guid></item></channel></rss>

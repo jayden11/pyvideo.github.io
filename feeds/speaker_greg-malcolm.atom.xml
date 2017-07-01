@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_greg-malcolm.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2012-07-29T00:00:00+00:00</updated><entry><title>Learn Python TDD Style with Python Koans</title><link href="http://pyvideo.org/pyohio-2012/learn-python-tdd-style-with-python-koans.html" rel="alternate"></link><published>2012-07-29T00:00:00+00:00</published><updated>2012-07-29T00:00:00+00:00</updated><author><name>Greg Malcolm</name></author><id>tag:pyvideo.org,2012-07-29:pyohio-2012/learn-python-tdd-style-with-python-koans.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This is a hands-on workshop for learning Python, mixed into a Test
+Driven Development setting.&lt;/p&gt;
+</summary></entry></feed>

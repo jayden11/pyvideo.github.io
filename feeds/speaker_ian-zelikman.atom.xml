@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_ian-zelikman.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-17T00:00:00+00:00</updated><entry><title>Contract-First API Development Using The OpenAPI Specification (Swagger)</title><link href="http://pyvideo.org/pycon-us-2017/contract-first-api-development-using-the-openapi-specification-swagger.html" rel="alternate"></link><published>2017-05-17T00:00:00+00:00</published><updated>2017-05-17T00:00:00+00:00</updated><author><name>Dave Forgac</name></author><id>tag:pyvideo.org,2017-05-17:pycon-us-2017/contract-first-api-development-using-the-openapi-specification-swagger.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Often developers will implement APIs and then only after they’re
+released think about things like specifications and documentation.
+Instead we can make the design of the API contract an explicit part of
+our development process using The OpenAPI Specification (Swagger) and
+open source tools.&lt;/p&gt;
+&lt;p&gt;In this workshop we will:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Discuss the contract-first approach&lt;/li&gt;
+&lt;li&gt;Build and validate a simple OpenAPI Specification&lt;/li&gt;
+&lt;li&gt;Generate reference documentation and show how you can incorporate it
+with other docs&lt;/li&gt;
+&lt;li&gt;Run a mock server so clients can test using the API&lt;/li&gt;
+&lt;li&gt;Generate stub code based on the specification&lt;/li&gt;
+&lt;li&gt;Implement a basic working API using Flask&lt;/li&gt;
+&lt;li&gt;Show how you can iteratively add features and make changes&lt;/li&gt;
+&lt;li&gt;Discuss generating specifications for existing APIs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Participants will leave with:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;An understanding of how to incorporate a contract-first process into
+their API development workflow&lt;/li&gt;
+&lt;li&gt;An example specification that can be used as reference for their own
+API design&lt;/li&gt;
+&lt;li&gt;Working code for a basic API that can be used as a basis for their
+own development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Participants are expected to have a basic familiarity with HTTP /
+RESTful APIs, understanding of simple git operations, and some
+development experience.&lt;/p&gt;
+</summary></entry><entry><title>Fake It Before You Make It: Mocking Your Way to Better HTTP APIs</title><link href="http://pyvideo.org/pyohio-2016/fake-it-before-you-make-it-mocking-your-way-to-better-http-apis.html" rel="alternate"></link><published>2016-07-31T00:00:00+00:00</published><updated>2016-07-31T00:00:00+00:00</updated><author><name>Ian Zelikman</name></author><id>tag:pyvideo.org,2016-07-31:pyohio-2016/fake-it-before-you-make-it-mocking-your-way-to-better-http-apis.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;HTTP/RESTful APIs are often designed and implemented before a client gets to see how they work. Then once an API is made public it can be hard to change. Let's discuss how we can improve this process by explicitly designing the API contract and getting client feedback before implementation. We will examine the process which promotes building HTTP APIs with a design first approach.&lt;/p&gt;
+</summary></entry></feed>

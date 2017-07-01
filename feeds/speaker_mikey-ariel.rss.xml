@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 30 Mar 2016 00:00:00 +0000</lastBuildDate><item><title>FOSS DOCS 101 (keep it simple, present!)</title><link>http://pyvideo.org/europython-2015/foss-docs-101-keep-it-simple-present.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Mikey Ariel - FOSS DOCS 101 (keep it simple, present!)
+[EuroPython 2015]
+[24 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Does your open source project need better documentation? Do you wish
+that new users could get started with your software more easily? Do
+you feel that your code contribution workflow isn't documented well
+enough, or that contributors are discouraged from documenting their
+code? How can you give your project docs the love they deserve?&lt;/p&gt;
+&lt;p&gt;This high-level talk aims to introduce the main principles of
+technical communication in the context of FOSS projects. It is
+intended for anyone who interacts with docs, whether your project is
+fresh off the dev environment or has been around since the dawn of
+Git. Topics include tone, style, process management, structure, and
+contribution workflow.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mikey Ariel</dc:creator><pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-03:europython-2015/foss-docs-101-keep-it-simple-present.html</guid></item><item><title>Healthy Minds in a Healthy Community</title><link>http://pyvideo.org/djangocon-europe-2016/healthy-minds-in-a-healthy-community.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/13"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/healthy-minds-in-a-healthy-community-by-erik-romijn-and-mikey-ariel/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Romijn</dc:creator><pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-03-30:djangocon-europe-2016/healthy-minds-in-a-healthy-community.html</guid><category>django</category></item></channel></rss>

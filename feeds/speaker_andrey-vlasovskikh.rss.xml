@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 22 Sep 2016 00:00:00 +0000</lastBuildDate><item><title>Pycon JP Opening〜Keynote 2016-09-22</title><link>http://pyvideo.org/pycon-japan-2016/pycon-jp-opening-keynote-2016-09-22.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Keynote (10:15)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrey Vlasovskikh</dc:creator><pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-22:pycon-japan-2016/pycon-jp-opening-keynote-2016-09-22.html</guid><category>keynote</category></item><item><title>How you can benefit from type hints</title><link>http://pyvideo.org/europython-2015/how-you-can-benefit-from-type-hints.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Andrey Vlasovskikh - How you can benefit from type hints
+[EuroPython 2015]
+[24 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;PEP 484 introduces type hints for Python 3. Type hints can increase
+readability of our code for both humans and tools and lead to better
+and safer outcomes. And we'll prove it in this talk!&lt;/p&gt;
+&lt;p&gt;We're going to take a closer look at type hints, see practical
+examples of where they can be used and the value they provide.  We'll
+see that simple class types and built-in collection types are often
+enough for our public API's. We'll also discuss how you can benefit
+from type hinting stubs for third-party libraries and briefly cover
+more advanced scenarios like generic types.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrey Vlasovskikh</dc:creator><pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-02:europython-2015/how-you-can-benefit-from-type-hints.html</guid></item></channel></rss>

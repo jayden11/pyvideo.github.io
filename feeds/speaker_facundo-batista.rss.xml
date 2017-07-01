@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 25 Nov 2016 00:00:00 +0000</lastBuildDate><item><title>Bindings, default mutable arguments, y otros quilom... detalles</title><link>http://pyvideo.org/pycon-ar-2016/bindings-default-mutable-arguments-y-otros-quilom-detalles.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyconAR 2016 - Bahía Blanca&lt;/p&gt;
+&lt;p&gt;Bindings, default mutable arguments, y otros quilom... detalles por Facundo Batista&lt;/p&gt;
+&lt;p&gt;Audience level: Intermedia&lt;/p&gt;
+&lt;p&gt;Explicación de distintos aspectos del lenguaje que, aunque unos los encuentra y usa frecuentemente, siempre traen algún que otro problema hasta que se termina entendiendo que es lo que está sucediendo.&lt;/p&gt;
+&lt;p&gt;La charla muestra distintos aspectos del lenguaje que siempre son problemáticos, explicándolos en detalle pero sin entrar en complicaciones, apuntando a entender finalmente que es lo que sucede en esas situaciones de manera de no volver a caer en sus &amp;quot;trampas&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Los temas de la charla son:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Como pensar como un pythonista&lt;/li&gt;
+&lt;li&gt;Default mutable arguments&lt;/li&gt;
+&lt;li&gt;Espacios de nombres&lt;/li&gt;
+&lt;li&gt;Scopes&lt;/li&gt;
+&lt;li&gt;El emparchado del mono&lt;/li&gt;
+&lt;li&gt;Administradores de contexto&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Slides&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://ar.pycon.org/proposals/document/17/51f707a2-148b-4372-9ba8-c036a74a35c1.odp"&gt;http://ar.pycon.org/proposals/document/17/51f707a2-148b-4372-9ba8-c036a74a35c1.odp&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Facundo Batista</dc:creator><pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-25:pycon-ar-2016/bindings-default-mutable-arguments-y-otros-quilom-detalles.html</guid></item><item><title>Entendiendo Unicode</title><link>http://pyvideo.org/europython-2016/entendiendo-unicode.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Facundo Batista - Entendiendo Unicode
+[EuroPython 2016]
+[19 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/entendiendo-unicode"&gt;https://ep2016.europython.eu//conference/talks/entendiendo-unicode&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Charla que explica qué es Unicode y otros conceptos relacionados para
+poder usar esta tecnología&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;La charla muestra de forma teórica/práctica qué son Unicode, las
+planillas de códigos, los caracteres, y las codificaciones, entra en
+detalle en las distintas codificaciones, para saber cómo usarlas,
+ejemplifica las reglas de oro para utilizar Unicode en nuestros
+programa, y termina mostrando algunas funciones útiles para el manejo
+de esa tecnología.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Facundo Batista</dc:creator><pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-05:europython-2016/entendiendo-unicode.html</guid></item><item><title>Lightning Talks 2016-07-22</title><link>http://pyvideo.org/europython-2016/lightning-talks-2016-07-22.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Various speakers - Lightning Talks
+[EuroPython 2016]
+[22 July 2016]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Lightning talks, presented by Harald Massa&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Vitalii Vokhmin - Deploying a Hobby App in Seconds&lt;/li&gt;
+&lt;li&gt;Jernej Makovsek - Selenium Components&lt;/li&gt;
+&lt;li&gt;David Terry - Model-Based Testing&lt;/li&gt;
+&lt;li&gt;Rafael - Considerations at Scale&lt;/li&gt;
+&lt;li&gt;Team Coala - Marketing by Programmers&lt;/li&gt;
+&lt;li&gt;Facundo Batista - Python Argentina&lt;/li&gt;
+&lt;li&gt;Ania Wszeborowska - PyCon PL&lt;/li&gt;
+&lt;li&gt;Anton Coceres - PyCon DE 2016&lt;/li&gt;
+&lt;li&gt;Shai Efrati - The Krihelinator&lt;/li&gt;
+&lt;li&gt;Lars Claussen - Live Hydrological Modelling with 3Di&lt;/li&gt;
+&lt;li&gt;Leonardo Santagada - The XONSH Shell&lt;/li&gt;
+&lt;li&gt;Fabio Pliger - How to Scale Python for Excel Users&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vitalii Vokhmin</dc:creator><pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-05:europython-2016/lightning-talks-2016-07-22.html</guid><category>lightning talks</category></item><item><title>It's not magic: descriptors exposed</title><link>http://pyvideo.org/europython-2016/its-not-magic-descriptors-exposed.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Facundo Batista - It's not magic: descriptors exposed
+[EuroPython 2016]
+[18 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/its-not-magic-descriptors-exposed"&gt;https://ep2016.europython.eu//conference/talks/its-not-magic-descriptors-exposed&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;This talk shows the Python Descriptors, detailing their behaviour with
+a detailed practical example, so we can understand the power and
+flexibility they give. As a bonus track, class decorators are
+explained.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;This talk presents, using a detailed practical example, the Python Descriptos.&lt;/p&gt;
+&lt;p&gt;The behaviour of descriptors mechanisms is detailed, showing their
+power and flexibility.&lt;/p&gt;
+&lt;p&gt;Finally, as a bonus track and to complete the used practical example,
+class descriptors are explained.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Facundo Batista</dc:creator><pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-28:europython-2016/its-not-magic-descriptors-exposed.html</guid></item><item><title>Introducción A Python</title><link>http://pyvideo.org/pycon-ar-2014/introduccion-a-python.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Facundo Batista</dc:creator><pubDate>Fri, 28 Nov 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-11-28:pycon-ar-2014/introduccion-a-python.html</guid></item></channel></rss>

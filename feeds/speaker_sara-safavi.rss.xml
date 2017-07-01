@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 05 Oct 2014 00:00:00 +0000</lastBuildDate><item><title>GIS for Python People</title><link>http://pyvideo.org/pytexas-2014/gis-for-python-people.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;It seems like everyone is talking about GIS lately, but what exactly is
+it, anyway? And more importantly: as a Python user, why should you care?&lt;/p&gt;
+&lt;p&gt;This talk's goal is twofold: first, to try and demystify the basic idea
+of &amp;quot;GIS&amp;quot; for people who are interested in the topic and are coming from
+a Python background. I'll cover general GIS concepts, talk about spatial
+data, and what makes it unique. Second, to show how you might be able to
+use and integrate GIS into your work. I'll go over some of the more
+common Python tools available for working with GIS data, and show
+examples of use-cases. Although I'll briefly touch on major GIS industry
+players, my main focus will be on easily-accessible, free &amp;amp; open source
+tools.&lt;/p&gt;
+&lt;p&gt;This is an all-levels talk: like the title says, this is for &amp;quot;Python
+People&amp;quot;! Whether you consider yourself a seasoned Python developer, an
+enthusiastic fan, or are just getting started: you should be able to
+learn something new while following along with the concepts &amp;amp; examples
+I'll discuss.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sara Safavi</dc:creator><pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-10-05:pytexas-2014/gis-for-python-people.html</guid></item></channel></rss>

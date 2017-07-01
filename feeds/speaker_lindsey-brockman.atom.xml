@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_lindsey-brockman.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-07-26T00:00:00+00:00</updated><entry><title>Make API Calls Wicked Fast with Redis</title><link href="http://pyvideo.org/pyohio-2014/make-api-calls-wicked-fast-with-redis.html" rel="alternate"></link><published>2014-07-26T00:00:00+00:00</published><updated>2014-07-26T00:00:00+00:00</updated><author><name>Lindsey Brockman</name></author><id>tag:pyvideo.org,2014-07-26:pyohio-2014/make-api-calls-wicked-fast-with-redis.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Sure, your API calls may be fast. But could they be faster? Redis is a
+wonderful tool that can be used as a cache API responses. By
+implementing API caching, you can avoid hitting rate limits and/or
+reduce the load on your database, resulting in better performance for
+your web app.&lt;/p&gt;
+</summary><category term="talk"></category></entry></feed>

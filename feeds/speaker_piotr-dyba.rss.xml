@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 16 Oct 2015 00:00:00 +0000</lastBuildDate><item><title>With modern_peripherals: Python and Flask</title><link>http://pyvideo.org/pycon-pl-2015/with-modern_peripherals-python-and-flask.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Auto-scrolling sites, glance-following ads, and gesture friendly web pages are coming! Over the last few years three products emerged that enable interaction with computer in a new way: Myo Armband, Leap Motion Controller and EyeTribe. The Myo Armband is a device that uses the electrical activity in your muscles to wirelessly control your computer, phone, and tablet, which is especially useful when your hands are “tied” or dirty. This device will be used to navigate through the presentation. The Leap Motion Controller tracks both hands in front of the screen. From a web developer’s perspective, both devices allows us to use gestures, previously restricted to touch devices, on desktops. EyeTribe is an affordable eye-tracking device. The talk will briefly cover setting up SDKs and python wrappers, and then focus on possible uses in daily life, business and, of course, web app development. Code examples will be included. In addition, the trade-offs between processing this new type of input data in the client versus processing input on the server will be discussed.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piotr Dyba</dc:creator><pubDate>Fri, 16 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-16:pycon-pl-2015/with-modern_peripherals-python-and-flask.html</guid></item><item><title>with modern_peripherals: Python and Flask</title><link>http://pyvideo.org/europython-2015/with-modern_peripherals-python-and-flask.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Piotr Dyba - with modern_peripherals: Python and Flask
+[EuroPython 2015]
+[20 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;with modern_peripherals:     Python and Flask&lt;/p&gt;
+&lt;p&gt;Auto-scrolling sites, glance-following ads, and gesture friendly web
+pages are coming!&lt;/p&gt;
+&lt;p&gt;Over the last few years three products  emerged that enable
+interaction with computer  in a new way: Myo Armband, Leap Motion
+Controller and EyeTribe. The Myo Armband is a device that uses the
+electrical activity in your muscles to wirelessly control your
+computer, phone, and tablet, which is especially useful when your
+hands are &amp;quot;tied&amp;quot; or dirty.  This device will be used to navigate
+through the presentation. The Leap Motion Controller tracks both hands
+in front of the screen.  From a web developer’s perspective, both
+devices allows us to use gestures, previously  restricted to touch
+devices, on desktops. EyeTribe is an affordable eye-tracking device.&lt;/p&gt;
+&lt;p&gt;The talk will briefly cover setting up SDKs and python wrappers, and
+then focus on possible uses in daily life, business and, of course,
+web app development. Code examples will be included. In addition, the
+trade-offs between processing this new type of input data in the
+client versus processing input on the server will be discussed.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Piotr Dyba</dc:creator><pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-02:europython-2015/with-modern_peripherals-python-and-flask.html</guid></item></channel></rss>

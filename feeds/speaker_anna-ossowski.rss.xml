@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 12 Nov 2016 00:00:00 +0000</lastBuildDate><item><title>Django Tales and how the Django community can change lives.</title><link>http://pyvideo.org/pycon-ireland-2015/django-tales-and-how-the-django-community-can-change-lives.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Django and Python communities can change lives and have changed many lives including my own. I’ve been running the Your Django Story interview series on the Django Girls blog for over a year now. So far I featured 70 amazing women who work with Django. In my talk, I will present our interview series and share 8 Django Tales, stories of 8 inspiring women whose lives were changed by learning Python and Django and becoming involved in the Python and Django communities. I will also share what you can do to help Django Girls grow even more.
+If you’d love to hear inspiring Django Tales, this is the right talk for you :)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anna Ossowski</dc:creator><pubDate>Sat, 24 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-24:pycon-ireland-2015/django-tales-and-how-the-django-community-can-change-lives.html</guid></item><item><title>Rub-a-dub rubber duck: don’t be afraid to debug!</title><link>http://pyvideo.org/pycon-ca-2016/rub-a-dub-rubber-duck-dont-be-afraid-to-debug.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The scenario: You run into a bug, break your code-then you have to
+figure out how to fix it. Do you want to learn what to do when your code
+doesn’t work? How a rubber duck can help? This talk is for you! I’ll
+present debugging strategies, how to prevent frustration, how to become
+a more confident debugger, and where/how to get help. Breaking things is
+the first step to learning how to fix them!&lt;/p&gt;
+&lt;div class="section" id="anna-ossowski-bio"&gt;
+&lt;h4&gt;Anna Ossowski Bio&lt;/h4&gt;
+&lt;p&gt;Anna is currently looking for a new people-focused role in tech. She is
+a former director of the Python Software Foundation, PyCon Open
+Spaces-Chair, DjangoCon US Communications Chair, and group leader of the
+PyLadies Remote group. In her free time she loves speaking at
+conferences and mentoring future speakers. Anna is very passionate about
+diversity and community outreach and wants to encourage more women to
+learn programming because it's awesome!&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anna Ossowski</dc:creator><pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-12:pycon-ca-2016/rub-a-dub-rubber-duck-dont-be-afraid-to-debug.html</guid></item><item><title>Rub-A-Dub Rubber Duck: Don't be Afraid to Debug!</title><link>http://pyvideo.org/djangocon-us-2016/djangocon-us-2016-rub-a-dub-rubber-duck-dont-be-afraid-to-debug-by-anna-ossowski.json.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;DjangoCon US 2016 - Rub-A-Dub Rubber Duck: Don't be Afraid to Debug! by Anna Ossowski&lt;/p&gt;
+&lt;p&gt;Everyone of us knows this scenario, it's part of the daily life of a programmer: You build something and it doesn’t work. You run into a bug, you find a problem, you break your code - and then you have to figure out how to fix it again. This can take 5 minutes, several hours, sometimes even several days. Sometimes you get really frustrated and are about to give up but when you finally find the solution it's the greatest feeling in the world. Do you want to learn how to proceed when your code doesn’t work? Do you want to learn how you can become a better problem solver? Do you want to learn how a rubber duck can help you? Then this talk is for you :) In this talk I will present strategies on how to proceed when you run into a bug or other coding problems. I will also talk about what you can do in order to prevent frustration and how you can learn to be more confident when encountering bugs. My goal is to show that bugs are nothing to be scared of, that you can fix (almost) everything and shouldn’t be afraid of breaking things, and that debugging can be easier than you think it might be if you approach it the right way. Breaking things is the first step to learning how to fix them! This talk is inspired by a blog post I wrote a while ago, which you can find here().&lt;/p&gt;
+&lt;p&gt;Introduction - Who am I? What is this talk about? (2 minutes)
+What is a bug?/What is debugging? (5 minutes)
+Why breaking things is great - Don’t be afraid to break things (3 minutes)
+Why a rubber duck? - Debugging strategies (10 minutes)&lt;/p&gt;
+&lt;p&gt;Reading error messages the right way
+How Google can help
+Rubber ducks, hypothesis, testing different approaches/solutions
+Reproducing bugs
+Breaking your code down into smaller pieces
+Drawing diagrams of code/writing pseudocode
+Reading documentation
+Debugging tools like the django-debug toolbar
+What to do when frustration kicks in (3 minutes)&lt;/p&gt;
+&lt;p&gt;Where/how to get help (2 minutes)
+Q&amp;amp;A (5 minutes)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anna Ossowski</dc:creator><pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-10:djangocon-us-2016/djangocon-us-2016-rub-a-dub-rubber-duck-dont-be-afraid-to-debug-by-anna-ossowski.json.html</guid></item><item><title>Rub-a-Dub Rubber Duck: Don’t Be Afraid to Debug!</title><link>http://pyvideo.org/djangocon-europe-2016/rub-a-dub-rubber-duck-dont-be-afraid-to-debug.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/1"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/rub-a-dub-rubber-duck-dont-be-afraid-to-debug-by-anna-ossowski/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anna Ossowski</dc:creator><pubDate>Wed, 30 Mar 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-03-30:djangocon-europe-2016/rub-a-dub-rubber-duck-dont-be-afraid-to-debug.html</guid><category>django</category></item><item><title>Django Tales: How Django and Its Community Can Change Lives</title><link>http://pyvideo.org/djangocon-2015/django-tales-how-django-and-its-community-can-by.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Django Tales: How Django and Its Community Can Change Lives by Anna
+Ossowski&lt;/p&gt;
+&lt;p&gt;&amp;quot;I came for the framework but I stayed for the community.“ Many people
+make this statement when asked &amp;quot;Why Django?“. The Django community can
+change lives and has changed many lives, including my own. I’d like to
+share Django Tales with you, stories of inspiring women whose lives were
+changed by learning Django and becoming involved in the community. But
+what is it that makes the Django community so special and awesome? What
+do we all love about Django and its community? There is no doubt that
+the Django community is great but we’re not done yet! There are things
+we can improve. So what can we do better? And how can you help improve
+our community? How can you help people become part of our community? If
+you’re curious about the answers to those questions and would love to
+hear inspiring Django Tales, then this is the right talk for you :)&lt;/p&gt;
+&lt;p&gt;Some things I will talk about:&lt;/p&gt;
+&lt;p&gt;The &amp;quot;Your Django Story“ interview series on the Django Girls blog&lt;/p&gt;
+&lt;p&gt;Why Django Stories?&lt;/p&gt;
+&lt;p&gt;How Django can change lives: Stories of awesome whose lives were changed
+by learning Django&lt;/p&gt;
+&lt;p&gt;What’s awesome about the Django community?&lt;/p&gt;
+&lt;p&gt;We’re not done yet! What can we do better?&lt;/p&gt;
+&lt;p&gt;How can you help people become part of the community/make our community
+better?&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anna Ossowski</dc:creator><pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-18:djangocon-2015/django-tales-how-django-and-its-community-can-by.html</guid></item></channel></rss>

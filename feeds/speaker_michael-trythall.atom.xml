@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_michael-trythall.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-10-01T00:00:00+00:00</updated><entry><title>Customizing the Django Admin</title><link href="http://pyvideo.org/djangocon-2010/djangocon-2010--customizing-the-django-admin.html" rel="alternate"></link><published>2010-09-08T00:00:00+00:00</published><updated>2010-09-08T00:00:00+00:00</updated><author><name>Michael Trythall</name></author><id>tag:pyvideo.org,2010-09-08:djangocon-2010/djangocon-2010--customizing-the-django-admin.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;How to build great admin user interfaces while still leveraging the
+power of the Django's batteries-included admin.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;The Django admin interface is a great tool for rapidly viewing and
+generating content, but its default one size fits all approach may not
+be the best for the users of it.&lt;/p&gt;
+&lt;p&gt;This talk is broken into two parts. First, we will discuss user
+experience and what users have come to expect from an admin tool. In the
+second half, we'll show you how to bend Django's admin to meet those
+expectations.&lt;/p&gt;
+</summary><category term="admin"></category><category term="djangocon"></category><category term="djangocon2010"></category></entry><entry><title>CSS Processors</title><link href="http://pyvideo.org/djangocon-2013/css-processors.html" rel="alternate"></link><published>2013-10-01T00:00:00+00:00</published><updated>2013-10-01T00:00:00+00:00</updated><author><name>Michael Trythall</name></author><id>tag:pyvideo.org,2013-10-01:djangocon-2013/css-processors.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;CSS Preprocessors&lt;/p&gt;
+&lt;p&gt;Tuesday 12:15 p.m.--1 p.m.&lt;/p&gt;
+&lt;p&gt;Audience level: Intermediate&lt;/p&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;p&gt;Preprocessors like Sass and LESS bring basic programming functionality
+to CSS allowing for resilient, configurable front-ends. Learn more about
+these tools, how to use them, how to integrate them into your workflow,
+and how to extend them by opening their hoods. Abstract&lt;/p&gt;
+&lt;p&gt;This talk covers core concepts and syntax, then moves into best
+practices and pitfalls. This talk demonstrates the programming
+capabilities baked into preprocessors with real world scenarios and
+working code samples. The audience will gain the knowledge necessary to
+begin using these tools and learn where to look to stay up-to-date.
+Introduction Capabilities Real World Usage Advanced Usage, a Glance
+Under the Hood Wrap Up/QA&lt;/p&gt;
+</summary></entry></feed>

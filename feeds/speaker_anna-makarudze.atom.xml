@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_anna-makarudze.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-07T00:00:00+00:00</updated><entry><title>Open Source Software Initiatives in Zimbabwe</title><link href="http://pyvideo.org/pycon-za-2016/open-source-software-initiatives-in-zimbabwe.html" rel="alternate"></link><published>2016-10-07T00:00:00+00:00</published><updated>2016-10-07T00:00:00+00:00</updated><author><name>Anna Makarudze</name></author><id>tag:pyvideo.org,2016-10-07:pycon-za-2016/open-source-software-initiatives-in-zimbabwe.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Zimbabwean companies and individuals have been consumers of open source
+software for over a decade now. Nevertheless, developers in Zimbabwe
+have done little in terms of developing an active and vibrant open
+source community until 2015 which saw the establishment of PyZim. This
+is because affiliation to professional bodies is not heavily emphasized
+in most industries, especially the ICT industry. The economic challenges
+facing the country for the past two decades have also made affiliation
+to such organisations a luxury as the country has over 90% unemployment
+rate.&lt;/p&gt;
+&lt;p&gt;Given this background, it is no surprise that setting up a vibrant
+Python user group has been fraught with many challenges. In my talk, I
+intent to share the journey we have traveled in setting up PyZim. I will
+also share our experiences organising Django Girls workshops and PyCon
+Zimbabwe 2016. I will also share with the audience the challenges faced,
+opportunities arising, benefits accrued and important lessons learnt
+through the experiences.&lt;/p&gt;
+</summary></entry></feed>

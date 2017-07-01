@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_benjamin-peterson.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-10T00:00:00+00:00</updated><entry><title>Python Packaging Progress</title><link href="http://pyvideo.org/pycon-russia-2015/python-packaging-progress.html" rel="alternate"></link><published>2015-09-18T00:00:00+00:00</published><updated>2015-09-18T00:00:00+00:00</updated><author><name>Benjamin Peterson</name></author><id>tag:pyvideo.org,2015-09-18:pycon-russia-2015/python-packaging-progress.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python packaging is infamous for being brittle and hard to use. Thankfully, a lot of progress has been made in recent years. This talk will explain some of the components and tools in modern Python packaging including pip, PyPI, virtualenv, and wheels.
+I'd say the talk is for an intermediate to advanced audience. Ideally, attendees will leave with a clearer idea of how Python packaging works as well as an sense of optimism. :)&lt;/p&gt;
+</summary></entry><entry><title>Building Python with Bazel</title><link href="http://pyvideo.org/pycon-israel-2016/building-python-with-bazel.html" rel="alternate"></link><published>2016-10-10T00:00:00+00:00</published><updated>2016-10-10T00:00:00+00:00</updated><author><name>Benjamin Peterson</name></author><id>tag:pyvideo.org,2016-10-10:pycon-israel-2016/building-python-with-bazel.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Bazel is a build system recently open sourced by Google. Even though Python doesn't require 'building' in the traditional way like C++, large code bases can benefit from Bazel's features. Bazel provides powerful tools for expressing and querying dependencies—even between systems in different languages.&lt;/p&gt;
+&lt;p&gt;It also makes it possible to bundle applications with all of their dependencies into a hermetic package for distribution. This talk will cover:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;an introduction to Bazel and how it differs from other build systems,&lt;/li&gt;
+&lt;li&gt;how Bazel can be used with Python, and&lt;/li&gt;
+&lt;li&gt;the limitations of Bazel.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Slides available here: &lt;a class="reference external" href="http://il.pycon.org/2016/static/sessions/benjamin-peterson.pdf"&gt;http://il.pycon.org/2016/static/sessions/benjamin-peterson.pdf&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>How the PyPy JIT works</title><link href="http://pyvideo.org/pycon-us-2012/how-the-pypy-jit-works.html" rel="alternate"></link><published>2012-03-10T00:00:00+00:00</published><updated>2012-03-10T00:00:00+00:00</updated><author><name>Benjamin Peterson</name></author><id>tag:pyvideo.org,2012-03-10:pycon-us-2012/how-the-pypy-jit-works.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The Python community is abuzz about the major speed gains PyPy can offer
+pure Python code. But how does PyPy JIT actually work? This talk will
+discuss how the PyPy JIT is implemented. It will include descriptions of
+the tracing, optimization, and assembly generation phases. I will
+demonstrate each step with a example loop.&lt;/p&gt;
+</summary></entry><entry><title>The Guts of Unicode in Python</title><link href="http://pyvideo.org/pycon-us-2013/the-guts-of-unicode-in-python.html" rel="alternate"></link><published>2013-03-15T00:00:00+00:00</published><updated>2013-03-15T00:00:00+00:00</updated><author><name>Benjamin Peterson</name></author><id>tag:pyvideo.org,2013-03-15:pycon-us-2013/the-guts-of-unicode-in-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This talk will examine how Python's internal Unicode representation has
+changed from its introduction through the latest major changes in Python
+3.3. I'll present properties of the current Unicode implementation like
+algorithmic complexity and standard compliance. The talk will also
+compare Unicode in Python with some other languages. Finally, I'll look
+into the future of Python's Unicode.&lt;/p&gt;
+</summary><category term="talk"></category></entry><entry><title>Garbage Collection in Python</title><link href="http://pyvideo.org/pycon-us-2014/garbage-collection-in-python.html" rel="alternate"></link><published>2014-04-13T00:00:00+00:00</published><updated>2014-04-13T00:00:00+00:00</updated><author><name>Benjamin Peterson</name></author><id>tag:pyvideo.org,2014-04-13:pycon-us-2014/garbage-collection-in-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This talk will explore how garbage collection is implemented in CPython
+and PyPy. See how CPython deals reference counting's shortcomings with a
+special GC for cycle collection. Then dive into PyPy's sophisticated and
+high-performing GC implementations. The particularly thorny issue of
+finalizers in reference cycles will also be addressed.&lt;/p&gt;
+</summary></entry><entry><title>The (Slightly) Less Sorry State of SSL</title><link href="http://pyvideo.org/pycon-us-2015/the-slightly-less-sorry-state-of-ssl.html" rel="alternate"></link><published>2015-04-11T00:00:00+00:00</published><updated>2015-04-11T00:00:00+00:00</updated><author><name>Benjamin Peterson</name></author><id>tag:pyvideo.org,2015-04-11:pycon-us-2015/the-slightly-less-sorry-state-of-ssl.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;We show off the security improvements made to the standard library TLS
+and networking modules over the last year.&lt;/p&gt;
+</summary></entry></feed>

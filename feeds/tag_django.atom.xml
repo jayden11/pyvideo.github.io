@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_django.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-12-30T00:00:00+00:00</updated><entry><title>DjangoCon 2008: Chairman Opening Keynote</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-chairman-opening-keynote.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Robert Lofthouse</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-chairman-opening-keynote.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Conference Chair Robert Lofthouse, Jacob Kaplan-Moss and Leslie Hawthorn welcome attendees to DjangoCon 2008.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008: Code Writing and Design</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-code-writing-and-design.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Malcolm Tredinnick</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-code-writing-and-design.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Malcolm Tredinnick&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008: Django on Jython</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-django-on-jython.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Jim Baker</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-django-on-jython.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speakers: Jim Baker and Leo Soto&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008: GeoDjango</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-geodjango.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Justin Bronn</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-geodjango.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Justin Bronn&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008: High Performance Django</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-high-performance-django.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>David Cramer</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-high-performance-django.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: David Cramer&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008: Inside the ORM</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-inside-the-orm.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Malcolm Tredinnick</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-inside-the-orm.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Malcolm Tredinnick&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http:/www.djangocon.org"&gt;http:/www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Keynote: Adrian Holovaty &amp; Jacob Kaplan-Moss</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-keynote-adrian-holovaty-jacob-kaplan-moss.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Adrian Holovaty</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-keynote-adrian-holovaty-jacob-kaplan-moss.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Adrian Holovaty and Jacob Kaplan-Moss deliver keynote address &amp;quot;Django's Future&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="keynote"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Keynote: Cal Henderson</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-keynote-cal-henderson.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Cal Henderson</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-keynote-cal-henderson.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Cal Henderson delivers keynote address: &amp;quot;Why I Hate Django&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="keynote"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Keynote: Guido van Rossum</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-keynote-guido-van-rossum.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-keynote-guido-van-rossum.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Guido van Rossum, creator of Python, on Django and Google App Engine.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="keynote"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Keynote: Mark Ramm</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-keynote-mark-ramm.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Mark Ramm</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-keynote-mark-ramm.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Mark Ramm delivers keynote address: &amp;quot;Building a better framework - A Turbogears guy on what Django should learn from Zope.&amp;quot;&lt;/p&gt;
+</summary><category term="Django"></category><category term="keynote"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Keynote Questions: State of Django</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-keynote-questions-state-of-django.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Jacob Kaplan-Moss</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-keynote-questions-state-of-django.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Jacob Kaplan-Moss &amp;amp; Adrian Holovaty answer attendee questions following their &amp;quot;State of Django&amp;quot; Keynote&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="keynote"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Lightning Talks</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-lightning-talks.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Various speakers</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-lightning-talks.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Various speakers give short talks on Django and related topics.&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Panel: Django in Journalism</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-panel-django-in-journalism.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Adrian Holovaty</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-django-in-journalism.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderator:
+Adrian Holovaty&lt;/p&gt;
+&lt;p&gt;Panelists:
+Matt Waite, Maura Chace, Matt Croydon, Ben Welsh&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="panel"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Panel: Django Success Stories</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-panel-django-success-stories.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Jacob Kaplan-Moss</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-django-success-stories.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderator:
+Jacob Kaplan-Moss&lt;/p&gt;
+&lt;p&gt;Panelists:
+Matt Croydon, Michael Greer, Joshua Jag Ginsberg, Leah Culver, Andy McCurdy, Jason Yan&lt;/p&gt;
+</summary><category term="Django"></category><category term="panel"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Panel: Django Technical Design</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-panel-django-technical-design.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Michael Trier</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-django-technical-design.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderated by Michael Trier&lt;/p&gt;
+&lt;p&gt;Panelists: Jacob Kaplan-Moss, Adrian Holovaty, Simon Willison, James Bennett, Malcolm Tredinnick&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="panel"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Panel: Schema Evolution</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-panel-schema-evolution.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Michael Trier</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-schema-evolution.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderator:
+Michael Trier&lt;/p&gt;
+&lt;p&gt;Panelists:
+Simon Willison, Russ Keith-Magee, Andrew Godwin&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="panel"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008: Pinax</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-pinax.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>James Tauber</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-pinax.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: James Tauber&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008: Reusable Apps</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-reusable-apps.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>James Bennett</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-reusable-apps.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: James Bennett&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008: ReviewBoard</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-reviewboard.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Christian Hammond</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-reviewboard.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speakers: Christian Hammond &amp;amp; David Trowbridge&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008: Satchmo</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-satchmo.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Chris Moffitt</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-satchmo.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speakers: Chris Moffitt and Bruce Kroeze&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008: TWID Live</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-twid-live.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Michael Trier</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-twid-live.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speakers:
+Michael Trier &amp;amp; Brian Rosner&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008: What's New in Newforms-Admin?</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-whats-new-in-newforms-admin.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Brian Rosner</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-whats-new-in-newforms-admin.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Brian Rosner&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>Efficient Django - PyConES 2016</title><link href="http://pyvideo.org/pycon-es-2016/efficient-django-pycones-2016.html" rel="alternate"></link><published>2016-10-08T00:00:00+00:00</published><updated>2016-10-08T00:00:00+00:00</updated><author><name>David Arcos</name></author><id>tag:pyvideo.org,2016-10-08:pycon-es-2016/efficient-django-pycones-2016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;¿Es Django escalable? ¿Cómo sobrevivir a picos de tráfico? ¿Qué pasa cuando la base de datos crece demasiado? ¿Cómo encontrar los cuellos de botella?&lt;/p&gt;
+&lt;p&gt;Repasaremos los conceptos básicos, utilizaremos métricas para detectar cuellos de botella, y finalmente veremos trucos y consejos para mejorar la escalabilidad y el rendimiento de un proyecto Django.&lt;/p&gt;
+&lt;p&gt;Temas principales:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Arquitectura escalable&lt;/li&gt;
+&lt;li&gt;Rendimiento de la base de datos&lt;/li&gt;
+&lt;li&gt;Detección de cuellos de botella&lt;/li&gt;
+&lt;li&gt;Monitorización, profiling, debugging&lt;/li&gt;
+&lt;li&gt;Optimizacion de queries&lt;/li&gt;
+&lt;li&gt;Rendimiento del admin&lt;/li&gt;
+&lt;li&gt;Colas y workers&lt;/li&gt;
+&lt;li&gt;Tests más rápidos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Presentación disponible en &lt;a class="reference external" href="http://www.slideshare.net/DZPM/efficient-django-64113328"&gt;http://www.slideshare.net/DZPM/efficient-django-64113328&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://2016.es.pycon.org/"&gt;http://2016.es.pycon.org/&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category></entry><entry><title>Creating Community Platforms with Django</title><link href="http://pyvideo.org/pydx-2016/creating-community-platforms-with-django.html" rel="alternate"></link><published>2016-12-30T00:00:00+00:00</published><updated>2016-12-30T00:00:00+00:00</updated><author><name>Alison Acuña</name></author><id>tag:pyvideo.org,2016-12-30:pydx-2016/creating-community-platforms-with-django.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyDX 2016 talk by Alison Acuña&lt;/p&gt;
+&lt;p&gt;We will explore different ways to create community platforms within Django including hand coding, Django Packages, and Pinax. We will examine:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Pros and cons of using platforms/packages vs crafting original code.&lt;/li&gt;
+&lt;li&gt;How different methods of community platform creation might impact the community develops on top of the platform.&lt;/li&gt;
+&lt;li&gt;Examples of each method and how to get started.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This talk is intended for junior devs but all are welcome.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Frog and Toad Learn Django Security</title><link href="http://pyvideo.org/pydx-2016/frog-and-toad-learn-django-security.html" rel="alternate"></link><published>2016-12-30T00:00:00+00:00</published><updated>2016-12-30T00:00:00+00:00</updated><author><name>Philip James</name></author><id>tag:pyvideo.org,2016-12-30:pydx-2016/frog-and-toad-learn-django-security.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyDX 2016 talk by Philip James&lt;/p&gt;
+&lt;p&gt;Come join us by the fire as we have Security Story Time with our friends, Frog and Toad. With them, you'll learn about all the things Django does to protect users and developers out of the box. We'll look at simplified code samples from the Django codebase to see what's happening under the hood, and cover how to make the Django security model even stronger in your application.&lt;/p&gt;
+</summary><category term="security"></category><category term="django"></category></entry><entry><title>Advanced Permissioning</title><link href="http://pyvideo.org/pygotham-2016/advanced-permissioning.html" rel="alternate"></link><published>2016-07-16T00:00:00+00:00</published><updated>2016-07-16T00:00:00+00:00</updated><author><name>Jack McCloy</name></author><id>tag:pyvideo.org,2016-07-16:pygotham-2016/advanced-permissioning.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In many Django applications, permissioning (building rules for who has access to what) is pretty easy. Logged out users can see some stuff, logged in users can see more stuff, and superusers can see (and edit, and delete) all of the stuff! But when you want to handle more complex permissioning (like object-level permissions), it can get pretty ugly. This talk will help to de-uglify things for you.&lt;/p&gt;
+</summary><category term="Django"></category></entry><entry><title>Django Best Practices</title><link href="http://pyvideo.org/pycon-es-2013/django-best-practices.html" rel="alternate"></link><published>2013-12-31T00:00:00+00:00</published><updated>2013-12-31T00:00:00+00:00</updated><author><name>David Arcos</name></author><id>tag:pyvideo.org,2013-12-31:pycon-es-2013/django-best-practices.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Autor: David Arcos&lt;/p&gt;
+&lt;p&gt;Track: Produban (Básico)&lt;/p&gt;
+&lt;p&gt;Django es un framework web Python de alto nivel que fomenta el desarrollo rápido y el diseño limpio y pragmático. La charla consistirá en varias propuestas de &amp;quot;best practices&amp;quot; respecto al desarrollo y despliegue de projectos Django, así como en el uso de las apps externas más importantes. Si bien la charla está orientada a desarrolladores Django, no es imprescindible tener experiencia previa.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Ticketea</title><link href="http://pyvideo.org/pycon-es-2014/ticketea.html" rel="alternate"></link><published>2015-04-06T00:00:00+00:00</published><updated>2015-04-06T00:00:00+00:00</updated><author><name>Miguel Alonso</name></author><id>tag:pyvideo.org,2015-04-06:pycon-es-2014/ticketea.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;En ticketea trabajamos con Python/Django en diversos proyectos que coexisten con un extenso stack tecnológico. Son muchas las lecciones aprendidas y las decisiones acertadas. Nuestro frontal, varias APIs, colas de tareas, business intelligence son algunos de estos proyectos.&lt;/p&gt;
+&lt;p&gt;En esta charla, enseñaremos nuestra forma de entender Django y hacer escalar proyectos grandes manteniendo el orden y la calidad. Nuestras mejores prácticas y algunos hacks que hemos tenido que hacer para coexistir con éxito con PHP&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Having it All: Distributed services with Django, Boto, and SQS queues</title><link href="http://pyvideo.org/pycon-es-2015/having-it-all-distributed-services-with-django-boto-and-sqs-queues.html" rel="alternate"></link><published>2016-02-02T00:00:00+00:00</published><updated>2016-02-02T00:00:00+00:00</updated><author><name>J. V. Trigo</name></author><id>tag:pyvideo.org,2016-02-02:pycon-es-2015/having-it-all-distributed-services-with-django-boto-and-sqs-queues.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;How do you let untrained people in your company run sensitive processes on different remote servers? Processes that must run asynchronously and sequentially while accessing different common resources? And how do you do it quickly and make it robust? I will show how we used Django, SQS and Boto to create a distributed and decoupled solution that let users invoke services asynchronously, which is secure, scalable and ensures that processes using common resources ran in sequence.&lt;/p&gt;
+</summary><category term="Track Básico"></category><category term="django"></category><category term="sqs"></category><category term="boto"></category></entry><entry><title>Implantación de ElasticSearch: problemas y soluciones</title><link href="http://pyvideo.org/pycon-es-2015/implantacion-de-elasticsearch-problemas-y-soluciones.html" rel="alternate"></link><published>2016-02-02T00:00:00+00:00</published><updated>2016-02-02T00:00:00+00:00</updated><author><name>M. Sánchez</name></author><id>tag:pyvideo.org,2016-02-02:pycon-es-2015/implantacion-de-elasticsearch-problemas-y-soluciones.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;En esta charla se presentará de manera resumida un caso real: el proceso de implantación de ElasticSearch en una aplicación de Django. Partiendo de la motivación de implementar un buscador, veremos los problemas encontrados por nuestro equipo (¡y sus soluciones!). A saber: instalación, definición de los documentos, modo de conexión, indexado, particionado y sincronía con nuestra base de datos.&lt;/p&gt;
+</summary><category term="Track Básico"></category><category term="elasticsearch"></category><category term="django"></category></entry><entry><title>Single-Page Applications con Django y Backbone</title><link href="http://pyvideo.org/pycon-es-2015/single-page-applications-con-django-y-backbone.html" rel="alternate"></link><published>2016-02-02T00:00:00+00:00</published><updated>2016-02-02T00:00:00+00:00</updated><author><name>Miguel Sánchez Rodríguez</name></author><id>tag:pyvideo.org,2016-02-02:pycon-es-2015/single-page-applications-con-django-y-backbone.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;En este taller llevaremos a cabo un caso práctico. La construcción de una Single-Page Application usando Backbone como herramienta front-end. Ahora que cada día aparece una docena de frameworks de JavaScript, suena sensato buscar algo de estabilidad en un framework de trayectoria ya constatada, como es Backbone. Por otra parte, tener un framework como Django en el back-end proporciona robustez, facilidad de uso y muchísima extensibilidad -gracias al increíble ecosistema pythónico-.&lt;/p&gt;
+</summary><category term="workshop"></category><category term="single-page application"></category><category term="django"></category><category term="backbone"></category></entry><entry><title>Comparing Wagtail, Django CMS and Mezzanine</title><link href="http://pyvideo.org/pycon-au-2016/comparing-wagtail-django-cms-and-mezzanine.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Adam Brenecki</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/comparing-wagtail-django-cms-and-mezzanine.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Adam Brenecki
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/102/view_talk"&gt;https://2016.pycon-au.org/schedule/102/view_talk&lt;/a&gt;
+Django CMS, Mezzanine and Wagtail are the three most popular Django-based content management systems; all three have kept (or, in Wagtail's case, gained) their popularity because they are so different to each other. In many ways, from their fundamental data models right through to how they approach their content editing UIs, each one has a very different take on how a CMS should work.&lt;/p&gt;
+&lt;p&gt;This talk will explore the different approaches, strengths and weaknesses of each CMS, and what they mean for you as a developer and for your content editors.&lt;/p&gt;
+</summary><category term="django"></category><category term="django cms"></category><category term="mezzanine"></category><category term="wagtail"></category></entry><entry><title>Digitising 100 years of parliamentary data - Django as a framework for government data management</title><link href="http://pyvideo.org/pycon-au-2016/digitising-100-years-of-parliamentary-data-django-as-a-framework-for-government-data-management.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Samuel Spencer</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/digitising-100-years-of-parliamentary-data-django-as-a-framework-for-government-data-management.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Samuel Spencer
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/135/view_talk"&gt;https://2016.pycon-au.org/schedule/135/view_talk&lt;/a&gt;
+Historical information on Australian Parliaments has been available in the Parliamentary Library's flagship publication the Parliamentary Handbook - an extensive almanac with biographies, tables and records dating back to Australia's federation. This data is used as a way to track key social issues, such as length of service, gender representation in parliament and historical election information in an authoritative format.&lt;/p&gt;
+&lt;p&gt;To improve access to this information the library began development of a mobile app which evolved into a complete Django-based data management system for managing parliamentary biographies and service histories based on Popolo, a civic data framework for the management and dissemination of parliamentary information. Along with interactive biographies and records of ministries and parties, the system for the first time allows users to build custom tables from complex queries that are dynamically updated as new information is made available.&lt;/p&gt;
+&lt;p&gt;Coupled with this is the development of a biographical data management system that will ensure that records of new parliamentarians and future changes to existing parliamentarians are captured in a single system.&lt;/p&gt;
+&lt;p&gt;In this presentation, we cover the challenges and successes in digitising over 100 years parliamentary data, including migration, data cleansing and data trust issues. We also provide a technical breakdown of the chosen framework and infrastructure, and issues during development especially when dealing with imprecise or incomplete historical records. Lastly, we cover the Django apps for data modelling and querying built for this project that have already been released as open-source.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Django - Customise your SQL</title><link href="http://pyvideo.org/pycon-au-2016/django-customise-your-sql.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Josh Smeaton</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/django-customise-your-sql.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Josh Smeaton
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/86/view_talk"&gt;https://2016.pycon-au.org/schedule/86/view_talk&lt;/a&gt;
+Learn about the different methods of altering the SQL that the Django ORM generates. Write complex reporting queries, perform calculations within the database, or drop down to writing the entire query in pure SQL. Take advantage of your specific database features.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Django &amp; Drupal: A tale of two cities.</title><link href="http://pyvideo.org/pycon-au-2016/django-drupal-a-tale-of-two-cities.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Donna Benjamin</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/django-drupal-a-tale-of-two-cities.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Donna Benjamin
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/201/view_talk"&gt;https://2016.pycon-au.org/schedule/201/view_talk&lt;/a&gt;
+Drupal and Django have much in common. They’re both open source tools for building the web. They’re also marked by some fundamental differences. However, both are so much more than that.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Every human creature is constituted to be that profound secret and mystery to every other. A solemn consideration, when I enter a great city by night, that every one of those darkly clustered houses encloses its own secret; that every room in every one of them encloses its own secret!&amp;quot; - Charles Dickens.&lt;/p&gt;
+&lt;p&gt;Let’s explore the darkly clustered houses of these two different communities of open source people.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;What common challenges do we face?&lt;/li&gt;
+&lt;li&gt;What different approaches do we take?&lt;/li&gt;
+&lt;li&gt;What can we learn from each other?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And finally, what could we do together?&lt;/p&gt;
+</summary><category term="django"></category><category term="drupal"></category></entry><entry><title>DjangoConf Lightning Talks and Closing</title><link href="http://pyvideo.org/pycon-au-2016/djangoconf-lightning-talks-and-closing.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/djangoconf-lightning-talks-and-closing.html</id><summary type="html"></summary><category term="django"></category><category term="Lightning Talks"></category></entry><entry><title>Integrating 2 factor authentication into your project</title><link href="http://pyvideo.org/pycon-au-2016/integrating-2-factor-authentication-into-your-project.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Markus Holtermann</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/integrating-2-factor-authentication-into-your-project.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Markus Holtermann
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/31/view_talk"&gt;https://2016.pycon-au.org/schedule/31/view_talk&lt;/a&gt;
+Most websites these days require some kind of authentication. User name + password is the most common one. OAuth with Facebook / Github / Google / Twitter is also common. But sometimes you can't rely on 3rd party services and user name + password is not enough. In those cases 2 Factor Authentication is a nice, additional security layer. Use e.g. a phone to ensure a more secure authentication.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Behind Closed Doors: Managing Passwords in a Dangerous World</title><link href="http://pyvideo.org/pycon-au-2016/pycon-au-2016-behind-closed-doors-managing-passwords-in-a-dangerous-world.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Noah Kantrowitz</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/pycon-au-2016-behind-closed-doors-managing-passwords-in-a-dangerous-world.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Noah Kantrowitz
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/61/view_talk"&gt;https://2016.pycon-au.org/schedule/61/view_talk&lt;/a&gt;
+Secrets come in many forms, passwords, keys, tokens. All crucial for the operation of an application, but each dangerous in its own way. In the past, many of us have pasted those secrets in to a text file and moved on, but in a world of config automation and ephemeral microservices these patterns are leaving our data at greater risk than ever before.&lt;/p&gt;
+&lt;p&gt;New tools, products, and libraries are being released all the time to try to cope with this massive rise in threats, both new and old-but-ignored. This talk will cover the major types of secrets in a normal web application, how to model their security properties, what tools are best for each situation, and how to use them with major web frameworks.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Reinventing Django for the Real-Time Web</title><link href="http://pyvideo.org/pycon-au-2016/reinventing-django-for-the-real-time-web.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Andrew Godwin</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/reinventing-django-for-the-real-time-web.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Andrew Godwin
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/28/view_talk"&gt;https://2016.pycon-au.org/schedule/28/view_talk&lt;/a&gt;
+Django's new Channels feature takes Django beyond the world of HTTP's request-response protocol and into the modern Web protocol world of WebSockets and real-time communication - but it also does a lot more. Learn how Django can now respond to WebSockets, emails or instant messages as easily as HTTP, and we re-architected Django to support all these changes while keeping a clean API and backwards compatibility, and the implications it has for the wider Python ecosystem.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Search-First Writing for Developers</title><link href="http://pyvideo.org/pycon-au-2016/search-first-writing-for-developers.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Heidi Waterhouse</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/search-first-writing-for-developers.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Heidi Waterhouse
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/47/view_talk"&gt;https://2016.pycon-au.org/schedule/47/view_talk&lt;/a&gt;
+If people can't use your software, you have already failed as a developer.&lt;/p&gt;
+&lt;p&gt;This talk digs in to how optimizing for search and using the existing technical assistance forums can put your product ahead of the pack. Technical writing, in all its variations, is a type of interface with your product. It incorporates everything from an error message to an implementation guide. How can you as a developer make deploying, using, and promoting your product as painless as possible? Make it searchable. Make finding the answer to a problem so trivially easy that your user barely even remembers they had a problem.&lt;/p&gt;
+&lt;p&gt;No one wants to be using software. They want to be data mining or manipulating beautiful photos or targeting advertising. Making them think about the software diverts them from what they want to be accomplishing. Use these documentation techniques to get them in and out and on their way.&lt;/p&gt;
+&lt;p&gt;(my secret is: I'm always angry when I have to read help)&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Best practices for scaling Django</title><link href="http://pyvideo.org/djangocon-europe-2016/best-practices-for-scaling-django.html" rel="alternate"></link><published>2016-04-01T00:00:00+00:00</published><updated>2016-04-01T00:00:00+00:00</updated><author><name>Anton Pirker</name></author><id>tag:pyvideo.org,2016-04-01:djangocon-europe-2016/best-practices-for-scaling-django.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/16"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/best-practices-for-scaling-django-by-anton-pirker/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Beyond Web 2.0 - Django and Python in the modern web ecosystem</title><link href="http://pyvideo.org/djangocon-europe-2016/beyond-web-20-django-and-python-in-the-modern-web-ecosystem.html" rel="alternate"></link><published>2016-04-01T00:00:00+00:00</published><updated>2016-04-01T00:00:00+00:00</updated><author><name>Dr. Russell Keith-Magee</name></author><id>tag:pyvideo.org,2016-04-01:djangocon-europe-2016/beyond-web-20-django-and-python-in-the-modern-web-ecosystem.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/5"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/beyond-web-2-0-django-and-python-in-the-modern-web-ecosystem-by-russell-keith-magee/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Lightning talks, day 3</title><link href="http://pyvideo.org/djangocon-europe-2016/djangocon-eu-2016-lightning-talks-day-3.html" rel="alternate"></link><published>2016-04-01T00:00:00+00:00</published><updated>2016-04-01T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,2016-04-01:djangocon-europe-2016/djangocon-eu-2016-lightning-talks-day-3.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/lightning-talks-day-3/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Don't be afraid of writing migrations</title><link href="http://pyvideo.org/djangocon-europe-2016/dont-be-afraid-of-writing-migrations.html" rel="alternate"></link><published>2016-04-01T00:00:00+00:00</published><updated>2016-04-01T00:00:00+00:00</updated><author><name>Markus Holtermann</name></author><id>tag:pyvideo.org,2016-04-01:djangocon-europe-2016/dont-be-afraid-of-writing-migrations.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/4"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/dont-be-afraid-of-writing-migrations-by-markus-holtermann/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>From Intern to Professional Developer: Advice on a Mid-Career Pivot</title><link href="http://pyvideo.org/djangocon-europe-2016/from-intern-to-professional-developer-advice-on-a-mid-career-pivot.html" rel="alternate"></link><published>2016-04-01T00:00:00+00:00</published><updated>2016-04-01T00:00:00+00:00</updated><author><name>Rebecca Conley</name></author><id>tag:pyvideo.org,2016-04-01:djangocon-europe-2016/from-intern-to-professional-developer-advice-on-a-mid-career-pivot.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/8"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/from-intern-to-professional-developer-advice-on-a-mid-career-pivot-by-rebecca-conley/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Let's Talk Geo: Adding the 'Where' to Your Django Project</title><link href="http://pyvideo.org/djangocon-europe-2016/lets-talk-geo-adding-the-where-to-your-django-project.html" rel="alternate"></link><published>2016-04-01T00:00:00+00:00</published><updated>2016-04-01T00:00:00+00:00</updated><author><name>Corryn Smith</name></author><id>tag:pyvideo.org,2016-04-01:djangocon-europe-2016/lets-talk-geo-adding-the-where-to-your-django-project.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/19"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/lets-talk-geo-adding-the-where-to-your-django-project-by-corryn-smith/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Safe-Ish by Default: The Django Security Model and How to Make it Better</title><link href="http://pyvideo.org/djangocon-europe-2016/safe-ish-by-default-the-django-security-model-and-how-to-make-it-better.html" rel="alternate"></link><published>2016-04-01T00:00:00+00:00</published><updated>2016-04-01T00:00:00+00:00</updated><author><name>Philip James</name></author><id>tag:pyvideo.org,2016-04-01:djangocon-europe-2016/safe-ish-by-default-the-django-security-model-and-how-to-make-it-better.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/23"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/safe-ish-by-default-the-django-security-model-and-how-to-make-it-better-by-philip-james/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Using Django with service workers</title><link href="http://pyvideo.org/djangocon-europe-2016/using-django-with-service-workers.html" rel="alternate"></link><published>2016-04-01T00:00:00+00:00</published><updated>2016-04-01T00:00:00+00:00</updated><author><name>Adrian Holovaty</name></author><id>tag:pyvideo.org,2016-04-01:djangocon-europe-2016/using-django-with-service-workers.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/10"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/using-django-with-service-workers-by-adrian-holovaty/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>A Brief History of Channels</title><link href="http://pyvideo.org/djangocon-europe-2016/a-brief-history-of-channels.html" rel="alternate"></link><published>2016-03-31T00:00:00+00:00</published><updated>2016-03-31T00:00:00+00:00</updated><author><name>Andrew Godwin</name></author><id>tag:pyvideo.org,2016-03-31:djangocon-europe-2016/a-brief-history-of-channels.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/7"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/a-brief-history-of-channels-by-andrew-godwin/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Building A Non-Relational Backend For The ORM</title><link href="http://pyvideo.org/djangocon-europe-2016/building-a-non-relational-backend-for-the-orm.html" rel="alternate"></link><published>2016-03-31T00:00:00+00:00</published><updated>2016-03-31T00:00:00+00:00</updated><author><name>Adam Alton</name></author><id>tag:pyvideo.org,2016-03-31:djangocon-europe-2016/building-a-non-relational-backend-for-the-orm.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/3"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/building-a-non-relational-backend-for-the-orm-by-adam-alton/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Django Microservices Made Easy</title><link href="http://pyvideo.org/djangocon-europe-2016/django-microservices-made-easy.html" rel="alternate"></link><published>2016-03-31T00:00:00+00:00</published><updated>2016-03-31T00:00:00+00:00</updated><author><name>Paul Hallett</name></author><id>tag:pyvideo.org,2016-03-31:djangocon-europe-2016/django-microservices-made-easy.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/20"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/django-microservices-made-easy-by-paul-hallett/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Lightning talks, day 2</title><link href="http://pyvideo.org/djangocon-europe-2016/djangocon-eu-2016-lightning-talks-day-2.html" rel="alternate"></link><published>2016-03-31T00:00:00+00:00</published><updated>2016-03-31T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,2016-03-31:djangocon-europe-2016/djangocon-eu-2016-lightning-talks-day-2.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/lightning-talks-day-2/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Hermione Granger and the Wizard Information System</title><link href="http://pyvideo.org/djangocon-europe-2016/hermione-granger-and-the-wizard-information-system.html" rel="alternate"></link><published>2016-03-31T00:00:00+00:00</published><updated>2016-03-31T00:00:00+00:00</updated><author><name>Lacey Williams Henschel</name></author><id>tag:pyvideo.org,2016-03-31:djangocon-europe-2016/hermione-granger-and-the-wizard-information-system.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/6"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/hermione-granger-and-the-wizard-information-system-by-lacey-williams-henschel/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>HTTP/2: why upgrading the web?</title><link href="http://pyvideo.org/djangocon-europe-2016/http2-why-upgrading-the-web.html" rel="alternate"></link><published>2016-03-31T00:00:00+00:00</published><updated>2016-03-31T00:00:00+00:00</updated><author><name>Quentin Adam</name></author><id>tag:pyvideo.org,2016-03-31:djangocon-europe-2016/http2-why-upgrading-the-web.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/2"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/http2-why-upgrading-the-web-by-quentin-adam/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Introducing Django To The Foreign World</title><link href="http://pyvideo.org/djangocon-europe-2016/introducing-django-to-the-foreign-world.html" rel="alternate"></link><published>2016-03-31T00:00:00+00:00</published><updated>2016-03-31T00:00:00+00:00</updated><author><name>Bashar Al-Abdulhadi</name></author><id>tag:pyvideo.org,2016-03-31:djangocon-europe-2016/introducing-django-to-the-foreign-world.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/21"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/introducing-django-to-the-foreign-world-by-bashar-al-abdulhadi/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>IoT with Django: From hackathon to production</title><link href="http://pyvideo.org/djangocon-europe-2016/iot-with-django-from-hackathon-to-production.html" rel="alternate"></link><published>2016-03-31T00:00:00+00:00</published><updated>2016-03-31T00:00:00+00:00</updated><author><name>Anna Schneider</name></author><id>tag:pyvideo.org,2016-03-31:djangocon-europe-2016/iot-with-django-from-hackathon-to-production.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/9"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/iot-with-django-from-hackathon-to-production-by-anna-schneider/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Keynote: The Art of Programming</title><link href="http://pyvideo.org/djangocon-europe-2016/keynote-the-art-of-programming.html" rel="alternate"></link><published>2016-03-31T00:00:00+00:00</published><updated>2016-03-31T00:00:00+00:00</updated><author><name>Erika Heidi</name></author><id>tag:pyvideo.org,2016-03-31:djangocon-europe-2016/keynote-the-art-of-programming.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/22"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/keynote-the-art-of-programming-by-erika-heidi/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>The Power ⚡️ and Responsibility 😓 of Unicode Adoption ✨</title><link href="http://pyvideo.org/djangocon-europe-2016/the-power-and-responsibility-of-unicode-adoption.html" rel="alternate"></link><published>2016-03-31T00:00:00+00:00</published><updated>2016-03-31T00:00:00+00:00</updated><author><name>Katie McLaughlin</name></author><id>tag:pyvideo.org,2016-03-31:djangocon-europe-2016/the-power-and-responsibility-of-unicode-adoption.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/11"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/the-power-and-responsibility-of-unicode-adoption-by-katie-mclaughlin/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Django and ReactJS: The good, the bad and the ugly</title><link href="http://pyvideo.org/djangocon-europe-2016/django-and-reactjs-the-good-the-bad-and-the-ugly.html" rel="alternate"></link><published>2016-03-30T00:00:00+00:00</published><updated>2016-03-30T00:00:00+00:00</updated><author><name>Tomáš Ehrlich</name></author><id>tag:pyvideo.org,2016-03-30:djangocon-europe-2016/django-and-reactjs-the-good-the-bad-and-the-ugly.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/12"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/django-and-reactjs-the-good-the-bad-and-the-ugly-by-tomas-ehrlich/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Lightning talks, day 1</title><link href="http://pyvideo.org/djangocon-europe-2016/djangocon-eu-2016-lightning-talks-day-1.html" rel="alternate"></link><published>2016-03-30T00:00:00+00:00</published><updated>2016-03-30T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,2016-03-30:djangocon-europe-2016/djangocon-eu-2016-lightning-talks-day-1.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/lightning-talks-day-1/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Going with the flow with Django Admin</title><link href="http://pyvideo.org/djangocon-europe-2016/going-with-the-flow-with-django-admin.html" rel="alternate"></link><published>2016-03-30T00:00:00+00:00</published><updated>2016-03-30T00:00:00+00:00</updated><author><name>Maria Lowas-Rzechonek</name></author><id>tag:pyvideo.org,2016-03-30:djangocon-europe-2016/going-with-the-flow-with-django-admin.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/14"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/going-with-the-flow-with-django-admin-by-maria-lowas-rzechonek/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Healthy Minds in a Healthy Community</title><link href="http://pyvideo.org/djangocon-europe-2016/healthy-minds-in-a-healthy-community.html" rel="alternate"></link><published>2016-03-30T00:00:00+00:00</published><updated>2016-03-30T00:00:00+00:00</updated><author><name>Erik Romijn</name></author><id>tag:pyvideo.org,2016-03-30:djangocon-europe-2016/healthy-minds-in-a-healthy-community.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/13"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/healthy-minds-in-a-healthy-community-by-erik-romijn-and-mikey-ariel/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>How to Upgrade to the Newest and Shiniest Django</title><link href="http://pyvideo.org/djangocon-europe-2016/how-to-upgrade-to-the-newest-and-shiniest-django.html" rel="alternate"></link><published>2016-03-30T00:00:00+00:00</published><updated>2016-03-30T00:00:00+00:00</updated><author><name>Susan Tan</name></author><id>tag:pyvideo.org,2016-03-30:djangocon-europe-2016/how-to-upgrade-to-the-newest-and-shiniest-django.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/24"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/how-to-upgrade-to-the-newest-and-shiniest-django-by-susan-tan/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Learning Django, Learning French</title><link href="http://pyvideo.org/djangocon-europe-2016/learning-django-learning-french.html" rel="alternate"></link><published>2016-03-30T00:00:00+00:00</published><updated>2016-03-30T00:00:00+00:00</updated><author><name>Nicole Harris</name></author><id>tag:pyvideo.org,2016-03-30:djangocon-europe-2016/learning-django-learning-french.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/15"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/learning-django-learning-french-by-nicole-harris/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Rub-a-Dub Rubber Duck: Don’t Be Afraid to Debug!</title><link href="http://pyvideo.org/djangocon-europe-2016/rub-a-dub-rubber-duck-dont-be-afraid-to-debug.html" rel="alternate"></link><published>2016-03-30T00:00:00+00:00</published><updated>2016-03-30T00:00:00+00:00</updated><author><name>Anna Ossowski</name></author><id>tag:pyvideo.org,2016-03-30:djangocon-europe-2016/rub-a-dub-rubber-duck-dont-be-afraid-to-debug.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/1"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/rub-a-dub-rubber-duck-dont-be-afraid-to-debug-by-anna-ossowski/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>The Front-End Revolution</title><link href="http://pyvideo.org/djangocon-europe-2016/the-front-end-revolution.html" rel="alternate"></link><published>2016-03-30T00:00:00+00:00</published><updated>2016-03-30T00:00:00+00:00</updated><author><name>Claudina Sarahe</name></author><id>tag:pyvideo.org,2016-03-30:djangocon-europe-2016/the-front-end-revolution.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/25"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/the-front-end-revolution-by-claudina-sarahe/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>To mock, or not to mock, that is the question</title><link href="http://pyvideo.org/djangocon-europe-2016/to-mock-or-not-to-mock-that-is-the-question.html" rel="alternate"></link><published>2016-03-30T00:00:00+00:00</published><updated>2016-03-30T00:00:00+00:00</updated><author><name>Ana Balica</name></author><id>tag:pyvideo.org,2016-03-30:djangocon-europe-2016/to-mock-or-not-to-mock-that-is-the-question.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/18"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/to-mock-or-not-to-mock-that-is-the-question-by-ana-balica/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Custom user models in Django</title><link href="http://pyvideo.org/pycaribbean-2016/custom-user-models-in-django.html" rel="alternate"></link><published>2016-02-21T00:00:00+00:00</published><updated>2016-02-21T00:00:00+00:00</updated><author><name>Alexander Bliskovsky</name></author><id>tag:pyvideo.org,2016-02-21:pycaribbean-2016/custom-user-models-in-django.html</id><summary type="html"></summary><category term="django"></category></entry><entry><title>Build a one page with Django and Angular</title><link href="http://pyvideo.org/pycaribbean-2016/pycaribbean-2016-build-a-one-page-with-django-and-angular-by-jose-a-hernadez-rosales.html" rel="alternate"></link><published>2016-02-20T00:00:00+00:00</published><updated>2016-02-20T00:00:00+00:00</updated><author><name>José A. Hernádez Rosales</name></author><id>tag:pyvideo.org,2016-02-20:pycaribbean-2016/pycaribbean-2016-build-a-one-page-with-django-and-angular-by-jose-a-hernadez-rosales.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this talk we'll be learning the ins and outs of how to develop a Single Page Application using Angular and Django.&amp;quot;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;José A. Hernández Rosale&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="Django"></category><category term="Angular"></category></entry><entry><title>Django Girls</title><link href="http://pyvideo.org/pycaribbean-2016/pycaribbean-2016-django-girls-ola-sitarska.html" rel="alternate"></link><published>2016-02-20T00:00:00+00:00</published><updated>2016-02-20T00:00:00+00:00</updated><author><name>Ola Sitarska</name></author><id>tag:pyvideo.org,2016-02-20:pycaribbean-2016/pycaribbean-2016-django-girls-ola-sitarska.html</id><summary type="html"></summary><category term="keynote"></category><category term="django"></category><category term="django girls"></category><category term="diversity"></category></entry><entry><title>Outside-In TDD</title><link href="http://pyvideo.org/pycon-us-2016/harry-percival-outside-in-tdd-pycon-2016.html" rel="alternate"></link><published>2016-06-09T00:00:00+00:00</published><updated>2016-06-09T00:00:00+00:00</updated><author><name>Harry Percival</name></author><id>tag:pyvideo.org,2016-06-09:pycon-us-2016/harry-percival-outside-in-tdd-pycon-2016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Harry Percival&lt;/p&gt;
+&lt;p&gt;An intermediate-level Test-Driven-Development workshop, presented as a hands-on exploration of &amp;quot;&amp;quot;outside-in&amp;quot;&amp;quot; TDD, in the style of a code-dojo code kata.  Will include discussion of &amp;quot;&amp;quot;double-loop&amp;quot;&amp;quot; BDD/TDD, outside-in vs inside-out, a detailed discussion of the pros + cons of mocking, test isolation, letting the tests drive design, and what are tests for anyway?&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</summary><category term="testing"></category><category term="tdd"></category><category term="Django"></category><category term="bdd"></category></entry><entry><title>Django Based Autocompl…</title><link href="http://pyvideo.org/chicago-djangonauts/django-based-autocompl.html" rel="alternate"></link><published>2015-09-03T00:00:00+00:00</published><updated>2015-09-03T00:00:00+00:00</updated><author><name>Jonathan Bisson</name></author><id>tag:pyvideo.org,2015-09-03:chicago-djangonauts/django-based-autocompl.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django does not do autocomplete out of the box because it is easy to do
+it yourelf. Here is how, and some othther stuff.&lt;/p&gt;
+</summary><category term="autocomplete"></category><category term="Django"></category></entry><entry><title>Formsets, Concurrent Edits and Uncaught Exceptions</title><link href="http://pyvideo.org/chicago-djangonauts/formsets-concurrent-edits-and-uncaught-exception.html" rel="alternate"></link><published>2015-03-26T00:00:00+00:00</published><updated>2015-03-26T00:00:00+00:00</updated><author><name>Brad Martsberger</name></author><id>tag:pyvideo.org,2015-03-26:chicago-djangonauts/formsets-concurrent-edits-and-uncaught-exception.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;A lightning talk about fixing three separate bugs in the Django codebase with the same root cause.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>BDFL Keynote - Adrian Holovaty</title><link href="http://pyvideo.org/djangocon-2012/bdfl-keynote-adrian-holovaty.html" rel="alternate"></link><published>2012-10-06T00:00:00+00:00</published><updated>2012-10-06T00:00:00+00:00</updated><author><name>Adrian Holovaty</name></author><id>tag:pyvideo.org,2012-10-06:djangocon-2012/bdfl-keynote-adrian-holovaty.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;DjangoCon 2012 - BDFL Keynote - Adrian Holovaty&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>DjangoCon 2012 Keynote - Eric Sterling</title><link href="http://pyvideo.org/djangocon-2012/djangocon-2012-keynote-eric-sterling.html" rel="alternate"></link><published>2012-10-06T00:00:00+00:00</published><updated>2012-10-06T00:00:00+00:00</updated><author><name>Eric Sterling</name></author><id>tag:pyvideo.org,2012-10-06:djangocon-2012/djangocon-2012-keynote-eric-sterling.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;DjangoCon 2012 - Keynote - Eric Sterling&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>DjangoCon 2012 Keynote - Geoff Schmidt</title><link href="http://pyvideo.org/djangocon-2012/djangocon-2012-keynote-geoff-schmidt.html" rel="alternate"></link><published>2012-10-06T00:00:00+00:00</published><updated>2012-10-06T00:00:00+00:00</updated><author><name>Geoff Schmidt</name></author><id>tag:pyvideo.org,2012-10-06:djangocon-2012/djangocon-2012-keynote-geoff-schmidt.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;DjangoCon 2012 - Keynote - Geoff Schmidt&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>DjangoCon 2012 Keynote - Russell Keith-Magee</title><link href="http://pyvideo.org/djangocon-2012/djangocon-2012-keynote-russell-keith-magee.html" rel="alternate"></link><published>2012-10-06T00:00:00+00:00</published><updated>2012-10-06T00:00:00+00:00</updated><author><name>Dr. Russell Keith-Magee</name></author><id>tag:pyvideo.org,2012-10-06:djangocon-2012/djangocon-2012-keynote-russell-keith-magee.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;DjangoCon 2012 - Keynote - Russell Keith-Magee&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>DjangoCon 2012 Keynote - Selena Deckelmann</title><link href="http://pyvideo.org/djangocon-2012/djangocon-2012-keynote-selena-deckelmann.html" rel="alternate"></link><published>2012-10-06T00:00:00+00:00</published><updated>2012-10-06T00:00:00+00:00</updated><author><name>Selena Deckelmann</name></author><id>tag:pyvideo.org,2012-10-06:djangocon-2012/djangocon-2012-keynote-selena-deckelmann.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;DjangoCon 2012 Keynote - Selena Deckelmann&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>DjangoCon 2012 Lightning Talks</title><link href="http://pyvideo.org/djangocon-2012/djangocon-2012-lightning-talks.html" rel="alternate"></link><published>2012-10-06T00:00:00+00:00</published><updated>2012-10-06T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,2012-10-06:djangocon-2012/djangocon-2012-lightning-talks.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;DjangoCon 2012 Lightning Talks&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>About Django from the Pyramid Guy</title><link href="http://pyvideo.org/djangocon-2012/about-django-from-the-pyramid-guy.html" rel="alternate"></link><published>2012-09-06T00:00:00+00:00</published><updated>2012-09-06T00:00:00+00:00</updated><author><name>Chris McDonough</name></author><id>tag:pyvideo.org,2012-09-06:djangocon-2012/about-django-from-the-pyramid-guy.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;An opinionated recounting of the features Django shares with the Pyramid
+web framework, and how the two frameworks differ, as well as a
+prescription for collaboration between the Django and Pyramid
+communities.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;div class="section" id="who-am-i"&gt;
+&lt;h4&gt;Who Am I&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;BBS nerd in the 80s.&lt;/li&gt;
+&lt;li&gt;Bad Perl hacker until Python. Came to Python via Zope in 1999. Worked
+at Digital Creations (aka Zope Corporation) until 2003.&lt;/li&gt;
+&lt;li&gt;Primary author of: Pyramid web framework, Supervisor UNIX process
+control system, Deform form system, Repoze collection of middleware,
+and other unmentionables. Contributor to Zope, WebOb, and lots of
+other OSS projects.&lt;/li&gt;
+&lt;li&gt;Quoting Glyph: &amp;quot;I've been doing IRC support for 10 years, so I'm
+pretty much dead inside.&amp;quot;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="what-is-a-web-framework"&gt;
+&lt;h4&gt;What is a Web Framework&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;A web framework receives a request, calls user code in order to
+return a response. Everything else is a bonus.&lt;/li&gt;
+&lt;li&gt;Arguments about how a web framework implements &amp;quot;MVC&amp;quot; are usually
+distractions. Django gets this right.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="django-docs-do-it-right"&gt;
+&lt;h4&gt;Django Docs Do It Right&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Django docs broke the Python documentation curve.&lt;/li&gt;
+&lt;li&gt;Great resources for multiple audiences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="django-views-do-it-right"&gt;
+&lt;h4&gt;Django Views Do It Right&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;No magical globals (request or response).&lt;/li&gt;
+&lt;li&gt;Django view lookup and execution is very fast.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="django-forms-do-it-right"&gt;
+&lt;h4&gt;Django Forms Do It Right&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Decoupling of models from forms.&lt;/li&gt;
+&lt;li&gt;Optional recoupling via modelforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="django-convenience-vs-explicitness"&gt;
+&lt;h4&gt;Django Convenience vs. Explicitness&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;No thread locals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="django-extensibility-does-it-right"&gt;
+&lt;h4&gt;Django Extensibility Does It Right&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Replaceable backends for authentication.&lt;/li&gt;
+&lt;li&gt;Replaceable backends for storage.&lt;/li&gt;
+&lt;li&gt;Encourages an environment of plugins at different levels.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="django-defaults-do-it-right"&gt;
+&lt;h4&gt;Django Defaults Do It Right&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Django provides people with unambiguous ways to solve 80% of their
+web development problems.&lt;/li&gt;
+&lt;li&gt;Doesn't prevent specialization or use of external libraries.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="django-reality-does-it-right"&gt;
+&lt;h4&gt;Django Reality Does It Right&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Can't argue with success.&lt;/li&gt;
+&lt;li&gt;Scores of very successful sites built using Django.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="what-is-pyramid"&gt;
+&lt;h4&gt;What is Pyramid&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Pyramid handles view lookup and execution and provides related
+convenience APIs. It also allows extensive configuration of these
+things.&lt;/li&gt;
+&lt;li&gt;Pyramid is a corner of a corner of Django, magnified.&lt;/li&gt;
+&lt;li&gt;James Bennett's PyCon 2012 &amp;quot;Django In Depth&amp;quot; tutorial: ~20 minutes
+out of 3 hours devoted to things that Pyramid actually does:
+low-level template API, view lookup and execution, HTTP responses,
+middleware.&lt;/li&gt;
+&lt;li&gt;Pyramid is independent of any particular peristence system. It has no
+built-in form generation system. It does not prefer any particular
+templating system. It does not ship with an admininstrative
+application.&lt;/li&gt;
+&lt;li&gt;Something like Pyramid could be used to build something like Django.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pylons-project"&gt;
+&lt;h4&gt;Pylons Project&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Project lead consolidation decision.&lt;/li&gt;
+&lt;li&gt;Attempt to get Pylons, TurboGears and &lt;tt class="docutils literal"&gt;repoze.bfg&lt;/tt&gt; communities
+rowing in the same direction.&lt;/li&gt;
+&lt;li&gt;Pylons 1.x web framework shifted into “legacy” status. Maintained
+indefinitely.&lt;/li&gt;
+&lt;li&gt;New development: Pyramid and related.&lt;/li&gt;
+&lt;li&gt;Turbogears: wildcard.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="is-pyramid-a-microframework"&gt;
+&lt;h4&gt;Is Pyramid a Microframework?&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Pyramid is sort of microframework-like. You can write a Pyramid
+application in a single file.&lt;/li&gt;
+&lt;li&gt;Self-identifying microframeworks tend to suggest application
+development patterns to its users which promote convenience over
+explicitness. Pyramid (for better or worse) does not do this, because
+it needs to be useful in larger systems where these patterns can lead
+to extensibility problems.&lt;/li&gt;
+&lt;li&gt;In reality, the term &amp;quot;microframework&amp;quot; is a marketing term, not a
+technological term, so whether the answer is yes or no doesn't really
+matter too much unless you have a stake in the project.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="small-pyramid-program"&gt;
+&lt;h4&gt;Small Pyramid Program&lt;/h4&gt;
+&lt;pre class="literal-block"&gt;
+from wsgiref.simple_server import make_server
+from pyramid.config import Configurator
+from pyramid.response import Response
+
+def hello_world(request):
+   return Response('Hello %(name)s!' % request.matchdict)
+
+if __name__ == '__main__':
+   config = Configurator()
+   config.add_route('hello', '/hello/{name}')
+   config.add_view(hello_world, route_name='hello')
+   app = config.make_wsgi_app()
+   server = make_server('0.0.0.0', 8080, app)
+   server.serve_forever()
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pyramid-and-python-3"&gt;
+&lt;h4&gt;Pyramid and Python 3&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Pyramid's current release (1.3) supports Python 3.2+ (as well as
+Python 2.6 and 2.7).&lt;/li&gt;
+&lt;li&gt;Most existing add-ons already ported. When feasible, we port add-on
+dependencies (&lt;tt class="docutils literal"&gt;beaker&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;WebOb&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;zope.*&lt;/tt&gt; packages).&lt;/li&gt;
+&lt;li&gt;We have a committment to Python 3. It involves lots of whining and
+bitching.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="i-m-no-genius"&gt;
+&lt;h4&gt;I'm No Genius&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Pyramid does things wrong. Many parts of Pyramid make me cringe.
+&lt;a class="reference external" href="https://github.com/Pylons/pyramid/wiki/Mistakes"&gt;https://github.com/Pylons/pyramid/wiki/Mistakes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The grass is always greener.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pyramid-docs"&gt;
+&lt;h4&gt;Pyramid Docs&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Culture of documentation (if it's not documented, it's broken).&lt;/li&gt;
+&lt;li&gt;Pyramid itself has ~800 printed pages of narrative and API
+documentation, plus a few hundred pages of &amp;quot;cookbook&amp;quot; material.&lt;/li&gt;
+&lt;li&gt;Comprehensive but pretty dry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="docs-pain"&gt;
+&lt;h4&gt;Docs Pain&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Many pain points are related to plain old bad docs: our fault. Docs
+are at least 10X harder to write well than the associated code and
+take much longer. Most coders hate writing docs. I write lots of
+documentation but it's often not very good.&lt;/li&gt;
+&lt;li&gt;But other pain points people experience when trying to learn Pyramid
+from its docs is due to poorly documented dependencies (setuptools).
+We need to redocument subsystems &amp;quot;in context&amp;quot;, for better or worse.
+(HELP!)&lt;/li&gt;
+&lt;li&gt;And some pain points are due to an audience mismatch; narrative
+documentation assumes people know &amp;quot;Python&amp;quot; &lt;em&gt;and&lt;/em&gt; &amp;quot;the web&amp;quot;. They
+often need remedial help in one or both, which the docs don't
+provide.&lt;/li&gt;
+&lt;li&gt;&amp;quot;Chipin&amp;quot; project raised ~$5K for documentation overhaul.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pyramid-friends"&gt;
+&lt;h4&gt;Pyramid Friends&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Colander/Deform: form handling.&lt;/li&gt;
+&lt;li&gt;SQLAlchemy: SQL database connectivity and querying.&lt;/li&gt;
+&lt;li&gt;Pyramid-specific add-ons like &lt;tt class="docutils literal"&gt;pyramid_mailer&lt;/tt&gt;,
+&lt;tt class="docutils literal"&gt;pyramid_zodbconn&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;pyramid_socketio&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;pyramid_mongodb&lt;/tt&gt;, and
+so forth.&lt;/li&gt;
+&lt;li&gt;The typical Pyramid application makes use of some combination of
+add-ons.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="scaffolding"&gt;
+&lt;h4&gt;Scaffolding&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;A scaffold renders a project. A project is installable like any other
+setuptools distribution (it has a &lt;tt class="docutils literal"&gt;setup.py&lt;/tt&gt;, etc).&lt;/li&gt;
+&lt;li&gt;The project depends on some combination of Pyramid, Pyramid plugins,
+and other third-party libraries and frameworks.&lt;/li&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;zodb&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;alchemy&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;starter&lt;/tt&gt; scaffolds provided by Pyramid
+itself. Others are contributed to PyPI by third parties.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="bindings-packages"&gt;
+&lt;h4&gt;Bindings Packages&lt;/h4&gt;
+&lt;p&gt;A more generic package is specialized for convenient use under Pyramid
+via use of a bindings package.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;deform&lt;/tt&gt; + &lt;tt class="docutils literal"&gt;pyramid_deform&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;repoze.who&lt;/tt&gt; + &lt;tt class="docutils literal"&gt;pyramid_who&lt;/tt&gt;.&lt;/li&gt;
+&lt;li&gt;2X documentation burden: document once in general package docs,
+document again in bindings docs. That's no fun.&lt;/li&gt;
+&lt;li&gt;But this will happen anyway if your code is popular (Celery).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="higher-level-frameworks"&gt;
+&lt;h4&gt;Higher Level Frameworks&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;ptah&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;kotti&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;poolyx&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;substanced&lt;/tt&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="packaging-is-like-a-blast-shield"&gt;
+&lt;h4&gt;Packaging Is Like a Blast Shield&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;A blast shield helps keep shrapnel out.&lt;/li&gt;
+&lt;li&gt;It can also help keep shrapnel &lt;em&gt;in&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Shrapnel tends to penetrate anything not within a blast shield.&lt;/li&gt;
+&lt;li&gt;Every piece of software eventually blows up.&lt;/li&gt;
+&lt;li&gt;The more blast shields you have, the more the damage is contained.&lt;/li&gt;
+&lt;li&gt;But blast shields obscure the landscape. More work required for
+users.&lt;/li&gt;
+&lt;li&gt;More packages add more documentation and conceptual overhead, and
+more unwanted choice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="django-avoids-setuptools"&gt;
+&lt;h4&gt;Django Avoids Setuptools&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Setup.py develop of django doesn't work.&lt;/li&gt;
+&lt;li&gt;Avoidance of setuptools also prevents use of console scripts (e.g.
+django-admin).&lt;/li&gt;
+&lt;li&gt;Django recreates some of the patterns that setuptools provides (i.e.
+test discovery hooks).&lt;/li&gt;
+&lt;li&gt;Developers whom are ignorant of distribution issues are very confused
+when inevitably faced with them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="django-avoids-setuptools-2"&gt;
+&lt;h4&gt;Django Avoids Setuptools (2)&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Django's defacto avoidance of setuptools is understandable. But it's
+not helping to improve Python packaging. Python packaging and
+distribution needs you very badly.&lt;/li&gt;
+&lt;li&gt;Fewer documentation issues to cope with, but contributing to docs for
+setuptools would float all boats.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="subclassing-is-convenient"&gt;
+&lt;h4&gt;Subclassing Is Convenient&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;You don't have to explain a protocol (the protocol is Python).&lt;/li&gt;
+&lt;li&gt;But offering extensibility via subclassing is often a poorer choice
+than offering extensibility via composition and very explicit
+interfaces.&lt;/li&gt;
+&lt;li&gt;Why? People begin depending upon the implementation details of the
+classes you tell them to subclass. Unless you're extremely clear
+about what the API of the superclass is, and the social contract to
+use nothing else but the documented API exists, you'll be pressured
+into making retroactive APIs. Impossible to recover from without
+breaking b/w compat.&lt;/li&gt;
+&lt;li&gt;Not uncommon to see a subclass of a subclass of a subclass of a
+subclass; figuting out how the thing works can be an exercise in pain
+and multiple editor windows.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="globals-are-convenient"&gt;
+&lt;h4&gt;Globals are Convenient&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;You don't have to explain a protocol for obtaining a value (the
+protocol is &lt;tt class="docutils literal"&gt;import&lt;/tt&gt;).&lt;/li&gt;
+&lt;li&gt;But the development of circular imports is inevitable.&lt;/li&gt;
+&lt;li&gt;Global registries make it impossible to embed more than one
+application into the same Python process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="module-scope-work-is-convenient"&gt;
+&lt;h4&gt;Module-Scope Work Is Convenient&lt;/h4&gt;
+&lt;p&gt;From Django tutorial, at module scope:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+from django.contrib import admin
+admin.autodiscover()
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="module-scope-work-is-convenient-2"&gt;
+&lt;h4&gt;Module-Scope Work Is Convenient (2)&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;These things can be done at module scope without concern:&lt;/li&gt;
+&lt;li&gt;An import of another module or global.&lt;/li&gt;
+&lt;li&gt;Assignment of a variable name in the module to some constant value.&lt;/li&gt;
+&lt;li&gt;The addition of a function via a def statement.&lt;/li&gt;
+&lt;li&gt;The addition of a class via a class statement.&lt;/li&gt;
+&lt;li&gt;Control flow which may handles conditionals for platform-specific
+handling or failure handling of the above.&lt;/li&gt;
+&lt;li&gt;Everything else is at least suspect. Test runners and other code
+scanners can import with abandon, and side effects are often
+undesirable.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pluggable-apps-reusable-apps"&gt;
+&lt;h4&gt;Pluggable Apps / Reusable Apps&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Pluggable apps probably aren't really that pluggable, reusable apps
+probably aren't as reusable as you might like.&lt;/li&gt;
+&lt;li&gt;IMO, even a framework as high-level as Django can't really offer such
+a feature without stretching the truth just a little bit.&lt;/li&gt;
+&lt;li&gt;The only thing that can truly offer pluggable apps: another app. No
+general-purpose framework can do a great job here. (Examples:
+Wordpress, Jenkins, Plone).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rendering-is-meta-view"&gt;
+&lt;h4&gt;Rendering Is Meta-View&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;render_to_response&lt;/tt&gt; using template in view is no fun to test.&lt;/li&gt;
+&lt;li&gt;Returning a dict from a view callable is more fun to test.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="unit-tests"&gt;
+&lt;h4&gt;Unit Tests&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Exclusive use of Django test client for tests will cause test suite
+to run more slowly than necessary.&lt;/li&gt;
+&lt;li&gt;A slow enough test suite won't be run before commit.&lt;/li&gt;
+&lt;li&gt;Testers who don't understand any type of testing other than &amp;quot;system&amp;quot;
+or &amp;quot;integration&amp;quot; testing tend to bring poor testing practices to
+unrelated systems.&lt;/li&gt;
+&lt;li&gt;Using setuptools provides nice hooks for test discovery and
+execution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="static-files"&gt;
+&lt;h4&gt;Static Files&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Python WSGI servers are getting better at serving static files. E.g.
+Gunicorn supports &lt;tt class="docutils literal"&gt;sendfile&lt;/tt&gt; on UNIX.&lt;/li&gt;
+&lt;li&gt;Might be time to reconsider offloading media to a dedicated
+non-Python server and make use of what's available in WSGI-land.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="community"&gt;
+&lt;h4&gt;Community&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Pyramid community is maybe 10% the size of the Django community.&lt;/li&gt;
+&lt;li&gt;It's growing.&lt;/li&gt;
+&lt;li&gt;Your success is our success. I'd be very pleased to have Pyramid be
+considered the #2 Python web framework (at least for &amp;quot;Python
+people&amp;quot;). Forever.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="collaboration-low-level"&gt;
+&lt;h4&gt;Collaboration (Low-Level)&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Create adapter for WebOb or Werkzeug that implements the Django
+request API?&lt;/li&gt;
+&lt;li&gt;Create an adapter for SQLAlchemy that implements the Django ORM API?&lt;/li&gt;
+&lt;li&gt;These are likely losers. They are &amp;quot;30 year plans&amp;quot;. Things change so
+fast. Who will pay immediately? Who will benefit immediately?&lt;/li&gt;
+&lt;li&gt;Might be better to try to use common non-domain-specific dependencies
+(e.g. setuptools, virtualenv, WSGI middleware, etc). It would be a
+great win to share documentation burden, even if we had to &amp;quot;fork&amp;quot; it
+for our own contextual requirements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="collaboration-high-level"&gt;
+&lt;h4&gt;Collaboration (High-Level)&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Django is limited by backwards compatibility concerns. It's
+impractical to make large architectural changes now. Your users would
+kill you.&lt;/li&gt;
+&lt;li&gt;But I could imagine somebody from the Django community creating a
+&amp;quot;Django-NG&amp;quot; or a Django-like system from whole cloth. Or break Django
+apart into something that isn't quite bw compatible.&lt;/li&gt;
+&lt;li&gt;It might make sense to consider Pyramid or another smaller framework
+as a base for such an effort. If you used Pyramid, you'd get URL
+routing, internationalization, template bindings, configuration
+extensibility, flexible view lookup and execution, an event system,
+security, documentation, Python 3 compatibility, and other things.
+&lt;tt class="docutils literal"&gt;ptah&lt;/tt&gt; is such a system right now.&lt;/li&gt;
+&lt;li&gt;Pyramid community is very enthusiastic, friendly, helpful, and
+experienced.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="promoting-python"&gt;
+&lt;h4&gt;Promoting Python&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;I challenge you to not be complacent.&lt;/li&gt;
+&lt;li&gt;I challenge you to investigate how other frameworks work.&lt;/li&gt;
+&lt;li&gt;I challenge you to embrace existing Python packaging and distribution
+tools.&lt;/li&gt;
+&lt;li&gt;I challenge you to port quickly to Python 3. Commit to supporting it
+in your add-ons and helping folks who have existing add-ons port.&lt;/li&gt;
+&lt;li&gt;I challenge you to speak out when folks bash competitors. Haters are
+everywhere, and when someone bashes Pyramid, Flask, Bottle, or Zope,
+and nobody defends against it, the hate will eventually come back to
+harm you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="unknowns"&gt;
+&lt;h4&gt;Unknowns&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Django Class-Based Views Might Not Do It Right. &lt;tt class="docutils literal"&gt;as_view&lt;/tt&gt;. Hmm. All
+views in Pyramid are potentially generic. They have a context passed
+to them. Class-based views in Pyramid are not things handed down from
+&amp;quot;good devs&amp;quot; to reuse, they're just normal things.&lt;/li&gt;
+&lt;li&gt;How does Django allow for configuration extensibility? Conflict
+detection?&lt;/li&gt;
+&lt;li&gt;Event system&lt;/li&gt;
+&lt;li&gt;Alternate templating languages&lt;/li&gt;
+&lt;li&gt;Exception views&lt;/li&gt;
+&lt;li&gt;View predicates&lt;/li&gt;
+&lt;li&gt;Transaction management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><category term="django"></category></entry><entry><title>Accelerating and Enhancing Django with Redis</title><link href="http://pyvideo.org/djangocon-2012/accelerating-and-enhancing-django-with-redis.html" rel="alternate"></link><published>2012-09-06T00:00:00+00:00</published><updated>2012-09-06T00:00:00+00:00</updated><author><name>Joshua Ginsberg</name></author><id>tag:pyvideo.org,2012-09-06:djangocon-2012/accelerating-and-enhancing-django-with-redis.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This tutorial introduces Redis, an in-memory key-object NoSQL datastore.
+We discuss out-of-the-box ways Redis can help improve the performance of
+your Django deployments, ways that using Redis instead of SQL for some
+data management can accelerate your apps, and more advanced and
+unconventional uses for Redis to solve real-time and big-data problems.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Getting your Django app to a v1.0 release means focusing on function and
+user experience before prematurely focusing on optimization. But once
+it's off the ground, the Redis key-object store provides a versatile and
+functional way to take your app to the next level of performance and
+function with minimal engineering.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://redis.io"&gt;Redis&lt;/a&gt; is an in-memory key-object database that can
+perform standard operations on simple values, lists, sets, hash maps,
+and scored sets with incredible efficiency. While it cannot and should
+not replace SQL for schema-defined, persistent data storage, it can
+provide dramatically faster operational efficiency for volatile,
+temporary, or rapidly changing data with minimal coding required.&lt;/p&gt;
+&lt;p&gt;This talk begins by introducing Redis, its basic featureset, and the
+data types and operations it supports. We'll cover some high-level
+guidelines and strategies for identifying where Redis may be an
+appropriate performance- enhancing solution. We then cover the
+out-of-the-box ways that Redis can improve a Django application as a
+cache, session store, Celery broker, and more. We'll then proceed to
+more advanced usage possibilities, implementing a real-time websocket
+based messaging solution, scripting within Redis using its embedded Lua
+interpreter, and connecting Redis to PostgreSQL using Foreign Data
+Wrappers to efficiently blend SQL tables with Redis data.&lt;/p&gt;
+&lt;p&gt;By the end of the presentation, you should be able to use all of the
+data- structures offered by Redis, to identify opportunities within you
+codebase that Redis may offer simple but dramatic efficiency
+improvements, and to envision how advanced Redis usage may bring new and
+cutting-edge functionality to your project.&lt;/p&gt;
+&lt;p&gt;Redis was developed by &lt;a class="reference external" href="http://twitter.com/antirez"&gt;Salvatore
+Sanfilippo&lt;/a&gt; and &lt;a class="reference external" href="http://twitter.com/pnoordhuis"&gt;Pieter
+Noordhuis&lt;/a&gt;, who are both supported by
+VMWare to develop the database full-time. Redis has excellent &lt;a class="reference external" href="https://github.com/andymccurdy/redis-py/"&gt;Python
+bindings&lt;/a&gt; developed by Andy
+McCurdy.&lt;/p&gt;
+</summary><category term="django"></category><category term="redis"></category></entry><entry><title>Boosting teamwork with Vagrant</title><link href="http://pyvideo.org/djangocon-2012/boosting-teamwork-with-vagrant.html" rel="alternate"></link><published>2012-09-06T00:00:00+00:00</published><updated>2012-09-06T00:00:00+00:00</updated><author><name>Julien Phalip</name></author><id>tag:pyvideo.org,2012-09-06:djangocon-2012/boosting-teamwork-with-vagrant.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In this talk I will present Vagrant, a free open-source tool
+facilitating the manipulation of virtualized environments, and how it
+may benefit the development of Django applications. This talk is aimed
+at Django developers of all levels who are interested in getting an
+overview of the great possibilities Vagrant offers to support teamwork
+and quality assurance.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this talk I will present Vagrant, a free open-source tool
+facilitating the manipulation of virtualized environments, and how it
+may benefit the development of Django applications. This talk is aimed
+at Django developers of all levels who are interested in getting an
+overview of the great possibilities Vagrant offers to support teamwork
+and quality assurance.&lt;/p&gt;
+&lt;p&gt;One major benefit of using Vagrant is with on-boarding. Previously, when
+new developers joined a project, it could take hours or days for them to
+correctly set up their development environment and install all the
+projects' dependencies (the correct version of Python, the virtualenv,
+the database server, the caching engine, etc.). With Vagrant, combined
+with provisioning tools like Chef or Puppet, it is now possible to
+easily create a virtual machine with all the right dependencies properly
+pre-installed and pre- configured to allow anyone to be fully
+operational and ready to contribute to the project in a matter of
+minutes.&lt;/p&gt;
+&lt;p&gt;Another major benefit of Vagrant is that it gives the opportunity to
+create a working environment for all developers that closely matches
+that of the production server. This in turn allows to anticipate
+potential issues when new code and resources eventually get deployed
+live.&lt;/p&gt;
+&lt;p&gt;In this talk, I will present some key functionalities and workflows
+around the use of Vagrant: - installing Vagrant and Virtualbox. -
+creating a new virtual machine. - provisioning a virtual machine with
+basic requirements. - sharing virtual machine specifications with team
+members.&lt;/p&gt;
+&lt;p&gt;This talk will include a brief introduction to Chef and Puppet. It will
+also include multiple practical tricks like accessing the VM's database
+server from the host's machine, setting up useful shell aliases or
+automatically activating the virtualenv when launching the VM.&lt;/p&gt;
+</summary><category term="django"></category><category term="vagrant"></category></entry><entry><title>Building PCI compliant Django applications</title><link href="http://pyvideo.org/djangocon-2012/building-pci-compliant-django-applications.html" rel="alternate"></link><published>2012-09-06T00:00:00+00:00</published><updated>2012-09-06T00:00:00+00:00</updated><author><name>Ken Cochrane</name></author><id>tag:pyvideo.org,2012-09-06:djangocon-2012/building-pci-compliant-django-applications.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;If you currently accept credit cards with your Django application today,
+or you plan on accepting them in the future, then you will need to worry
+about PCI DSS. Learn what you need to do to make sure that your
+application is PCI DSS compliant, and if it is not, what you need to do
+to bring it into compliance.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PCI DSS is a set of twelve different security standards that are
+required for any organization that handles credit or debit card
+transactions. These standards are created by the Payment Card Industry
+Security Standards Council and they require all organizations to
+validate that they are compliant every year.&lt;/p&gt;
+&lt;p&gt;Understanding these rules and how they effect you is sometimes a
+daunting task. The goals of this talk will be the following:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Explain PCI DSS, and quickly go over the rules that will effect your
+application.&lt;/li&gt;
+&lt;li&gt;Show how to securely handle credit card transactions in your Django
+application.&lt;/li&gt;
+&lt;li&gt;Storing credit card information isn't ideal, but if you need to, I'll
+explain the different ways to securely store the data.&lt;/li&gt;
+&lt;li&gt;Go over the different ways to limit your PCI DSS liability
+(BrianTree, Akamai Edge Tokenization, Auth.net CIM)&lt;/li&gt;
+&lt;li&gt;Explore the different tools you will need in order validate your PCI
+compliance (Web application scans, IDS, Network Scan, firewalls)&lt;/li&gt;
+&lt;li&gt;How to be PCI Complaint in the cloud&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I'll close out the talk with some of the details on how I haver
+personally satisfied PCI DSS Requirements on my projects in the past.
+I'll cover some of the tools and services that I used, and why I decided
+to use them.&lt;/p&gt;
+&lt;p&gt;At the conclusion of the talk you should have a better understanding of
+PCI DSS, and what you need to do, in order for your Django application
+to be certified as compliant.&lt;/p&gt;
+</summary><category term="django"></category><category term="pci-complicance"></category></entry><entry><title>Django's Nasal Passage</title><link href="http://pyvideo.org/djangocon-2012/djangos-nasal-passage.html" rel="alternate"></link><published>2012-09-06T00:00:00+00:00</published><updated>2012-09-06T00:00:00+00:00</updated><author><name>Erik Rose</name></author><id>tag:pyvideo.org,2012-09-06:djangocon-2012/djangos-nasal-passage.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Django's testrunner gets you started quickly, but you soon hit your head
+on its limitations as your project grows. By trading it for nose, a
+testing framework popular in the wider Python community, we can reduce
+boilerplate, boost performance, and improve testing UI, with only a few
+lines of setting changes. Re-use your test DBs, integrate with Jenkins,
+split your suite into pieces, and more.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Why nose?&lt;ul&gt;
+&lt;li&gt;Pain points with standard Django testing&lt;/li&gt;
+&lt;li&gt;Extensibility without writing custom, uncombineable testrunner
+subclasses&lt;/li&gt;
+&lt;li&gt;Rich ecosystem of helpful plugins&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;django-nose&lt;ul&gt;
+&lt;li&gt;Testing just your apps, not all the random installed stuff&lt;/li&gt;
+&lt;li&gt;Test-selection tricks: running just failed tests, running a
+module, etc.&lt;/li&gt;
+&lt;li&gt;Killing the boilerplate:&lt;/li&gt;
+&lt;li&gt;No more imports into &lt;strong&gt;init&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;No more class name collisions and accidental shadowing&lt;/li&gt;
+&lt;li&gt;With all this freedom, how best should you organize your tests?&lt;/li&gt;
+&lt;li&gt;Going 4 times faster with fixture bundling&lt;/li&gt;
+&lt;li&gt;Troubleshooting&lt;/li&gt;
+&lt;li&gt;Fixtures are evil&lt;/li&gt;
+&lt;li&gt;Where do I put the factories?&lt;/li&gt;
+&lt;li&gt;Speeding startup with test DB reuse&lt;/li&gt;
+&lt;li&gt;Writing faster TransactionTestCases with hygienic base classes&lt;/li&gt;
+&lt;li&gt;Background on Django's handling of TransactionTestCases&lt;/li&gt;
+&lt;li&gt;How to improve matters&lt;/li&gt;
+&lt;li&gt;Test-only models: what's the best practice?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;nose-progressive&lt;ul&gt;
+&lt;li&gt;Dots considered harmful. When will my tests be done?&lt;/li&gt;
+&lt;li&gt;Patience is for the dead. Show me my tracebacks as they happen!&lt;/li&gt;
+&lt;li&gt;My terminal is only this big. Don't waste my space.&lt;/li&gt;
+&lt;li&gt;Hiding pointless stack frames&lt;/li&gt;
+&lt;li&gt;Editor round-tripping for quick debugging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Splitting into sub-suites&lt;ul&gt;
+&lt;li&gt;An introduction to the attr plugin&lt;/li&gt;
+&lt;li&gt;Have some run only on CI machines, some constantly, others before
+checkin&lt;/li&gt;
+&lt;li&gt;Choosing tests with regexes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Other fun plugins&lt;ul&gt;
+&lt;li&gt;f7u12, for when your tests get angry&lt;/li&gt;
+&lt;li&gt;Coverage&lt;/li&gt;
+&lt;li&gt;xunit, for your continual integration pleasure&lt;/li&gt;
+&lt;li&gt;Profiling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="django"></category><category term="nose"></category><category term="testing"></category></entry><entry><title>Get off the bench: Making the leap from user to contributor</title><link href="http://pyvideo.org/djangocon-2012/get-off-the-bench-making-the-leap-from-user-to-c.html" rel="alternate"></link><published>2012-09-06T00:00:00+00:00</published><updated>2012-09-06T00:00:00+00:00</updated><author><name>Dr. Russell Keith-Magee</name></author><id>tag:pyvideo.org,2012-09-06:djangocon-2012/get-off-the-bench-making-the-leap-from-user-to-c.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Django -- like all Open Source projects -- is only as good as the
+community of people that contribute to it. We have a huge user
+community, but the vast majority of users never make the leap and become
+contributors. This talk will walk you through the process of making the
+transition from Django user, to Django Project contributor.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django needs you! No -- seriously -- Django is a volunteer project, and
+the ability of Django to continue to improve is entirely controlled by
+the time and dedication people like you are willing to put into making
+Django better.&lt;/p&gt;
+&lt;p&gt;However, it's not just a matter of sitting down and writing code. If you
+don't have a plan for how you're going to engage with the rest of the
+community, it's very easy to put in a lot of effort, and then have that
+effort go entirely to waste. This talk will give you some tips on how to
+engage the community so that you can see your effort turn into progress,
+and not just be lost in a mailing list.&lt;/p&gt;
+&lt;p&gt;Getting involved doesn't just mean contributing code, either. There are
+lots of other ways that you can be a valuable member of the community,
+and this talk will give you several suggestions for how your talents
+could be used to improve the entire Django ecosystem.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Is Django for Designers?</title><link href="http://pyvideo.org/djangocon-2012/is-django-for-designers.html" rel="alternate"></link><published>2012-09-06T00:00:00+00:00</published><updated>2012-09-06T00:00:00+00:00</updated><author><name>Julia Elman</name></author><id>tag:pyvideo.org,2012-09-06:djangocon-2012/is-django-for-designers.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;How designer friendly is Django? This talk reviews the history of Django
+and how it came to be one of the most designer friendly frameworks
+around. We will review the Django design methodology and how simple it
+is for designers to get started creating and publishing their own
+projects.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;From the beginning, Django has been built to be designer friendly. This
+talk is meant for those who are looking to learn more about how Django
+empowers designers to create websites intelligently. Here is a brief
+outline of what will be covered:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Overview of Django's designer roots&lt;ul&gt;
+&lt;li&gt;Personal background as a designer learning Django&lt;/li&gt;
+&lt;li&gt;How did Django start out with designers in mind?&lt;/li&gt;
+&lt;li&gt;Design methodologies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;How is Django designer friendly?&lt;ul&gt;
+&lt;li&gt;Documentation overview&lt;/li&gt;
+&lt;li&gt;Code examples&lt;/li&gt;
+&lt;li&gt;Template inheritance and why it's awesome&lt;/li&gt;
+&lt;li&gt;Overview of the built-in template tags and filters&lt;/li&gt;
+&lt;li&gt;What's new in Django 1.4?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Django needs designers&lt;ul&gt;
+&lt;li&gt;How to contribute&lt;/li&gt;
+&lt;li&gt;Why designers are an important part of the community&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="django"></category></entry><entry><title>Models and Migrations and Schemas - oh my!</title><link href="http://pyvideo.org/djangocon-2012/models-and-migrations-and-schemas-oh-my.html" rel="alternate"></link><published>2012-09-06T00:00:00+00:00</published><updated>2012-09-06T00:00:00+00:00</updated><author><name>Andrew Godwin</name></author><id>tag:pyvideo.org,2012-09-06:djangocon-2012/models-and-migrations-and-schemas-oh-my.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;A look at the past, current and future of schemas, migrations and
+Django, and what it means for both website developers and ops staff.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django has a long and varied history of dealing with changing schema
+requirements - from the early projects like django-evolution and the two
+aborted attempts to provide migrations in Django itself, through to
+projects like South and now looking ahead to a more integrated solution
+with Django itself once more.&lt;/p&gt;
+&lt;p&gt;This talk will cover some of that history - helpful to get some kind of
+context when it comes to current developments - as well as exploring
+some of the common problems a migration system (and its users)
+encounter, and how those lessons and ideas are being used to help
+improve Django itself to better support schema migrations.&lt;/p&gt;
+</summary><category term="django"></category><category term="models"></category></entry><entry><title>Under the Microscope: Evaluating Existing Django Code When Onboarding a New Client</title><link href="http://pyvideo.org/djangocon-2012/under-the-microscope-evaluating-existing-django.html" rel="alternate"></link><published>2012-09-06T00:00:00+00:00</published><updated>2012-09-06T00:00:00+00:00</updated><author><name>Brian Moloney</name></author><id>tag:pyvideo.org,2012-09-06:djangocon-2012/under-the-microscope-evaluating-existing-django.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;As a Web development firm that specializes in Django, we receive many
+inquiries from organizations looking for assistance with their existing
+Django websites. This session will describe our process for evaluating
+existing codebases and deployment structures. The goal is to provide a
+framework for evaluating other people's code and understand the scrutiny
+your code may someday endure.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Taking over someone else’s code is an exercise fraught with peril.
+However, with the growing popularity of Django, more and more
+organizations are seeking companies and individuals to take over their
+Django website and support their existing Django codebase. This talk
+will describe the standardized process Imaginary Landscape has developed
+to evaluate existing code as part of their new client onboarding
+process.&lt;/p&gt;
+&lt;p&gt;Covered topics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p class="first"&gt;Introduction/Overview&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Top reasons why clients are looking to change vendor&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Initial assessment&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre class="literal-block"&gt;
+* What questions to ask before looking at the code.
+&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Where to start when looking at code?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre class="literal-block"&gt;
+* Traversing the code tree to get a feel for how the code is structured
+&lt;/pre&gt;
+&lt;pre class="literal-block"&gt;
+* Trying to determine how the previous developer thinks
+&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Detailed code review including checklist&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre class="literal-block"&gt;
+* Things to look for when evaluating code: Version control, &amp;quot;Standard&amp;quot;
+&lt;/pre&gt;
+&lt;p&gt;site layout, Settings file, hardcoding, Virtualenv, south, etc.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Examples (names have been changed to protect the imperfect)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre class="literal-block"&gt;
+* The good: the kinds of coding and configuration techniques that seem
+&lt;/pre&gt;
+&lt;p&gt;to be consistent among well-thought-out projects.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+* The bad: examples of code and configuration that make onboarding and
+&lt;/pre&gt;
+&lt;p&gt;maintenance difficult.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Final thoughts&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;pre class="literal-block"&gt;
+* What you can do as a developer taking over a project.
+&lt;/pre&gt;
+&lt;pre class="literal-block"&gt;
+* What you can do as a developer hoping to make great code that others
+&lt;/pre&gt;
+&lt;p&gt;may someday see.&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+* Exercise your right to say no, it’s your reputation on the line
+&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Q&amp;amp;A&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="django"></category></entry><entry><title>Where Django Caching Busts at the Seams</title><link href="http://pyvideo.org/djangocon-2012/where-django-caching-busts-at-the-seams.html" rel="alternate"></link><published>2012-09-06T00:00:00+00:00</published><updated>2012-09-06T00:00:00+00:00</updated><author><name>Kyle Rimkus</name></author><id>tag:pyvideo.org,2012-09-06:djangocon-2012/where-django-caching-busts-at-the-seams.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Most mid-sized Django websites thrive by relying on memcached. Though
+what happens when basic memcached is not enough? And how can one
+identify when the caching architecture is becoming a bottleneck? We'll
+cover the problems we've encountered and solutions we've put in place.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Most mid-sized Django websites thrive by relying on memcached. Though
+what happens when basic memcached is not enough? And how can one
+identify when the caching architecture is becoming a bottleneck? We'll
+cover the problems we've encountered and solutions we've put in place.&lt;/p&gt;
+&lt;p&gt;The following highlight the issues we'll discuss during the talk:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Cache Warming. For content that will likely be in demand, getting it
+ready in cache before use is a helpful start.&lt;/li&gt;
+&lt;li&gt;Two-tier caching. In multi-server environments, certain content that
+changes infrequently and has high-demand can be cached locally on
+each server. In these cases, having methods to burn the cache on each
+server becomes critical.&lt;/li&gt;
+&lt;li&gt;Categorizing Cache. If good estimates exist for the expected demand
+of certain cache as well as the frequency of change, this can lead to
+better insight into when to warm that content as well as whether to
+cache it locally.&lt;/li&gt;
+&lt;li&gt;Caching comparison with memcached vs. reddis vs. mongo&lt;/li&gt;
+&lt;li&gt;Cachemodel. Our open-source, mini-framework for simplifying caching
+in Django.&lt;/li&gt;
+&lt;li&gt;Adding servers to memcached. And consistent hashing algorithms to
+avoid having to burn all cache when the cache cluster changes in
+size.&lt;/li&gt;
+&lt;li&gt;Elasticache on AWS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;As caching problems become more common, better layers and
+mini-frameworks will help simplify and elegantly solve some of these
+problems.&lt;/p&gt;
+</summary><category term="caching"></category><category term="django"></category></entry><entry><title>Between where the Tutorials end &amp; the Wild West begins: bringing new devs up to speed on Django</title><link href="http://pyvideo.org/djangocon-2012/between-where-the-tutorials-end-the-wild-west-b.html" rel="alternate"></link><published>2012-09-05T00:00:00+00:00</published><updated>2012-09-05T00:00:00+00:00</updated><author><name>Julia Grace</name></author><id>tag:pyvideo.org,2012-09-05:djangocon-2012/between-where-the-tutorials-end-the-wild-west-b.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;4 months ago I had never even seen a Django template. But I'm an
+engineer; coming up to speed couldn't be that hard, right? Wrong. Doing
+so efficiently and effectively was tough. I went from zero to production
+ready code used by hundreds of users everyday. I'll present my missteps
+and victories, laying out how other teams can quickly bring new team
+members, who don't know Django, up to speed fast.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This is a rough outline of how I learned Django; 4 months ago I was a
+total outsider. Through this process I made mistakes, I had breakdowns,
+but I walked away with a very solid understanding of Django and have
+proudly have written thousands of lines of Python that are in production
+today. You'll leave this talk with lessons on how to bring new
+developers to your team up speed on Django.&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Read the Django docs (obviously, right?)&lt;/li&gt;
+&lt;li&gt;Follow along building the sample application (Polls, Choices, yada
+yada).&lt;/li&gt;
+&lt;li&gt;Decide to jump into writing production ready code. Have a breakdown.
+Feel like you're trying to boil the ocean with a lighter.&lt;/li&gt;
+&lt;li&gt;Realize that building the sample app was cute but nothing compared
+to writing a real world application with real users and real
+constraints.&lt;/li&gt;
+&lt;li&gt;Re-read the docs.&lt;/li&gt;
+&lt;li&gt;Build a real Django app -- no more Polls. I decided to build a
+single-sign on application that allowed Etsy sellers to login and
+view all the photos of their all their listings in one place. I will
+give background as to why I chose this app, how I built it, and what
+it taught me.&lt;/li&gt;
+&lt;li&gt;Start biting off small pieces of production code to figure out what
+the hell is going on. Learn about commonly used Django packages such
+as django-registration, django-profiles, taggit, etc. - and what
+happens when you need to modify the code of those packages.&lt;/li&gt;
+&lt;li&gt;Attempt to boil the ocean, again. I needed to do a massive re-
+architecture of our application, combining several independent
+Django applications into a single, unified Django project. My first
+attempt totally failed. I will discuss why this was and key novice
+mistakes.&lt;/li&gt;
+&lt;li&gt;Key realization that knowing Django != knowing Python&lt;/li&gt;
+&lt;li&gt;&amp;quot;When you bang your head enough against the wall, eventually the
+wall comes down&amp;quot; -- me. I built a pretty kick ass Django application
+and I'm quite proud of.&lt;/li&gt;
+&lt;li&gt;Celebrate (with lessons learned)!&lt;/li&gt;
+&lt;/ol&gt;
+</summary><category term="django"></category></entry><entry><title>Cryptography for Django Applications</title><link href="http://pyvideo.org/djangocon-2012/cryptography-for-django-applications.html" rel="alternate"></link><published>2012-09-05T00:00:00+00:00</published><updated>2012-09-05T00:00:00+00:00</updated><author><name>Erik Labianca</name></author><id>tag:pyvideo.org,2012-09-05:djangocon-2012/cryptography-for-django-applications.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;A review of encryption in the context of a web application storing
+sensitive information. Topics covered include choosing whether to use
+crypto, selection of tools, proper usage (including examples), and
+operational considerations with respect to security assessment.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;div class="section" id="introduction"&gt;
+&lt;h4&gt;Introduction&lt;/h4&gt;
+&lt;p&gt;The web is a hostile place, and isn't showing any signs of becoming less
+so. In order to mitigate this, many developers turn to cryptography.
+Unfortunately, cryptography can be complicated, and is easily
+circumvented if not properly handled. This presentation will provide an
+introduction to cryptographic tools available to Python/Django
+applications, appropriate use cases for each, proper usage, and
+operational concerns necessary to operate in a certified environment.
+Finally, we will also demonstrate a reusable application that wraps this
+all up, providing secure key-management capabilities to a running Django
+environment via the Django admin.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="why-encrypt"&gt;
+&lt;h4&gt;Why Encrypt?&lt;/h4&gt;
+&lt;/div&gt;
+&lt;div class="section" id="rules-of-encryption"&gt;
+&lt;h4&gt;Rules of Encryption&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Don't do it if you don't need it.&lt;/li&gt;
+&lt;li&gt;Don't write your own.&lt;/li&gt;
+&lt;li&gt;Understand what you're doing if you do.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="when-to-encrypt"&gt;
+&lt;h4&gt;When to encrypt?&lt;/h4&gt;
+&lt;div class="section" id="understand-what-you-re-protecting"&gt;
+&lt;h5&gt;Understand what you're protecting&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Data&lt;/li&gt;
+&lt;li&gt;User records&lt;/li&gt;
+&lt;li&gt;Code&lt;/li&gt;
+&lt;li&gt;Systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="understand-your-attack-vectors"&gt;
+&lt;h5&gt;Understand your attack vectors&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Data (backups, revision control)&lt;/li&gt;
+&lt;li&gt;Systems&lt;/li&gt;
+&lt;li&gt;Application&lt;/li&gt;
+&lt;li&gt;Transport&lt;/li&gt;
+&lt;li&gt;Client&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="understand-the-types-of-encryption-you-might-use"&gt;
+&lt;h5&gt;Understand the types of encryption you might use:&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Hashing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="passwords-are-a-special-case-use-a-key-derivation-function"&gt;
+&lt;h6&gt;Passwords are a special case. Use a key derivation function&lt;/h6&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;PBKDF2 – Upgrade to Django 1.4!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="hashing-algorithms"&gt;
+&lt;h6&gt;Hashing Algorithms&lt;/h6&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;MD5 - fine as a checksum. not fine as a cryptographic hash.&lt;/li&gt;
+&lt;li&gt;SHA1 - fine as a checksum. becoming less fine as a cryptographic hash
+every day&lt;/li&gt;
+&lt;li&gt;SHA2 - so far so good. use as many bits as you can handle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="symmetric-encryption"&gt;
+&lt;h5&gt;Symmetric Encryption&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Fast&lt;/li&gt;
+&lt;li&gt;Reversible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="algorithms-symmetric"&gt;
+&lt;h6&gt;Algorithms (Symmetric)&lt;/h6&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Caesar Cipher (for fun puzzles)&lt;/li&gt;
+&lt;li&gt;DES (don't use)&lt;/li&gt;
+&lt;li&gt;AES (certified)&lt;/li&gt;
+&lt;li&gt;Blowfish&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="asymmetric-encryption"&gt;
+&lt;h5&gt;Asymmetric Encryption&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Slow&lt;/li&gt;
+&lt;li&gt;One-way&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="algorithms-asymmetric"&gt;
+&lt;h6&gt;Algorithms (Asymmetric)&lt;/h6&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;RSA&lt;/li&gt;
+&lt;li&gt;DSA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="uses"&gt;
+&lt;h7&gt;Uses&lt;/h7&gt;
+&lt;div class="section" id="signing"&gt;
+&lt;h8&gt;Signing&lt;/h8&gt;
+&lt;p&gt;Web of Trust&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;PGP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PKI&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="encryption"&gt;
+&lt;h8&gt;Encryption&lt;/h8&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;PGP&lt;/li&gt;
+&lt;li&gt;SSL&lt;/li&gt;
+&lt;li&gt;TLS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="doing-it-right"&gt;
+&lt;h4&gt;Doing it right&lt;/h4&gt;
+&lt;div class="section" id="use-known-good-algorithms"&gt;
+&lt;h5&gt;Use known-good algorithms&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;AES-256&lt;/li&gt;
+&lt;li&gt;SHA2&lt;/li&gt;
+&lt;li&gt;RSA&lt;/li&gt;
+&lt;li&gt;DSA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="use-known-good-implementations"&gt;
+&lt;h5&gt;Use known-good implementations&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Open Source is good&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="extra-credit"&gt;
+&lt;h5&gt;Extra Credit&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;FIPS 140 certified implementations&lt;/li&gt;
+&lt;li&gt;FIPS 140 / NIST configurations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="transport-always-use-https"&gt;
+&lt;h5&gt;Transport (always use HTTPS)&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Use good algorithms AES-256&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="at-rest-insecure-servers-or-backups"&gt;
+&lt;h5&gt;At Rest (insecure servers or backups)&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Understand the ramifications of key management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="examples"&gt;
+&lt;h4&gt;Examples&lt;/h4&gt;
+&lt;div class="section" id="hashing"&gt;
+&lt;h5&gt;Hashing&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Use a key-derivation function&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="don-t-be-linked-in"&gt;
+&lt;h6&gt;Don't be linked-in&lt;/h6&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Salt your hashes (with a secret).&lt;/li&gt;
+&lt;li&gt;Salt and pepper your hashes if possible (with a known unique value)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="ssl"&gt;
+&lt;h5&gt;SSL&lt;/h5&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Forced connections&lt;/li&gt;
+&lt;li&gt;Making the application aware&lt;/li&gt;
+&lt;li&gt;Hardened cipher selection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="section" id="robust-pki"&gt;
+&lt;h6&gt;Robust PKI&lt;/h6&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Client authentication&lt;/li&gt;
+&lt;li&gt;SSL Test Page&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h5&gt;Asymmetric Encryption.&lt;/h5&gt;
+&lt;div class="section" id="key-management"&gt;
+&lt;h6&gt;Key Management&lt;/h6&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Using GPG Agent&lt;/li&gt;
+&lt;li&gt;GPG Manager App&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="pgp-files"&gt;
+&lt;h6&gt;PGP Files&lt;/h6&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h5&gt;Symmetric Encryption.&lt;/h5&gt;
+&lt;div class="section" id="id3"&gt;
+&lt;h6&gt;Key Management.&lt;/h6&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Use Asymmetric Encryption&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="use-a-unique-initialization-vector-if-possible"&gt;
+&lt;h6&gt;Use a unique Initialization Vector if possible&lt;/h6&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;LoopBack Devices&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary><category term="cryptography"></category><category term="django"></category></entry><entry><title>Django forms in a web API world</title><link href="http://pyvideo.org/djangocon-2012/django-forms-in-a-web-api-world.html" rel="alternate"></link><published>2012-09-05T00:00:00+00:00</published><updated>2012-09-05T00:00:00+00:00</updated><author><name>Tareque Hossain</name></author><id>tag:pyvideo.org,2012-09-05:djangocon-2012/django-forms-in-a-web-api-world.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In a world of django powered web APIs and arbitrary consumers,
+traditional methods of rendering &amp;amp; validating django forms are
+ineffective. We discuss how to uphold the API provider/ consumer
+separation, yet utilize provider's django form subsystem to power forms
+in a pure JS consumer. We achieve this by serializing form
+configurations, rendering metadata, error handlers &amp;amp; exposing them over
+API.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In our quest to modularize the architecture of web applications, we
+create self-containing backend systems that provide web APIs for
+programmatic interactions. This gives us the flexibility to separate
+different system components. A system with multiple backend components
+e.g. user profile engine, content engine, community engine, analytics
+engine may have a single frontend application that fetches data from all
+of these components using respective web APIs.&lt;/p&gt;
+&lt;p&gt;With the increased availability of powerful JavaScript frameworks, such
+frontend applications are often purely JS based to decrease application
+footprint, increase deployment flexibility and separate presentation
+from data. The separation is very rewarding from a software engineering
+standpoint but imposes several limitations on system design. Using
+django to construct the API for arbitrary consumers comes with the
+limitation of not being able to utilize the powerful django form
+subsystem to drive forms on these consumers. But is there a way to
+overcome this restriction?&lt;/p&gt;
+&lt;p&gt;This is not a trivial problem to solve and there are only a few
+assumptions we can make about the web API consumer. It can be a native
+mobile or desktop - application or browser. We advocate that web APIs
+should provide sufficient information about 'forms' so that they can be
+faithfully reproduced at the consumer end.&lt;/p&gt;
+&lt;p&gt;Even in a API backend built using django, forms are essential for
+accepting, filtering, processing and saving data. The django form
+subsystem provides many useful features to accomplish these tasks. At
+the same time it facilitates the process of rendering the form elements
+in a browser environment. The concepts of form fields combined with
+widgets can go a long way in streamlining the interface to interact with
+data.&lt;/p&gt;
+&lt;p&gt;We propose an architecture to serialize information about django forms
+(to JSON) in a framework independent fashion so that it can be consumed
+by any frontend application that renders HTML. Such information includes
+but is not limited to basic form configurations, security tokens (if
+necessary), rendering metadata and error handling instructions. We
+lovingly name this architecture - django-remote-forms.&lt;/p&gt;
+&lt;p&gt;At WiserTogether, we are in the process of building a component based
+architecture that strictly provides data endpoints for frontend
+applications to consume. We are working towards developing our frontend
+application for web browsers using backbone.js as MVC and handlebars as
+the templating engine. django-remote-forms helps us streamline our data
+input interface with the django forms living at the API backend.&lt;/p&gt;
+&lt;p&gt;In this talk we detail the architecture of our components, the mechanism
+of delivering django form metadata over API and a backbone.js/
+handlebars implementation to consume the metadata and reproduce forms.&lt;/p&gt;
+</summary><category term="django"></category><category term="django-forms"></category></entry><entry><title>Lessons in Testing</title><link href="http://pyvideo.org/djangocon-2012/lessons-in-testing-0.html" rel="alternate"></link><published>2012-09-05T00:00:00+00:00</published><updated>2012-09-05T00:00:00+00:00</updated><author><name>David Cramer</name></author><id>tag:pyvideo.org,2012-09-05:djangocon-2012/lessons-in-testing-0.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Learn from failures (and successes) around testing patterns and culture
+in a growing company, both in amount of code, and number of engineers.
+We'll dive into how DISQUS adopted testing, and the many challenges
+we've had to overcome.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Testing can be one of the more difficult concepts to pick up in a
+development cycle. With the complexities of large projects, and even
+small projects, writing effective, automated tests can take many times
+longer than writing the code and testing it by hand.&lt;/p&gt;
+&lt;p&gt;This talk will explore the various patterns of testing that DISQUS has
+implemented, and iterated upon over the last two years. It will describe
+how testing has been used to speed up the product lifecycle, improve
+stability through automation, and the culture shift required to get
+there. Most importantly, it will cover the practices that have been put
+in place that have helped ease the burden of writing tests.&lt;/p&gt;
+</summary><category term="django"></category><category term="testing"></category></entry><entry><title>So You Want to Make a Payment: Comparing and contrasting Django payment options</title><link href="http://pyvideo.org/djangocon-2012/so-you-want-to-make-a-payment-comparing-and-cont.html" rel="alternate"></link><published>2012-09-05T00:00:00+00:00</published><updated>2012-09-05T00:00:00+00:00</updated><author><name>Joe Jasinski</name></author><id>tag:pyvideo.org,2012-09-05:djangocon-2012/so-you-want-to-make-a-payment-comparing-and-cont.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;So you've developed an eCommerce site and now you want users to be able
+to make payments. The aim of this talk will be to introduce and compare
+some common payment gateway options, such as Payflow, Authorize.net,
+Stripe, and Braintree, with the focus of integrating them into Django
+projects.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;When developing eCommerce applications in Django, you will often be
+faced with the choice of which payment API to use. It's not always clear
+which services are available, which will fit your needs, and how to get
+started with them. This talk aims to evaluate these payment options from
+a Django programmer's perspective and provide you with background that
+may help you choose a payment processor that fits your needs.&lt;/p&gt;
+&lt;p&gt;Topics will include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;High-level overview of how payments work.&lt;/li&gt;
+&lt;li&gt;Overview of popular payment options: Google Checkout, Authorize.net,
+Payflow Payments, Braintree, Stripe, etc.&lt;/li&gt;
+&lt;li&gt;Compare and contrast these payment gateway APIs&lt;ul&gt;
+&lt;li&gt;compare ease of use&lt;/li&gt;
+&lt;li&gt;features&lt;/li&gt;
+&lt;li&gt;price&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;General overview of payment gateway web interfaces&lt;/li&gt;
+&lt;li&gt;Example Code snippets for payment processing&lt;/li&gt;
+&lt;li&gt;Useful Python/Django payment-related modules&lt;/li&gt;
+&lt;li&gt;Q&amp;amp;A&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="django"></category><category term="payments"></category></entry><entry><title>The Dungeon Master's guide to Django's ORM</title><link href="http://pyvideo.org/djangocon-2012/the-dungeon-masters-guide-to-djangos-orm.html" rel="alternate"></link><published>2012-09-05T00:00:00+00:00</published><updated>2012-09-05T00:00:00+00:00</updated><author><name>Malcolm Tredinnick</name></author><id>tag:pyvideo.org,2012-09-05:djangocon-2012/the-dungeon-masters-guide-to-djangos-orm.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;If you've ever been curious about Django's ORM implementation, you will
+have noticed the required learning curve. Some of the code is fairly
+complicated. Other bits are worse. Here comes a 30 or 40 minute guided
+tour of the uncharted realms: how the pieces fit together, where to look
+for things, why the current design is what it is. A portion of this is
+my fault; I should probably explain myself.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django's database layer is a necessarily complicated piece of code. It
+is a very powerful API that works more or less seamlessly across
+multiple database storage systems, smoothing over many of the
+inconsistencies and implementation differences that go with the
+territory. This is great for developers who use Django.&lt;/p&gt;
+&lt;p&gt;It's a little less awesome for the maintainers of that code; working in
+that environment is fairly difficult. Still, we all like a challenge.
+Problem is: where to start? Coming to grips with the ORM code isn't
+easy. The code is well written and documented, but the entry points are
+particularly well highlighted and, really, the sheer mass of code is an
+obstacle to be overcome.&lt;/p&gt;
+&lt;p&gt;This talk will look at the various layers of the ORM, from the public
+gateways, to the semi-public doors into the implementation, to the
+deeper internals and down to the interaction with databases. In effect,
+following the journey of a couple of adventurous young queries as they
+traverse the pathways to bring back some data, smelted into just the
+right format.&lt;/p&gt;
+&lt;p&gt;The goal is to provide some kind of mental map of the code. Some tips
+for orienting yourself in the future and how to examine new nooks and
+corners without losing your mind. We obviously cannot cover everything,
+but let's go over the common paths and show how the other pieces hang
+off that backbone.&lt;/p&gt;
+&lt;p&gt;Along the way, we'll put some of the details into historical
+perspective. Getting inside the mind of previous adventurers might help
+understand why things are the way they are.&lt;/p&gt;
+</summary><category term="django"></category><category term="django-orm"></category></entry><entry><title>Using Celery with Social Networks</title><link href="http://pyvideo.org/djangocon-2012/using-celery-with-social-networks.html" rel="alternate"></link><published>2012-09-05T00:00:00+00:00</published><updated>2012-09-05T00:00:00+00:00</updated><author><name>David Gouldin</name></author><id>tag:pyvideo.org,2012-09-05:djangocon-2012/using-celery-with-social-networks.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Many web applications need to interface with social networks, and
+celery, a Python distributed task queue library, is a great tool for the
+job. However, achieving speed and stability can be difficult. This talk
+will cover task organization/distribution, rate limiting, failover, and
+other practices to aid in working with social networks at scale.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Twitter conditionally rate limits based on IP address rather than access
+token even when one is provided for some of its API calls. Facebook has
+at least 10 unique error messages to indicate a bad or expired access
+token (that I've found so far). LinkedIn's pagination has an occasional
+off-by-one bug resulting in an endless list of 1-user pages. Let's face
+it: interfacing with social networks is tricky. Celery helps, but to
+provide stable, reliable, and fast social features for your website,
+you'll need an arsenal of strategies and tools to get you the rest of
+the way there.&lt;/p&gt;
+&lt;p&gt;By the end of this talk, you'll understand how to set up tasks to
+quickly serve users with massive networks by employing intelligent
+distribution. You'll be able to design robust processes to handle
+inconsistencies or instabilities in 3rd party APIs. And you'll know how
+to have confidence that the work you intend to do gets done, regardless
+of external rate limits, pagination design, or API call dependency
+chains.&lt;/p&gt;
+&lt;p&gt;This talk is intended for people who have basic familiarity with celery
+and would like to learn more about how to take advantage of it for
+large, distributed task loads.&lt;/p&gt;
+&lt;div class="section" id="outline"&gt;
+&lt;h4&gt;Outline&lt;/h4&gt;
+&lt;ol class="arabic"&gt;
+&lt;li&gt;&lt;p class="first"&gt;Intro&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;3rd party interfaces are hard&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Speed&lt;ul&gt;
+&lt;li&gt;Much slower than local data&lt;/li&gt;
+&lt;li&gt;Users may still expect near-immediate results&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Rate limits&lt;ul&gt;
+&lt;li&gt;Different rules for every service&lt;/li&gt;
+&lt;li&gt;Need to handle reactive &amp;amp; proactive as some don't publish
+rates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Instability&lt;ul&gt;
+&lt;li&gt;Outages (yes, Facebook does go down)&lt;/li&gt;
+&lt;li&gt;Random failures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Why Celery?&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Asynchronous&lt;/li&gt;
+&lt;li&gt;Distributed&lt;/li&gt;
+&lt;li&gt;Fault tolerant&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Task Organization&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Small, atomic tasks (1 API call per task) B. Minimal message state&lt;ul&gt;
+&lt;li&gt;Primitive types only (no model instances!)&lt;/li&gt;
+&lt;li&gt;Defer as much data access to the task itself as possible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Create Task subclasses for common patterns D. Whenever possible,make tasks idempotent&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Task Distribution&lt;/p&gt;
+&lt;ol class="arabic"&gt;
+&lt;li&gt;&lt;p class="first"&gt;Managing pagination&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;For a known set size&lt;ul&gt;
+&lt;li&gt;Where limit/offset is supported, launch all page tasks
+simlutaneously&lt;/li&gt;
+&lt;li&gt;Otherwise, 1 page launches the next as soon as the next
+cursor is obtained&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;For an unknown set size&lt;ul&gt;
+&lt;li&gt;Set max simultaneous pages&lt;/li&gt;
+&lt;li&gt;Task is terminal if blank, otherwise launches page w/
+offset + max pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Setting page size is an art, not a science&lt;ul&gt;
+&lt;li&gt;Minimize the number of api calls when possible&lt;/li&gt;
+&lt;li&gt;Avoid long-running tasks by setting a timeout ceiling&lt;/li&gt;
+&lt;li&gt;Avoid the temptation to pass API data to dependent tasks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Tracking task dependencies (&amp;quot;Done?&amp;quot; is difficult for distributed systems)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Use an external backend to store a dependency tree&lt;/li&gt;
+&lt;li&gt;Subclass ResultSet to evaluate the task state of the tree&lt;/li&gt;
+&lt;li&gt;Requires ignore_result=False&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Rate Limiting&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Problems&lt;ul&gt;
+&lt;li&gt;Celery's rate limiting doesn't do what you think it does&lt;/li&gt;
+&lt;li&gt;3rd party rate limits depend on many factors&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Solution&lt;ul&gt;
+&lt;li&gt;For services with known rate limits:&lt;ul&gt;
+&lt;li&gt;Use an external backend to store rate limit counters&lt;/li&gt;
+&lt;li&gt;Increment counters based on rate limit factors per api call&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;For services with unknown rate limits:&lt;ul&gt;
+&lt;li&gt;Use an external backend to store rate limit backoff counters&lt;/li&gt;
+&lt;li&gt;Ramp up / ratchet down call rate by power law as api callsfail/succeed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Failover&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Problems&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Celery's countdown doesn't do what you think it does&lt;/li&gt;
+&lt;li&gt;3rd parties can fail in lots of &amp;quot;interesting&amp;quot; ways&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Solution&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Implement native RabbitMQ alternative to countdown&lt;/li&gt;
+&lt;li&gt;Create task base classes per social network to handle error
+conditions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Multiple queues&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Better control over task priority management &amp;amp; resource distribution&lt;/li&gt;
+&lt;li&gt;Not all social accounts are created equal (handling whales &amp;amp; spikes)&lt;/li&gt;
+&lt;li&gt;When you can't stream updates, use a trickle queue&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Celerybeat considered harmful&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Periodic task persistence gets out of sync with code&lt;/li&gt;
+&lt;li&gt;Just 1 more process to manage&lt;/li&gt;
+&lt;li&gt;Cron: it's just. not. that. hard.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Debugging&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Don't use &amp;quot;always eager&amp;quot;&lt;/li&gt;
+&lt;li&gt;Logging, logging, logging&lt;/li&gt;
+&lt;li&gt;Unit tests are good, but integration tests save lives&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p class="first"&gt;Gotchas&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Open socket prevents Celery soft timeout&lt;/li&gt;
+&lt;li&gt;Celery soft timeout doesn't retry the task&lt;/li&gt;
+&lt;li&gt;If result state is not known, Celery reports &amp;quot;PENDING&amp;quot;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</summary><category term="celery"></category><category term="django"></category></entry><entry><title>What is Django's Role on Mobile?</title><link href="http://pyvideo.org/djangocon-2012/what-is-djangos-role-on-mobile.html" rel="alternate"></link><published>2012-09-05T00:00:00+00:00</published><updated>2012-09-05T00:00:00+00:00</updated><author><name>Eric Florenzano</name></author><id>tag:pyvideo.org,2012-09-05:djangocon-2012/what-is-djangos-role-on-mobile.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Mobile grows bigger each year, but we love the web, and Django. Where
+does our knowledge and experience fit in this new ecosystem? What kind
+of a role can Django play on fast-growing platforms like iOS and
+Android?&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;div class="section" id="intro"&gt;
+&lt;h4&gt;Intro&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Django's version of MVC vs. iOS/Android version of MVC&lt;/li&gt;
+&lt;li&gt;How the platforms differ from Django&lt;/li&gt;
+&lt;li&gt;What is similar to Django&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="api"&gt;
+&lt;h4&gt;API&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Easiest way for Django to be used in conjunction with mobile today&lt;/li&gt;
+&lt;li&gt;Big fat requests with lots of data preferable to many smaller
+requests&lt;/li&gt;
+&lt;li&gt;Authentication best practices for mobile backend APIs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="phonegap"&gt;
+&lt;h4&gt;PhoneGap&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Can actually use Django to build your mobile app today&lt;/li&gt;
+&lt;li&gt;JavaScript tricks to get around things like tap delay&lt;/li&gt;
+&lt;li&gt;How much Django is really used vs. how much JavaScript&lt;/li&gt;
+&lt;li&gt;Offline caching&lt;/li&gt;
+&lt;li&gt;Performance issues with this approach&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="future"&gt;
+&lt;h4&gt;Future&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Quick look at RubyMotion&lt;/li&gt;
+&lt;li&gt;Turns out it's possible to cross-compile Python for iOS&lt;/li&gt;
+&lt;li&gt;Android has Py4A (including interpreter embedding)&lt;/li&gt;
+&lt;li&gt;What can be done with this? Mobile Django.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="conclusion"&gt;
+&lt;h4&gt;Conclusion&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;They are different worlds, need to be careful to respect both&lt;/li&gt;
+&lt;li&gt;Even today Django proves useful as an API layer&lt;/li&gt;
+&lt;li&gt;Django web apps in native wrapper can be a solution, albeit with its
+issues&lt;/li&gt;
+&lt;li&gt;As hardware gets better, we may see something like an embedded Django&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary><category term="django"></category><category term="mobile"></category></entry><entry><title>Why the Django Community Sucks</title><link href="http://pyvideo.org/djangocon-2012/why-the-django-community-sucks.html" rel="alternate"></link><published>2012-09-05T00:00:00+00:00</published><updated>2012-09-05T00:00:00+00:00</updated><author><name>Justin Myles Holmes</name></author><id>tag:pyvideo.org,2012-09-05:djangocon-2012/why-the-django-community-sucks.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Continuing in the tradition of self-deprecation that has made DjangoCon
+famous, a relative newcomer will outline what the Django community can
+learn from the world of social activism.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In 2010, Eric Florenzano ignited a fever following his lightfooted and
+lighthearted placement of a mirror in front of the hardest of the
+hardcore in the django community with his presentation, “Why Django
+Sucks, and How We can Fix It.” Then, a year later, at DjangCon 2011,
+Steve Holden grasped the self- critique baton with an even steeper
+challenge, making a claim that he described as “the most outrageous
+thing you can say” - that the Django documentation sucked.&lt;/p&gt;
+&lt;p&gt;The Django documentation, already widely considered the best in its
+class, has responded to the critique and continues to improve daily.&lt;/p&gt;
+&lt;p&gt;Also widely viewed as a top strength of Django is its community. While
+Django enjoys one of the most thoughtful, patient, and responsive
+communities in the world of open source web frameworks, it has a special
+opportunity for learning in Washington, D.C., where many of the most
+successful and voracious non- profit advocacy organizations call home.&lt;/p&gt;
+&lt;p&gt;This presentation will examine some of their tactics and compare them
+with those employed by the Django community. Among the topics covered
+will be mobilization of new troops, building and listening to diverse
+coalitions, and identifying and reaching out to under-represented
+populations.&lt;/p&gt;
+&lt;p&gt;The presenter comes from a decade of experience in non-profit social
+justice activism. Having been a Django user for 3.5 years and involved
+in the community for 2, will be at only his second DjangoCon.. Freshly
+imported, he has the perspective of a passionate newcomer rather a
+seasoned veteran.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>A Gringo's Guide to Internationalization</title><link href="http://pyvideo.org/djangocon-2012/a-gringos-guide-to-internationalization.html" rel="alternate"></link><published>2012-09-04T00:00:00+00:00</published><updated>2012-09-04T00:00:00+00:00</updated><author><name>Jacob Burch</name></author><id>tag:pyvideo.org,2012-09-04:djangocon-2012/a-gringos-guide-to-internationalization.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Coming from a speaker who escaped a notion to &amp;quot;why would we need to
+translate?&amp;quot; this talk aims to show what actually goes into translating a
+website or app using Django's Internationalization tools. Covered will
+be an overview of batteries included, best practices and anti-patterns
+in using them, and some third party tools to help make your life
+escaping the myth of a Lingua Franca easier.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;There's often a bubble in the English-speaking programming world that
+the entire internet runs on English. Our Top-level domains are shortened
+english words. Our programming languages--Python in particular--try to
+emulate English words and grammar.&lt;/p&gt;
+&lt;p&gt;Firmly in place in this world for many years, my first attempt to
+translate a pre-existing site came with a high sticker shock of nuanced
+difficulty. This talk covers all the lessons I learned in taking a
+fully-fleshed web app with no translation (and a programmer with no
+translation experience) to being completely translated.&lt;/p&gt;
+&lt;div class="section" id="talk-overview"&gt;
+&lt;h4&gt;Talk Overview&lt;/h4&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Introduction to Translation&lt;ol class="arabic"&gt;
+&lt;li&gt;Overview of gettext&lt;/li&gt;
+&lt;li&gt;Brief history of a translation&lt;/li&gt;
+&lt;li&gt;Add gettext calls&lt;/li&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;django-admin.py&lt;/span&gt; makemessages&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Ship po file to translation service&lt;/li&gt;
+&lt;li&gt;Receive file back&lt;/li&gt;
+&lt;li&gt;Compile&lt;/li&gt;
+&lt;li&gt;Fin&lt;/li&gt;
+&lt;li&gt;gettext vs gettext_lazy&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Batteries Included&lt;ol class="arabic"&gt;
+&lt;li&gt;gettext Python calls&lt;/li&gt;
+&lt;li&gt;Middleware&lt;/li&gt;
+&lt;li&gt;template tags&lt;/li&gt;
+&lt;li&gt;trans vs. blocktrans&lt;/li&gt;
+&lt;li&gt;Anti-patterns of the battery included use.&lt;/li&gt;
+&lt;li&gt;Heavy whitespace in blocktrans&lt;/li&gt;
+&lt;li&gt;Monster-sized translations&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;The best laid plans of mice and men...&lt;ol class="arabic"&gt;
+&lt;li&gt;Problems that get in the way of A history of a translation.&lt;/li&gt;
+&lt;li&gt;Realize half the site is still untranslated&lt;/li&gt;
+&lt;li&gt;Edit out the translations you already had translated to avoid
+re-curring costs&lt;/li&gt;
+&lt;li&gt;Have the product adjust so two words change&lt;/li&gt;
+&lt;li&gt;Realize common text that's in the database&lt;/li&gt;
+&lt;li&gt;Fin?&lt;/li&gt;
+&lt;li&gt;Patterns and tools to help&lt;/li&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;poxx.py&lt;/tt&gt; and the idea of a 'canonical' po file.&lt;/li&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;dbgettext&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Wholly-translated template files (translate_include,
+trans_render)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Advanced Translation Technique&lt;ol class="arabic"&gt;
+&lt;li&gt;While undocumented, translation backend is pretty darn flexible
+and the source code is a treasure trove to make 'impossible' use
+cases not too bad.&lt;/li&gt;
+&lt;li&gt;Overview of how the translation service works behind the scenes&lt;/li&gt;
+&lt;li&gt;&lt;tt class="docutils literal"&gt;_translation&lt;/tt&gt; thread local&lt;/li&gt;
+&lt;li&gt;Merged translations (root-&amp;gt;app-&amp;gt;default)&lt;/li&gt;
+&lt;li&gt;Sessions vs. Accept-Language&lt;/li&gt;
+&lt;li&gt;Middleware and Context processors&lt;/li&gt;
+&lt;li&gt;Example of advanced translation code: Multi-tenancy translation.&lt;/li&gt;
+&lt;li&gt;Translating some sites, not translating others&lt;/li&gt;
+&lt;li&gt;Translating Site A one way, Site B another&lt;/li&gt;
+&lt;li&gt;Using an English translation for duct-tape and profit.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Why Django's i18n sucks.&lt;ol class="arabic"&gt;
+&lt;li&gt;In the vein of the &amp;quot;Django Sucks&amp;quot; Key note. It doesn't really, but
+it could use some changes--from minor to major.&lt;/li&gt;
+&lt;li&gt;Why .po Files are archaic and limited.&lt;/li&gt;
+&lt;li&gt;What we can do to improve for 1.5 and beyond.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</summary><category term="django"></category><category term="internationalization"></category></entry><entry><title>API Design Tips</title><link href="http://pyvideo.org/djangocon-2012/api-design-tips.html" rel="alternate"></link><published>2012-09-04T00:00:00+00:00</published><updated>2012-09-04T00:00:00+00:00</updated><author><name>Daniel Lindsley</name></author><id>tag:pyvideo.org,2012-09-04:djangocon-2012/api-design-tips.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The focus of this talk will be on some pragmatic tips on how to design
+programmatic (non-web-based) APIs for use by other developers.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;If you're a developer of any sort (Django, Python, Javascript, etc),
+chances are that someone, at some point, will have to take the code
+you've written &amp;amp; use it in a different context. This is even more
+amplified if you work on OSS, where people &lt;em&gt;will&lt;/em&gt; use it in ways you've
+never dreamed about.&lt;/p&gt;
+&lt;p&gt;This talk is a reflection on my experience building libraries for other
+people's consumption &amp;amp; thoughts on how to design/make (non-HTTP) APIs in
+a way that will make others love you (or at least not hunt you down &amp;amp;
+strangle you).&lt;/p&gt;
+</summary><category term="api"></category><category term="django"></category></entry></feed>

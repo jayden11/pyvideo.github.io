@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_documentation.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-28T00:00:00+00:00</updated><entry><title>AutoDocish: Automated-ish Dataset Documentation</title><link href="http://pyvideo.org/pydata-chicago-2016/autodocish-automated-ish-dataset-documentation.html" rel="alternate"></link><published>2016-08-28T00:00:00+00:00</published><updated>2016-08-28T00:00:00+00:00</updated><author><name>Elizabeth Wickes</name></author><id>tag:pyvideo.org,2016-08-28:pydata-chicago-2016/autodocish-automated-ish-dataset-documentation.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Chicago 2016&lt;/p&gt;
+&lt;p&gt;Slides: &lt;a class="reference external" href="https://figshare.com/articles/AutoDocish_Automated-ish_Dataset_Documentation/3759288/1"&gt;https://figshare.com/articles/AutoDocish_Automated-ish_Dataset_Documentation/3759288/1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;AutoDocish is a command line Python tool to semi-automate the dataset documentation process. Written with a framework for expansion and customization, it produces template files in MarkDown that contain a basic data dictionary structure. This talk explains dataset documentation practices and how this tool could fit into the data publishing workflow.&lt;/p&gt;
+</summary><category term="documentation"></category></entry><entry><title>Integrating Development, Documentation and Reporting</title><link href="http://pyvideo.org/write-the-docs-2013/integrating-development-documentation-and-reporting.html" rel="alternate"></link><published>2013-04-09T00:00:00+00:00</published><updated>2013-04-09T00:00:00+00:00</updated><author><name>Ana Nelson</name></author><id>tag:pyvideo.org,2013-04-09:write-the-docs-2013/integrating-development-documentation-and-reporting.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Let’s explore the amazing things that happen when you combine reporting with documentation. We’ll start with a retro-chic command-line task management tool named ‘ado’, and create a beautifully modern D3-based interactive task explorer (no server necessary). Learn how powerful documentation-driven development can be, and the benefits of freeing documentation and reporting from their usual separate silos. In this talk we will simultaneously document Bash, Python, SQL, CSS, HTML and JavaScript using HTML, PDF, epub, Excel and .docx formats (with just a single command!). You’ll learn about Dexy, the document and data automation tool that makes this possible by working alongside the documentation tools you already know and love.&lt;/p&gt;
+</summary><category term="documentation"></category><category term="tools"></category></entry><entry><title>Why Projects Should Have “What’s New” Documents</title><link href="http://pyvideo.org/write-the-docs-2013/why-projects-should-have-whats-new-documents.html" rel="alternate"></link><published>2013-04-08T00:00:00+00:00</published><updated>2013-04-08T00:00:00+00:00</updated><author><name>Andrew Kuchling</name></author><id>tag:pyvideo.org,2013-04-08:write-the-docs-2013/why-projects-should-have-whats-new-documents.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Describes the speaker's experience writing What’s New documents covering the new features in each Python 2.x release. The editorial policies will be summarized, and the speaker argues that large projects should include a “What’s New” as part of their standard documentation set.&lt;/p&gt;
+</summary><category term="documentation"></category></entry><entry><title>Documentation at Scale</title><link href="http://pyvideo.org/write-the-docs-2014/documentation-at-scale.html" rel="alternate"></link><published>2014-05-05T00:00:00+00:00</published><updated>2014-05-05T00:00:00+00:00</updated><author><name>Kenneth Reitz</name></author><id>tag:pyvideo.org,2014-05-05:write-the-docs-2014/documentation-at-scale.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Information is powerful — every day we see it transform the world around us.&lt;/p&gt;
+&lt;p&gt;Documentation doesn't always have to be about a software workflow or open source project — it can be used to develop and convey ideas much larger than yourself. Information architecture is a powerful tool for developing ideas over time. It enables us to evolve and distill information at a much larger scale than a single person or team could ever achieve on their own.&lt;/p&gt;
+&lt;p&gt;Take these concepts, and apply open source workflow tools like GitHub's Pull Requests and Write the Docs, and the distributed evolution of ideas and information has never been more accessible.&lt;/p&gt;
+&lt;p&gt;We'll explore these concepts, learn how to foster a community of distributed contributors, encourage contributions early on, and more.&lt;/p&gt;
+&lt;p&gt;Python-Guide.org will be used as an example, a Python-specific knowledge base written by 168 people and accessed by over 50,000 people every month.&lt;/p&gt;
+</summary><category term="documentation"></category></entry><entry><title>Documenting Domain Specific Knowledge</title><link href="http://pyvideo.org/write-the-docs-2014/documenting-domain-specific-knowledge.html" rel="alternate"></link><published>2014-05-05T00:00:00+00:00</published><updated>2014-05-05T00:00:00+00:00</updated><author><name>Alex Gaynor</name></author><id>tag:pyvideo.org,2014-05-05:write-the-docs-2014/documenting-domain-specific-knowledge.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Most of my career as a software engineer, I've written documentation for very general purpose tools, where users' had an existing familiarity. For the last six months I've been working on a cryptography library, a domain most developers are ignorant of. We set out with the goal of making our documentation accessible to any developer, regardless of previous cryptographic experience, which presents unique challenges. This talk will dive into what these challenges are, and how we try to solve them.&lt;/p&gt;
+</summary><category term="documentation"></category></entry><entry><title>Read the docs</title><link href="http://pyvideo.org/pycaribbean-2016/eric-holscher-read-the-docs.html" rel="alternate"></link><published>2016-02-21T00:00:00+00:00</published><updated>2016-02-21T00:00:00+00:00</updated><author><name>Eric Holscher</name></author><id>tag:pyvideo.org,2016-02-21:pycaribbean-2016/eric-holscher-read-the-docs.html</id><summary type="html"></summary><category term="keynote"></category><category term="read the docs"></category><category term="documentation"></category><category term="sphinx"></category></entry><entry><title>Large Problems in Django, Mostly Solved</title><link href="http://pyvideo.org/djangocon-2010/djangocon-2010--large-problems-in-django--mostly-.html" rel="alternate"></link><published>2010-09-08T00:00:00+00:00</published><updated>2010-09-08T00:00:00+00:00</updated><author><name>Eric Holscher</name></author><id>tag:pyvideo.org,2010-09-08:djangocon-2010/djangocon-2010--large-problems-in-django--mostly-.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk is based on my popular series of blog posts highlighting
+applications from the community. I will highlight some of the best
+applications that the Django/Python community has put together, talk
+about places that are lacking, and talk about what these popular
+applications have in common.&lt;/p&gt;
+&lt;p&gt;Part 1&lt;/p&gt;
+&lt;p&gt;I have written a series of blog posts about &amp;quot;Large problems&amp;quot; in the
+community, and how they have been solved by members of our community
+with reusable apps. Previously I have covered:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Delayed Execution&lt;/li&gt;
+&lt;li&gt;Search&lt;/li&gt;
+&lt;li&gt;APIs&lt;/li&gt;
+&lt;li&gt;Documentation&lt;/li&gt;
+&lt;li&gt;Database Migrations&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I will update my thoughts on these issues, as well as talking about a
+couple of other new issues that I think that have been solved in a
+decent way. These include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Remote Command Execution&lt;/li&gt;
+&lt;li&gt;Debugging in Development&lt;/li&gt;
+&lt;li&gt;Continuous Integration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Part 2&lt;/p&gt;
+&lt;p&gt;In this part I will highlight issues that are still headaches for the
+Community. These are places where there is a good chance for growth for
+third party apps, and places where I have personally found some friction
+in my development. A couple examples of this are:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Deployment&lt;/li&gt;
+&lt;li&gt;Class Based Views / Thread Safety&lt;/li&gt;
+&lt;li&gt;Debugging Production Environments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Part 3&lt;/p&gt;
+&lt;p&gt;From the above applications that are well done, what makes a popular
+reusable app? This won't be my thoughts, but more looking at apps that
+have been successful and trying to see what they have in common. A good
+app and a good reusable app are necessarily different, and I think it
+will be interesting to look at what traits make reusable apps popular.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://ericholscher.com/tag/largeproblems/"&gt;Large problems posts&lt;/a&gt;&lt;/p&gt;
+</summary><category term="api"></category><category term="ci"></category><category term="continuousintegration"></category><category term="databasemigrations"></category><category term="debugging"></category><category term="delayedexecutions"></category><category term="deployment"></category><category term="djangocon"></category><category term="djangocon2010"></category><category term="documentation"></category><category term="migrations"></category><category term="safety"></category><category term="search"></category></entry><entry><title>The story and tech of Read the Docs</title><link href="http://pyvideo.org/djangocon-2011/djangocon-2011--the-story-and-tech-of-read-the-do.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Eric Holscher</name></author><id>tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--the-story-and-tech-of-read-the-do.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The story and tech of Read the Docs&lt;/p&gt;
+&lt;p&gt;Presented by Eric Holscher&lt;/p&gt;
+&lt;p&gt;Hosting open source documentation was a mess. The best-of-class solution
+for the Python world as uploading a tarball of html to
+packages.python.org or doing similar to upload to github pages. We set
+out to solve this problem using the current best of class tools that
+Django has to offer.&lt;/p&gt;
+</summary><category term="casestudy"></category><category term="djangocon"></category><category term="djangocon2011"></category><category term="documentation"></category><category term="readthedocs"></category><category term="rtd"></category><category term="rtfd"></category></entry><entry><title>Using Python in Software for the Medical Industry</title><link href="http://pyvideo.org/europython-2011/using-python-in-software-for-the-medical-industry.html" rel="alternate"></link><published>2011-07-18T00:00:00+00:00</published><updated>2011-07-18T00:00:00+00:00</updated><author><name>Wesley J. Chun</name></author><id>tag:pyvideo.org,2011-07-18:europython-2011/using-python-in-software-for-the-medical-industry.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] wesley chun - 21 June 2011 in &amp;quot;Track Tagliatelle&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The medical industry has long been dominated by custom software written
+by manufacturers of medical equipment. With the widespread use of
+lower-cost computing power and abundance of software developers using
+cost-beneficial open source development tools, it is no surprise that
+this is a rapidly- growing field in software engineering. In this talk,
+I will describe some of my experiences using Python and other open
+source tools, temporarily transitioning from the world of the web and
+Internet development, jumping into the medical industry, an experience
+much like being a fish out of water. The experiences of working in this
+field, specifically developing software for use in clinical trials. We
+describe the use of open source tools for such software development, the
+required integration with closed-source software, and the documentation
+rigor that is necessary in a field under the jurisdiction of the US Food
+and Drug Administration (FDA). In particular, I'll describe direct
+experience in building an application for the use of analyzing spinal
+fractures and the various tools that make up the application suite,
+whose primary development language was Python. We will also discuss the
+particular role of the my employer at the time in the clinical trials
+process and elaborate on the data flow that was necessary for all
+medical applications developed at the firm, not just the one in
+particular.&lt;/p&gt;
+</summary><category term="documentation"></category><category term="web"></category></entry><entry><title>Writing Books using Python and Open Source Software (#40)</title><link href="http://pyvideo.org/pycon-us-2010/writing-books-using-python-and-open-source-softwa.html" rel="alternate"></link><published>2010-02-19T00:00:00+00:00</published><updated>2010-02-19T00:00:00+00:00</updated><author><name>Wesley J. Chun</name></author><id>tag:pyvideo.org,2010-02-19:pycon-us-2010/writing-books-using-python-and-open-source-softwa.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Writing Books using Python and Open Source Software&lt;/p&gt;
+&lt;p&gt;Presented by Mr. wesley j. chun&lt;/p&gt;
+&lt;p&gt;These days, there are countless number of software applications and web
+services that have been developed using free and open source software
+(FOSS). Such tools have become so flexible, powerful, and universal,
+that it should also be possible for authors to write manuscripts using
+open source tools like Python in the same way that applications are
+developed. In this talk, we present some case studies of this
+phenomenon.&lt;/p&gt;
+</summary><category term="documentation"></category><category term="pycon"></category><category term="pycon2010"></category><category term="tools"></category></entry><entry><title>Documentation Driven Development</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--documentation-driven-development.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Corey Oordt</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--documentation-driven-development.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Documentation Driven Development&lt;/p&gt;
+&lt;p&gt;Presented by Corey Oordt&lt;/p&gt;
+&lt;p&gt;Developers usually leave documentation as a final step; one that they
+will get to as soon as they are forced with threats of bodily harm.
+Writing the documentation before writing the code, can lead to better
+code, better implementation and, of course, actual documentation.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;&amp;quot;Documentation Driven Design&amp;quot; was coined by our team after noticing how
+documenting code dramatically changed how we approached problems. By
+writing the documentation first, you saw the problem from a different
+perspective: the end user or programmer. This talk will focus on a few
+items:&lt;/p&gt;
+&lt;p&gt;Usable, not just functional. Many times developers write code that
+solves the problem, but is a real pain in the neck to use. Writing the
+documentation first demonstrates how easy or difficult it is to
+implement the solution right away.&lt;/p&gt;
+&lt;p&gt;A guide to what to write. Many developers leave documentation undone
+because they don't know how to approach it. Having some idea of what
+needs writing can make the task seem less daunting.&lt;/p&gt;
+</summary><category term="documentation"></category><category term="documentationdrivendesign"></category><category term="pycon"></category><category term="pycon2011"></category></entry><entry><title>Writing great documentation</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--writing-great-documentation.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Jacob Kaplan-Moss</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--writing-great-documentation.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Writing great documentation&lt;/p&gt;
+&lt;p&gt;Presented by Jacob Kaplan-Moss&lt;/p&gt;
+&lt;p&gt;Django’s among the best documented open source projects; I'm intensely
+proud of that accomplishment. If any part of Django endures, I hope
+it’ll be a “documentation culture” — an ethos that values great,
+well-written documentation. To that end, this talk looks at the tools,
+tips, and techniques I’ve learned over the years. I hope it helps you
+write great documentation, too.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;This talk looks at tips, tools, and techniques you can use to produce
+great technical documentation.&lt;/p&gt;
+&lt;p&gt;It's split roughly into two parts:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Part 1: technique. We'll look at the structural elements that make
+documentation useful: tutorials, high-level overviews, topical
+guides, reference material, FAQs, and more. We'll cover some tips on
+how to get documentation done, and community processes for handling
+documentation in teams (open or not). We'll also talk about what I'm
+calling &amp;quot;Documentation Driven Development&amp;quot; - a technique riffing off
+Test Driven Development that calls for writing documentation before
+code.&lt;/li&gt;
+&lt;li&gt;Part 2: tools. Over the last couple of years a few fantastic tools
+have sprung up that ease the technical aspects of writing
+documentation. We'll talk about which tools are suitable for which
+uses, and look at a handful of cool tools including
+&lt;a class="reference external" href="http://sphinx.pocoo.org/"&gt;Sphinx&lt;/a&gt;,
+&lt;a class="reference external" href="http://epydoc.sourceforge.net/"&gt;Epydoc&lt;/a&gt;, and
+&lt;a class="reference external" href="http://fitzgen.github.com/pycco/"&gt;http://fitzgen.github.com/pycco/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This talk is mostly targeted towards those documenting libraries or
+frameworks intended for use by other developers, but much of it probably
+applies to any sort of technical documentation.&lt;/p&gt;
+</summary><category term="docs"></category><category term="documentation"></category><category term="epydoc"></category><category term="faqs"></category><category term="pycco"></category><category term="pycon"></category><category term="pycon2011"></category><category term="sphinx"></category></entry></feed>

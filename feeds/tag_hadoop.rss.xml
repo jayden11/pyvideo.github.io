@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 02 Mar 2012 00:00:00 +0000</lastBuildDate><item><title>Python in Big Data with an overview of NumPy &amp; SciPy</title><link>http://pyvideo.org/pydata/python-in-big-data-with-an-overview-of-numpy-sc.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Travis Oliphant, CEO of Continuum Analytics, kicks off the PyData
+Workshop with a talk on Python in Big Data. Topics addressed include
+what Python has to offer the world of Big Data, specific use-cases, as
+well asking why Hadoop is considered the de-facto standard.&lt;/p&gt;
+&lt;p&gt;Additionally, Travis gives an overview of NumPy and SciPy.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Travis Oliphant</dc:creator><pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-03-02:pydata/python-in-big-data-with-an-overview-of-numpy-sc.html</guid><category>hadoop</category><category>numpy</category><category>scipy</category></item><item><title>PyOhio 2010: Processing Large Datasets with Hadoop and Python</title><link>http://pyvideo.org/pyohio-2010/pyohio-2010--processing-large-datasets-with-hadoo.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Processing Large Datasets with Hadoop and Python&lt;/p&gt;
+&lt;p&gt;Presented by William McVey&lt;/p&gt;
+&lt;p&gt;This talk will explore how Hadoop along with Python can be used to
+process large datasets. An overview of the Apache Hadoop project will be
+given. The map/reduce concept will be introduced and some methods of
+coding the data processing routines in python will be explored. The talk
+will use real world examples to illustrate how this approach can be used
+to parallelize computationally expensive operations across multiple
+cluster nodes effectively using python.&lt;/p&gt;
+&lt;p&gt;The course will assume familiarity with the Python language during the
+demos, but will not actually require a deep knowledge of python to
+understand the concepts introduced.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">William McVey</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pyohio-2010/pyohio-2010--processing-large-datasets-with-hadoo.html</guid><category>datasets</category><category>hadoop</category><category>pyohio</category><category>pyohio2010</category></item><item><title>Programmazione MapReduce in Python con Pydoop</title><link>http://pyvideo.org/europython-2011/programmazione-mapreduce-in-python-con-pydoop.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Simone Leo - 23 June 2011 in &amp;quot;Track Italiana Big Mac &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Hadoop è la principale implementazione open source di MapReduce, il
+paradigma di calcolo distribuito su larga scala di Google. L'API nativa
+di Hadoop è in Java e le opzioni built-in per la programmazione in
+Python - Streaming e Jython - presentano diversi inconvenienti: la prima
+consente di accedere solo a un piccolo sottoinsieme delle funzionalità
+di Hadoop, mentre la seconda ha tutte le limitazioni di Jython rispetto
+a CPython.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pydoop.sourceforge.net"&gt;Pydoop&lt;/a&gt; è un'API per Hadoop che rende
+disponibile buona parte delle funzionalità di Hadoop al programmatore
+Python, consentendo lo sviluppo in CPython. I suoi moduli di base sono
+wrapper Boost.Python per l'interfaccia C/C++ di Hadoop.&lt;/p&gt;
+&lt;p&gt;Il talk consiste in un tutorial su MapReduce/Hadoop e in una
+presentazione dell'API Pydoop, con l'obiettivo principale di avvicinare
+le community di Hadoop e Python. Può essere utile, anche se non
+strettamente necessaria, una conoscenza di base della programmazione
+distribuita.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simone Leo</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-13:europython-2011/programmazione-mapreduce-in-python-con-pydoop.html</guid><category>community</category><category>hadoop</category><category>java</category><category>jython</category><category>mapreduce</category><category>python,</category><category>tutorial</category></item><item><title>Python MapReduce Programming with Pydoop</title><link>http://pyvideo.org/europython-2011/python-mapreduce-programming-with-pydoop.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Simone Leo - 24 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Hadoop is the leading open source implementation of MapReduce, Google's
+large scale distributed computing paradigm. Hadoop's native API is in
+Java, and its built-in options for Python programming - Streaming and
+Jython - have several drawbacks: the former allows to access only a
+small subset of Hadoop's features, while the latter carries with it all
+of the limitations of Jython with respect to CPython.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pydoop.sourceforge.net"&gt;Pydoop&lt;/a&gt; is an API for Hadoop that
+makes most of its features available to Python programmers while
+allowing CPython development. Its core consists of Boost.Python wrappers
+for Hadoop's C/C++ interface.&lt;/p&gt;
+&lt;p&gt;The talk consists of a MapReduce/Hadoop tutorial and a presentation of
+the Pydoop API, with the main goal of bridging the gap between the
+Hadoop and Python communities. A basic knowledge of distributed
+programming is helpful but not strictly required.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simone Leo</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-13:europython-2011/python-mapreduce-programming-with-pydoop.html</guid><category>api</category><category>cpython</category><category>distributed</category><category>hadoop</category><category>jython</category><category>mapreduce</category><category>tutorial</category></item></channel></rss>

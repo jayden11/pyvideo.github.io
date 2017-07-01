@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 18 Nov 2016 00:00:00 +0000</lastBuildDate><item><title>Is that ham in my spam? A novice's inquiry into Naive Bayes</title><link>http://pyvideo.org/pycon-jamaica-2016/is-that-ham-in-my-spam-a-novices-inquiry-into-naive-bayes.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Supervised learning, machine learning, classifiers, big data! What in the world are all of these things? As a beginning programmer the questions described as “machine learning” questions can be mystifying at best. #pyconjamaica2016&lt;/p&gt;
+&lt;p&gt;In this talk I will define the scope of a machine learning problem, identifying an email as ham or spam, from the perspective of a beginner (non master of all things “machine learning&amp;quot;) and show how Python can help us simply learn how to classify a piece of email.&lt;/p&gt;
+&lt;p&gt;To begin we must ask, what is spam? How do I know it “when I see it”? From previous experience of course! We will provide human labeled examples of spam to our model for it to understand the likelihood of spam or ham. This approach, using examples and data we already know to determine the most likely label for a new example, uses the Naive Bayes classifier.&lt;/p&gt;
+&lt;p&gt;Our model will look at the words in the body of an email, finding the frequency of words in both spam and ham emails and the frequency of spam and ham. Once we know the prior likelihood of spam and what makes something spam, we can try applying a label to a new example.&lt;/p&gt;
+&lt;p&gt;Through this exercise we will see at a basic level what types of questions machine learning asks, learn to model “learning” with Python, and understand how learning can be measured.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.pythonjam.org.jm/conference-2016"&gt;https://www.pythonjam.org.jm/conference-2016&lt;/a&gt; the PyCon Jamaica 2016 technology conference for Python software developers was held (November 17 - 18, 2016).  The conference was immediately followed by the Great Python Scavenger Hunt &lt;a class="reference external" href="https://www.pythonjam.org.jm/conference-2016/scavenger-race"&gt;https://www.pythonjam.org.jm/conference-2016/scavenger-race&lt;/a&gt;. Our conferences are open to beginners, experts and non-programmers.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lorena Mesa</dc:creator><pubDate>Fri, 18 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-18:pycon-jamaica-2016/is-that-ham-in-my-spam-a-novices-inquiry-into-naive-bayes.html</guid><category>bayes</category></item><item><title>Is that spam in my ham?</title><link>http://pyvideo.org/europython-2016/is-that-spam-in-my-ham.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lorena Mesa - Is that spam in my ham?
+[EuroPython 2016]
+[18 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/is-that-spam-in-my-ham"&gt;https://ep2016.europython.eu//conference/talks/is-that-spam-in-my-ham&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Beginning programmers or Python beginners may find it overwhelming to
+implement a machine learning algorithm. Increasingly machine learning
+is becoming more applicable to many areas. This talk introduces key
+concepts and ideas and uses Python to build a basic classifier - a
+common type of machine learning problem. Providing some jargon to help
+those that may be self-educated or currently learning&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Supervised learning, machine learning, classifiers, big data! What in
+the world are all of these things? As a beginning programmer the
+questions described as &amp;quot;machine learning&amp;quot; questions can be mystifying
+at best.&lt;/p&gt;
+&lt;p&gt;In this talk I will define the scope of a machine learning problem,
+identifying an email as ham or spam, from the perspective of a
+beginner (non master of all things &amp;quot;machine learning&amp;quot;) and show how
+Python can help us simply learn how to classify a piece of email.&lt;/p&gt;
+&lt;p&gt;To begin we must ask, what is spam? How do I know it &amp;quot;when I see it&amp;quot;?
+From previous experience of course! We will provide human labeled
+examples of spam to our model for it to understand the likelihood of
+spam or ham. This approach, using examples and data we already know to
+determine the most likely label for a new example, uses the Naive
+Bayes classifier.&lt;/p&gt;
+&lt;p&gt;Our model will look at the words in the body of an email, finding the
+frequency of words in both spam and ham emails and the frequency of
+spam and ham. Once we know the prior likelihood of spam and what makes
+something spam, we can try applying a label to a new example.&lt;/p&gt;
+&lt;p&gt;Through this exercise we will see at a basic level what types of
+questions machine learning asks, learn to model &amp;quot;learning&amp;quot; with
+Python, and understand how learning can be measured.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lorena Mesa</dc:creator><pubDate>Thu, 28 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-28:europython-2016/is-that-spam-in-my-ham.html</guid></item><item><title>Is that spam in my ham? A novice's inquiry into classification.</title><link>http://pyvideo.org/pyohio-2015/is-that-spam-in-my-ham-a-novices-inquiry-into-c.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Supervised learning, machine learning, classifiers!&lt;/strong&gt; &lt;em&gt;Help?&lt;/em&gt; In this
+talk I define a problem, identifying an email as spam, from the
+perspective of a beginner and show how Python can help us learn to
+classify. We will translate knowing spam &amp;quot;when I see it&amp;quot; into a basic
+model and use a Naive Bayes classifier to determine if email is spam. We
+will train our classifier with examples and practice!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lorena Mesa</dc:creator><pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-01:pyohio-2015/is-that-spam-in-my-ham-a-novices-inquiry-into-c.html</guid><category>talk</category></item></channel></rss>

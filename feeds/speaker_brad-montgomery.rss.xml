@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 27 Jul 2014 00:00:00 +0000</lastBuildDate><item><title>My Adventures with Mock</title><link>http://pyvideo.org/pyohio-2013/my-adventures-with-mock.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Mock is a powerful testing library. Unfortunately, there seems to be a
+trend of confusion and distress among those who are just getting started
+with Mock. This talk will highlight my experience learning Mock, and
+will list a few of the patterns that I've seen emerge during my quest
+for 100% test coverage.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sun, 28 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-28:pyohio-2013/my-adventures-with-mock.html</guid><category>talk</category></item><item><title>Warming up to Graphs</title><link>http://pyvideo.org/pyohio-2014/warming-up-to-graphs.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Graphs are a powerful data structure and are increasingly relevant for
+today's social and data-centric applications. This talk offers a brief
+overview of Graphs, Graph theory, and explores scenarios where using a
+Graph database (particularly Neo4j) can be of great benefit.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brad Montgomery</dc:creator><pubDate>Sun, 27 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-27:pyohio-2014/warming-up-to-graphs.html</guid><category>talk</category></item></channel></rss>

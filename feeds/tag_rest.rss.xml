@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 17 Jul 2016 00:00:00 +0000</lastBuildDate><item><title>RESTful Service Design: Patterns and Anti-Patterns</title><link>http://pyvideo.org/pygotham-2016/restful-service-design-patterns-and-anti-patterns.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Drawing on more than a decade of combined experience in RESTful service design, your speakers will discuss many of the key architectural questions that every API developer needs to answer. The goal of this talk is to move quickly beyond the basics, and explore larger questions of how to build a sane and scalable service that your users will love. We will draw on our own experience of implementing bad (and later, less-bad) answers to these questions in multiple real-world situations, with specific examples demonstrated using Django REST Framework.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jeff Revesz</dc:creator><pubDate>Sun, 17 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-17:pygotham-2016/restful-service-design-patterns-and-anti-patterns.html</guid><category>REST</category></item><item><title>RESTful Ponies</title><link>http://pyvideo.org/djangocon-2009/djangocon-2009--restful-ponies.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Malone</dc:creator><pubDate>Tue, 08 Sep 2009 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2009-09-08:djangocon-2009/djangocon-2009--restful-ponies.html</guid><category>djangocon</category><category>djangocon2009</category><category>rest</category></item><item><title>RESTful APIs: Promises and Lies</title><link>http://pyvideo.org/djangocon-2011/djangocon-2011--restful-apis--promises--amp--lies.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;RESTful APIs: Promises &amp;amp; Lies&lt;/p&gt;
+&lt;p&gt;Presented by Tareque Hossain&lt;/p&gt;
+&lt;p&gt;Over the last few years RESTful APIs have become an integral part of
+many django projects. But some of the fundamental questions still remain
+unanswered. How do you decouple resources from models, formatting from
+definitions, authorization from authentication? How should you define
+resources? How do you handle pagination? Deliver facets? Prevent abuse?
+Implement versioning? Let's have a look.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tareque Hossain</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--restful-apis--promises--amp--lies.html</guid><category>api</category><category>djangocon</category><category>djangocon2011</category><category>rest</category></item><item><title>How to build complex web applications having fun?</title><link>http://pyvideo.org/europython-2011/how-to-build-complex-web-applications-having-fun.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Andrew Mleczko - 22 June 2011 in &amp;quot;Track Ravioli &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Web development is a complexity challenge nowadays. Growing number of
+functionalities results in customer expectations increase which makes
+project design more difficult. Using proper tools that suite your
+customer needs is essential.&lt;/p&gt;
+&lt;p&gt;In this talk I would like to present two successful stories using
+closely together Pyramid and Plone. Basing on these examples I wished to
+highlight the main reasons for using Plone as a CMS only and letting
+Pyramid do the rest (vertical application). Moreover, I will underscore
+good and bad practices during integration process and how to make
+farsighted architectural decisions in a right moment.&lt;/p&gt;
+&lt;p&gt;Prerequisites: be familiarized with common python web framework
+concepts.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Mleczko</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-21:europython-2011/how-to-build-complex-web-applications-having-fun.html</guid><category>cms</category><category>design</category><category>framework</category><category>plone</category><category>pyramid</category><category>rest</category><category>web</category></item><item><title>Introducing Django REST framework</title><link>http://pyvideo.org/europython-2011/introducing-django-rest-framework.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Tom Christie - 23 June 2011 in &amp;quot;Track Tagliatelle&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django REST framework is a new project that aims to make it easy to
+build RESTful Web APIs.&lt;/p&gt;
+&lt;p&gt;The APIs it creates are fully Web browse-able, using an awesome Django
+admin style interface, allowing them to be truly self-describing,
+well-connected systems.&lt;/p&gt;
+&lt;p&gt;The talk will include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;RESTful Web APIs and Django - what batteries aren't in the box&lt;/li&gt;
+&lt;li&gt;An introduction to the framework - What it is, what problems it tries
+to solve&lt;/li&gt;
+&lt;li&gt;Why it's so important that Web APIs should be Web browse-able&lt;/li&gt;
+&lt;li&gt;A live coding demonstration&lt;/li&gt;
+&lt;li&gt;Audience discussion&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Sign up for the &lt;a class="reference external" href="http://ep2011.europython.eu/p3/sprints/"&gt;sprint&lt;/a&gt;
+More &lt;a class="reference external" href="http://django-rest-framework.org"&gt;info&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Christie</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-13:europython-2011/introducing-django-rest-framework.html</guid><category>django</category><category>framework</category><category>rest</category><category>web</category></item><item><title>An iPhone-Python love affair: Building APIs for mobile</title><link>http://pyvideo.org/europython-2011/an-iphone-python-love-affair-building-apis-for-m.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Anna Callahan,Nate Aune - 24 June 2011 in &amp;quot;Track
+Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Mobile apps are the hot item of the day - and the best mobile apps are
+backed by a great website. Python web developer Nate Aune and iPhone
+developer Anna Callahan will show you how we built a simple music web
+app in Django with a native iPhone app that communicates with it.
+Attendees of this talk will see a concrete case study of building an
+application that exposes an API for mobile devices.&lt;/p&gt;
+&lt;p&gt;Our web app exposes a JSON API for sending and receiving data from the
+mobile device. We’ll talk about why we chose Django and the TastyPie API
+package, and discuss other Python-based frameworks that could be used to
+build the API such as Pyramid, Flask and Bottle. We’ll also compare REST
+and custom APIs to understand best practices for building APIs designed
+for mobile devices.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anna Callahan</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-07:europython-2011/an-iphone-python-love-affair-building-apis-for-m.html</guid><category>api</category><category>django</category><category>flask</category><category>json</category><category>mobile</category><category>rest</category><category>tastypie</category><category>web</category></item><item><title>Robert Coup - /me wants it. Scraping sites to get data.</title><link>http://pyvideo.org/kiwi-pycon-2009/robert-coup----me-wants-it--scraping-sites-to-get.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;/me wants it. Scraping sites to get data.&lt;/p&gt;
+&lt;p&gt;Presented by Robert Coup&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Building scrapers for grabbing data from websites. Tools, techniques,
+and tips.&lt;/p&gt;
+&lt;p&gt;Outline&lt;/p&gt;
+&lt;p&gt;Life would be so much easier if the data contained in websites was
+available raw via APIs. Alas, until that mythical day comes we either
+need to deal with unhelpful people via email and phone, or just get it
+ourselves. Python has some great tools available to help with building
+scrapers and for parsing and formatting the data we get. Starting off
+with the basics - tracking what needs to be done, making web requests,
+parsing HTML, following links, and extricating data from Excel and PDF
+documents. Our scraper needs to be resilient against too-clever content
+management systems, Frontpage-era HTML, and plain dodgy data. We may
+need to pass through logins and other messiness. There are some
+techniques and tips for approaching the problems and keeping your
+solution flexible and as simple as possible. We'll discuss some scrapers
+built for New Zealand data, and introduce a new project from the NZ open
+government data group to provide a RESTful interface to scrapers -
+effectively creating a nice API where there isn't one.&lt;/p&gt;
+&lt;p&gt;Slides:
+&lt;a class="reference external" href="http://www.slideshare.net/rcoup/me-wants-it-scraping-sites-to-get-data"&gt;http://www.slideshare.net/rcoup/me-wants-it-scraping-sites-to-get-
+data&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robert Coup</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:kiwi-pycon-2009/robert-coup----me-wants-it--scraping-sites-to-get.html</guid><category>api</category><category>html</category><category>kiwipycon</category><category>kiwipycon2009</category><category>rest</category><category>scraping</category><category>web</category></item><item><title>Actors: What, Why, and How (#161)</title><link>http://pyvideo.org/pycon-us-2010/pycon-2010--actors--what--why--and-how---161.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Actors: What, Why and How&lt;/p&gt;
+&lt;p&gt;Presented by Donovan Preston&lt;/p&gt;
+&lt;p&gt;Since the dawn of concurrency research, there have been two camps:
+shared everything, and shared nothing. Most modern applications use
+threads for concurrency, a shared everything architecture.&lt;/p&gt;
+&lt;p&gt;Actors, however, use a shared nothing architecture where lightweight
+processes communicate with each other using message passing. Actors can
+change their state, create a new Actor, send a message to any Actor it
+has the Address of, and wait for a specific kind of message to arrive in
+it's mailbox.&lt;/p&gt;
+&lt;p&gt;We will discuss the benefits of using the Actor architecture and
+strategies for implementing an Actor system in Python.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://bitbucket.org/fzzzy/python-%20actors/"&gt;http://bitbucket.org/fzzzy/python-actors/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Donovan Preston</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--actors--what--why--and-how---161.html</guid><category>concurrency</category><category>eventlet</category><category>infrastructure</category><category>pycon</category><category>pycon2010</category><category>rest</category><category>scaling</category><category>wsgi</category></item><item><title>Creating RESTful Web services with restish (#17)</title><link>http://pyvideo.org/pycon-us-2010/pycon-2010--creating-restful-web-services-with-re.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Creating RESTful Web Services with restish&lt;/p&gt;
+&lt;p&gt;Presented by Grig Gheorghiu&lt;/p&gt;
+&lt;p&gt;Roy Fielding described REST in his Ph.D. dissertation in the year 2000.
+Almost ten years later, Web developers are still confused as to how to
+apply the REST principles in their applications. Examples of poorly
+designed 'REST' APIs abound, and I will make use of them in my talk.&lt;/p&gt;
+&lt;p&gt;In this presentation, I will give an overview of REST and its design
+principles, and I will show a concrete example of a RESTful Web service
+implemented in the restish framework. My examples will include CRUD
+operations, as well as transactions. I will also show how to consume
+this Web service using both httplib2 and curl. I would be remiss if I
+didn't describe ways to test the Web service with WebTest and twill.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Grig Gheorghiu</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--creating-restful-web-services-with-re.html</guid><category>pycon</category><category>pycon2010</category><category>rest</category><category>restish</category><category>testing</category><category>web</category></item></channel></rss>

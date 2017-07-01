@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_haikel-guemar.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-17T00:00:00+00:00</updated><entry><title>ContainerOrchestration.py: The tutorial session</title><link href="http://pyvideo.org/pycon-us-2017/containerorchestrationpy-the-tutorial-session.html" rel="alternate"></link><published>2017-05-17T00:00:00+00:00</published><updated>2017-05-17T00:00:00+00:00</updated><author><name>Mike Bright</name></author><id>tag:pyvideo.org,2017-05-17:pycon-us-2017/containerorchestrationpy-the-tutorial-session.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Container Orchestration is the new hot topic in design of scalable
+system architecture.&lt;/p&gt;
+&lt;p&gt;In this tutorial we look at the main choices for container
+orchestrators: Docker Swarm, Kubernetes and Apache Mesos.&lt;/p&gt;
+&lt;p&gt;We will look at the use of the respective Python APIs for interacting
+with thoses engines.&lt;/p&gt;
+&lt;p&gt;This 3-hr session will provide hands-on use of those orchestrators with
+real use-cases.&lt;/p&gt;
+</summary></entry><entry><title>The Lightweight Cloud Servers War Begins</title><link href="http://pyvideo.org/europython-2015/the-lightweight-cloud-servers-war-begins.html" rel="alternate"></link><published>2015-08-05T00:00:00+00:00</published><updated>2015-08-05T00:00:00+00:00</updated><author><name>Haikel Guemar</name></author><id>tag:pyvideo.org,2015-08-05:europython-2015/the-lightweight-cloud-servers-war-begins.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Haikel Guemar - The Lightweight Cloud Servers War Begins
+[EuroPython 2015]
+[20 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Docker has introduced a new model of deployment solving the infamous
+&amp;quot;Deployment Matrix from Hell&amp;quot; by using containers.
+But this also brought the spotlight back on the Operating System side,
+and following the trails of CoreOS and Atomic Host, a new generation
+of Cloud Servers are born by using containers instead of traditional
+RPM/DPKG/tarball/whaterver packages model to deploy services.
+CoreOS/Atomic Host/Snappy Ubuntu and now VMWare Photon also provides
+transactional image-based OS focusing on security and built-in cluster
+management.&lt;/p&gt;
+&lt;p&gt;During this talk, we'll present these next-gen OS, and their
+components and how they fit in.&lt;/p&gt;
+</summary></entry></feed>

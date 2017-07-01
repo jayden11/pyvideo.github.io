@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 08 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>Scaling up to Big Data Devops for Data Science</title><link>http://pyvideo.org/pydata-dc-2016/scaling-up-to-big-data-devops-for-data-science.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData DC 2016&lt;/p&gt;
+&lt;p&gt;Scaling up R/Python from a single machine to a cluster environment can be tricky. While there are many tools available that make the launching of a cluster relatively easy, they are not focused or optimized to the specific use case of analytics but mostly on operations. Come and learn about devops tips and tricks to optimize your transition into the big data world as a data scientist.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marck Vaisman</dc:creator><pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-08:pydata-dc-2016/scaling-up-to-big-data-devops-for-data-science.html</guid><category>big data</category><category>Data</category><category>data science</category><category>devops</category><category>scaling</category><category>science</category></item><item><title>Getting started with chatops in python with errbot</title><link>http://pyvideo.org/pycon-israel-2016/getting-started-with-chatops-in-python-with-errbot.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;ChatOps is about bringing your devops tools into your team chatroom. The recent rise of professional chatting services like Slack or Hipchat shows that people are embracing a new way of collaborating. Bringing your tools within those conversations tightens the feedback loop, improves information sharing and onboarding new people in your team. Some common operations implemented with chatops includes deployments, provisioning, monitoring, graphs, development tracking... Those are often implemented with the help of a chat bot like in this presentation Errbot. If your chatops system can be easily extended, for example here in Python, we will see that a team culture can crystallize around it with fun additions. This presentation's goal is to show you how easy it is to get started with chatops in Python, with some technical tips (installation, security, architecture...) but also some social tips to make your company understand better its potential for your team.&lt;/p&gt;
+&lt;p&gt;Slides available here: &lt;a class="reference external" href="http://il.pycon.org/2016/static/sessions/guillaume-binet.pdf"&gt;http://il.pycon.org/2016/static/sessions/guillaume-binet.pdf&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guillaume Binet</dc:creator><pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-20:pycon-israel-2016/getting-started-with-chatops-in-python-with-errbot.html</guid><category>errbot</category><category>chatops</category><category>devops</category></item><item><title>Building a Production Quality Project in Python</title><link>http://pyvideo.org/pytexas-2015/building-a-production-quality-project-in-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This presentation focuses on a variety of tools which can help Python
+developers rapidly create production worthy projects by drawing on my
+own experience in creating and deploying a Python project called Arsenal
+at Rackspace in the space of a few months.&lt;/p&gt;
+&lt;p&gt;Arsenal is an open-source service designed to manage and direct a cache
+of operating system images on bare-metal nodes. The goal being to
+drastically reduce the time it takes to provision a node for
+end-users/customers of a bare-metal cloud.&lt;/p&gt;
+&lt;p&gt;Links to information about arsenal:
+&lt;a class="reference external" href="https://github.com/rackerlabs/arsenal"&gt;https://github.com/rackerlabs/arsenal&lt;/a&gt;
+&lt;a class="reference external" href="https://arsenal.readthedocs.org/en/latest/"&gt;https://arsenal.readthedocs.org/en/latest/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Clifton Houck</dc:creator><pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-09:pytexas-2015/building-a-production-quality-project-in-python.html</guid><category>deployment</category><category>devops</category></item><item><title>A Common Scientific Compute Environment for Research and Education</title><link>http://pyvideo.org/scipy-2014/a-common-scientific-compute-environment-for-resea.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;I provide an overview of the challenges we’ve tackled at UC Berkeley
+deploying scientific compute environments in both educational and
+research contexts. After a discussion of how these needs can be served
+by devops tools like Docker and Ansible, I argue that a coherent,
+easy-to-understand philosophy around reproducible compute environments
+is fundamental.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;As the line between developer and researcher becomes ever more blurred,
+the challenge of sharing your compute environment with students and
+colleagues becomes ever more complex. Large, private organizations have
+been grappling with this issue for a while, spawning a great deal of
+enthusiasm around tools like Docker, Puppet, Vagrant, and Packer. And
+let’s not forget notable python-based upstarts, Ansible and Salt! These
+tools can generate immense enthusiasm, followed by the question, “Why
+are we doing this?”&lt;/p&gt;
+&lt;p&gt;The problem is that researcher / developers can become overwhelmed by
+the complexity and variety inherent in devops tools - all the while
+losing sight of the real reason for using these tools: a philosophy of
+documenting your research compute environments in a reproducible
+fashion, with a focus on scripting as much as is reasonable.&lt;/p&gt;
+&lt;p&gt;At UC Berkeley, members of the D-Lab, the Statistical Compute Facility,
+Computer Science and Research IT have organized a project to develop the
+Berkeley Common Environment (BCE). I’ll provide an overview of the
+challenges we’ve tackled in both educational and research contexts, and
+the needs served by the above-mentioned devops tools. In the end, I
+argue that a coherent, easy-to-understand philosophy around scientific
+compute environments is fundamental - the tools are just a way to make
+your collaboration architecture a little easier for the people building
+these environments a few times a year. What we should focus on, though,
+is end-user experience and research community buy-in.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dav Clark</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-09:scipy-2014/a-common-scientific-compute-environment-for-resea.html</guid><category>devops</category><category>reproducible research</category></item><item><title>Practical DevOps</title><link>http://pyvideo.org/pycon-de-2012/practical-devops.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;DevOps ist eine aktuelle Bewegung in der IT, die sich zur Aufgabe macht,
+ein Umdenken in den klassischen Lagern Entwicklung und Betrieb
+einzuleiten. Der Vortrag wirft einen Blick auf die noch junge Bewegung
+und zeigt mit Geschichten aus dem wahren Leben, wie sich die agile
+Denkweise fortschreiben lässt, die mit SCRUM ins allgemeine Bewusstsein
+getreten ist.&lt;/p&gt;
+&lt;p&gt;Schlomo gibt einen Überblick über das Thema und berichtet über die
+DevOps Erfolge bei der
+&lt;a class="reference external" href="http://www.immobilienscout24.de"&gt;ImmobilienScout24&lt;/a&gt;. Nach 2 Jahren
+agilem Umdenken in der Entwicklung zeigte sich, dass die klassische
+Gewaltenteilung Plan - Build - Run einfach nicht mehr gut funktioniert
+weil sich die Anforderungen und Erwartungen sowohl in der Entwicklung
+als auch im Betrieb ändern und daher auch eine neue Form der
+Zusammenarbeit nahe legen.&lt;/p&gt;
+&lt;p&gt;Die Ideen aus der DevOps Bewegung lassen sich fast überall einsetzen, wo
+bisher ein &amp;quot;über den Zaun werfen&amp;quot; gespielt wird und haben das primäre
+Ziel, alle Beteiligten gemeinsam an einem Strang ziehen zu lassen. Mit
+den Ideen und Erfahrungen aus dem Vortrag lassen sich sicher die ersten
+Schritte in die richtige Richtung einleiten.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Schlomo Schapiro</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-10-31:pycon-de-2012/practical-devops.html</guid><category>agile</category><category>devops</category><category>kanban</category><category>open source</category><category>python</category><category>scrum</category><category>web</category></item></channel></rss>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_gael-pasgrimaud.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-11-30T00:00:00+00:00</updated><entry><title>Tu peux webtest</title><link href="http://pyvideo.org/pycon-fr-2013/tu-peux-webtest.html" rel="alternate"></link><published>2013-11-30T00:00:00+00:00</published><updated>2013-11-30T00:00:00+00:00</updated><author><name>Gael Pasgrimaud</name></author><id>tag:pyvideo.org,2013-11-30:pycon-fr-2013/tu-peux-webtest.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;WebTest est une librairie framework agnostique permettant de tester
+n'importe quelle application WSGI et plus encore.&lt;/p&gt;
+&lt;p&gt;Après un bref rappel de ce qu'est la norme WSGI, cette présentation vous
+permettra d'apprécier l'étendue des possibilités de la librairie.&lt;/p&gt;
+</summary></entry></feed>

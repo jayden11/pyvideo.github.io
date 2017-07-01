@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 11 Apr 2015 00:00:00 +0000</lastBuildDate><item><title>How to Get Started with Machine Learning</title><link>http://pyvideo.org/pycon-us-2014/how-to-get-started-with-machine-learning.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Provide an introduction to machine learning to clarify what it is, what
+it's not and how it fits into this picture of all the hot topics around
+data analytics and big data.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Melanie Warrick</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-04-12:pycon-us-2014/how-to-get-started-with-machine-learning.html</guid></item><item><title>Neural Nets for Newbies</title><link>http://pyvideo.org/pycon-us-2015/neural-nets-for-newbies.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Neural networks have regained popularity in the last decade, but they
+get dismissed as being too complicated to understand and implement. This
+talk breaks down the neural net structure as simply as possible, so you
+have a framework on which to grow your knowledge in the space. I will
+put neural nets in the context of real-world applications and share
+Python packages and code where you can get started building your own.
+Coming out this talk you won't know everything about neural nets, but
+you will walk away with a solid foundation and some resources on where
+to go next to learn more.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Melanie Warrick</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-11:pycon-us-2015/neural-nets-for-newbies.html</guid></item></channel></rss>

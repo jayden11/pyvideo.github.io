@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>Dev Ops meets Data Science Taking models from prototype to production with Docker</title><link>http://pyvideo.org/pydata-dc-2016/dev-ops-meets-data-science-taking-models-from-prototype-to-production-with-docker.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData DC 2016&lt;/p&gt;
+&lt;p&gt;We present the evolution of a model to a production API that can scale to large e-commerce needs. On the journey we discuss metrics of success and how to use the Kubernetes cluster manager and associated tools for deploy. In addition to the use of these tools we highlight how to make use of the cluster management system for further testing and experimentation with your models.&lt;/p&gt;
+&lt;p&gt;The chasm between data science and dev ops is often wide and impenetrable, but the two fields have more in common than meets the eye. Every data scientist will be able to lean in and help their career by investing in a basic understanding the basic principles of dev ops. In this talk I present the notions of service level indicators, objectives, and agreements. I cover the rigorous monitoring and testing of services. Finally we demonstrate how to build a basic data science workflow and push to production level APIs with Docker and Kubernetes.&lt;/p&gt;
+&lt;p&gt;Kubernetes is an opinionated container cluster manager with an easy to use, robust interface. It can be use on very small and very large clusters. Docker is a container system that allows one to build code in an isolated environment. Paired with a container manager such as Kubernetes we are able to manage millions of instances as needed for a production deployment. These tools are two of many different options but are considered among the best open source solutions available.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel</dc:creator><pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-09:pydata-dc-2016/dev-ops-meets-data-science-taking-models-from-prototype-to-production-with-docker.html</guid><category>Data</category><category>data science</category><category>docker</category><category>models</category><category>science</category></item><item><title>Keynote: How Open Data Science Opens the World of Innovation</title><link>http://pyvideo.org/pydata-dc-2016/keynote-how-open-data-science-opens-the-world-of-innovation.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData DC 2016&lt;/p&gt;
+&lt;p&gt;Innovation today appears to be instantaneous in large part due to open source technology. Open Data Science is no exception. Python, a pillar in the Open Data Science bedrock, is well positioned to harvest innovation in software and with Anaconda, it’s also well positioned to capitalize on the latest hardware innovations. Anaconda and Intel are blazing a path for the Python community to take advantage of cognitive computing, including machine learning and deep learning.&lt;/p&gt;
+&lt;p&gt;In this keynote, Peter and Robert will talk about how Open Data Science––a connected ecosystem of data, analytics and compute––streamlines the path to high performance and innovation to achieve breakthrough results.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robert Cohn</dc:creator><pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-08:pydata-dc-2016/keynote-how-open-data-science-opens-the-world-of-innovation.html</guid><category>Data</category><category>data science</category><category>science</category></item><item><title>Scaling up to Big Data Devops for Data Science</title><link>http://pyvideo.org/pydata-dc-2016/scaling-up-to-big-data-devops-for-data-science.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData DC 2016&lt;/p&gt;
+&lt;p&gt;Scaling up R/Python from a single machine to a cluster environment can be tricky. While there are many tools available that make the launching of a cluster relatively easy, they are not focused or optimized to the specific use case of analytics but mostly on operations. Come and learn about devops tips and tricks to optimize your transition into the big data world as a data scientist.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marck Vaisman</dc:creator><pubDate>Sat, 08 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-08:pydata-dc-2016/scaling-up-to-big-data-devops-for-data-science.html</guid><category>big data</category><category>Data</category><category>data science</category><category>devops</category><category>scaling</category><category>science</category></item><item><title>When Worlds Collide: Productionalizing a Data Science Model</title><link>http://pyvideo.org/pydata-chicago-2016/when-worlds-collide-productionalizing-a-data-science-model.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Chicago 2016&lt;/p&gt;
+&lt;p&gt;On our first data science project at Shiftgig, the data science and engineering teams had to build software that was production-ready while maintaining the flexibility of a data science sandbox. Although these seem like irreconcilable goals, they forced us to improve inter-team communication and ultimately helped create a great product. We’ll walk through our process and the lessons we learned.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tudor Radoaca</dc:creator><pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-28:pydata-chicago-2016/when-worlds-collide-productionalizing-a-data-science-model.html</guid><category>Data</category><category>data science</category><category>model</category><category>science</category></item><item><title>Keynote: Using Data Science for Social Good: Examples, Opportunities, and Challenges</title><link>http://pyvideo.org/pydata-chicago-2016/keynote-using-data-science-for-social-good-examples-opportunities-and-challenges.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Chicago 2016&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Rayid Ghani</dc:creator><pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-27:pydata-chicago-2016/keynote-using-data-science-for-social-good-examples-opportunities-and-challenges.html</guid><category>Data</category><category>data science</category><category>science</category></item><item><title>Workshop Panel with Guido van Rossum</title><link>http://pyvideo.org/pydata/workshop-panel-with-guido-van-rossum.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In this presentation from the 2012 PyData Workshop hosted at Google on
+March 2-3, Guido van Rossum, author of the Python programming language,
+engages in an open discussion on the intersection of the evolution of
+Python and the growth of the scientific community. Panelists include
+Fernando Perez, Travis Oliphant, and David Cournapeau.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido Van Rossum</dc:creator><pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-03-02:pydata/workshop-panel-with-guido-van-rossum.html</guid><category>science</category><category>scientific</category></item><item><title>High-performance computing on gamer PCs</title><link>http://pyvideo.org/europython-2011/high-performance-computing-on-gamer-pcs.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Yann Le Du - 20 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In Electron Paramagnetic Resonance Imaging, we are faced with a
+deconvolution problem that has a strong impact on the image actually
+reconstructed. Faced with the need of mapping the distribution of
+organic matter in Terrestrial and Martian rock samples for applications
+in exobiology, we needed to see how to extract a maximum amount of
+information from our data: our approach uses reservoir computing
+artificial neural networks coupled to a particle swarm algorithm that
+evolves the reservoirs’ weights.&lt;/p&gt;
+&lt;p&gt;The code runs on the Hybrid Processing Units for Science (HPU4Science)
+cluster located at the Laboratoire de Chimie de la Matière Condensée de
+Paris (LCMCP). The cluster is composed of a central data storage machine
+and a heterogeneous ensemble of 6 decentralized nodes. Each node is
+equipped with a Core2 Quad or i7 CPU and 3-7 NVIDIA Graphical Processing
+Units (GPUs) including the GF110 series. Each of the 28 GPUs
+independently explores a different parameter space sphere of the same
+problem. Our application shows a sustained real performance of 15.6
+TFLOPS. The HPU4Science cluster cost
+&lt;span class="formula"&gt;36, 090&lt;i&gt;resulting&lt;/i&gt;&lt;i&gt;in&lt;/i&gt;&lt;i&gt;a&lt;/i&gt;432.3&lt;i&gt;MFLOPS&lt;/i&gt; ⁄ &lt;/span&gt; cost performance.&lt;/p&gt;
+&lt;p&gt;That talk is meant to demonstrate on a practical case how consumer grade
+computer hardware coupled to a very popular computer language can be
+used to tackle a difficult yet very elementary scientific problem: how
+do you go from formulating the problem, to choosing the right hardware
+and software, and all the way to programming the algorithms using the
+appropriate development tools and methodologies (notably Literate
+Programming). On the math side, the talk requires a basic understanding
+of matrix algebra and of the discretization process involved when
+computing integrals.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Yann Le Du</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-21:europython-2011/high-performance-computing-on-gamer-pcs.html</guid><category>image</category><category>mapping</category><category>nvidia</category><category>performance</category><category>processing</category><category>science</category><category>scientific</category></item><item><title>MiG - A Complete Grid Middleware (mostly) in Python</title><link>http://pyvideo.org/europython-2011/mig-a-complete-grid-middleware-mostly-in-pyth.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Jonas Bardino - 22 June 2011 in &amp;quot;Track Tagliatelle &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Grid computing was all the buzz in the beginning of the millennium and
+still has serious attention in different forms although many of the
+original grand promises were never delivered. The general level of
+ambitions have instead slowly but steadily degraded to those of the
+latest buzz word, Cloud.&lt;/p&gt;
+&lt;p&gt;We as a project have proven that most of the original promises &lt;em&gt;can&lt;/em&gt;
+actually be delivered and we have done so using Python almost solely as
+the implementation language. The choice of Python provided us with a
+stable and versatile base for quickly getting this far and it
+significantly eases extending and maintaining our middleware in the
+future. MiG is currently about 50000 lines of source code but it still
+offers more features than competing grid systems with millions of lines
+of code.&lt;/p&gt;
+&lt;p&gt;Apart from introducing the open source MiG middleware and summarizing
+how we got here, this talk will outline some of the core technologies
+used to reach that goal and underline why it can make a lot of sense to
+choose Python for complex HPC projects like MiG, too. Talk keywords
+include Network Programming, Open Source Python projects, Science and
+Math and Web-based Systems. There's no special intended audience, but a
+certain level of Python knowledge and experience may be an advantage.
+Please refer to &lt;a class="reference external" href="http://code.google.com/p/migrid/"&gt;http://code.google.com/p/migrid/&lt;/a&gt; for further MiG
+information.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonas Bardino</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-21:europython-2011/mig-a-complete-grid-middleware-mostly-in-pyth.html</guid><category>forms</category><category>hpc</category><category>network</category><category>science</category></item><item><title>Source code processing with Python</title><link>http://pyvideo.org/europython-2011/source-code-processing-with-python.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Kay Schluehr - 24 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Folklore says that having a problem and trying to solve it with regular
+expressions gives you two problems. However not applying regular
+expressions to advanced textual search'n replace doesn't solve your
+problem either. One step above you have large portions of recursively
+structured text aka &amp;quot;source code&amp;quot; and using context free grammars and
+tools supporting them gives you two problems but not using them also
+doesn't solve your original problem. Maybe you get uneasy at that point
+because what I say implies parsers and computing science and what not
+and you still wake up in the night believing that you have to learn
+automata theory but you are lucky it was just a nightmare. Otherwise you
+are laughing about the little diatribe against regexps and use them
+without much deliberation, verifying your SQL input, mining source code
+and do all the other things they are not made for.&lt;/p&gt;
+&lt;p&gt;In my talk I'm addressing daily use of grammars outside of the scope of
+compiler implementation or natural language processing. My talk covers:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Search &amp;amp; Replace using grammars&lt;/li&gt;
+&lt;li&gt;CodeTemplates for source code transformation&lt;/li&gt;
+&lt;li&gt;Generative grammars for expression generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I'm touching this from the lightweight, &amp;quot;pythonic&amp;quot; angle and you might
+wonder why not everyone uses those techniques already for decades in
+their daily work. I can't answer this, I wonder about this too.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kay Schluehr</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-13:europython-2011/source-code-processing-with-python.html</guid><category>processing</category><category>science</category></item><item><title>Advanced Pickling with Stackless Python and sPickle</title><link>http://pyvideo.org/europython-2011/advanced-pickling-with-stackless-python-and-spick.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Anselm Kruis - 24 June 2011 in &amp;quot;Track Tagliatelle &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Stackless Python supports pickling of a wider range of types than
+conventional C-Python, including stack frames and code objects. On this
+basis it is possible to extend further the pickle.Pickler class in order
+to serialise classes, modules, packages up to certain limits. The
+&lt;a class="reference external" href="http://pypi.python.org/pypi/sPickle"&gt;sPickle package&lt;/a&gt; provides such
+an extended Pickler. The code was developed as part of a commercial
+project and recently released as free software by science + computing
+ag. Currently it requires Stackless Python 2.7.&lt;/p&gt;
+&lt;p&gt;In my presentation, I'll first demonstrate some applications of the
+sPickle package including serialisation of modules and executing parts
+of a program on a remote computer using RPyC and Paramiko.&lt;/p&gt;
+&lt;p&gt;In the second part of my speech, I'll give some insight in the internal
+operations of sPickle and the lessons learned during its development.
+Extending the Pickler showed to be like opening a can of worms. You have
+take care of many odds and ends to get it right. I'll point out some
+weak points in the implementation of the conventional pickling code and
+I'll also show the limits of the current sPickle implementation.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anselm Kruis</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-07:europython-2011/advanced-pickling-with-stackless-python-and-spick.html</guid><category>packages</category><category>pickling</category><category>science</category><category>stackless</category></item><item><title>PyConAU 2010: Using Python in a scientific real-time data collection network</title><link>http://pyvideo.org/pycon-au-2010/pyconau-2010--using-python-in-a-scientific-real-t.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Using Python in a scientific real-time data collection network&lt;/p&gt;
+&lt;p&gt;Presented by Dr. Paul Dyson (Bureau of Meteorology)&lt;/p&gt;
+&lt;p&gt;Python is being increasingly used within the Solar and Terrestrial
+Radiation Network at the Bureau of Meteorology. This Network consists of
+ten ground stations across Australasia that track the sun, measuring the
+irradiance of the sun and sky. This talk will outline the work of the
+Network, the changes resulting from the introduction of Python in 2005,
+and advantages and some difficulties of using Python.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Paul Dyson</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--using-python-in-a-scientific-real-t.html</guid><category>casestudy</category><category>pyconau</category><category>pyconau2010</category><category>science</category></item><item><title>Teaching Python to the young and impressionable</title><link>http://pyvideo.org/pycon-au-2011/teaching-python-to-the-young-and-impressionable.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;We present two outreach programmes run by Sydney University for high
+school students: the National Computer Science School
+(&lt;a class="reference external" href="http://www.ncss.edu.au"&gt;http://www.ncss.edu.au&lt;/a&gt;) and the Girls' Programming Network
+(&lt;a class="reference external" href="http://sydney.edu.au/it/gpn"&gt;http://sydney.edu.au/it/gpn&lt;/a&gt;). For the past four years we have been
+teaching Python to students in grades 9-12, and based on this experience
+we will discuss why Python is a good first language and the parts of it
+which are still difficult for students to grasp.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Georgina Wilcox</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-08-22:pycon-au-2011/teaching-python-to-the-young-and-impressionable.html</guid><category>network</category><category>outreach</category><category>science</category><category>teaching</category></item><item><title>What's New in Python for Science and Engineering</title><link>http://pyvideo.org/pycon-au-2012/whats-new-in-python-for-science-and-engineering.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This is a tutorial about using Python for scientific and engineering
+purposes, focusing on the latest and best tools available in 2012. It
+will walk you through exploring a variety of interesting domains and
+problems using the latest&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This is a presentation about the latest and most exciting tools in
+Python for scientific and engineering applications in 2012. It will walk
+you through what's now possible with tools like the IPython Notebook,
+the Pandas toolkit for data analysis, and IPython integration with
+SymPy, R, and Cython. It will then give you an update on the status of
+Python 3 ports of major packages. It will show why Python is an
+outstanding tool for science and engineering work, and getting better.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Edward Schofield</dc:creator><pubDate>Tue, 21 Aug 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-08-21:pycon-au-2012/whats-new-in-python-for-science-and-engineering.html</guid><category>science</category></item></channel></rss>

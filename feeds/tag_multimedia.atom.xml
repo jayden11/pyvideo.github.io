@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_multimedia.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>1990-01-01T00:00:00+00:00</updated><entry><title>PyConAU 2010: An Introduction to Processing</title><link href="http://pyvideo.org/pycon-au-2010/pyconau-2010--an-introduction-to-processing.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Clinton J Roy</name></author><id>tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--an-introduction-to-processing.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;An Introduction to Processing&lt;/p&gt;
+&lt;p&gt;Presented by Clinton J Roy (University of Queensland)&lt;/p&gt;
+&lt;p&gt;Processing is an Open Source language designed to make interactive
+graphics and animation programming easier than traditional GUI toolkits.
+Processing is used to prototype systems and create interactive data
+visualisations.&lt;/p&gt;
+&lt;p&gt;[NOTES: Missing first 2 minutes of audio, then camera microphone for
+first section.]&lt;/p&gt;
+</summary><category term="gui"></category><category term="multimedia"></category><category term="processing"></category><category term="pyconau"></category><category term="pyconau2010"></category></entry><entry><title>PyConAU 2010: Python in Video Games and Multimedia Projects</title><link href="http://pyvideo.org/pycon-au-2010/pyconau-2010--python-in-video-games-and-multimedi.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Chris McCormick</name></author><id>tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--python-in-video-games-and-multimedi.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python in Video Games and Multimedia Projects&lt;/p&gt;
+&lt;p&gt;Presented by Mr. Chris McCormick&lt;/p&gt;
+&lt;p&gt;This talk will cover several real-world uses of Python in cross platform
+video game and multimedia projects, and the tips, tricks, and techniques
+I learned along the way whilst working on those projects. I'll speak
+about the issues involved in cross platform desktop dev with wxPython,
+interfacing with multimedia programs using subprocess, spreading load
+with multiprocessing, developing for the web on small devices with
+Django, and when and how to write custom network servers using asyncore.&lt;/p&gt;
+</summary><category term="games"></category><category term="handheld"></category><category term="multimedia"></category><category term="network"></category><category term="pyconau"></category><category term="pyconau2010"></category><category term="web"></category></entry></feed>

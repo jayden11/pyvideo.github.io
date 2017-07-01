@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 16 Sep 2016 00:00:00 +0000</lastBuildDate><item><title>Julia for Modern Data Analysis</title><link>http://pyvideo.org/pydata-carolinas-2016/julia-for-modern-data-analysis.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Julia is a dynamic, high-performance language for technical computing.
+This talk will describe where the newcomer Julia may fit into a data
+science ecosystem already full of rich libraries in R and Python.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Josh Day</dc:creator><pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-16:pydata-carolinas-2016/julia-for-modern-data-analysis.html</guid></item></channel></rss>

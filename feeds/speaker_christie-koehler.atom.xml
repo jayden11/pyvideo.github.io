@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_christie-koehler.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-03-16T00:00:00+00:00</updated><entry><title>Community Event Planning</title><link href="http://pyvideo.org/pycon-us-2013/community-event-planning.html" rel="alternate"></link><published>2013-03-16T00:00:00+00:00</published><updated>2013-03-16T00:00:00+00:00</updated><author><name>Christie Koehler</name></author><id>tag:pyvideo.org,2013-03-16:pycon-us-2013/community-event-planning.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Hosting in-person events is a great way to develop and grow your local
+Python community. If you’ve ever thought about hosting a code sprint,
+hackathon, (un)conference or workshop, this talk is for you. I’ll
+present quick overview of what you need to know to get started planning
+a successful event. Event planning workbook included.&lt;/p&gt;
+</summary><category term="talk"></category></entry></feed>

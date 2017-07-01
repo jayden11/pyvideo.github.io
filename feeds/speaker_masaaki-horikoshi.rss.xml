@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 22 Sep 2016 00:00:00 +0000</lastBuildDate><item><title>pandasによる時系列データ処理</title><link>http://pyvideo.org/pycon-japan-2016/pandasniyorushi-xi-lie-detachu-li.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;データ分析ライブラリであるpandasを利用して、時系列データのグループ化や集計、サンプリングなどの処理を簡単・高速に行う方法を説明します。また、統計解析パッケージであるstatsmodelsを用いて簡単な時系列モデリングを行います。&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;データ分析では売上データやログデータなどの時系列での傾向を分析したいことがあります。こういった時系列のデータについて、データ分析ライブラリであるpandasを利用してグループ化や集計、サンプリングなどの処理を簡単・高速に行う方法を説明します。pandasでは以下のような処理を少ないコード量で直感的に記述することができます。&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;日時文字列のパース処理&lt;/li&gt;
+&lt;li&gt;適当な日時単位(年月, 四半期...)でのグループ化、集計&lt;/li&gt;
+&lt;li&gt;サンプリング、フィルタ (移動平均など)&lt;/li&gt;
+&lt;li&gt;タイムゾーン&lt;/li&gt;
+&lt;li&gt;可視化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;また、API上の利便性と処理のパフォーマンスを両立するために行っているデータの内部表現と内部処理についてもご説明します。&lt;/p&gt;
+&lt;p&gt;最後に、統計解析パッケージであるstatsmodelsを用いて簡単な時系列モデリングを行い、 時系列中のトレンドや季節性を抽出するとともに、将来の予測を行います。&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Masaaki Horikoshi</dc:creator><pubDate>Thu, 22 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-22:pycon-japan-2016/pandasniyorushi-xi-lie-detachu-li.html</guid><category>pandas</category></item></channel></rss>

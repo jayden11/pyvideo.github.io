@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 05 Aug 2016 00:00:00 +0000</lastBuildDate><item><title>the idea behind Automatic Relevance Determination and Bayesian Interpolation</title><link>http://pyvideo.org/pydata-amsterdam-2016/the-idea-behind-automatic-relevance-determination-and-bayesian-interpolation.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Amsterdam 2016&lt;/p&gt;
+&lt;p&gt;Even in the era of Big Data there are many real-world problems where the number of input features has about the some order of magnitude than the number of samples. Often many of those input features are irrelevant and thus inferring the relevant ones is an important problem in order to prevent over-fitting. Automatic Relevance Determination solves this problem by applying Bayesian techniques.&lt;/p&gt;
+&lt;p&gt;In order to motivate Automatic Relevance Determination (ARD) an intuition for the problem of choosing a complex model that fits the data well vs a simple model that generalizes well is established. Thereby the idea behind Occam's razor is presented as a way of balancing bias and variance. This leads us to the mathematical framework of Bayesian interpolation and model selection to choose between different models based on the data.&lt;/p&gt;
+&lt;p&gt;To derive ARD as gently as possible the mathematical basics of a simple linear model are repeated as well as the idea of regularization to prevent over-fitting. Based on that, the Bayesian Ridge Regression (BayesianRidge in Scikit-Learn) is introduced. Generalizing the concept of Bayesian Ridge Regression even more gets us eventually to the the idea behind ARD (ARDRegression in Scikit-Learn).&lt;/p&gt;
+&lt;p&gt;With the help of a practical example, we consolidate what has been learnt so far and compare ARD to an ordinary least square model. Now we dive deep into the mathematics of ARD and present the algorithm that solves the minimization problem of ARD. Finally, some details of Scikit-Learn's ARD implementation are discussed.&lt;/p&gt;
+&lt;p&gt;Slides available here: &lt;a class="reference external" href="http://www.slideshare.net/FlorianWilhelm2/explaining-the-idea-behind-automatic-relevance-determination-and-bayesian-interpolation-59498957"&gt;http://www.slideshare.net/FlorianWilhelm2/explaining-the-idea-behind-automatic-relevance-determination-and-bayesian-interpolation-59498957&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florian Wilhelm</dc:creator><pubDate>Sat, 26 Mar 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-03-26:pydata-amsterdam-2016/the-idea-behind-automatic-relevance-determination-and-bayesian-interpolation.html</guid></item><item><title>"It's about time to take your medication!" or how to write a friendly reminder bot ;-)</title><link>http://pyvideo.org/europython-2015/its-about-time-to-take-your-medication-or-how-to-write-a-friendly-reminder-bot-.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Florian Wilhelm - &amp;quot;It's about time to take your medication!&amp;quot; or how to write a friendly reminder bot ;-)
+[EuroPython 2015]
+[24 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;The author  shows how to use the [SleekXMPP][1] library in order to
+write a small chatbot that connects to Google Hangouts and reminds you
+or someone else to take medication for instance.  The secure and
+recommended OAuth2  protocol is used to authorize the bot application
+in the [Google Developers Console][2]  in order to access the Google+
+Hangouts API. The author will elaborate then on how to use an event-
+driven library to write a bot that sends scheduled messages, waits for
+a proper reply and repeats the question if need be. Thereby, a primer
+on event-driven architectures will be given.&lt;/p&gt;
+&lt;p&gt;[1]: &lt;a class="reference external" href="http://sleekxmpp.readthedocs.org/"&gt;http://sleekxmpp.readthedocs.org/&lt;/a&gt;
+[2]: &lt;a class="reference external" href="https://console.developers.google.com/"&gt;https://console.developers.google.com/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florian Wilhelm</dc:creator><pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-05:europython-2015/its-about-time-to-take-your-medication-or-how-to-write-a-friendly-reminder-bot-.html</guid><category>SleekXMPP</category><category>chatbot</category></item><item><title>Handling GPS Data with Python</title><link>http://pyvideo.org/europython-2016/handling-gps-data-with-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Florian Wilhelm - Handling GPS Data with Python
+[EuroPython 2016]
+[22 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/handling-gps-data-with-python"&gt;https://ep2016.europython.eu//conference/talks/handling-gps-data-with-python&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;If you have ever happened to need to deal with GPS data in Python you
+may have felt a bit lost.  This talk presents libraries starting from
+basic reading and writing GPS tracks in the GPS Exchange Format to
+adding missing elevation information. Also visualisation of tracks on
+OpenStreetmap data with interactive plots in Jupyter notebooks is
+covered. Additionally common algorithms for GPS like Douglas-Peucker
+and Kalman filter are explained.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;If you have ever happened to need to deal with GPS data in Python you
+may have felt a bit lost. There are many libraries at various states
+of maturity and scope. Finding a place to start and to actually work
+with the GPS data might not be as easy and obvious as you might expect
+from other Python domains.
+Inspired from my own experiences of dealing with GPS data in Python, I
+want to give an overview of some useful libraries. From basic reading
+and writing GPS tracks in the GPS Exchange Format with the help of
+gpxpy to adding missing elevation information with srtm.py.
+Additionally, I will cover mapping and visualising tracks on
+OpenStreetmap with mplleaflet that even supports interactive plots in
+a Jupyter notebook.
+Besides the tooling, I will also demonstrate and explain common
+algorithms like Douglas-Peucker to simplify a track and the famous
+Kalman filters for smoothing. For both algorithms I will give an
+intuition about how they work as well as their basic mathematical
+concepts. Especially the Kalman filter that is used for all kinds of
+sensor, not only GPS, has the reputation of being hard to understand.
+Still, its concept is really easy and quite comprehensible as I will
+also demonstrate by presenting an implementation in Python with the
+help of Numpy and Scipy. My presentation will make heavy use of the
+Jupyter notebook which is a wonderful tool perfectly suited for
+experimenting and learning.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florian Wilhelm</dc:creator><pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-05:europython-2016/handling-gps-data-with-python.html</guid></item><item><title>Extending Scikit-Learn with your own Regressor</title><link>http://pyvideo.org/europython-2014/extending-scikit-learn-with-your-own-regressor.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;We show how to write your own robust linear estimator within the
+Scikit-Learn framework using as an example the Theil-Sen estimator known
+as &amp;quot;the most popular nonparametric technique for estimating a linear
+trend&amp;quot;.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Scikit-Learn (&lt;a class="reference external" href="http://scikit-learn.org/"&gt;http://scikit-learn.org/&lt;/a&gt;) is a well-known and popular
+framework for machine learning that is used by Data Scientists all over
+the world. We show in a practical way how you can add your own estimator
+following the interfaces of Scikit-Learn. First we give a small
+introduction to the design of Scikit-Learn and its inner workings. Then
+we show how easily Scikit-Learn can be extended by creating an own
+estimator. In order to demonstrate this, we extend Scikit-Learn by the
+popular and robust Theil-Sen Estimator
+(&lt;a class="reference external" href="http://en.wikipedia.org/wiki/Theil%E2%80%93Sen_estimator"&gt;http://en.wikipedia.org/wiki/Theil%E2%80%93Sen_estimator&lt;/a&gt;) that is
+currently not in Scikit-Learn. We also motivate this estimator by
+outlining some of its superior properties compared to the ordinary least
+squares method (LinearRegression in Scikit-Learn).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florian Wilhelm</dc:creator><pubDate>Fri, 25 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-25:europython-2014/extending-scikit-learn-with-your-own-regressor.html</guid></item><item><title>Handling Big Data with Python</title><link>http://pyvideo.org/pycon-de-2013/handling-big-data-with-python.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The talk gives a small introduction of how Blue Yonder applies machine
+learning and Predictive Analytics in various fields as well as the
+challenges of Big Data. Using the example of Blue Yonder's machine
+learning software NeuroBayes, we show the made efforts and hit dead ends
+in order to provide a flexible and yet easy to use interface for
+NeuroBayes to Data Scientists. Since NeuroBayes is written in FORTRAN
+for performance reasons different interface approaches were tried which
+lead us eventually to a Python interface. In the talk we elaborate on
+the up- and downsides of the different approaches and the various
+reasons why Python won the race with an emphasize on the benefits of the
+Python ecosystem itself. Also, we discuss performance as well as
+scalability issues with Python and how we address them. In detail, we
+show the application of Cython to speed up calculations in the Python
+interface layer as well as distributed computing in a private cloud
+called Stratosphere. Scalability and efficiency is of utmost importance
+when data processing is time critical. Our overall goal is to give the
+audience an overview how Python fits in the software ecosystem of a
+company handling Big Data.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Florian Wilhelm</dc:creator><pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-17:pycon-de-2013/handling-big-data-with-python.html</guid></item></channel></rss>

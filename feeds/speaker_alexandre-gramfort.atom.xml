@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_alexandre-gramfort.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-04-08T00:00:00+00:00</updated><entry><title>Linear predictions with scikit-learn: simple and efficient</title><link href="http://pyvideo.org/pydata-paris-2015/linear-predictions-with-scikit-learn-simple-and.html" rel="alternate"></link><published>2015-04-08T00:00:00+00:00</published><updated>2015-04-08T00:00:00+00:00</updated><author><name>Alexandre Gramfort</name></author><id>tag:pyvideo.org,2015-04-08:pydata-paris-2015/linear-predictions-with-scikit-learn-simple-and.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Scikit-Learn offers numerous state-of-the-art models for prediction
+(regression and classification). Linear models (e.g. Ridge, Logistic
+Regression) are the simplest of these models. They have pratical
+benefits such as interpretability and limited computation time while
+offering the best performance for some applications. This talk will
+cover the basics of these models with examples and demonstrate how they
+can scale to datasets that do not fit in memory or how they can
+incorporate simple polynomial non-linearities.&lt;/p&gt;
+</summary></entry></feed>

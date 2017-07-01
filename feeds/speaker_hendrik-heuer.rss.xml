@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Mon, 25 May 2015 00:00:00 +0000</lastBuildDate><item><title>Hacking Human Language</title><link>http://pyvideo.org/pycon-se-2015/hacking-human-language.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;If you convert words into numbers, you can do interesting things with
+them. You can compare the topics in a book, make better translations and
+tell if a sentence is positive or negative. Python libraries like gensim
+and spaCy make it easy to play with this for fun, profit or social
+science.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Hendrik Heuer</dc:creator><pubDate>Mon, 25 May 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-05-25:pycon-se-2015/hacking-human-language.html</guid></item></channel></rss>

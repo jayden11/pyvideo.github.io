@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_moshe-zadka.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-20T00:00:00+00:00</updated><entry><title>Automate AWS With Python</title><link href="http://pyvideo.org/pycon-us-2017/automate-aws-with-python.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Moshe Zadka</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/automate-aws-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;AWS is one of the best-known cloud vendors. Using the Web UI is fine
+when starting out, but automating cloud operations is important. Boto3
+provides a great Pythonic API to AWS, but using it correctly can be
+subtle.&lt;/p&gt;
+&lt;p&gt;The talk will cover how to automate AMI builds, building Cloud Formation
+Templates and automating S3 bucket management.&lt;/p&gt;
+</summary></entry><entry><title>Creating And Consuming Modern Web Services with Twisted</title><link href="http://pyvideo.org/pycon-us-2017/creating-and-consuming-modern-web-services-with-twisted.html" rel="alternate"></link><published>2017-05-18T00:00:00+00:00</published><updated>2017-05-18T00:00:00+00:00</updated><author><name>Moshe Zadka</name></author><id>tag:pyvideo.org,2017-05-18:pycon-us-2017/creating-and-consuming-modern-web-services-with-twisted.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This tutorial will show students how to write applications and services
+which efficiently publish and consume services and APIs.&lt;/p&gt;
+&lt;p&gt;To do so, we will combine 4 Python-based technologies:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Jupyter is a real-time development environment.&lt;/li&gt;
+&lt;li&gt;Twisted is a powerful platform for network programming that supports
+many protocols, including HTTP.&lt;/li&gt;
+&lt;li&gt;Klein is a Twisted-based web application framework.&lt;/li&gt;
+&lt;li&gt;Treq is a Requests-style HTTP client based on Twisted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By combining all of these we will guide students through &lt;em&gt;interactively
+prototyping&lt;/em&gt; a production quality web application that &lt;em&gt;publishes&lt;/em&gt; both
+&lt;em&gt;service APIs&lt;/em&gt; and web resources such as HTML, and that can &lt;em&gt;efficiently
+consume many back-end services&lt;/em&gt; such as 3rd-party APIs.&lt;/p&gt;
+</summary></entry><entry><title>Pants, or How I Learned to Stop Worrying and Love Builds</title><link href="http://pyvideo.org/pybay-2016/pants-or-how-i-learned-to-stop-worrying-and-love-builds.html" rel="alternate"></link><published>2016-08-21T00:00:00+00:00</published><updated>2016-08-21T00:00:00+00:00</updated><author><name>Moshe Zadka</name></author><id>tag:pyvideo.org,2016-08-21:pybay-2016/pants-or-how-i-learned-to-stop-worrying-and-love-builds.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;For integrated services, it makes sense to keep several logical Python projects in a single repository -- a common library, a web front end and a back end service. For such repositories, Pants (build in Python for Python, Java, C++ and more) helps maintain dependencies and build (mostly) stand-alone executables which simplify deployment.
+​
+Abstract
+Pants is a modern build system written in Python. It can build Python, Java, C++, Go and more. Twitter, Square and FourSquare use it internally, and contribute to it.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;
+Moshe is a Twisted contributor, and has contributed to core Python. He loves infrastructure for building, monitoring and making services highly available.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://speakerdeck.com/pybay2016/moshe-zadka-pants-building-python-for-fun-and-profit"&gt;https://speakerdeck.com/pybay2016/moshe-zadka-pants-building-python-for-fun-and-profit&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Make Sure Your Programs Crash</title><link href="http://pyvideo.org/pycon-us-2012/make-sure-your-programs-crash.html" rel="alternate"></link><published>2012-03-09T00:00:00+00:00</published><updated>2012-03-09T00:00:00+00:00</updated><author><name>Moshe Zadka</name></author><id>tag:pyvideo.org,2012-03-09:pycon-us-2012/make-sure-your-programs-crash.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;With Python, segmentation faults and the like simply don't happen --
+programs do not crash. However, the world is a messy, chaotic place.
+What happens when your programs crash? I will talk about how to make
+sure that your application survives crashes, reboots and other nasty
+problems.&lt;/p&gt;
+</summary></entry></feed>

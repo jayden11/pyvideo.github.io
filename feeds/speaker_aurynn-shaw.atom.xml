@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_aurynn-shaw.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-03T00:00:00+00:00</updated><entry><title>Why Salt?</title><link href="http://pyvideo.org/pycon-au-2015/why-salt.html" rel="alternate"></link><published>2015-08-03T00:00:00+00:00</published><updated>2015-08-03T00:00:00+00:00</updated><author><name>aurynn shaw</name></author><id>tag:pyvideo.org,2015-08-03:pycon-au-2015/why-salt.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;DevOps is a growing movement in the tech community, and configuration
+management is a huge necessity for doing DevOps well. In this talk,
+we'll be talking about why you should use the SaltStack configuration
+management platform in your environment, versus the other major
+platforms of Puppet and Chef.&lt;/p&gt;
+</summary></entry><entry><title>Let's Learn Twisted Python</title><link href="http://pyvideo.org/pycon-us-2014/lets-learn-twisted-python.html" rel="alternate"></link><published>2014-04-12T00:00:00+00:00</published><updated>2014-04-12T00:00:00+00:00</updated><author><name>Aurynn Shaw</name></author><id>tag:pyvideo.org,2014-04-12:pycon-us-2014/lets-learn-twisted-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Let's Learn Twisted is a short 3-hour tutorial covering the basics of
+writing a Twisted Python client-server application using Twisted
+Python's Factory and Endpoint APIs to construct a peer-to-peer chat and
+RPC network.&lt;/p&gt;
+</summary></entry></feed>

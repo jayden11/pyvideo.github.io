@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 14 Nov 2013 00:00:00 +0000</lastBuildDate><item><title>Measure It</title><link>http://pyvideo.org/chipy/measure-it.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;measure_it provides timing and counting for iterators (and other code
+segments).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Fein</dc:creator><pubDate>Thu, 14 Nov 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-11-14:chipy/measure-it.html</guid></item><item><title>Twiggy: A Pythonic Logger</title><link>http://pyvideo.org/chipy/twiggy--a-pythonic-logger.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Twiggy is an early-stage project to build a more Pythonic logging
+module. It was started at Pycon 2010.&lt;/p&gt;
+&lt;p&gt;Home:
+&lt;a class="reference external" href="http://python-%20twiggy.googlecode.com"&gt;http://python-twiggy.googlecode.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;See the notes for a quick overview
+&lt;a class="reference external" href="http://pythontwiggy.googlecode.com/hg/notes.html"&gt;http://pythontwiggy.googlecode.com/hg/note
+s.html&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Peter Fein</dc:creator><pubDate>Thu, 08 Apr 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-04-08:chipy/twiggy--a-pythonic-logger.html</guid><category>chipy</category><category>logging</category><category>twiggy</category></item></channel></rss>

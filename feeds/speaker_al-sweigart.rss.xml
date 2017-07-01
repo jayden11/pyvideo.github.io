@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate><item><title>Yes, It's Time to Learn Regular Expressions</title><link>http://pyvideo.org/pycon-us-2017/yes-its-time-to-learn-regular-expressions.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Regular expressions have a reputation as opaque and inscrutable.
+However, the basic concepts behind &amp;quot;regex&amp;quot; and text pattern recognition
+are simple to grasp. This talk is for any programmer who isn't familiar
+with Python's re module and its best practices. Stop putting it off,
+it's time to learn regular expressions!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Al Sweigart</dc:creator><pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-20:pycon-us-2017/yes-its-time-to-learn-regular-expressions.html</guid></item><item><title>Automating Your Browser and Desktop Apps</title><link>http://pyvideo.org/pybay-2016/automating-your-browser-and-desktop-apps.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;There's a lot of data on the web and in your desktop apps, but accessing it can involve a lot of tedious typing and clicking. This talk is an introduction to the Selenium and PyAutoGUI modules, with live demos straight from the interactive shell. Al Sweigart explains web scraping techniques and programmatically controlling the keyboard and mouse to automate these tasks for you.
+​
+Abstract
+The internet and personal computer are central tools in many jobs, including professions outside of engineering. This makes web scraping and GUI automation are relevant to not just developers and QA testers, but academics, organizers, and office workers. This talk is an introduction to Selenium and PyAutoGUI modules. and programatically controlling your browser and desktop applications from Python.&lt;/p&gt;
+&lt;p&gt;Web scraping and GUI automation frameworks have an intimidating reputation for a steep learning curve. While they do have many sophisticated features, the basics that most folks will ever need can be covered in a single presentation.&lt;/p&gt;
+&lt;p&gt;This presentation has multiple live demos to showcase these modules straight from the interactive shell.&lt;/p&gt;
+&lt;p&gt;The content from this talk is derived from Automate the Boring Stuff with Python, a beginner's Python book freely available under a Creative Commons license at &lt;a class="reference external" href="https://automatetheboringstuff.com"&gt;https://automatetheboringstuff.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;
+Al Sweigart is a software developer and the author of Automate the Boring Stuff with Python, Invent Your Own Computer Games with Python, Making Games with Python &amp;amp; Pygame, and Hacking Secret Ciphers with Python. These books are freely available under a Creative Commons license at &lt;a class="reference external" href="https://inventwithpython.com"&gt;https://inventwithpython.com&lt;/a&gt;. Al enjoys haunting coffee shops, writing educational materials, cat whispering, and making useful software. He lives in San Francisco.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://speakerdeck.com/pybay2016/al-sweigart-automating-your-browser-and-desktop-apps"&gt;https://speakerdeck.com/pybay2016/al-sweigart-automating-your-browser-and-desktop-apps&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Al Sweigart</dc:creator><pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-21:pybay-2016/automating-your-browser-and-desktop-apps.html</guid></item><item><title>Automating Your Browser and Desktop Apps</title><link>http://pyvideo.org/pyohio-2015/automating-your-browser-and-desktop-apps.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;There's a lot of data on the web and in your desktop apps, but accessing
+it can involve a lot of tedious typing and clicking. In this talk Al
+Sweigart explains web scraping techniques and programmatically
+controlling the keyboard and mouse to automate these tasks for you.
+Covers the Selenium and PyAutoGUI modules.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Al Sweigart</dc:creator><pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-01:pyohio-2015/automating-your-browser-and-desktop-apps.html</guid><category>talk</category></item><item><title>Automating Your Browser and Desktop Apps</title><link>http://pyvideo.org/djangocon-2015/automating-your-browser-and-desktop-apps-by-al.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Automating Your Browser and Desktop Apps by Al Sweigart&lt;/p&gt;
+&lt;p&gt;This talk is an introduction to using the Requests, Beautiful Soup,
+Selenium, and PyAutoGUI modules in order to automatically grab data from
+the web or interact with desktop applications.&lt;/p&gt;
+&lt;p&gt;Attendees will learn:&lt;/p&gt;
+&lt;p&gt;How to download files and pages from the web How to use CSS selectors to
+find content in a web page How to control a web browser from Python
+using Selenium How to programmatically control the keyboard and mouse
+The content from this talk is derived from Al Sweigart's book, Automate
+the Boring Stuff with Python, which is freely available under a Creative
+Commons license at &lt;a class="reference external" href="http://automatetheboringstuff.com"&gt;http://automatetheboringstuff.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Help us caption &amp;amp; translate this video!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://amara.org/v/HHCL/"&gt;http://amara.org/v/HHCL/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Al Sweigart</dc:creator><pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-19:djangocon-2015/automating-your-browser-and-desktop-apps-by-al.html</guid></item></channel></rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_trey-hunner.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-20T00:00:00+00:00</updated><entry><title>Readability Counts</title><link href="http://pyvideo.org/pycon-us-2017/readability-counts.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/readability-counts.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you found unreadable PEP8-compliant code and wondered how to fix
+it? Have you ever seen code that was simply a pleasure to read?&lt;/p&gt;
+&lt;p&gt;If you've ever wondered what makes code easy to read, this talk is for
+you.&lt;/p&gt;
+&lt;p&gt;During this talk we'll learn a number of techniques for refactoring code
+to improve readability and maintainability.&lt;/p&gt;
+&lt;p&gt;We'll discuss:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;whitespace&lt;/li&gt;
+&lt;li&gt;self-documenting code&lt;/li&gt;
+&lt;li&gt;modularity&lt;/li&gt;
+&lt;li&gt;expectation management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We'll end with a checklist for improving the readability of your own
+code.&lt;/p&gt;
+</summary></entry><entry><title>Hands-On Intro to Python for New Programmers</title><link href="http://pyvideo.org/pycon-us-2017/hands-on-intro-to-python-for-new-programmers.html" rel="alternate"></link><published>2017-05-18T00:00:00+00:00</published><updated>2017-05-18T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2017-05-18:pycon-us-2017/hands-on-intro-to-python-for-new-programmers.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Brand new to programming and want to get some hands-on Python
+experience? Let's learn some Python together!&lt;/p&gt;
+&lt;p&gt;During this tutorial we will work through a number of programming
+exercises together. We'll be doing a lot of asking questions, taking
+guesses, trying things out, and seeking out help from others.&lt;/p&gt;
+&lt;p&gt;In this tutorial we'll cover:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Types of things in Python: strings, numbers, lists&lt;/li&gt;
+&lt;li&gt;Conditionally executing code&lt;/li&gt;
+&lt;li&gt;Repeating code with loops&lt;/li&gt;
+&lt;li&gt;Getting user input&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Readable Regular Expressions</title><link href="http://pyvideo.org/pycon-us-2017/readable-regular-expressions.html" rel="alternate"></link><published>2017-05-17T00:00:00+00:00</published><updated>2017-05-17T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2017-05-17:pycon-us-2017/readable-regular-expressions.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;What are regular expressions, what are they useful for, and why are they
+so hard to read? We'll learn what regular expressions are good for, how
+to make our own regular expressions, and how to make our regular
+expressions friendly and readable (yes it's possible, sort of).&lt;/p&gt;
+</summary></entry><entry><title>Readability Counts</title><link href="http://pyvideo.org/djangocon-us-2016/readability-counts.html" rel="alternate"></link><published>2016-08-10T00:00:00+00:00</published><updated>2016-08-10T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2016-08-10:djangocon-us-2016/readability-counts.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;DjangoCon US 2016 - Readability Counts by Trey Hunner&lt;/p&gt;
+&lt;p&gt;Most code is read many more times than it is written. Constructing readable code is important, but that doesn't mean it's easy.&lt;/p&gt;
+&lt;p&gt;If you've ever found unreadable PEP8-compliant code and wondered how to fix it, this talk is for you.&lt;/p&gt;
+&lt;p&gt;Long-lived code must be maintainable and readability is a prerequisite of maintainability. It's easier to identify unreadable code than it is to create readable code.&lt;/p&gt;
+&lt;p&gt;Let's talk about how to shape tricky code into something more readable and more maintainable.&lt;/p&gt;
+&lt;p&gt;During this talk we'll discuss:&lt;/p&gt;
+&lt;p&gt;whitespace
+self-documenting code
+modularity
+expectation management
+We'll conclude this talk with a checklist of questions you can use to make your own code more readable.&lt;/p&gt;
+</summary></entry><entry><title>Regular Expressions</title><link href="http://pyvideo.org/pycon-us-2016/trey-hunner-regular-expressions-pycon-2016.html" rel="alternate"></link><published>2016-06-09T00:00:00+00:00</published><updated>2016-06-09T00:00:00+00:00</updated><author><name>Trey Hunner</name></author><id>tag:pyvideo.org,2016-06-09:pycon-us-2016/trey-hunner-regular-expressions-pycon-2016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Trey Hunner&lt;/p&gt;
+&lt;p&gt;What are regular expressions, what are they useful for, and why are they so hard to read?  We'll learn what regular expressions are good for, how to make our own regular expressions, and how to make our regular expressions friendly and readable (yes it's possible, sort of).&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talks - Part 2</title><link href="http://pyvideo.org/djangocon-2015/lightning-talks-part-2.html" rel="alternate"></link><published>2015-09-18T00:00:00+00:00</published><updated>2015-09-18T00:00:00+00:00</updated><author><name>Dmitry Filippov</name></author><id>tag:pyvideo.org,2015-09-18:djangocon-2015/lightning-talks-part-2.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Lightning Talks&lt;/p&gt;
+&lt;p&gt;Dmitry Filippov &amp;quot;Django assistance in PyCharm&amp;quot;&lt;/p&gt;
+&lt;p&gt;Paul Bailey &amp;quot;End the Holy Wars of Formatting&amp;quot;&lt;/p&gt;
+&lt;p&gt;Trey Hunner &amp;quot;JavaScript is Becoming Pythonic&amp;quot;&lt;/p&gt;
+&lt;p&gt;Eduardo Rivas &amp;quot; Sublime Text Django&amp;quot;&lt;/p&gt;
+&lt;p&gt;Jeff Sumner &amp;quot;Texas Swim Center&amp;quot;&lt;/p&gt;
+&lt;p&gt;Francisco Saldana &amp;quot;Keeping Fast Fast: Rapid Iteration with
+TransactionTestCase&amp;quot;&lt;/p&gt;
+&lt;p&gt;Raphael Merx &amp;quot;Mocking Outbound Requests with HTTPretty&amp;quot;&lt;/p&gt;
+&lt;p&gt;James Tauber &amp;quot;Building a Learning Management System with Pinax&amp;quot;&lt;/p&gt;
+&lt;p&gt;Miroslav Shubernetskiy &amp;quot;Filtering in Django&amp;quot;&lt;/p&gt;
+&lt;p&gt;Armin Ronacher &amp;quot;rb - Scaling Redis in Python&amp;quot;&lt;/p&gt;
+&lt;p&gt;Brendan Sterne &amp;quot;Code Wiki&amp;quot;&lt;/p&gt;
+&lt;p&gt;Russell Keith-Magee &amp;quot;Professional Yak Coiffure&amp;quot;&lt;/p&gt;
+</summary></entry></feed>

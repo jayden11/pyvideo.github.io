@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_jonas-neubert.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-19T00:00:00+00:00</updated><entry><title>Factory Automation with Python - Stories about Robots, Serial Ports, and Barcode Readers</title><link href="http://pyvideo.org/pycon-us-2017/factory-automation-with-python-stories-about-robots-serial-ports-and-barcode-readers.html" rel="alternate"></link><published>2017-05-19T00:00:00+00:00</published><updated>2017-05-19T00:00:00+00:00</updated><author><name>Jonas Neubert</name></author><id>tag:pyvideo.org,2017-05-19:pycon-us-2017/factory-automation-with-python-stories-about-robots-serial-ports-and-barcode-readers.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In industrial automation &lt;em&gt;tried and tested&lt;/em&gt; always beats &lt;em&gt;latest and
+greatest&lt;/em&gt;: The machines that make smartphones have a serial port and are
+configured with &lt;tt class="docutils literal"&gt;.csv&lt;/tt&gt; files. But when your factory automates complex
+non-linear workflows and is jam-packed with sensors and robots, you are
+quickly faced with software engineering challenges that call for modern
+tools.&lt;/p&gt;
+&lt;p&gt;Python turns out to be surprisingly versatile in this setting, whether
+for prototyping a single conveyor belt or taming a building full of
+robots. This talk explains how to use Python for interfacing with two
+common industrial automation devices: a barcode scanner and a
+Programmable Logic Controller (PLC). After a simple demo, you’ll hear
+about lessons learned using Python packages that weren’t written with
+robots in mind, like Celery and pandas, with robots.&lt;/p&gt;
+</summary></entry></feed>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_szymon-matejczyk.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-14T00:00:00+00:00</updated><entry><title>API first and forgotten</title><link href="http://pyvideo.org/pycon-pl-2016/api-first-and-forgotten.html" rel="alternate"></link><published>2016-10-14T00:00:00+00:00</published><updated>2016-10-14T00:00:00+00:00</updated><author><name>Szymon Matejczyk</name></author><id>tag:pyvideo.org,2016-10-14:pycon-pl-2016/api-first-and-forgotten.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;API first principle seems convincing. Anyone, who tried implementing it,
+realises that often the problem is not to design or formally specify the
+API with Swagger. The problem is to keep the specification, servers and
+clients consistent and easy to maintain for longer. I will talk about
+what practices you need to remember and which tools it is worth to
+check.&lt;/p&gt;
+</summary></entry></feed>

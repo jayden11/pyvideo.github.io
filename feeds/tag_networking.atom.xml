@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_networking.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2011-08-22T00:00:00+00:00</updated><entry><title>PyOhio 2010: Implementation of a Numerical Simulation in Python</title><link href="http://pyvideo.org/pyohio-2010/pyohio-2010--implementation-of-a-numerical-simula.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Jeffrey Armstrong</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2010/pyohio-2010--implementation-of-a-numerical-simula.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Implementation of a Numerical Simulation in Python&lt;/p&gt;
+&lt;p&gt;Presented by Jeffrey B. Armstrong&lt;/p&gt;
+&lt;p&gt;The Python programming language is well suited for numerical computation
+under a variety of circumstances. Python offers advantages over
+competing free and commercial technologies, including price,
+functionality, and maintainability. Specifically, the combination of
+mature numerical libraries and liberal licensing allow complex
+simulations to be coded with ease and to be made available to nearly all
+interested parties. !NumPy/!SciPy, database access, networking, and
+optimization techniques are examined in detail with respect to numerical
+computation. A practical example involving an aerothermal commercial
+turbofan aircraft engine simulation showcases these advantages. An
+aircraft engine is broken down into discrete stages, including
+compressors, turbines, and other flow-related components. Commonalities
+between components, such as rotation and the presence of inlet and exit
+conditions, map cleanly to the object-oriented nature of Python. Based
+on simulation needs and hardware availability, Python allows for the
+parallel computation of simulations without the expense and complexity
+of commercial parallelization packages.&lt;/p&gt;
+</summary><category term="database"></category><category term="networking"></category><category term="numpy"></category><category term="optimization"></category><category term="pyohio"></category><category term="pyohio2010"></category><category term="scipy"></category><category term="simulation"></category></entry><entry><title>Social Network Analysis in Python</title><link href="http://pyvideo.org/europython-2011/social-network-analysis-in-python.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Enrico Franchi</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/social-network-analysis-in-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Enrico Franchi - 23 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Network Analysis has gained a huge recognition since the widespread
+adoption of on-line social networking systems. It is a
+cross-disciplinary subject with important contributions from researchers
+of different areas such as physics, sociology, maths and computer
+science.&lt;/p&gt;
+&lt;p&gt;However, Network Analysis is also a useful tool for the working
+programmer. The basic techniques which will be introduced in this talk
+can be used, for example, both to i) test the robustness and resilience
+to damage of a technological network and ii) understand the structure of
+a social network, which can in turn lead to insight on trends and
+preferences gathering information from modern on-line social networking
+systems.&lt;/p&gt;
+&lt;p&gt;Along with the concepts, working Python code is presented, both using
+existing network analysis Python tools and numeric packages. The focus
+is mainly placed on code, which will be shown and discussed together
+with the formal theory.&lt;/p&gt;
+&lt;p&gt;Basic maths skills and basic knowledge of the Python programming
+language are the only suggested prerequisites.&lt;/p&gt;
+</summary><category term="analysis"></category><category term="network"></category><category term="networking"></category></entry><entry><title>Networking Libraries in Python</title><link href="http://pyvideo.org/pycon-au-2011/networking-libraries-in-python.html" rel="alternate"></link><published>2011-08-22T00:00:00+00:00</published><updated>2011-08-22T00:00:00+00:00</updated><author><name>Senthil Kumuran</name></author><id>tag:pyvideo.org,2011-08-22:pycon-au-2011/networking-libraries-in-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This talk will explore the core networking libraries available in
+Python.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Python Standard Library. http and urllib package (Python3 and
+Python2).&lt;/li&gt;
+&lt;li&gt;Capabilities of other 3rd party networking libraries - pycurl and
+httplib2. When to use them and why they exist.&lt;/li&gt;
+&lt;li&gt;Asychronous Network IO using Twisted Matrix Framework.&lt;/li&gt;
+&lt;li&gt;Tornado framework capablities - Generic overview.&lt;/li&gt;
+&lt;/ol&gt;
+</summary><category term="framework"></category><category term="network"></category><category term="networking"></category><category term="pycurl"></category><category term="tornado"></category><category term="twisted"></category><category term="urllib"></category></entry></feed>

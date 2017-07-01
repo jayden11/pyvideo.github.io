@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_flavio-juvenal.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-20T00:00:00+00:00</updated><entry><title>How to make a good library API</title><link href="http://pyvideo.org/pycon-us-2017/how-to-make-a-good-library-api.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Flávio Juvenal</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/how-to-make-a-good-library-api.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;It's not easy to write libraries with great APIs. We're aware of that.
+However, it's not always clear how we can follow abstract ideals like
+elegance, simplicity, and extensibility to improve our APIs. That's why
+in this talk we'll discuss good and bad APIs with real-world examples.
+For each thing learned, we'll come up with a checklist to help us with
+practical advice for writing good APIs.&lt;/p&gt;
+</summary></entry></feed>

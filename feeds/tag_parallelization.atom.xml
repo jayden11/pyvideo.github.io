@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_parallelization.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2011-03-11T00:00:00+00:00</updated><entry><title>Handling ridiculous amounts of data with probabilistic data structures</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--handling-ridiculous-amounts-of-data-w.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>C. Titus Brown</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--handling-ridiculous-amounts-of-data-w.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Handling ridiculous amounts of data with probabilistic data structures&lt;/p&gt;
+&lt;p&gt;Presented by C. Titus Brown&lt;/p&gt;
+&lt;p&gt;Part of my job as a scientist involves playing with rather large amounts
+of data (200 gb+). In doing so we stumbled across some neat CS
+techniques that scale well, and are easy to understand and trivial to
+implement. These techniques allow us to make some or many types of data
+analysis map-reducable. I'll talk about interesting implementation
+details, fun science, and neat computer science.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;If an extreme talk, I will talk about interesting details/issues in:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Python as the backbone for a non-SciPy scientific software package:
+using Python as a frontend to C++ code, esp for parallelization and
+testing purposes.&lt;/li&gt;
+&lt;li&gt;Implementing probabilistic data structures with one-sided error as
+pre-filters for data retrieval and analysis, in ways that are
+generally useful.&lt;/li&gt;
+&lt;li&gt;Efficiently breaking down certain types of sparse graph problems
+using these probabilistic data structures, so that large graphs can
+be analyzed straightforwardly. This will be applied to plagiarism
+detection and/or duplicate code detection.&lt;/li&gt;
+&lt;/ol&gt;
+</summary><category term="bigdata"></category><category term="parallelization"></category><category term="pycon"></category><category term="pycon2011"></category><category term="testing"></category></entry></feed>

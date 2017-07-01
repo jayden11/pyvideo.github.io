@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_git.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-12-30T00:00:00+00:00</updated><entry><title>Advanced git</title><link href="http://pyvideo.org/pydx-2016/advanced-git.html" rel="alternate"></link><published>2016-12-30T00:00:00+00:00</published><updated>2016-12-30T00:00:00+00:00</updated><author><name>David Baumgold</name></author><id>tag:pyvideo.org,2016-12-30:pydx-2016/advanced-git.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyDX 2016 talk by David Baumgold&lt;/p&gt;
+&lt;p&gt;You know clone, commit, push, and pull. Now you're ready for the fun stuff. This talk will give you the advanced knowledge you need to take control of your Git repository: rebase, cherry-pick, bisect, blame, squashing, and the reflog. You'll also get a better conceptual understanding of how Git works, allowing you to chain these tools together to accomplish whatever task you need.&lt;/p&gt;
+</summary><category term="git"></category></entry><entry><title>Git in Control, Version Control and How it Could save Your Life</title><link href="http://pyvideo.org/djangocon-us-2016/git-in-control-version-control-and-how-it-could-save-your-life.html" rel="alternate"></link><published>2016-08-12T00:00:00+00:00</published><updated>2016-08-12T00:00:00+00:00</updated><author><name>Rachell Calhoun</name></author><id>tag:pyvideo.org,2016-08-12:djangocon-us-2016/git-in-control-version-control-and-how-it-could-save-your-life.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Git in Control, Version Control and How it Could save Your Life by Rachell Calhoun&lt;/p&gt;
+&lt;p&gt;“You can’t break GitHub, don’t worry.” Maybe you can’t break it but you can sure get yourself into a labyrinth of git commands. Version control can be a headache but it can also save your project.&lt;/p&gt;
+&lt;p&gt;There are certain pitfalls to avoid when using Git, I’ve probably found most of them and stumbled my way out. While my goal is to help you avoid them altogether, I also want to give you the skills to work through these pitfalls so you can make it out alive and with your project intact.&lt;/p&gt;
+&lt;p&gt;Whether you’re working on your own project, or collaborating with others you can learn how to git survive anything. We’ll discuss the benefits version control has for your own projects as well as projects with others.&lt;/p&gt;
+&lt;p&gt;For all of you awesome collaborators working with others on a project, we’ll go over important steps to take while handling others’ code and ‘gitiquette’ so you can save yourself the embarrassment of faux pas in the git world.&lt;/p&gt;
+&lt;p&gt;My goal is to give you an overview of Github flow, provide solutions for potential problems you may encounter, and help you feel more comfortable with version control.&lt;/p&gt;
+</summary><category term="git"></category></entry><entry><title>PyOhio 2010: Wrangling the bits, standardizing how apps get built</title><link href="http://pyvideo.org/pyohio-2010/pyohio-2010--wrangling-the-bits--standardizing-ho.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Rick Harding</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2010/pyohio-2010--wrangling-the-bits--standardizing-ho.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Wrangling the bits, standardizing how apps get built&lt;/p&gt;
+&lt;p&gt;Presented by Rick Harding&lt;/p&gt;
+&lt;p&gt;As we moved more work to Python we had to figure out how to start,
+share, and deploy projects in a standard way. Virtualenv, pip, and Git
+to the rescue.&lt;/p&gt;
+&lt;p&gt;[Note: The talk starts at around 7:20 when the mic is working.]&lt;/p&gt;
+</summary><category term="deploying"></category><category term="fabric"></category><category term="git"></category><category term="pip"></category><category term="pyohio"></category><category term="pyohio2010"></category><category term="virtualenv"></category></entry><entry><title>A Portrait of One Scientist as a Graduate Student</title><link href="http://pyvideo.org/scipy-2013/a-portrait-of-one-scientist-as-a-graduate-student.html" rel="alternate"></link><published>2013-07-02T00:00:00+00:00</published><updated>2013-07-02T00:00:00+00:00</updated><author><name>Paul Ivanov</name></author><id>tag:pyvideo.org,2013-07-02:scipy-2013/a-portrait-of-one-scientist-as-a-graduate-student.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;a focus on specific tools and techniques invaluable in doing research in
+a reproducible manner.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Authors: Ivanov, Paul, UC Berkeley&lt;/p&gt;
+&lt;p&gt;Track: General&lt;/p&gt;
+&lt;p&gt;In this talk, I will focus on the how of reproducible research. I will
+focus on specific tools and techniques I have found invaluable in doing
+research in a reproducible manner. In particular, I will cover the
+following general topics (with specific examples in parentheses):
+version control and code provenance (git), code verification (test
+driven development, nosetests), data integrity (sha1, md5, git-annex),
+seed saving ( random seed retention ) distribution of datasets
+(mirroring, git-annex, metalinks), light-weight analysis capture (
+ttyrec, ipython notebook)&lt;/p&gt;
+</summary><category term="git"></category><category term="reproducibility"></category></entry><entry><title>GitPython and Git Internals</title><link href="http://pyvideo.org/chipy/gitpython-and-git-internals.html" rel="alternate"></link><published>2010-01-14T00:00:00+00:00</published><updated>2010-01-14T00:00:00+00:00</updated><author><name>Christopher Allan Webber</name></author><id>tag:pyvideo.org,2010-01-14:chipy/gitpython-and-git-internals.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Chris covers how git works, the internals, and using the GitPython
+library.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://gitorious.org/git-python"&gt;GitPython&lt;/a&gt;&lt;/p&gt;
+</summary><category term="chipy"></category><category term="git"></category><category term="gitpython"></category></entry><entry><title>Experiences making CPU-bound tasks run much faster</title><link href="http://pyvideo.org/europython-2011/experiences-making-cpu-bound-tasks-run-much-faste.html" rel="alternate"></link><published>2011-07-18T00:00:00+00:00</published><updated>2011-07-18T00:00:00+00:00</updated><author><name>Ian Ozsvald</name></author><id>tag:pyvideo.org,2011-07-18:europython-2011/experiences-making-cpu-bound-tasks-run-much-faste.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Ian Ozsvald - 22 June 2011 in &amp;quot;Training Pizza
+Margherita &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;UPDATE - post-event I've created a &lt;a class="reference external" href="http://ianozsvald.com/2011/06/29/high-performance-python-tutorial-v0-1%20-from-my-4-hour-tutorial-at-europython-2011/"&gt;49 page PDF write-
+up&lt;/a&gt;
+which summarises the 4 hour tutorial&lt;/p&gt;
+&lt;p&gt;As a long-time R&amp;amp;D consultant I'm often working to make slow,
+experimental code run faster for tasks like physics simulation, flood
+modeling and natural language processing. Python allows a smooth
+progression from rough-and-ready (but slow) algorithms through to finely
+tuned tasks that efficiently use as much CPU power as you can bring to
+bear. Speed-ups of 10-500* can be expected for the Mandelbrot code
+we'll use.&lt;/p&gt;
+&lt;p&gt;In this talk I'll cover a set of libraries that make CPU-bound tasks run
+much faster. We'll begin with a look at profiling using RunSnakeRun and
+line_profiler to identify our bottleneck. We'll take a look at slow
+algorithms in Python and how they can run faster using numpy and
+numexpr.&lt;/p&gt;
+&lt;p&gt;Next we'll cover the use of multiprocessing to utilise multiple CPU
+cores along with Cython or ShedSkin to easily use C code in a friendly
+Python wrapper. Multiprocessing on a quad-core system can often provide
+a 4* speed-up for the right tasks. Next parallelpython will let us run
+our code on a network of machines.&lt;/p&gt;
+&lt;p&gt;Finally we'll look at pyCUDA to utilise an NVIDIA GPU. CUDA can give the
+best improvements for mathematical problems (over 100* on the right
+tasks) but works on a narrower set of problems.&lt;/p&gt;
+&lt;p&gt;How it'll work: The tutorial will be hands on, you'll be converting
+example files from normal Python to faster variants using the tools
+below. All of it is optional, you'll get the most benefit by having
+everything installed. We'll work in groups and open discussion is
+encouraged.&lt;/p&gt;
+&lt;p&gt;NOTE - you are expected to have all these tools installed &lt;em&gt;before&lt;/em&gt; the
+tutorial (if you don't, you might find it hard to follow what's going
+on!).&lt;/p&gt;
+&lt;p&gt;I'll be using Python 2.7.1 on a Macbook (Snow Leopard). All of these
+tools run on Windows and Linux, as long as your versions are fairly
+recent everything should run just fine.&lt;/p&gt;
+&lt;p&gt;My versions (roughly ordered by importance):&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Python 2.7.1&lt;/li&gt;
+&lt;li&gt;RunSnakeRun 2.0.1b6 (with wxPython 2.8.12.0 Unicode)&lt;/li&gt;
+&lt;li&gt;line_profiler (1.0b2)&lt;/li&gt;
+&lt;li&gt;Cython 0.14.1&lt;/li&gt;
+&lt;li&gt;ShedSkin 0.7.1&lt;/li&gt;
+&lt;li&gt;numpy 1.5.1&lt;/li&gt;
+&lt;li&gt;numexpr 1.4.2&lt;/li&gt;
+&lt;li&gt;ParallelPython 1.6.1&lt;/li&gt;
+&lt;li&gt;pyCUDA HEAD from git as of 14th June 2011 (with CUDA 4.0 drivers)&lt;/li&gt;
+&lt;li&gt;PyPy 1.5&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Some background reading:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://ianozsvald.com/2010/07/14/22937-faster-python-math-using-pycuda/"&gt;http://ianozsvald.com/2010/07/14/22937-faster-python-math-using-pycuda/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://ianozsvald.com/2008/11/17/making-python-math-196-faster-with-shedskin/"&gt;http://ianozsvald.com/2008/11/17/making-python-math-196-faster-with-shedskin/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="cython"></category><category term="git"></category><category term="multiprocessing"></category><category term="network"></category><category term="numpy"></category><category term="nvidia"></category><category term="profiling"></category><category term="pycuda"></category><category term="runsnakerun"></category><category term="tutorial"></category><category term="windows"></category><category term="wxpython"></category></entry><entry><title>Hg and Git : Can't we all just get along? (#154)</title><link href="http://pyvideo.org/pycon-us-2010/pycon-2010--hg-and-git---can--39-t-we-all-just-ge.html" rel="alternate"></link><published>2010-02-19T00:00:00+00:00</published><updated>2010-02-19T00:00:00+00:00</updated><author><name>Scott Chacon</name></author><id>tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--hg-and-git---can--39-t-we-all-just-ge.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Hg and Git: Can't we all just get along?&lt;/p&gt;
+&lt;p&gt;Presented by Scott Chacon&lt;/p&gt;
+&lt;p&gt;There is a fair amount of unnecessary animosity between developers about
+version control systems, especially between Mercurial and Git users. In
+reality, these two systems are very similar and can actually cooperate
+pretty well. In this talk we will show just how similar Git and
+Mercurial are, look at some of their technical differences, and see how
+they can work together by looking at hg-git, the bidirectional
+Git/Mercurial bridge, implemented in Python.&lt;/p&gt;
+</summary><category term="git"></category><category term="hg"></category><category term="mercurial"></category><category term="pycon"></category><category term="pycon2010"></category></entry><entry><title>Advanced Git</title><link href="http://pyvideo.org/pycon-us-2015/advanced-git.html" rel="alternate"></link><published>2015-04-11T00:00:00+00:00</published><updated>2015-04-11T00:00:00+00:00</updated><author><name>David Baumgold</name></author><id>tag:pyvideo.org,2015-04-11:pycon-us-2015/advanced-git.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You know clone, commit, push, and pull. Now you're ready for the fun
+stuff. This talk will give you the advanced knowledge you need to take
+control of your git repository: rebase, cherry-pick, bisect, blame,
+squashing, and the reflog. You'll also get a better conceptual
+understanding of how git works, allowing you to chain these tools
+together to accomplish whatever task you need.&lt;/p&gt;
+</summary><category term="git"></category></entry></feed>

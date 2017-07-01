@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>Matplotlib Plot Tutorial: Histograms, Scatter Plots &amp; Legend</title><link>http://pyvideo.org/datacamp/Matplotlib-Plot-Tutorial-For-Beginners.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Matplotlib makes it easy to create meaningful and insightful plots. In this beginner video, you will learn how to build various types of data visualizations such as histograms, scatter plots and line plots. You will also see how to customize them to make them more visually appealing and interpretable.&lt;/p&gt;
+&lt;p&gt;Want to do the corresponding exercises? Go to our &lt;cite&gt;Python For Data Science Tutorial &amp;lt;https://www.datacamp.com/courses/intro-to-python-for-data-science&amp;gt;&lt;/cite&gt; where you can do them for free.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Filip Schouwenaars</dc:creator><pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-02-01:datacamp/Matplotlib-Plot-Tutorial-For-Beginners.html</guid><category>Matplotlib</category><category>data science</category><category>data visualization</category><category>tutorial</category><category>DataCamp</category></item><item><title>Interactive multi scale time series exploration with matplotlib</title><link>http://pyvideo.org/pydata-dc-2016/interactive-multi-scale-time-series-exploration-with-matplotlib.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData DC 2016&lt;/p&gt;
+&lt;p&gt;This tutorial is an introduction to how to matplotlib's event handling system to build an tool for interactively exploring multi-scale time series data.&lt;/p&gt;
+&lt;p&gt;The primary example will be how to 'drill down' through summary data sets to view the underlying data using hourly weather data from NOAA.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Thomas Caswell</dc:creator><pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-07:pydata-dc-2016/interactive-multi-scale-time-series-exploration-with-matplotlib.html</guid><category>matplotlib</category></item><item><title>¡Eureka! (Python y ciencia)</title><link>http://pyvideo.org/pyday-galicia-2016/eureka-python-y-ciencia.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;En esta charla se plantea una pregunta de física básica que se resolverá científicamente con ingenio, mátemáticas y python, aprovechando para (de una manera amena) ver librerías habituales en el entorno científico como sympy, numpy, scipy, matplotlib, bokeh, numba, pandas y sklearn.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Miguel Sánchez de León Peque</dc:creator><pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-17:pyday-galicia-2016/eureka-python-y-ciencia.html</guid><category>pyday</category><category>sympy</category><category>numpy</category><category>scipy</category><category>matplotlib</category><category>bokeh</category><category>numba</category><category>pandas</category><category>sklearn</category></item><item><title>Getting More Out of Matplotlib with GR</title><link>http://pyvideo.org/euroscipy-2015/getting-more-out-of-matplotlib-with-gr-euroscipy-2015-josef-heinen.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Matplotlib is the most popular graphics library for Python. It is the workhorse plotting utility of the scientific Python world. However, depending on the field of application, the software may be reaching its limits. This is the point where the GR framework will help. GR can be used as a backend for Matplotlib applications and significantly improve the performance and expand their capabilities.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Josef Heinen</dc:creator><pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-05:euroscipy-2015/getting-more-out-of-matplotlib-with-gr-euroscipy-2015-josef-heinen.html</guid><category>matplotlib</category></item><item><title>Advanced matplotlib tutorial with library author John Hunter</title><link>http://pyvideo.org/pydata/advanced-matplotlib-tutorial-library-author-john-h.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In this video tutorial from the 2012 PyData Workshop, John Hunter,
+author of matplotlib is going to give you some advanced insight into the
+plotting library.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;John's tutorial will focus on broader topics concerning a wide set of
+users, including:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;customization&lt;/li&gt;
+&lt;li&gt;configuration&lt;/li&gt;
+&lt;li&gt;event handling&lt;/li&gt;
+&lt;li&gt;interacting with figures&lt;/li&gt;
+&lt;li&gt;tips &amp;amp; tricks&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">John Hunter</dc:creator><pubDate>Fri, 30 Mar 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-03-30:pydata/advanced-matplotlib-tutorial-library-author-john-h.html</guid><category>matplotlib</category></item><item><title>Advanced Matplotlib</title><link>http://pyvideo.org/scipy-2012/advanced-matplotlib.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Matplotlib is one of the main plotting libraries in use within the
+scientific Python community. This tutorial covers advanced features of
+the Matplotlib library, including many recent additions: laying out
+axes, animation support, Basemap (for plotting on maps), and other
+tweaks for creating aesthetic plots. The goal of this tutorial is to
+expose attendees to several of the chief sub- packages within
+Matplotlib, helping to ensure that users maximize the use of the full
+capabilities of the library. Additionally, the attendees will be run
+through a 'grab-bag' of tweaks for plots that help to increase the
+aesthetic appeal of created figures. Attendees should be familiar with
+creating basic plots in Matplotlib as well as basic use of NumPy for
+manipulating data.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://github.com/dopplershift%20/Python-Tutorials"&gt;iPython notebooks used in the
+tutorial&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ryan May</dc:creator><pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-07-16:scipy-2012/advanced-matplotlib.html</guid><category>advanced</category><category>matplotlib</category><category>tutorial</category></item><item><title>Anatomy of Matplotlib - Part 1</title><link>http://pyvideo.org/scipy-2014/anatomy-of-matplotlib-part-1.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This tutorial will be the introduction to matplotlib. Users will learn
+the types of plots and experiment with them. Then the fundamental
+concepts and terminologies of matplotlib are introduced. Next, we will
+learn how to change the &amp;quot;look and feel&amp;quot; of their plots. Finally, users
+will be introduced to other toolkits that extends matplotlib.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction&lt;ul&gt;
+&lt;li&gt;Purpose of matplotlib&lt;/li&gt;
+&lt;li&gt;Online Documentation&lt;ul&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://matplotlib.org"&gt;matplotlib.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mailing Lists and StackOverflow&lt;/li&gt;
+&lt;li&gt;Github Repository&lt;/li&gt;
+&lt;li&gt;Bug Reports &amp;amp; Feature Requests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What is this &amp;quot;backend&amp;quot; thing I keep hearing about?&lt;ul&gt;
+&lt;li&gt;Interactive versus non-interactive&lt;/li&gt;
+&lt;li&gt;Agg&lt;/li&gt;
+&lt;li&gt;Tk, Qt, GTK, MacOSX, Wx, Cairo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Plotting Functions&lt;ul&gt;
+&lt;li&gt;Graphs (plot, scatter, bar, stem, etc.)&lt;/li&gt;
+&lt;li&gt;Images (imshow, pcolor, pcolormesh, contour[f], etc.)&lt;/li&gt;
+&lt;li&gt;Lesser Knowns: (pie, acorr, hexbin, streamplot, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What goes in a Figure?&lt;ul&gt;
+&lt;li&gt;Axes&lt;/li&gt;
+&lt;li&gt;Axis&lt;/li&gt;
+&lt;li&gt;ticks (and ticklines and ticklabels) (both major &amp;amp; minor)&lt;/li&gt;
+&lt;li&gt;axis labels&lt;/li&gt;
+&lt;li&gt;axes title&lt;/li&gt;
+&lt;li&gt;figure subtitle&lt;/li&gt;
+&lt;li&gt;axis spines&lt;/li&gt;
+&lt;li&gt;colorbars (and the oddities thereof)&lt;/li&gt;
+&lt;li&gt;axis scale&lt;/li&gt;
+&lt;li&gt;axis gridlines&lt;/li&gt;
+&lt;li&gt;legend&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Manipulating the &amp;quot;Look-and-Feel&amp;quot;&lt;ul&gt;
+&lt;li&gt;Introducing matplotlibrc&lt;/li&gt;
+&lt;li&gt;Properties&lt;ul&gt;
+&lt;li&gt;color (and edgecolor, linecolor, facecolor, etc...)&lt;/li&gt;
+&lt;li&gt;linewidth and edgewidth and markeredgewidth (and the oddity that happens in errorbar())&lt;/li&gt;
+&lt;li&gt;linestyle&lt;/li&gt;
+&lt;li&gt;fonts&lt;/li&gt;
+&lt;li&gt;zorder&lt;/li&gt;
+&lt;li&gt;visible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What are toolkits?&lt;ul&gt;
+&lt;li&gt;axes_grid1&lt;/li&gt;
+&lt;li&gt;mplot3d&lt;/li&gt;
+&lt;li&gt;basemap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benjamin Root</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-09:scipy-2014/anatomy-of-matplotlib-part-1.html</guid><category>matplotlib</category></item><item><title>Anatomy of Matplotlib - Part 2</title><link>http://pyvideo.org/scipy-2014/anatomy-of-matplotlib-part-2.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This tutorial will be the introduction to matplotlib. Users will learn
+the types of plots and experiment with them. Then the fundamental
+concepts and terminologies of matplotlib are introduced. Next, we will
+learn how to change the &amp;quot;look and feel&amp;quot; of their plots. Finally, users
+will be introduced to other toolkits that extends matplotlib.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction&lt;ul&gt;
+&lt;li&gt;Purpose of matplotlib&lt;/li&gt;
+&lt;li&gt;Online Documentation&lt;ul&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://matplotlib.org"&gt;matplotlib.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mailing Lists and StackOverflow&lt;/li&gt;
+&lt;li&gt;Github Repository&lt;/li&gt;
+&lt;li&gt;Bug Reports &amp;amp; Feature Requests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What is this &amp;quot;backend&amp;quot; thing I keep hearing about?&lt;ul&gt;
+&lt;li&gt;Interactive versus non-interactive&lt;/li&gt;
+&lt;li&gt;Agg&lt;/li&gt;
+&lt;li&gt;Tk, Qt, GTK, MacOSX, Wx, Cairo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Plotting Functions&lt;ul&gt;
+&lt;li&gt;Graphs (plot, scatter, bar, stem, etc.)&lt;/li&gt;
+&lt;li&gt;Images (imshow, pcolor, pcolormesh, contour[f], etc.)&lt;/li&gt;
+&lt;li&gt;Lesser Knowns: (pie, acorr, hexbin, streamplot, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What goes in a Figure?&lt;ul&gt;
+&lt;li&gt;Axes&lt;/li&gt;
+&lt;li&gt;Axis&lt;/li&gt;
+&lt;li&gt;ticks (and ticklines and ticklabels) (both major &amp;amp; minor)&lt;/li&gt;
+&lt;li&gt;axis labels&lt;/li&gt;
+&lt;li&gt;axes title&lt;/li&gt;
+&lt;li&gt;figure subtitle&lt;/li&gt;
+&lt;li&gt;axis spines&lt;/li&gt;
+&lt;li&gt;colorbars (and the oddities thereof)&lt;/li&gt;
+&lt;li&gt;axis scale&lt;/li&gt;
+&lt;li&gt;axis gridlines&lt;/li&gt;
+&lt;li&gt;legend&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Manipulating the &amp;quot;Look-and-Feel&amp;quot;&lt;ul&gt;
+&lt;li&gt;Introducing matplotlibrc&lt;/li&gt;
+&lt;li&gt;Properties&lt;ul&gt;
+&lt;li&gt;color (and edgecolor, linecolor, facecolor, etc...)&lt;/li&gt;
+&lt;li&gt;linewidth and edgewidth and markeredgewidth (and the oddity that happens in errorbar())&lt;/li&gt;
+&lt;li&gt;linestyle&lt;/li&gt;
+&lt;li&gt;fonts&lt;/li&gt;
+&lt;li&gt;zorder&lt;/li&gt;
+&lt;li&gt;visible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What are toolkits?&lt;ul&gt;
+&lt;li&gt;axes_grid1&lt;/li&gt;
+&lt;li&gt;mplot3d&lt;/li&gt;
+&lt;li&gt;basemap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benjamin Root</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-09:scipy-2014/anatomy-of-matplotlib-part-2.html</guid><category>matplotlib</category></item><item><title>Anatomy of Matplotlib - Part 3</title><link>http://pyvideo.org/scipy-2014/anatomy-of-matplotlib-part-3.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This tutorial will be the introduction to matplotlib. Users will learn
+the types of plots and experiment with them. Then the fundamental
+concepts and terminologies of matplotlib are introduced. Next, we will
+learn how to change the &amp;quot;look and feel&amp;quot; of their plots. Finally, users
+will be introduced to other toolkits that extends matplotlib.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction&lt;ul&gt;
+&lt;li&gt;Purpose of matplotlib&lt;/li&gt;
+&lt;li&gt;Online Documentation&lt;ul&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://matplotlib.org"&gt;matplotlib.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mailing Lists and StackOverflow&lt;/li&gt;
+&lt;li&gt;Github Repository&lt;/li&gt;
+&lt;li&gt;Bug Reports &amp;amp; Feature Requests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What is this &amp;quot;backend&amp;quot; thing I keep hearing about?&lt;ul&gt;
+&lt;li&gt;Interactive versus non-interactive&lt;/li&gt;
+&lt;li&gt;Agg&lt;/li&gt;
+&lt;li&gt;Tk, Qt, GTK, MacOSX, Wx, Cairo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Plotting Functions&lt;ul&gt;
+&lt;li&gt;Graphs (plot, scatter, bar, stem, etc.)&lt;/li&gt;
+&lt;li&gt;Images (imshow, pcolor, pcolormesh, contour[f], etc.)&lt;/li&gt;
+&lt;li&gt;Lesser Knowns: (pie, acorr, hexbin, streamplot, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What goes in a Figure?&lt;ul&gt;
+&lt;li&gt;Axes&lt;/li&gt;
+&lt;li&gt;Axis&lt;/li&gt;
+&lt;li&gt;ticks (and ticklines and ticklabels) (both major &amp;amp; minor)&lt;/li&gt;
+&lt;li&gt;axis labels&lt;/li&gt;
+&lt;li&gt;axes title&lt;/li&gt;
+&lt;li&gt;figure subtitle&lt;/li&gt;
+&lt;li&gt;axis spines&lt;/li&gt;
+&lt;li&gt;colorbars (and the oddities thereof)&lt;/li&gt;
+&lt;li&gt;axis scale&lt;/li&gt;
+&lt;li&gt;axis gridlines&lt;/li&gt;
+&lt;li&gt;legend&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Manipulating the &amp;quot;Look-and-Feel&amp;quot;&lt;ul&gt;
+&lt;li&gt;Introducing matplotlibrc&lt;/li&gt;
+&lt;li&gt;Properties&lt;ul&gt;
+&lt;li&gt;color (and edgecolor, linecolor, facecolor, etc...)&lt;/li&gt;
+&lt;li&gt;linewidth and edgewidth and markeredgewidth (and the oddity that happens in errorbar())&lt;/li&gt;
+&lt;li&gt;linestyle&lt;/li&gt;
+&lt;li&gt;fonts&lt;/li&gt;
+&lt;li&gt;zorder&lt;/li&gt;
+&lt;li&gt;visible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What are toolkits?&lt;ul&gt;
+&lt;li&gt;axes_grid1&lt;/li&gt;
+&lt;li&gt;mplot3d&lt;/li&gt;
+&lt;li&gt;basemap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benjamin Root</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-09:scipy-2014/anatomy-of-matplotlib-part-3.html</guid><category>matplotlib</category></item><item><title>RM204 BOF MatPlotLib Discussion</title><link>http://pyvideo.org/scipy-2014/rm204-bof-matplotlib-discussion.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;We will have an open discussion about current matplotlib enhancement
+proposals and take calls for new ones. Anyone interested in matplotlib's
+future development efforts is more than welcome to attend. There will be
+no presentation. Current MEPs exist here:
+&lt;a class="reference external" href="https://github.com/matplotlib/matplotlib/wiki#matplotlib-enhancement-proposals-meps"&gt;https://github.com/matplotlib/matplotlib/wiki#matplotlib-enhancement-proposals-meps&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Damon McDougall</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-09:scipy-2014/rm204-bof-matplotlib-discussion.html</guid><category>matplotlib</category></item><item><title>The Wonderful World of Scientific Computing with Python</title><link>http://pyvideo.org/scipy-2014/the-wonderful-world-of-scientific-computing-with.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;We will give an overview of the basics of the scientific computing
+ecosystem with Python: what does each of the fundamental packages
+(numpy, matplotlib, scipy, sympy and pandas) do, and how does it work?
+We will use the IPython Notebook in our quest to enter this wonderful
+world.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Starting out with scientific computing in Python can be daunting: Where
+do I start? What are the basic packages, and what is the use case for
+each of them? What are the fundamental ideas I need to understand each
+package and how it works?&lt;/p&gt;
+&lt;p&gt;In this tutorial, we will use examples of scientific questions and
+calculations which lead directly to the need for certain computational
+tools as a gateway to understand the basic structure of the scientific
+computing ecosystem. The specific packages we will touch on are
+&lt;tt class="docutils literal"&gt;numpy&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;matplotlib&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;scipy&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;sympy&lt;/tt&gt; and &lt;tt class="docutils literal"&gt;pandas&lt;/tt&gt;, all
+viewed through the wonderful lens of the IPython Notebook.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David P. Sanders</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-09:scipy-2014/the-wonderful-world-of-scientific-computing-with.html</guid><category>matplotlib</category><category>numpy</category><category>pandas</category><category>scipy</category><category>sympy</category></item><item><title>JSON data + RML template = PDF report</title><link>http://pyvideo.org/europython-2011/json-data-rml-template-pdf-report.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Stefano Cotta Ramusino - 23 June 2011 in &amp;quot;Track
+Ravioli&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The main problem with reports generated in Python is how to separate the
+content from the style using ReportLab library, because all informations
+should be saved in a single source file that, by example, is impossible
+to understand for your graphic designer.&lt;/p&gt;
+&lt;p&gt;So the solution: just modularizes all components you need and identify
+simple container formats for your data input (JSON) and document
+template (ReportLab RML).&lt;/p&gt;
+&lt;p&gt;Now with the power of Genshi and XInclude we will create dynamic
+templates that include specific snippets (e.g., to generate on the fly a
+decent graph with matplotlib or cairoplot to fill some lacks of
+ReportLab) and we will detach the stylesheet from the template
+structure.&lt;/p&gt;
+&lt;p&gt;And at the end you can also have the internationalization service in the
+PDF report generation!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stefano Cotta Ramusino</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-24:europython-2011/json-data-rml-template-pdf-report.html</guid><category>internationalization</category><category>json</category><category>matplotlib</category></item><item><title>New beauty in Camelot</title><link>http://pyvideo.org/europython-2011/new-beauty-in-camelot.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Erik Janssens,Jeroen Dierckx - 22 June 2011 in &amp;quot;Track
+Ravioli &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Camelot is a Python framework that leverages SQLAlchemy and QT to build
+rich desktop applications. The model - view definition used was inspired
+by the Django Admin interface. Some see it as a replacement for MS
+Access, but it's underlying libraries allow much more advanced features.&lt;/p&gt;
+&lt;p&gt;In this talk we will focus on the changes and new features that were
+introduced in Camelot and more importantly, how they can be used in your
+applications. Those features range from Matplotlib chart integration and
+new types of actions to displaying custom SQLAlchemy queries in a table
+view.&lt;/p&gt;
+&lt;p&gt;We will share our experiences with large scale deployment of Python and
+Camelot applications to the desktop of the user. In a number of case
+studies we will point out the mistakes we made and how they were
+corrected.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Janssens</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-21:europython-2011/new-beauty-in-camelot.html</guid><category>deployment</category><category>django</category><category>framework</category><category>matplotlib</category><category>qt</category><category>sqlalchemy</category></item><item><title>Distributing Python programs through PyInstaller</title><link>http://pyvideo.org/europython-2011/distributing-python-programs-through-pyinstaller.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Giovanni Bajo - 22 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The talk will focus on how to distribute multi-platform proprietary
+Python applications, using &lt;a class="reference external" href="http://www.pyinstaller.org"&gt;PyInstaller&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;PyInstaller takes a program written in Python and turns it into a static
+executable (binary) that does not depend upon an existing Python
+installation, nor third party library. The executable can then be packed
+and shipped in many different ways (through installer wizards, deb/rpm
+packages, etc.).&lt;/p&gt;
+&lt;p&gt;PyInstaller is a good multi-platform alternative to tools like py2exe
+and py2app, but it found troubles to gain acceptance in a market that
+seems strongly tied to older tools. Instead, PyInstaller puts forward
+important new features: for instance, it works on the most important
+desktop platforms (Windows, Linux/UNIX, Mac), and it has got an
+automatic and fully transparent support for all the workarounds needed
+to make applications using complex libraries like Matplotlib or PyQt
+work within a static executable.&lt;/p&gt;
+&lt;p&gt;In detail, the following points will be discussed:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Distribution of a priopriertary software: initial requests&lt;/li&gt;
+&lt;li&gt;PyInstaller: how it works (basic tutorial)&lt;/li&gt;
+&lt;li&gt;The secrets of PyInstaller: technical details&lt;/li&gt;
+&lt;li&gt;Import hooks: effectively handling third party extensions&lt;/li&gt;
+&lt;li&gt;Flexibility with PyInstaller: what goes in and what stays out&lt;/li&gt;
+&lt;li&gt;Linux: static binaries for a single distribution or
+cross-distributions&lt;/li&gt;
+&lt;li&gt;Mac: creation of bundles for graphic applications&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Giovanni Bajo</dc:creator><pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-20:europython-2011/distributing-python-programs-through-pyinstaller.html</guid><category>matplotlib</category><category>py2exe</category><category>pyqt</category></item><item><title>Guy Kloss - Python Data Plotting and Visualisation Extravaganza</title><link>http://pyvideo.org/kiwi-pycon-2009/guy-kloss---python-data-plotting-and-visualisatio.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python Data Plotting and Visualization Extravaganza&lt;/p&gt;
+&lt;p&gt;Presented by Guy Kloss&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;In various fields data is accumulated or produced. This can be
+observation data, statistical data, simulation data, ... Information
+like that can in many cases be much more easily analysed through the
+user's eyes employing data visualisation. This talk is trying to dive
+briefly into various means and tools to visually analyse data of
+different qualities: time series, simple 2D plots, surface plots, volume
+plots, quiver plots, etc.&lt;/p&gt;
+&lt;p&gt;Outline&lt;/p&gt;
+&lt;p&gt;I am planning on doing a &amp;quot;fly by&amp;quot; through the world of data
+visualisation for different types of data using different tools. Types
+of data:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;1D data and simple functions&lt;/li&gt;
+&lt;li&gt;2D data for surface plots&lt;/li&gt;
+&lt;li&gt;3D data through quiver plots, iso surfaces, and cutting planes&lt;/li&gt;
+&lt;li&gt;n-D data through different means&lt;/li&gt;
+&lt;li&gt;continuous and non-continuously structured data&lt;/li&gt;
+&lt;li&gt;time series&lt;/li&gt;
+&lt;li&gt;real time data visualisation/analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The tools that will probably appear in the demos and discussions:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;GNUplot&lt;/li&gt;
+&lt;li&gt;matplotlib&lt;/li&gt;
+&lt;li&gt;Mayavi2&lt;/li&gt;
+&lt;li&gt;Visual Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guy Kloss</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:kiwi-pycon-2009/guy-kloss---python-data-plotting-and-visualisatio.html</guid><category>data</category><category>gnuplot</category><category>kiwipycon</category><category>kiwipycon2009</category><category>matplotlib</category><category>mayavi2</category><category>plotting</category><category>visualpython</category></item></channel></rss>

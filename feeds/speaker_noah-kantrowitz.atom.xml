@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_noah-kantrowitz.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-20T00:00:00+00:00</updated><entry><title>Behind Closed Doors: Managing Passwords in a Dangerous World</title><link href="http://pyvideo.org/djangocon-au-2016/behind-closed-doors-managing-passwords-in-a-dangerous-world.html" rel="alternate"></link><published>2016-08-12T00:00:00+00:00</published><updated>2016-08-12T00:00:00+00:00</updated><author><name>Noah Kantrowitz</name></author><id>tag:pyvideo.org,2016-08-12:djangocon-au-2016/behind-closed-doors-managing-passwords-in-a-dangerous-world.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Noah Kantrowitz
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/61/view_talk"&gt;https://2016.pycon-au.org/schedule/61/view_talk&lt;/a&gt;
+Secrets come in many forms, passwords, keys, tokens. All crucial for the operation of an application, but each dangerous in its own way. In the past, many of us have pasted those secrets in to a text file and moved on, but in a world of config automation and ephemeral microservices these patterns are leaving our data at greater risk than ever before.&lt;/p&gt;
+&lt;p&gt;New tools, products, and libraries are being released all the time to try to cope with this massive rise in threats, both new and old-but-ignored. This talk will cover the major types of secrets in a normal web application, how to model their security properties, what tools are best for each situation, and how to use them with major web frameworks.&lt;/p&gt;
+</summary></entry><entry><title>Behind Closed Doors: Managing Passwords in a Dangerous World</title><link href="http://pyvideo.org/pybay-2016/behind-closed-doors-managing-passwords-in-a-dangerous-world.html" rel="alternate"></link><published>2016-08-20T00:00:00+00:00</published><updated>2016-08-20T00:00:00+00:00</updated><author><name>Noah Kantrowitz</name></author><id>tag:pyvideo.org,2016-08-20:pybay-2016/behind-closed-doors-managing-passwords-in-a-dangerous-world.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;A modern application has a lot of passwords and keys floating around. Encryption keys, database passwords, and API credentials; often typed in to text files and forgotten. Fortunately a new wave of tools are emerging to help manage, update, and audit these secrets. Come learn how to avoid being the next TechCrunch headline.
+​
+Abstract
+Secrets come in many forms, passwords, keys, tokens. All crucial for the operation of an application, but each dangerous in its own way. In the past, many of us have pasted those secrets in to a text file and moved on, but in a world of config automation and ephemeral microservices these patterns are leaving our data at greater risk than ever before.
+​
+New tools, products, and libraries are being released all the time to try to cope with this massive rise in threats, both new and old-but-ignored. This talk will cover the major types of secrets in a normal web application, how to model their security properties, what tools are best for each situation, and how to use them with major Python frameworks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;
+Noah Kantrowitz is a web developer turned infrastructure automation enthusiast, and all around engineering rabble-rouser. By day he builds tools and teaches, and by night he works with the Python Software Foundation infrastructure team. He is an active member of the Chef community, and enjoys merge commits, cat pictures, and beards.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://speakerdeck.com/pybay2016/noah-kantrowitz-behind-closed-doors"&gt;https://speakerdeck.com/pybay2016/noah-kantrowitz-behind-closed-doors&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Behind Closed Doors: Managing Passwords in a Dangerous World</title><link href="http://pyvideo.org/pycon-au-2016/pycon-au-2016-behind-closed-doors-managing-passwords-in-a-dangerous-world.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Noah Kantrowitz</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/pycon-au-2016-behind-closed-doors-managing-passwords-in-a-dangerous-world.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Noah Kantrowitz
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/61/view_talk"&gt;https://2016.pycon-au.org/schedule/61/view_talk&lt;/a&gt;
+Secrets come in many forms, passwords, keys, tokens. All crucial for the operation of an application, but each dangerous in its own way. In the past, many of us have pasted those secrets in to a text file and moved on, but in a world of config automation and ephemeral microservices these patterns are leaving our data at greater risk than ever before.&lt;/p&gt;
+&lt;p&gt;New tools, products, and libraries are being released all the time to try to cope with this massive rise in threats, both new and old-but-ignored. This talk will cover the major types of secrets in a normal web application, how to model their security properties, what tools are best for each situation, and how to use them with major web frameworks.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>Behind Closed Doors: Managing Passwords in a Dangerous World</title><link href="http://pyvideo.org/europython-2016/behind-closed-doors-managing-passwords-in-a-dangerous-world.html" rel="alternate"></link><published>2016-07-28T00:00:00+00:00</published><updated>2016-07-28T00:00:00+00:00</updated><author><name>Noah Kantrowitz</name></author><id>tag:pyvideo.org,2016-07-28:europython-2016/behind-closed-doors-managing-passwords-in-a-dangerous-world.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Noah Kantrowitz - Behind Closed Doors: Managing Passwords in a Dangerous World
+[EuroPython 2016]
+[18 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/behind-closed-doors-managing-passwords-in-a-dangerous-world"&gt;https://ep2016.europython.eu//conference/talks/behind-closed-doors-managing-passwords-in-a-dangerous-world&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;A modern application has a lot of passwords and keys floating around.
+Encryptions keys, database passwords, and API credentials; often typed
+in to text files and forgotten. Fortunately a new wave of tools are
+emerging to help manage, update, and audit these secrets. Come learn
+how to avoid being the next TechCrunch headline.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Secrets come in many forms, passwords, keys, tokens. All crucial for
+the operation of an application, but each dangerous in its own way. In
+the past, many of us have pasted those secrets in to a text file and
+moved on, but in a world of config automation and ephemeral
+microservices these patterns are leaving our data at greater risk than
+ever before.&lt;/p&gt;
+&lt;p&gt;New tools, products, and libraries are being released all the time to
+try to cope with this massive rise in threats, both new and old-but-
+ignored. This talk will cover the major types of secrets in a normal
+web application, how to model their security properties, what tools
+are best for each situation, and how to use them with major web
+frameworks.&lt;/p&gt;
+</summary></entry><entry><title>Real world Django deployment using Chef</title><link href="http://pyvideo.org/djangocon-2011/djangocon-2011--real-world-django-deployment-usin.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Noah Kantrowitz</name></author><id>tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--real-world-django-deployment-usin.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Real world Django deployment using Chef&lt;/p&gt;
+&lt;p&gt;Presented by Noah Kantrowitz&lt;/p&gt;
+&lt;p&gt;Chef, a popular configuration management tool, is gaining momentum in
+the Django community. Learn how to deploy Django sites using Chef, be
+they one server or a thousand.&lt;/p&gt;
+</summary><category term="chef"></category><category term="deployment"></category></entry><entry><title>DevOps for Python: Doing More With Less</title><link href="http://pyvideo.org/pycon-us-2012/devops-for-python-doing-more-with-less.html" rel="alternate"></link><published>2012-03-08T00:00:00+00:00</published><updated>2012-03-08T00:00:00+00:00</updated><author><name>Noah Kantrowitz</name></author><id>tag:pyvideo.org,2012-03-08:pycon-us-2012/devops-for-python-doing-more-with-less.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The world of infrastructure as code is becoming far more pervasive and
+many Python developers are trying to find a way to get started. This
+class will get you up and running with Chef and Fabric to manage your
+systems be they in the cloud or under your desk.&lt;/p&gt;
+</summary></entry><entry><title>What is coming in Python packaging</title><link href="http://pyvideo.org/pycon-us-2014/what-is-coming-in-python-packaging.html" rel="alternate"></link><published>2014-04-13T00:00:00+00:00</published><updated>2014-04-13T00:00:00+00:00</updated><author><name>Noah Kantrowitz</name></author><id>tag:pyvideo.org,2014-04-13:pycon-us-2014/what-is-coming-in-python-packaging.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In the last 18 months the Python packaging world has seen an explosion
+of activity. Learn what improvements are available now and what is on
+the horizon.&lt;/p&gt;
+</summary></entry><entry><title>Application Deployment State of the Onion</title><link href="http://pyvideo.org/pycon-us-2014/application-deployment-state-of-the-onion.html" rel="alternate"></link><published>2014-04-12T00:00:00+00:00</published><updated>2014-04-12T00:00:00+00:00</updated><author><name>Noah Kantrowitz</name></author><id>tag:pyvideo.org,2014-04-12:pycon-us-2014/application-deployment-state-of-the-onion.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Deploying a moderately complex web application has become quite a
+challenge over the years. As best-practices have evolved, it has become
+progressively more time-consuming to keep up with what tools exist and
+how to use them effectively. This talk will provide an overview of the
+ecosystem and provide pointers for more information about individual
+components or problems.&lt;/p&gt;
+</summary></entry></feed>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 16 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>Graph Databases: Discutindo o Relacionamento dos seus Dados com Python</title><link>http://pyvideo.org/python-brasil-2016/graph-databases-discutindo-o-relacionamento-dos-seus-dados-com-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Você já parou pra pensar quantos relacionamentos você tem na sua vida
+virtual? Cada amigo no Facebook, cada página curtida, cada conexão no
+Linkedin ou cada perfil seguido no Twitter. Só no Brasil, temos 160
+milhões de usuários do Facebook. Como representar e manipular todas
+essas relações? Graph Databases são banco de dados que usam estruturas
+de grafos (vértices e arestas) para representar e armazenar dados de
+forma semântica.&lt;/p&gt;
+&lt;p&gt;A palestra será iniciada com a problematização da representação de
+relacionamentos em Bancos de Dados Relacionais e com a apresentação de
+uma solução mais amigável usando Grafos. Será abordada a definição de
+Graph Database, suas vantagens e desvantagens, comparação de algumas
+ferramentas disponíveis (Neo4J, OrientDB e ArangoDB) e a aplicação de
+tais ferramentas em Python.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nicolle Cysneiros</dc:creator><pubDate>Sun, 16 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-16:python-brasil-2016/graph-databases-discutindo-o-relacionamento-dos-seus-dados-com-python.html</guid></item></channel></rss>

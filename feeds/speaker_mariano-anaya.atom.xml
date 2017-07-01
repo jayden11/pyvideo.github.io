@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_mariano-anaya.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-05T00:00:00+00:00</updated><entry><title>Clean code in Python</title><link href="http://pyvideo.org/europython-2016/clean-code-in-python.html" rel="alternate"></link><published>2016-08-05T00:00:00+00:00</published><updated>2016-08-05T00:00:00+00:00</updated><author><name>Mariano Anaya</name></author><id>tag:pyvideo.org,2016-08-05:europython-2016/clean-code-in-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Mariano Anaya - Clean code in Python
+[EuroPython 2016]
+[20 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/clean-code-in-python"&gt;https://ep2016.europython.eu//conference/talks/clean-code-in-python&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Introduction to the clean code principles applied to Python code.
+Let's honor the readable nature of the Python syntax so anyone can
+maintain our code: &amp;quot;readability counts&amp;quot;.&lt;/p&gt;
+&lt;p&gt;This talk introduces general concepts of code quality and how they
+apply for Python. We analyse technical debt, refactoring, and unit
+testing in the context of a project striving for a better code base.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Introduction to the clean code principles tailored for Python
+projects. The goal is to achieve better code quality and a more
+maintainable code base. Python has a nature of being clear, and easy
+to follow, so let's take advantage of it in our own code, in order to
+enforce the principle &amp;quot;readability counts&amp;quot; by writing pythonic code.&lt;/p&gt;
+&lt;p&gt;This talk introduces general concepts of code quality for Python
+developers, analyzing technical debt, with examples on how to achieve
+a more legible, maintainable and clean code base, by refactoring,
+writing unit tests and having good coding guidelines for the project.
+If you are giving your first steps with Python, you will gain insight
+on best practices for writing good software from the start. If you are
+a experienced developer, the ideas should work as food for thought,
+helping with recommendations for code reviews, best practices, etc.&lt;/p&gt;
+</summary></entry></feed>

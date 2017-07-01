@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 04 Aug 2016 00:00:00 +0000</lastBuildDate><item><title>Designing a scalable and distributed application</title><link>http://pyvideo.org/europython-2015/designing-a-scalable-and-distributed-application.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Alexys Jacob - Designing a scalable and distributed application
+[EuroPython 2015]
+[22 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;One of the key aspect to keep in mind when developing a scalable
+application is its faculty to grow easily. But while we're used to
+take advantage of scalable backend technologies such as mongodb or
+couchbase, &lt;strong&gt;scaling automatically our own application&lt;/strong&gt; core is
+usually another story.&lt;/p&gt;
+&lt;p&gt;In this talk I will &lt;strong&gt;explain and showcase&lt;/strong&gt; a distributed web
+application design based on &lt;strong&gt;consul&lt;/strong&gt; and &lt;strong&gt;uWSGI&lt;/strong&gt; and its consul
+plugin. This design will cover the key components of a distributed and
+scalable application:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;strong&gt;Automatic service registration and discovery&lt;/strong&gt; will allow your application to grow itself automatically.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Health checking and service unregistration&lt;/strong&gt; will allow your application to be fault tolerant, highly available and to shrink itself automatically.&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;distributed Key/Value storage&lt;/strong&gt; will allow you to (re)configure your distributed application nodes at once.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-Datacenter awareness&lt;/strong&gt; will allow your application to scale around the world easily.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://docs.google.com/presentation/d/1bZ30UculKOM4IQ4ic5X2fLpz1Fe1QQPVqJLtshIO0pg/edit?usp=sharing"&gt;Slides of this talk are available here&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexys Jacob</dc:creator><pubDate>Sat, 08 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-08:europython-2015/designing-a-scalable-and-distributed-application.html</guid></item><item><title>Planning for the worst</title><link>http://pyvideo.org/europython-2016/planning-for-the-worst.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Alexys Jacob/Guillaume Gelin - Planning for the worst
+[EuroPython 2016]
+[21 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/planning-for-the-worst"&gt;https://ep2016.europython.eu//conference/talks/planning-for-the-worst&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Sharing our worst production experiences and the tricks, good
+practices and code we developed to address them.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;This talk is about sharing our experience about how we handled
+production problems on all levels of our applications.&lt;/p&gt;
+&lt;p&gt;We'll begin with common problems, errors and failures and dig on to
+more obscure ones while sharing concrete tips, good practices and code
+to address them !&lt;/p&gt;
+&lt;p&gt;This talk will make you feel the warmth of not being alone facing a problem :)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexys Jacob</dc:creator><pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-04:europython-2016/planning-for-the-worst.html</guid></item><item><title>Using Service Discovery to build dynamic python applications</title><link>http://pyvideo.org/europython-2016/using-service-discovery-to-build-dynamic-python-applications.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Alexys Jacob - Using Service Discovery to build dynamic python applications
+[EuroPython 2016]
+[20 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/service-discovery-for-dynamic-python-applications"&gt;https://ep2016.europython.eu//conference/talks/service-discovery-for-dynamic-python-applications&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Let's compare the usage of three major &lt;strong&gt;service discovery&lt;/strong&gt;
+technologies to build a dynamic and distributed python application !&lt;/p&gt;
+&lt;p&gt;This talk will be about &lt;strong&gt;consul&lt;/strong&gt;, &lt;strong&gt;etcd&lt;/strong&gt; and &lt;strong&gt;zookeeper&lt;/strong&gt; and
+their python bindings and will feature code along with a live demo.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;This talk will &lt;strong&gt;showcase and compare&lt;/strong&gt; three Service Discovery
+technologies and their usage to &lt;strong&gt;build a dynamic and distributed
+python application&lt;/strong&gt; :&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;consul&lt;/li&gt;
+&lt;li&gt;etcd&lt;/li&gt;
+&lt;li&gt;zookeeper&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After a short introduction to service discovery, we will &lt;strong&gt;iterate and
+compare&lt;/strong&gt; how we can address the concrete and somewhat complex design
+of our python application using each technology.&lt;/p&gt;
+&lt;p&gt;We'll then be able to discuss their strengths, weaknesses and python
+bindings and  finally showcase the application in a demo.&lt;/p&gt;
+&lt;p&gt;All the source code will of course be made available for the audience
+to benefit and start from for their own use !&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexys Jacob</dc:creator><pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-01:europython-2016/using-service-discovery-to-build-dynamic-python-applications.html</guid></item></channel></rss>

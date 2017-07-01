@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_benno-luthiger.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2011-07-24T00:00:00+00:00</updated><entry><title>The political implications of having fun (while programming open source)</title><link href="http://pyvideo.org/europython-2011/the-political-implications-of-having-fun-while-p.html" rel="alternate"></link><published>2011-07-24T00:00:00+00:00</published><updated>2011-07-24T00:00:00+00:00</updated><author><name>Benno Luthiger</name></author><id>tag:pyvideo.org,2011-07-24:europython-2011/the-political-implications-of-having-fun-while-p.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Benno Luthiger - 23 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;What are the implications for the society if people enjoy their work,
+because this work is perceived as rewarding by itself? It is this
+question that occupies me since I have finished my Ph.D. research about
+the motivation of open source programmers. In my research, I have been
+able to show that fun is an important driver for open source
+programmers. Moreover, fun plays an important role not only for
+hobbyists, but for developers who are paid for their work too (open or
+closed source).&lt;/p&gt;
+&lt;p&gt;These findings contrast with the traditional efforts of leftist parties
+and labor unions. For those political organizations, labor is perceived
+as compulsion and exploitation and, therefore, people have to be
+liberated from labor. The resulting political praxis is to send people
+into retirement as soon as possible and, on the other hand, to make the
+life for unemployed people carefree.&lt;/p&gt;
+&lt;p&gt;Is the software developers‘ world a little Shangri-La, apart from the
+real world, delineated by the leftist parties, or is the open source
+model generalizable? What happens with the values generated through the
+labor if the work as such is rewarding? The open source mode of
+production is part of our modern reality and in my presentation I would
+like to consider this big reality from the perspective of open source.&lt;/p&gt;
+</summary></entry></feed>

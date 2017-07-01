@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_katie-bell.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-05-31T00:00:00+00:00</updated><entry><title>The Minecraft Challenge</title><link href="http://pyvideo.org/pycon-uk-2014/the-minecraft-challenge.html" rel="alternate"></link><published>2014-10-14T00:00:00+00:00</published><updated>2014-10-14T00:00:00+00:00</updated><author><name>Katie Bell</name></author><id>tag:pyvideo.org,2014-10-14:pycon-uk-2014/the-minecraft-challenge.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Presented by: Katie Bell&lt;/p&gt;
+&lt;p&gt;There's already a great Python scripting interface for Minecraft, allowing you limitless creativity with the ability to read and place blocks anywhere. Unfortunately with limitless power the challenge of Minecraft disappears, because building a castle is somehow more satisfying when you have to mine and craft every block. If you’ve played Minecraft you’ve no doubt found yourself building or mining mindlessly in a pattern and wished you could simply script away the boring bits, but still keep the fun and challenge of the game.&lt;/p&gt;
+&lt;p&gt;In this presentation I'll be demonstrating a Python interface for writing Minecraft AIs, giving you the programming equivalent of Survivor mode. Your helper robots have some advantages over humans and can mine and build things for you faster, but ultimately this doesn't feel like cheating because it can’t do anything you can’t do. This also works well in multiplayer on an open server where players and bots can interact but no single player can destroy the world with a small software bug.&lt;/p&gt;
+&lt;p&gt;Writing an AI for the Minecraft world poses an interesting challenge for both young and experienced programmers, it’s a pure example of how we can use programming to avoid boring and repetitive tasks in the real world. It provides new programmers with immediate goals and for students exploring more advanced computer science concepts it leads well into real world robot control and game AI algorithms.&lt;/p&gt;
+&lt;p&gt;In this talk, I'll go through the Minecraft server and client implementation details, the challenges of multiplayer programming and the structures built into the interface to make coding AIs easier such as built-in state machines and the ability for the in-game player to give commands.&lt;/p&gt;
+&lt;p&gt;As a bonus, we’ll see how it plays out in the real world, what happens when we give the interface to a group of young programmers on a shared server, and how we can set up competitions and more specific AI-coding challenges.&lt;/p&gt;
+</summary></entry><entry><title>The computer science of marking computer science assignments</title><link href="http://pyvideo.org/pycon-us-2016/katie-bell-the-computer-science-of-marking-computer-science-assignments-pycon-2016.html" rel="alternate"></link><published>2016-05-31T00:00:00+00:00</published><updated>2016-05-31T00:00:00+00:00</updated><author><name>Katie Bell</name></author><id>tag:pyvideo.org,2016-05-31:pycon-us-2016/katie-bell-the-computer-science-of-marking-computer-science-assignments-pycon-2016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Katie Bell&lt;/p&gt;
+&lt;p&gt;When writing systems to test if beginner programmers' code was correct, I didn't expect to need numpy, scipy a custom C module and a whole lot of cool geometry algorithms. Giving actionable feedback on tasks (in this case logo/turtle vector drawings), is necessary for the learning process and goes some fun places. Take this as a case study of writing efficient geometry number crunching in Python.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Keynote: How Python works as a teaching language</title><link href="http://pyvideo.org/kiwi-pycon-2015/keynote-how-python-works-as-a-teaching-language.html" rel="alternate"></link><published>2015-09-05T00:00:00+00:00</published><updated>2015-09-05T00:00:00+00:00</updated><author><name>Katie Bell</name></author><id>tag:pyvideo.org,2015-09-05:kiwi-pycon-2015/keynote-how-python-works-as-a-teaching-language.html</id><summary type="html"></summary></entry><entry><title>Rapid prototyping with teenagers</title><link href="http://pyvideo.org/pycon-au-2015/rapid-prototyping-with-teenagers.html" rel="alternate"></link><published>2015-08-04T00:00:00+00:00</published><updated>2015-08-04T00:00:00+00:00</updated><author><name>Katie Bell</name></author><id>tag:pyvideo.org,2015-08-04:pycon-au-2015/rapid-prototyping-with-teenagers.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This is teamwork and rapid prototyping challenges on steroids. Imagine
+15 high school kids, most of whom have only just learned to program,
+working together to design and build a fully functional social
+networking site in 3 days.&lt;/p&gt;
+&lt;p&gt;This project is done as part of the NCSS (National Computer Science
+School) summer program. NCSS has been running for 20 years, and I've
+been involved in the last 7, so that's 6 different social networking
+sites (we used to build search engines, but apparently they're not cool
+anymore).&lt;/p&gt;
+&lt;p&gt;I'll go through the technical details, the tools we use, how the site
+functions, and how we structure the different pieces to come together.
+I'll also show off some extra fun projects we throw at the advanced
+kids, like building their own Django-like template engine, and secure
+hashing of passwords.&lt;/p&gt;
+&lt;p&gt;A lot of the challenge of this undertaking is inevitably also project
+management and coordination of the team. These students have never
+written tests before, don't know what version control is and don't
+understand what it means to agree on an API. Hilarity and frustration
+can (and does) ensue, especially during the last night, which is an
+all-nighter.&lt;/p&gt;
+&lt;p&gt;Come along to learn how to do project management with the least
+experienced team possible and how to hack together a functional
+prototype webapp with minimum effort.&lt;/p&gt;
+</summary></entry></feed>

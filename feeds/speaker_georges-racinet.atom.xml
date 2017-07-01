@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_georges-racinet.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-10-17T00:00:00+00:00</updated><entry><title>Anyblok</title><link href="http://pyvideo.org/pycon-fr-2015/anyblok.html" rel="alternate"></link><published>2015-10-17T00:00:00+00:00</published><updated>2015-10-17T00:00:00+00:00</updated><author><name>Georges Racinet</name></author><id>tag:pyvideo.org,2015-10-17:pycon-fr-2015/anyblok.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Un cadre modulaire et dynamique pour réaliser vos applications métier.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Anyblok est un moteur d'applications métier à chargement dynamique de
+modules (les &lt;em&gt;bloks&lt;/em&gt;). Il est écrit en Python 3, en ayant à cœur de
+respecter les meilleures pratiques, notamment en termes d'utilisation de
+composants standard : la persistance est fondée sur SQLAlchemy, les
+bloks sont des paquets Python standard, une couche web Pyramid est
+fournie, facultative et remplaçable…&lt;/p&gt;
+</summary></entry></feed>

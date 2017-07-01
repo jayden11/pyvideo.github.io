@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Mon, 04 Jul 2016 00:00:00 +0000</lastBuildDate><item><title>Обработка текстов на русском/английском/украинском с помощью Python</title><link>http://pyvideo.org/pycon-belarus-2015/obrabotka-tekstov-na-russkomangliiskomukrainskom-s-pomoshchiu-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Обзор инструментов для обработки текста и рассказать, что с текстом
+можно сделать, а что сложно&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Михаил Коробов</dc:creator><pubDate>Sat, 31 Jan 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-01-31:pycon-belarus-2015/obrabotka-tekstov-na-russkomangliiskomukrainskom-s-pomoshchiu-python.html</guid></item><item><title>Извлечение информации из веб-страниц</title><link>http://pyvideo.org/pycon-russia-2014/izvlechenie-informatsii-iz-veb-stranits.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Рассказ о том, как извлеченть данные из веб-страниц с использованием Python:
+- как извлечь информацию из одного-единственного сайта;
+- как сделать это без написания xpath, css селекторов и т.д.;
+- как извлекать информацию, если структура сайта неизвестна заранее;
+- когда стоит применять методы машинного обучения и как это делать;
+- какие инструменты доступны на Python.
+Доклад рассчитан на тех людей, кому хочется извлекать какую-то структурированную информацию из веб-страниц или из текста. Это могут быть задачи информационного поиска, анализа данных, составления каталогов, получения информации для каких-то исследований и т.д.
+Какую пользу слушатели получат?
+&amp;quot;Ручной&amp;quot; разбор веб-страниц через XPath / CSS селекторы - не единственный инструмент. Возможно, некоторые задачи, которые раньше казались очень сложными, покажутся вполне решаемыми.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Михаил Коробов</dc:creator><pubDate>Mon, 02 Jun 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-06-02:pycon-russia-2014/izvlechenie-informatsii-iz-veb-stranits.html</guid></item><item><title>Дискуссионная панель: Как и зачем писать свои библиотеки на python</title><link>http://pyvideo.org/pycon-russia-2016/diskussionnaia-panel-kak-i-zachem-pisat-svoi-biblioteki-na-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Round table&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Grigory Petrov</dc:creator><pubDate>Mon, 04 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-04:pycon-russia-2016/diskussionnaia-panel-kak-i-zachem-pisat-svoi-biblioteki-na-python.html</guid></item></channel></rss>

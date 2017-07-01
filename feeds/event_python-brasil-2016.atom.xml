@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/event_python-brasil-2016.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-17T00:00:00+00:00</updated><entry><title>Keynote: Python all the things!</title><link href="http://pyvideo.org/python-brasil-2016/keynote-python-all-the-things.html" rel="alternate"></link><published>2016-10-17T00:00:00+00:00</published><updated>2016-10-17T00:00:00+00:00</updated><author><name>Dr. Russell Keith-Magee</name></author><id>tag:pyvideo.org,2016-10-17:python-brasil-2016/keynote-python-all-the-things.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Keynote Russell Keith-Magee - Python all the things!&lt;/p&gt;
+</summary></entry><entry><title>Big data disruptiva com python</title><link href="http://pyvideo.org/python-brasil-2016/big-data-disruptiva-com-python.html" rel="alternate"></link><published>2016-10-16T00:00:00+00:00</published><updated>2016-10-16T00:00:00+00:00</updated><author><name>Robson Luis Monteiro</name></author><id>tag:pyvideo.org,2016-10-16:python-brasil-2016/big-data-disruptiva-com-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;trabalhar com enormes massas de dados dos mais variados tipos, é um
+desafio que vem sendo vencido dia a dia com python.&lt;/p&gt;
+&lt;p&gt;A palestra abordará:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;investigação e operacionalização dos seus dados;&lt;/li&gt;
+&lt;li&gt;conceitos de computação distribuida com python:&lt;/li&gt;
+&lt;li&gt;hackeando fonte de dados;&lt;/li&gt;
+&lt;li&gt;estatistica e matematica para iniciantes&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Descobrindo as menores distâncias entre diversas cidades com Python e GLPK</title><link href="http://pyvideo.org/python-brasil-2016/descobrindo-as-menores-distancias-entre-diversas-cidades-com-python-e-glpk.html" rel="alternate"></link><published>2016-10-16T00:00:00+00:00</published><updated>2016-10-16T00:00:00+00:00</updated><author><name>Betania Campello</name></author><id>tag:pyvideo.org,2016-10-16:python-brasil-2016/descobrindo-as-menores-distancias-entre-diversas-cidades-com-python-e-glpk.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Imagine que você quer viajar de carro entre as principais capitais da
+Europa e precisa fazer no menor percurso possível. É possível calcular a
+menor distância usando bibliotecas de Python para conectar com o Open
+Source GLPK.&lt;/p&gt;
+&lt;p&gt;A Pesquisa Operacional é um ramo da matemática aplicada que estuda a
+otimização de processos para auxiliar a tomada de decisão. O objetivo é
+minimizar custos, distâncias, perda de matéria prima, entre outros.&lt;/p&gt;
+&lt;p&gt;A proposta da apresentação é mostrar como aplicar a Pesquisa Operacional
+utilizando Python.&lt;/p&gt;
+</summary></entry><entry><title>Graph Databases: Discutindo o Relacionamento dos seus Dados com Python</title><link href="http://pyvideo.org/python-brasil-2016/graph-databases-discutindo-o-relacionamento-dos-seus-dados-com-python.html" rel="alternate"></link><published>2016-10-16T00:00:00+00:00</published><updated>2016-10-16T00:00:00+00:00</updated><author><name>Nicolle Cysneiros</name></author><id>tag:pyvideo.org,2016-10-16:python-brasil-2016/graph-databases-discutindo-o-relacionamento-dos-seus-dados-com-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Você já parou pra pensar quantos relacionamentos você tem na sua vida
+virtual? Cada amigo no Facebook, cada página curtida, cada conexão no
+Linkedin ou cada perfil seguido no Twitter. Só no Brasil, temos 160
+milhões de usuários do Facebook. Como representar e manipular todas
+essas relações? Graph Databases são banco de dados que usam estruturas
+de grafos (vértices e arestas) para representar e armazenar dados de
+forma semântica.&lt;/p&gt;
+&lt;p&gt;A palestra será iniciada com a problematização da representação de
+relacionamentos em Bancos de Dados Relacionais e com a apresentação de
+uma solução mais amigável usando Grafos. Será abordada a definição de
+Graph Database, suas vantagens e desvantagens, comparação de algumas
+ferramentas disponíveis (Neo4J, OrientDB e ArangoDB) e a aplicação de
+tais ferramentas em Python.&lt;/p&gt;
+</summary></entry><entry><title>Keynote: Hacking a gameboy with Python</title><link href="http://pyvideo.org/python-brasil-2016/keynote-hacking-a-gameboy-with-python.html" rel="alternate"></link><published>2016-10-16T00:00:00+00:00</published><updated>2016-10-16T00:00:00+00:00</updated><author><name>Sam Agnew</name></author><id>tag:pyvideo.org,2016-10-16:python-brasil-2016/keynote-hacking-a-gameboy-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Keynote Sam - Hacking a gameboy with Python&lt;/p&gt;
+</summary></entry><entry><title>Keynote: Obstáculos à Inclusão</title><link href="http://pyvideo.org/python-brasil-2016/keynote-obstaculos-a-inclusao.html" rel="alternate"></link><published>2016-10-16T00:00:00+00:00</published><updated>2016-10-16T00:00:00+00:00</updated><author><name>Naomi Ceder</name></author><id>tag:pyvideo.org,2016-10-16:python-brasil-2016/keynote-obstaculos-a-inclusao.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Keynote Naomi Ceder - Obstáculos à Inclusão, Por que só diversidade não é suficiente&lt;/p&gt;
+</summary></entry><entry><title>NES Hacks</title><link href="http://pyvideo.org/python-brasil-2016/nes-hacks.html" rel="alternate"></link><published>2016-10-16T00:00:00+00:00</published><updated>2016-10-16T00:00:00+00:00</updated><author><name>Guto Maia</name></author><id>tag:pyvideo.org,2016-10-16:python-brasil-2016/nes-hacks.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Com 30 anos de estrada, o velho Nintendinho 8 bits, hoje, não é apenas
+um videogame voltado a retrogames, é uma incrivel plataform para os mais
+váriados hackings. No coração uma CPU baseada no 6502, mesma utilizada
+no Apple 2 e o Atari 2600.&lt;/p&gt;
+&lt;p&gt;Nesta palestra vou apresentar alguns hacks utilizando Python, LUA, uma
+Raspberry PI e um processador 6502. &lt;a class="reference external" href="http://imgur.com/VwaMhnU"&gt;http://imgur.com/VwaMhnU&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>A inevitável ruptura da comunidade</title><link href="http://pyvideo.org/python-brasil-2016/a-inevitavel-ruptura-da-comunidade.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Henrique Bastos</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/a-inevitavel-ruptura-da-comunidade.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;No entorno da linguagem Python e do seu ecossistema o elemento
+fundamental que viabiliza tudo são pessoas. Pessoas únicas e diversas em
+todos os aspectos.&lt;/p&gt;
+&lt;p&gt;É através da livre interação dessas pessoas que o universo Python se
+manifesta criando esse emaranhado fascinante que conhecemos.&lt;/p&gt;
+&lt;p&gt;Comumente nos referimos à essas pessoas usando genericamente a palavra
+&amp;quot;comunidade&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Com o crescimento da comunidade se manifesta uma tendência de
+“grupificação” que a solidifica e tende a inviabilizar a dinâmica de
+rede que a originou.&lt;/p&gt;
+&lt;p&gt;Nesta palestra eu desejo compartilhar algumas reflexões fruto da minha
+vivência no ecossistema Python ao redor do mundo para promover a
+conversa sobre uma releitura do conceito de comunidade para continuarmos
+fomentando espaços abertos.&lt;/p&gt;
+</summary></entry><entry><title>Abertura Python Brasil 12</title><link href="http://pyvideo.org/python-brasil-2016/abertura-python-brasil-12.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Various speakers</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/abertura-python-brasil-12.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Abertura Python Brasil 12&lt;/p&gt;
+</summary></entry><entry><title>Aprimorando as habilidades de debugging e troubleshooting</title><link href="http://pyvideo.org/python-brasil-2016/aprimorando-as-habilidades-de-debugging-e-troubleshooting.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Elias Dorneles</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/aprimorando-as-habilidades-de-debugging-e-troubleshooting.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;No instante que um software encontra o mundo real, bugs começam a
+aparecer e fazer parte da vida de todos os envolvidos.&lt;/p&gt;
+&lt;p&gt;Quanto mais software cresce e se espalha pelo mundo, mais pessoas passam
+mais tempo tentando fazer eles funcionarem da maneira correta. Não é
+difícil imaginar um futuro em que os programadores passem mais tempo
+consertando problemas do que criando novos projetos.&lt;/p&gt;
+&lt;p&gt;Nessa palestra, falarei sobre como aprimorar nossas habilidades em
+encontrar e resolver bugs, mostrar algumas ideias e ferramentas que me
+tornaram um debugger melhor e que podem ajudar você também.&lt;/p&gt;
+&lt;p&gt;Temas incluem técnicas (shotgun, rubberduck, método científico),
+ferramentas (print, debugger, strace, google), deployment, testes e
+também saúde mental (lidando com bugs frustrantes).&lt;/p&gt;
+</summary></entry><entry><title>Big Data e Python como cidadão de primeira classe para Sistemas Distribuídos</title><link href="http://pyvideo.org/python-brasil-2016/big-data-e-python-como-cidadao-de-primeira-classe-para-sistemas-distribuidos.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Victor Poluceno</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/big-data-e-python-como-cidadao-de-primeira-classe-para-sistemas-distribuidos.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Bibliotecas e ferramentas como numpy, Scikit, Pandas e Jupyter fizerem
+de Python um dos melhores eco sistemas para Data Science. Mas mesmo
+tendo caído nas graças dos Data Scientists, Python ainda não é
+efetivamente utilizada para processamento de dados em larga escala (Big
+Data). A maioria das ferramentas de processamento de dados, em especial
+as ferramentas para &amp;quot;Stream Processing&amp;quot;, são escritas em Java. Nos casos
+onde existe algum suporte, Python é cidadão de segunda classe, sempre
+atrás em features ou performance.&lt;/p&gt;
+&lt;p&gt;Podemos fazer com que Python se torne uma excelente opção não apenas
+para os Data Scientists mas também para os Data Engineerings, que
+precisam prototipar e modelar pipelines complexos para Big Data. Nessa
+palestra entenderemos porquê Python ainda não preencheu essa lacuna,
+quais são os desafios técnicos e possíveis soluções para que Python seja
+uma linguagem de primeira classe para processamento de dados em larga
+escala e consequentemente para sistemas distribuídos.&lt;/p&gt;
+&lt;p&gt;Vamos investigar os seguintes tópicos e tecnologias: Stream Processing,
+Performance, Comunicação Distribuída e Actor Model, IO Assíncrono,
+Containers e Orquestração, Erlang e Elixir, Java/Scala, Netty e Akka.&lt;/p&gt;
+</summary></entry><entry><title>Como fazer boas libs? O que torna uma biblioteca fácil de usar</title><link href="http://pyvideo.org/python-brasil-2016/como-fazer-boas-libs-o-que-torna-uma-biblioteca-facil-de-usar.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Flávio Junior</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/como-fazer-boas-libs-o-que-torna-uma-biblioteca-facil-de-usar.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Não é fácil escrever uma biblioteca confortável de usar. É difícil
+agradar a todos. Mas também é difícil agradar até quem acha que a nossa
+biblioteca faz algo útil. Não é fácil nem mesmo quando fazemos algo
+reusável só para nós mesmos.&lt;/p&gt;
+&lt;p&gt;Ainda bem que muitos outros programadores já erraram antes de nós. E
+existem em Python e fora dele diversos exemplos de boas libs nas quais
+podemos nos inspirar.&lt;/p&gt;
+&lt;p&gt;Essa palestra resumirá o que torna uma biblioteca boa, de acordo com
+nossa experiência e com a experiência de outros programadores que já
+escreveram sobre isso. Algumas características de boas bibliotecas são:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Alta Consistência&lt;/li&gt;
+&lt;li&gt;Muitos dados puros&lt;/li&gt;
+&lt;li&gt;Baixa Verbosidade&lt;/li&gt;
+&lt;li&gt;Respeito ao Principle of Least Astonishment&lt;/li&gt;
+&lt;li&gt;Alta Extensibilidade&lt;/li&gt;
+&lt;li&gt;Baixa Retenção&lt;/li&gt;
+&lt;li&gt;Vários níveis de abstrações&lt;/li&gt;
+&lt;li&gt;Alta granularidade&lt;/li&gt;
+&lt;li&gt;Interesses claros e separados&lt;/li&gt;
+&lt;li&gt;Pythonica&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Como você pode ver, alguns aspectos acima são similares ao Zen of
+Python. Por isso também mostraremos funcionalidades do Python que ajudam
+a programar boas interfaces. Além disso, para resumir tudo definiremos
+um checklist que você poderá usar sempre que for escrever um módulo
+reusável. Esperamos que isso ajude você a programar melhor, o que
+certamente agradará seus parceiros de trabalho e a comunidade.&lt;/p&gt;
+&lt;p&gt;UPDATE: Slides em:
+&lt;a class="reference external" href="http://www.vinta.com.br/blog/2016/python-brasil12-talks/"&gt;http://www.vinta.com.br/blog/2016/python-brasil12-talks/&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Como usei o Python para ajudar animais abandonados</title><link href="http://pyvideo.org/python-brasil-2016/como-usei-o-python-para-ajudar-animais-abandonados.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Annanda Sousa</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/como-usei-o-python-para-ajudar-animais-abandonados.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Nessa palestra vou falar sobre todo o processo que foi usar Python para
+um desafio de Data Science, desde análise e tratamento dos dados,
+passando pelos algoritmos e técnicas usadas na extração de conhecimento
+e a apresentação de conclusões.&lt;/p&gt;
+&lt;p&gt;A partir de um dataset sobre características de animais abandonados em
+um abrigo, junto com o que aconteceu com cada um deles, a ideia era
+prever o que aconteceria a animais cujas características conheço e mudar
+seu destino. O objetivo é entender quais medidas tomar para que todos os
+cachorros e gatos sejam adotados.&lt;/p&gt;
+&lt;p&gt;Possíveis destinos são: adoção, eutanásia, transferência, morte e
+retorno ao dono.&lt;/p&gt;
+&lt;p&gt;[Data Science]&lt;/p&gt;
+</summary></entry><entry><title>Desenvolvendo soluções de IoT usando Python com as placas da Intel</title><link href="http://pyvideo.org/python-brasil-2016/desenvolvendo-solucoes-de-iot-usando-python-com-as-placas-da-intel.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Juliana Karoline</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/desenvolvendo-solucoes-de-iot-usando-python-com-as-placas-da-intel.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Nessa palestra demonstrarei como utilizar as bibliotecas da Intel (MRAA
+e UPM) para desenvolvimento de soluções de IoT.&lt;/p&gt;
+&lt;p&gt;Como caso de uso apresentarei o Clockwise, projeto que desenvolvi no
+último Intel IoT Roadshow. Trata-se de um despertador inteligente que te
+acorda dizendo a previsão do tempo e seus compromissos do Google
+Calendar, utilizando para isso a placa Intel Edison, uma caixa de som
+bluetooth e python.&lt;/p&gt;
+</summary></entry><entry><title>É Pythônico, mas… é macarrônico?</title><link href="http://pyvideo.org/python-brasil-2016/e-pythonico-mas-e-macarronico.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Marcio Marchini</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/e-pythonico-mas-e-macarronico.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python é utilizado por uma enorme gama de profissionais. Alguns a usam
+como linguagem de script, outros como linguagem de cola entre sistemas.
+Mas alguns usam para construir soluções complexas de software. Nesse
+caso, um maior cuidado deve ser tomado em relação a práticas de
+arquitetura e codificação. Nessa apresentação mostraremos como alguns
+tutoriais ou templates online lhe orientam na direção de produzir
+software macarrônico em Python. Cobriremos algumas ferramentas e
+técnicas que podem ser usada para que suas soluções em Python sejam
+verdadeiramente elegantes e modulares a nível macro. Desenvolvedores
+poderão modernizar suas práticas e Líderes Técnicos poderão ter certeza
+que sua Arquitetura é preservada em toda esteira de build ao longo do
+tempo.&lt;/p&gt;
+</summary></entry><entry><title>Keynote: Rust Type System - Quick intro</title><link href="http://pyvideo.org/python-brasil-2016/keynote-rust-type-system-quick-intro.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Hanneli Tavante</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/keynote-rust-type-system-quick-intro.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Keynote Hanneli - Rust Type System - Quick intro&lt;/p&gt;
+</summary></entry><entry><title>Keynote Sergio Oliveira - Programação Dinâmica</title><link href="http://pyvideo.org/python-brasil-2016/keynote-sergio-oliveira-programacao-dinamica.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Sérgio Oliveira Campos</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/keynote-sergio-oliveira-programacao-dinamica.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Keynote Sergio Oliveira - Programação Dinâmica&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Adriano Margarin</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-adriano-margarin.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Adriano Margarin</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-adriano-margarin.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Adriano Margarin&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Cassio Botaro</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-cassio-botaro.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Cassio Botaro</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-cassio-botaro.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Cassio Botaro&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Elias Dorneles</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-elias-dorneles.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Elias Dorneles</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-elias-dorneles.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Elias Dorneles&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Encontrando a origem de bugs</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-encontrando-a-origem-de-bugs.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>João Felipe Nicolaci Pimentel</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-encontrando-a-origem-de-bugs.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - João Felipe&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Jessica Temporal</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-jessica-temporal.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Jessica Temporal</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-jessica-temporal.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Jessica Temporal&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Juliano</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-juliano.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Juliano</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-juliano.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Juliano&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Marcel</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-marcel.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Marcel</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-marcel.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Marcel&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - O Jogo Interno</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-o-jogo-interno.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Hugo Leonardo</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-o-jogo-interno.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - O Jogo Interno&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Paulo Romero</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-paulo-romero.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Paulo Romero</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-paulo-romero.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Paulo Romero&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Preços no Brasil</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-precos-no-brasil.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Daniel Henrique Izelli Martins</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-precos-no-brasil.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Preços no Brasil&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Rubber Boa Pale Ale</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-rubber-boa-pale-ale.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Ramiro Batista da Luz</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-rubber-boa-pale-ale.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Rubber Boa Pale Ale&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Tarsis</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-tarsis.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Tarsis Azevedo</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-tarsis.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Tarsis&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Thomaz Ferrari</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-thomaz-ferrari.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Thomaz Ferrari</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-thomaz-ferrari.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Thomaz Ferrari&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - Um jornalista dev</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-um-jornalista-dev.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Various speakers</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-um-jornalista-dev.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - Um jornalista dev&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talk - What to do on wednesdays</title><link href="http://pyvideo.org/python-brasil-2016/lightning-talk-what-to-do-on-wednesdays.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Guto Maia</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/lightning-talk-what-to-do-on-wednesdays.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talk - What to do on wednesdays&lt;/p&gt;
+</summary></entry><entry><title>Mock Away! Uma análise de a escrita de testes de unidade e mocks para algumas ferramentas e frameworks conhecidos</title><link href="http://pyvideo.org/python-brasil-2016/mock-away-uma-analise-de-a-escrita-de-testes-de-unidade-e-mocks-para-algumas-ferramentas-e-frameworks-conhecidos.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Andre Macdowell</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/mock-away-uma-analise-de-a-escrita-de-testes-de-unidade-e-mocks-para-algumas-ferramentas-e-frameworks-conhecidos.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Introdução:&lt;/p&gt;
+&lt;p&gt;Nesta palestra, vou dissertar sobre a minha experiência nos ultimos
+meses desenvolvendo testes de unidade para aplicações que usam modulos
+Python populares para diferentes contextos, como Flask e Falcon para
+Web-APIs, Pymongo e Pymssql para conectores de banco de dados (Mongo DB
+e SQL Server), entre outros.&lt;/p&gt;
+&lt;p&gt;Em conjunto, apresentarei algumas das minhas decisões de implementação e
+soluções para uso dessas ferramentas para multiplas aplicações em uma
+arquitetura de micro-serviços.&lt;/p&gt;
+&lt;p&gt;Tópicos:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introdução a testes de unidade no Python&lt;/li&gt;
+&lt;li&gt;O que &amp;quot;mockar&amp;quot; e o que não &amp;quot;mockar&amp;quot;?&lt;/li&gt;
+&lt;li&gt;Flask e Falcon: Criando e mockando end-points&lt;/li&gt;
+&lt;li&gt;Conectores de banco de dados: Vamo que vamo&lt;/li&gt;
+&lt;li&gt;Mensageria: Mockar o gerente de canais de leitura e escrita e/ou o
+conector da fila?&lt;/li&gt;
+&lt;li&gt;Redis: Agora a vida ficou fácil&lt;/li&gt;
+&lt;li&gt;Discussão&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>O que é esse tal de REST?</title><link href="http://pyvideo.org/python-brasil-2016/o-que-e-esse-tal-de-rest.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Filipe Ximenes</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/o-que-e-esse-tal-de-rest.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;REST é a bola vez quando falamos sobre API. As maioria dos serviços que
+encontramos na web fornece interfaces deste tipo para que possamos
+desenvolver integrações. Será mesmo que estas APIs podem ser
+consideradas RESTful? O que é preciso para que uma API seja considerada
+RESTful? Você sabia que este padrão já existe a mais de 15 anos? Nesta
+palestra vamos nos aprofundar no tema e entender os conceitos e
+&lt;em&gt;constraints&lt;/em&gt; de um sistema RESTful para que possamos explorar suas
+vantagens na hora de arquitetar nossa próxima API web.&lt;/p&gt;
+</summary></entry><entry><title>Produzindo lindos relatórios com Pweave</title><link href="http://pyvideo.org/python-brasil-2016/produzindo-lindos-relatorios-com-pweave.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Melissa Mendonça</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/produzindo-lindos-relatorios-com-pweave.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;A ideia de notebooks é recente, mas a ideia de Literate Programming (que
+significa reunir em um mesmo documento código, resultado de código e
+comentários em linguagem natural) foi proposta há algum tempo por Donald
+Knuth. Por outro lado, em alguns casos é interessante que os notebooks
+gerem documentos que possam ser impressos, distribuidos, consultados
+offline, etc.&lt;/p&gt;
+&lt;p&gt;Para isto, apresentaremos a ferramenta Pweave, que é capaz de capturar
+os resultados e gráficos gerados por bibliotecas como NumPy, SciPy e
+matplotlib. O documento resultante pode estar em formato LaTeX,
+Markdown, reST ou HTML, por exemplo.&lt;/p&gt;
+&lt;p&gt;Discutiremos o funcionamento do Pweave, bem como alguns exemplos de
+utilização da ferramenta e suas vantagens no ambiente acadêmico e
+comercial.&lt;/p&gt;
+&lt;p&gt;Palavras-chave: pweave; documentação; LaTeX; computação científica&lt;/p&gt;
+</summary></entry><entry><title>Programação além do código: comunidade e mulheres na tecnologia</title><link href="http://pyvideo.org/python-brasil-2016/programacao-alem-do-codigo-comunidade-e-mulheres-na-tecnologia.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Leticia Portella</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/programacao-alem-do-codigo-comunidade-e-mulheres-na-tecnologia.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;O que existe além do código? Qual a importância da diversidade de
+gêneros na tecnologia? O que fazemos para a diversidade? E tão
+importante quanto: o que fazemos para NÃO incentivar a diversidade?&lt;/p&gt;
+&lt;p&gt;Contando a história de como passei de oceanógrafa para desenvolvedora,
+pretendo abordar esses e outros temas e mostrar como pequenas ações
+podem mudar a vida de muitas pessoas.&lt;/p&gt;
+&lt;p&gt;Tema: Iniciante, Comunidade&lt;/p&gt;
+</summary></entry><entry><title>Servidores de jogos em Python</title><link href="http://pyvideo.org/python-brasil-2016/servidores-de-jogos-em-python.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Cleyton Pedroza</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/servidores-de-jogos-em-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Com alguns anos de experiência em jogos, sempre usando Python no
+server-side, essa palestra pretende mostrar exemplos e casos de uso, com
+técnicas e modelos para o uso do Python como plataforma de gerenciamento
+e controle de jogos. tanto online quanto offline para ambientes web e
+mobile.&lt;/p&gt;
+</summary></entry></feed>

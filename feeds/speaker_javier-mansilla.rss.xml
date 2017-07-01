@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 25 Nov 2016 00:00:00 +0000</lastBuildDate><item><title>Deep learning: Aprendiendo con la Escafandra</title><link>http://pyvideo.org/pycon-ar-2016/deep-learning-aprendiendo-con-la-escafandra.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyconAR 2016 - Bahía Blanca&lt;/p&gt;
+&lt;p&gt;Deep learning: Aprendiendo con la Escafandra por Javier Mansilla&lt;/p&gt;
+&lt;p&gt;Audience level: Avanzada&lt;/p&gt;
+&lt;p&gt;Descripción&lt;/p&gt;
+&lt;p&gt;Una invitación a explorar y sumergirse a bucear por las profundidades del aprendizaje automático.&lt;/p&gt;
+&lt;p&gt;Resumen&lt;/p&gt;
+&lt;p&gt;Deep Learning, la herramienta para resolver desafíos&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Colorear imágenes en blanco y negro&lt;/li&gt;
+&lt;li&gt;Agregarle sonido a filmaciones sin audio.&lt;/li&gt;
+&lt;li&gt;Traducciones automáticas.&lt;/li&gt;
+&lt;li&gt;Detección de objetos en imágenes&lt;/li&gt;
+&lt;li&gt;Generación de texto&lt;/li&gt;
+&lt;li&gt;Ponerle títulos a imágenes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si bien las ideas sobre machine learning (aprendizaje automático) no son nuevas, en los últimos breves años ha crecido una familia de técnicas que multiplican las posibilidades y mejoran sorprendentemente los resultados.&lt;/p&gt;
+&lt;p&gt;Esta es una invitación a explorar y sumergirse a bucear por las profundidades del aprendizaje automático.&lt;/p&gt;
+&lt;p&gt;Un repaso por:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;qué es deep learning&lt;/li&gt;
+&lt;li&gt;porqué está de moda&lt;/li&gt;
+&lt;li&gt;algunas herramientas del ecosistema python (tensor flow, theano, keras, caffe, lasagne, etc)&lt;/li&gt;
+&lt;li&gt;pantallazo de algunos ejemplos de uso&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Javier Mansilla</dc:creator><pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-25:pycon-ar-2016/deep-learning-aprendiendo-con-la-escafandra.html</guid></item></channel></rss>

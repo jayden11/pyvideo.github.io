@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_guido-van-rossum.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-21T00:00:00+00:00</updated><entry><title>DjangoCon 2008 Keynote: Guido van Rossum</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-keynote-guido-van-rossum.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-keynote-guido-van-rossum.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Guido van Rossum, creator of Python, on Django and Google App Engine.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="keynote"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>Panel Discussion: Paul Everitt with Guido van Rossum and others</title><link href="http://pyvideo.org/pycon-us-2017/panel-discussion-paul-everitt-with-guido-van-rossum-and-others.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Paul Everitt</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/panel-discussion-paul-everitt-with-guido-van-rossum-and-others.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Paul Everitt, Guido van Rossum&lt;/p&gt;
+&lt;p&gt;Panel Discussion&lt;/p&gt;
+</summary></entry><entry><title>Keynote: Python now and in the future</title><link href="http://pyvideo.org/europython-2015/keynote-python-now-and-in-the-future.html" rel="alternate"></link><published>2015-08-04T00:00:00+00:00</published><updated>2015-08-04T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2015-08-04:europython-2015/keynote-python-now-and-in-the-future.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Guido van Rossum - Keynote: Python now and in the future
+[EuroPython 2015]
+[21 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;This is &lt;em&gt;your&lt;/em&gt; keynote! I will have some prepared remarks on the state
+of the Python community and Python's future directions, but first and
+foremost this will be an interactive Q&amp;amp;A session.&lt;/p&gt;
+</summary></entry><entry><title>Type Hints for Python 3.5</title><link href="http://pyvideo.org/europython-2015/type-hints-for-python-35.html" rel="alternate"></link><published>2015-08-04T00:00:00+00:00</published><updated>2015-08-04T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2015-08-04:europython-2015/type-hints-for-python-35.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Guido van Rossum - Type Hints for Python 3.5
+[EuroPython 2015]
+[22 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;PEP 484, &amp;quot;Type Hints&amp;quot;, was accepted in time for inclusion in Python
+3.5 beta 1. This introduces an optional standard for specifying types
+in function signatures. This concept was previously discussed as
+&amp;quot;optional static typing&amp;quot; and I similar to the way TypeScript adds
+optional type declarations to JavaScript.&lt;/p&gt;
+&lt;p&gt;In this talk I will discuss the motivation for this work and show the
+key elements of the DSL for describing types (which, by the way is
+backward compatible with Python 3.2, 3.3 and 3.4). Note: &lt;em&gt;Python will
+remain a dynamically
+typed language, and I have no desire to ever make type hints
+mandatory, even by convention!&lt;/em&gt;&lt;/p&gt;
+</summary></entry><entry><title>Python Language</title><link href="http://pyvideo.org/pycon-us-2016/guido-van-rossum-python-language-pycon-2016.html" rel="alternate"></link><published>2016-05-31T00:00:00+00:00</published><updated>2016-05-31T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2016-05-31:pycon-us-2016/guido-van-rossum-python-language-pycon-2016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Guido van Rossum&lt;/p&gt;
+&lt;p&gt;Python Language&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Workshop Panel with Guido van Rossum</title><link href="http://pyvideo.org/pydata/workshop-panel-with-guido-van-rossum.html" rel="alternate"></link><published>2012-03-02T00:00:00+00:00</published><updated>2012-03-02T00:00:00+00:00</updated><author><name>Guido Van Rossum</name></author><id>tag:pyvideo.org,2012-03-02:pydata/workshop-panel-with-guido-van-rossum.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In this presentation from the 2012 PyData Workshop hosted at Google on
+March 2-3, Guido van Rossum, author of the Python programming language,
+engages in an open discussion on the intersection of the evolution of
+Python and the growth of the scientific community. Panelists include
+Fernando Perez, Travis Oliphant, and David Cournapeau.&lt;/p&gt;
+</summary><category term="science"></category><category term="scientific"></category></entry><entry><title>NDB: the new data store library for Google App Engine</title><link href="http://pyvideo.org/europython-2012/ndb-the-new-data-store-library-for-google-app-en.html" rel="alternate"></link><published>2012-07-06T00:00:00+00:00</published><updated>2012-07-06T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2012-07-06:europython-2012/ndb-the-new-data-store-library-for-google-app-en.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;None&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;NDB is a new Python client library for the Google App Engine Datastore.
+NDB has an integrated multi-level cache, supports synchronous and
+asynchronous calls, automatically batches requests, and several ways of
+storing structured data. The thrust for developing NDB was the
+realization that the original Python datastore client library, “db”, had
+some architectural and design flaws which were hard to fix due to strict
+backward compatibility requirements. But in the process, NDB became much
+more than an improved db library. NDB offers a new paradigm for
+asynchronous APIs, based on coroutines implemented using Python’s
+“yield” expression (and a simple event loop). It also supports a
+flexible way to create new Property classes by subclassing existing
+Property classes.&lt;/p&gt;
+</summary></entry><entry><title>Ask your BDFL</title><link href="http://pyvideo.org/europython-2012/ask-your-bdfl.html" rel="alternate"></link><published>2012-07-04T00:00:00+00:00</published><updated>2012-07-04T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2012-07-04:europython-2012/ask-your-bdfl.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2012] Guido van Rossum - 2 JULY 2012 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;An open session where the BDFL will answer questions from attendees.
+Questions must be submitted (and voted) through Google Moderator ; we
+will ask the most popular questions to Guido during this session. Submit
+your question now!&lt;/p&gt;
+</summary></entry><entry><title>Not the state of the Python union</title><link href="http://pyvideo.org/europython-2012/not-the-state-of-the-python-union.html" rel="alternate"></link><published>2012-07-04T00:00:00+00:00</published><updated>2012-07-04T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2012-07-04:europython-2012/not-the-state-of-the-python-union.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2012] G. van Rossum - 2 JULY 2012 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Worried about the future of Python 3? Wondering when lambda will be
+fixed? Angry about the GIL? Eager to get your package into the standard
+library? In this keynote, Python’s BDFL will address these issues and
+many others from his unique, personal perspective. Learn how not to be a
+troll!&lt;/p&gt;
+</summary></entry><entry><title>Keynote: State of CPython</title><link href="http://pyvideo.org/pycon-us-2010/keynote-state-of-cpython.html" rel="alternate"></link><published>2010-02-19T00:00:00+00:00</published><updated>2010-02-19T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2010-02-19:pycon-us-2010/keynote-state-of-cpython.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Uses the Twitter feed for PyCon and a floor mic for a Q&amp;amp;A; session
+covering the state of CPython and what's in the future.&lt;/p&gt;
+</summary><category term="cpython"></category><category term="pycon"></category><category term="pycon2010"></category></entry><entry><title>Keynote: Guido Van Rossum</title><link href="http://pyvideo.org/pycon-us-2012/keynote-guido-van-rossum.html" rel="alternate"></link><published>2012-03-11T00:00:00+00:00</published><updated>2012-03-11T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2012-03-11:pycon-us-2012/keynote-guido-van-rossum.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;</summary></entry><entry><title>Keynote</title><link href="http://pyvideo.org/pycon-us-2013/keynote-1.html" rel="alternate"></link><published>2013-03-17T00:00:00+00:00</published><updated>2013-03-17T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2013-03-17:pycon-us-2013/keynote-1.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Guido van Rossum is the author of the Python programming language. He
+continues to serve as the &amp;quot;Benevolent Dictator For Life&amp;quot; (BDFL), meaning
+that he continues to oversee the Python development process, making
+decisions where necessary. He is currently employed by Dropbox.&lt;/p&gt;
+</summary><category term="Plenary"></category></entry><entry><title>Keynote - Guido Van Rossum</title><link href="http://pyvideo.org/pycon-us-2014/keynote-guido-van-rossum-0.html" rel="alternate"></link><published>2014-04-13T00:00:00+00:00</published><updated>2014-04-13T00:00:00+00:00</updated><author><name>Guido Van Rossum</name></author><id>tag:pyvideo.org,2014-04-13:pycon-us-2014/keynote-guido-van-rossum-0.html</id><summary type="html"></summary></entry><entry><title>Keynote - Guido van Rossum</title><link href="http://pyvideo.org/pycon-us-2015/keynote-guido-van-rossum-1.html" rel="alternate"></link><published>2015-04-16T00:00:00+00:00</published><updated>2015-04-16T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2015-04-16:pycon-us-2015/keynote-guido-van-rossum-1.html</id><summary type="html"></summary></entry><entry><title>Gradual Typing for Python 3</title><link href="http://pyvideo.org/pycon-us-2015/guido-van-rossum.html" rel="alternate"></link><published>2015-04-12T00:00:00+00:00</published><updated>2015-04-12T00:00:00+00:00</updated><author><name>Guido van Rossum</name></author><id>tag:pyvideo.org,2015-04-12:pycon-us-2015/guido-van-rossum.html</id><summary type="html"></summary></entry></feed>

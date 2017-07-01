@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 10 Aug 2013 00:00:00 +0000</lastBuildDate><item><title>250GB of RAM for 34¢/hour: EC2 spot instances</title><link>http://pyvideo.org/pycon-ca-2013/250gb-of-ram-for-034hour-ec2-spot-instances.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Ever needed 250GB of RAM, but just for a few minutes or hours? With
+Amazon's EC2 spot instances, you can get a machine with 250GB of RAM for
+as little as 34¢/hour! I'll give a recipe for getting set up with Python
++ your packages in 10 minutes, and get a remote IPython Notebook to work
+with.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kamal Marhubi</dc:creator><pubDate>Sat, 10 Aug 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-08-10:pycon-ca-2013/250gb-of-ram-for-034hour-ec2-spot-instances.html</guid><category>Lightning talk</category></item></channel></rss>

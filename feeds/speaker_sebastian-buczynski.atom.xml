@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_sebastian-buczynski.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-03T00:00:00+00:00</updated><entry><title>Distributed locks with Python and Redis</title><link href="http://pyvideo.org/europython-2015/distributed-locks-with-python-and-redis.html" rel="alternate"></link><published>2015-08-03T00:00:00+00:00</published><updated>2015-08-03T00:00:00+00:00</updated><author><name>Sebastian Buczyński</name></author><id>tag:pyvideo.org,2015-08-03:europython-2015/distributed-locks-with-python-and-redis.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sebastian Buczyński - Distributed locks with Python and Redis
+[EuroPython 2015]
+[22 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Traditional methods of coping with concurrent programming problems are
+well-known and described in literature. Many programming languages,
+including Python, contain in their standard libraries tools and
+primitives such as semaphores and can spawn threads or subprocesses.&lt;/p&gt;
+&lt;p&gt;However, in the face of increasing interest in service oriented
+architecture and building distributed systems, that span across many
+independent server nodes, emerges a need to adapt traditional
+solutions, so they can be applied in the new environment.&lt;/p&gt;
+&lt;p&gt;In this talk I will share my experiences gathered during building a
+modern contact center - highly concurrent system, which requires
+certain resources to be accessed exclusively by several self-contained
+components.&lt;/p&gt;
+</summary></entry></feed>

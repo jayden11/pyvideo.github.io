@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_serge-rey.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-07-13T00:00:00+00:00</updated><entry><title>Geospatial Data and Analysis Stack</title><link href="http://pyvideo.org/scipy-2014/geospatial-data-and-analysis-stack.html" rel="alternate"></link><published>2014-07-13T00:00:00+00:00</published><updated>2014-07-13T00:00:00+00:00</updated><author><name>Serge Rey</name></author><id>tag:pyvideo.org,2014-07-13:scipy-2014/geospatial-data-and-analysis-stack.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;There are a growing number of Python packages (fiona, geopandas, pysal,
+shapely, etc.) addressing various types of spatial data, as well as the
+geoprocessing of that data and its statistical analysis. This session
+explore ways to best collaborate between and strengthen these efforts.&lt;/p&gt;
+</summary></entry></feed>

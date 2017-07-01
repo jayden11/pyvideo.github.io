@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 31 Jul 2016 00:00:00 +0000</lastBuildDate><item><title>Python as the multitool of data science</title><link>http://pyvideo.org/pyohio-2015/python-as-the-multitool-of-data-science.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python has lead the way in making data science more accessible with a
+number of solid data driven libraries. This talk will be a high
+introduction to familiarize people interested in data science with some
+of the more common Python tools such as pandas for data munging and
+analysis, numpy for scientific computing, scikit-learn for machine
+learning and matplotlib for visualizing your data.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Derik Pell</dc:creator><pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-01:pyohio-2015/python-as-the-multitool-of-data-science.html</guid><category>talk</category></item><item><title>Maybe I shouldn't be a programmer</title><link>http://pyvideo.org/pyohio-2016/maybe-i-shouldnt-be-a-programmer.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Imposter syndrome isn't just a catch phrase, it's a real crisis of confidence that we all face as developers, one which can be especially hard for new developers who may not realize that it often comes with the job. This talk will help bring this topic to light by discussing things that can cause imposter syndrome and ways of coping and getting through these bumps.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Derik Pell</dc:creator><pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-31:pyohio-2016/maybe-i-shouldnt-be-a-programmer.html</guid></item></channel></rss>

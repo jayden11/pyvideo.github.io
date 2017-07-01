@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_ben-lopatin.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-10-01T00:00:00+00:00</updated><entry><title>Finding the Needle: Search and Django</title><link href="http://pyvideo.org/djangocon-2013/finding-the-needle-search-and-django.html" rel="alternate"></link><published>2013-10-01T00:00:00+00:00</published><updated>2013-10-01T00:00:00+00:00</updated><author><name>Ben Lopatin</name></author><id>tag:pyvideo.org,2013-10-01:djangocon-2013/finding-the-needle-search-and-django.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Finding the Needle: Search and Django&lt;/p&gt;
+&lt;p&gt;Tuesday 4 p.m.--4:45 p.m.&lt;/p&gt;
+&lt;p&gt;Audience level: Intermediate&lt;/p&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;p&gt;Most websites share at least two things in common: content and users who
+want to find content. This talk will cover the basics of site search
+using search engines (the kind you run, not Google), setting up a Django
+project with Haystack, highlight some of the gotchas you might
+encounter, and touch on some more advanced functionality. Abstract&lt;/p&gt;
+&lt;p&gt;The ability to find content on a site is important to users, and there
+are some great tools that make a sometimes tricky problem a lot simpler.
+This talk will address the search problem, introduce a few of the tools
+at your disposal, and provide a way to get started using Django
+Haystack.&lt;/p&gt;
+&lt;p&gt;The goals is for developers new to search to understand what's different
+about using a search engine as an additional service, to be aware of
+some of the &amp;quot;gotchas&amp;quot;, and to know not just what's possible but how to
+get started. Advanced topics in brief One slice at a time: Faceting
+Finding Carmen Diego: Geospatial search This, this, this: Relevance
+boosting Puppies, dogs, and canines: Synonym searching&lt;/p&gt;
+</summary></entry></feed>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 04 Aug 2016 00:00:00 +0000</lastBuildDate><item><title>Asynchronous network requests in a web application</title><link>http://pyvideo.org/europython-2016/asynchronous-network-requests-in-a-web-application.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lauris Jullien - Asynchronous network requests in a web application
+[EuroPython 2016]
+[21 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/asynchronous-network-requests-in-a-web-application"&gt;https://ep2016.europython.eu//conference/talks/asynchronous-network-requests-in-a-web-application&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Introducing  asynchronous calls from within an endpoint in a web app
+can be desirable but hard to achieve.
+This talk will explore different solutions for this (running Twisted
+event loop, Co-Routines, Asyncio, …) and how well they play with the
+different parallelization models of common WSGI web servers.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;In the more and more popular SOA paradigm, it’s common for services to
+have to compose responses with resources from many different services.
+Everyone’s first idea will probably be to call each service
+synchronously with your favorite python HTTP library. This
+unfortunately doesn’t scale well and tens of successive network calls
+will make your endpoints painfully slow.&lt;/p&gt;
+&lt;p&gt;One solution is to parallelize these network calls. If you are already
+using an asynchronous web app (such as Tornado or Twisted), more
+asynchronous in your asynchronous shouldn’t be much of a challenge.
+But if you chose not to dive into the madness of chained Deferred
+calls, and used a standard prefork/threaded WSGI web server (such as
+Gunicorn or uWSGI) to run your Django/Flask/Pyramid application, you
+might find yourself wondering how to manage these asynchronous calls.&lt;/p&gt;
+&lt;p&gt;This talk will explore different solutions (running Twisted event
+loop, Co-Routines, Asyncio, …) and how well they play with the
+different parallelization models of WSGI web servers.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Lauris Jullien</dc:creator><pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-04:europython-2016/asynchronous-network-requests-in-a-web-application.html</guid></item></channel></rss>

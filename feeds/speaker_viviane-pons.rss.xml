@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 11 Apr 2015 00:00:00 +0000</lastBuildDate><item><title>Experimental pure mathematics using Sage</title><link>http://pyvideo.org/pycon-us-2015/experimental-pure-mathematics-using-sage.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Pure mathematics is not always big formulas written on endless
+notebooks, it can also be hidden behind python code. In combinatorics,
+we study classical computer science objects like trees or graphs with a
+mathematical perspective. This talk aims to show how computer
+exploration and experimentation can be used to discover and prove new
+mathematical results.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Viviane Pons</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-11:pycon-us-2015/experimental-pure-mathematics-using-sage.html</guid></item></channel></rss>

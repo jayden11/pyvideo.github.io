@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_celia-cintas.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-11-25T00:00:00+00:00</updated><entry><title>Introducción a programación paralela con PyOpenCL</title><link href="http://pyvideo.org/pycon-ar-2016/introduccion-a-programacion-paralela-con-pyopencl.html" rel="alternate"></link><published>2016-11-25T00:00:00+00:00</published><updated>2016-11-25T00:00:00+00:00</updated><author><name>Celia Cintas</name></author><id>tag:pyvideo.org,2016-11-25:pycon-ar-2016/introduccion-a-programacion-paralela-con-pyopencl.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyconAR 2016 - Bahía Blanca&lt;/p&gt;
+&lt;p&gt;Introducción a programación paralela con PyOpenCL por Celia Cintas&lt;/p&gt;
+&lt;p&gt;Audience level: Principiante&lt;/p&gt;
+&lt;p&gt;Descripción&lt;/p&gt;
+&lt;p&gt;Se mostrará cómo crear soluciones paralelas e independientes al hardware (CPUs, DSP, FPGAs y GPUs) utilizando PyOpenCL. Veremos una breve introducción a conceptos básicos: arquitecturas, tipos de memoria y modelos de ejecución. Luego implementaremos el pipeline básico de una aplicación con PyOpenCL y resolveremos problemas desde simples operaciones con matrices hasta proc. de imágenes.&lt;/p&gt;
+&lt;p&gt;Resumen&lt;/p&gt;
+&lt;p&gt;OpenCL es un estándar abierto y libre para la programación paralela de propósito general sobre CPU, GPU entre otros. OpenCL nos permite desarrollar código rápido y eficiente para una serie de aplicaciones con diferentes comportamientos: control intensivo (búsqueda y clasificación), volúmenes de datos (procesamiento de imágenes, simulación y modelado, y la minería de datos), cálculo intensivo (métodos iterativos, métodos numéricos y modelamiento financiero). OpenCL abstrae el código de cuestiones específicas del hardware, permitiendo que nuestros programas se ejecuten sobre una gran variedad de dispositivos. PyOpenCL es un entorno de programación Python, que reduce la cantidad de código C a solo la implementación de los kernels, dejando el resto de nuestro código (la parte de host) en Python, sin renunciar a la eficiencia ni la velocidad y manteniendo la independencia del hardware.&lt;/p&gt;
+&lt;p&gt;Estructura de la charla&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Qué es programación paralela?&lt;/li&gt;
+&lt;li&gt;Qué es OpenCL? Cuales son sus componentes?&lt;/li&gt;
+&lt;li&gt;Arquitectura abstracta de OpenCL&lt;/li&gt;
+&lt;li&gt;Tipos de memoria en OpenCL&lt;/li&gt;
+&lt;li&gt;Modelo de ejecución OpenCL&lt;/li&gt;
+&lt;li&gt;Introducción a PyOpenCL (hands-on código en ipynb)&lt;/li&gt;
+&lt;li&gt;Plataforma, Contextos, Colas, Kernel y programas.&lt;/li&gt;
+&lt;li&gt;Buffers&lt;/li&gt;
+&lt;li&gt;Ejemplos de operaciones de matrices, procesamiento de imágenes y fractales.&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Lightning Talks 20/05/2016</title><link href="http://pyvideo.org/scipyla-2016/lightning-talks-20052016.html" rel="alternate"></link><published>2016-06-24T00:00:00+00:00</published><updated>2016-06-24T00:00:00+00:00</updated><author><name>Nestor Cubas Wendt</name></author><id>tag:pyvideo.org,2016-06-24:scipyla-2016/lightning-talks-20052016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Molecular Dynamics in Ecotoxicology - Nestor Cubas Wendt&lt;/li&gt;
+&lt;li&gt;⁠⁠⁠Bioinformatics applied to RNA sequencing - Daniella Helena Hock&lt;/li&gt;
+&lt;li&gt;PyLadies São Paulo - Tania Patricia Simões Yamaki&lt;/li&gt;
+&lt;li&gt;Introduction to High Performance Scientific Computing with PyOpenCL - Celia Cintas&lt;/li&gt;
+&lt;li&gt;IPython-Unittest - João Felipe Pimentel&lt;/li&gt;
+&lt;li&gt;Literate Programming, Pweave - Melissa Mendonça&lt;/li&gt;
+&lt;li&gt;Comunidade SciPy América Latina - Ivan Ogasawara&lt;/li&gt;
+&lt;li&gt;5 Coisas para ler 1 para fazer - Raniere Silva&lt;/li&gt;
+&lt;/ol&gt;
+</summary></entry><entry><title>3D sensors and Python: A space odyssey</title><link href="http://pyvideo.org/europython-2014/3d-sensors-and-python-a-space-odyssey.html" rel="alternate"></link><published>2014-07-23T00:00:00+00:00</published><updated>2014-07-23T00:00:00+00:00</updated><author><name>Celia Cintas</name></author><id>tag:pyvideo.org,2014-07-23:europython-2014/3d-sensors-and-python-a-space-odyssey.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This talk will show how to build a simple open source based NUI (Natural
+User Interface) game with 3D Sensors, incorporating PyOpenNI with PyGame
+and WebGL. OpenNI allows you operate several 3D sensors, enabling
+hardware independent game development (supported 3D sensors are
+Microsoft Kinect, PrimeSense Carmine or Asus XTion). It also runs on
+Linux, Mac OS X and Windows.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will start with a brief introduction to 3D Sensors and OpenNI.
+Then we’ll surf into PyOpenNI, features such as the skeleton, hand and
+gesture tracking, RGB and depth video. Every topic will be presented
+with practical demos. The talk will end with a demo integrating WebGL
+(THREE.JS), 3D sensors, Flask and ZMQ to produce a simple fully open
+source based NUI game.&lt;/p&gt;
+&lt;p&gt;Some simple demos of PyOpenNI and PyGame can be found at
+&lt;a class="reference external" href="http://www.youtube.com/watch?v=wI2ktioiPY8"&gt;1&lt;/a&gt; and
+&lt;a class="reference external" href="http://youtu.be/3e8jibGUQ2Q"&gt;2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Attendees will not only learn about game related technologies but also
+about innovative ways of doing domotics, cinema &amp;amp; art, Interactive
+visualization, scientific research, educations, etc.&lt;/p&gt;
+&lt;p&gt;3D Sensors will be available for testing during the event - you can get
+yours for about 80 to 140 Euros (depending on the brand). Slides and
+demo code will be available at Github.&lt;/p&gt;
+&lt;p&gt;Talk structure:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction: hardware and OpenNI goodies and a tale of PCL (5’)&lt;/li&gt;
+&lt;li&gt;Hands On PyOpenNI&lt;ul&gt;
+&lt;li&gt;Normal and Depth camera - basics concepts and small demo (5’)&lt;/li&gt;
+&lt;li&gt;Skeleton - basics concepts and small demo. (5’)&lt;/li&gt;
+&lt;li&gt;Hand &amp;amp; gesture - basics concepts and small demo. (5’)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Final Demo&lt;ul&gt;
+&lt;li&gt;What we’re going to use? Flask, ZMQ, THREE.JS, PyOpenNI. (6’)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Q&amp;amp;A. (4’)&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry></feed>

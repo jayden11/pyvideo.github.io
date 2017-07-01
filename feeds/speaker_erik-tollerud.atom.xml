@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_erik-tollerud.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-07-10T00:00:00+00:00</updated><entry><title>Astropy in 2015</title><link href="http://pyvideo.org/scipy-2015/astropy-in-2015.html" rel="alternate"></link><published>2015-07-10T00:00:00+00:00</published><updated>2015-07-10T00:00:00+00:00</updated><author><name>Erik Tollerud</name></author><id>tag:pyvideo.org,2015-07-10:scipy-2015/astropy-in-2015.html</id><summary type="html"></summary></entry><entry><title>Astropy - Herding Snakes or Astronomers: which is more difficult?</title><link href="http://pyvideo.org/scipy-2012/astropy-herding-snakes-or-astronomers-which-is.html" rel="alternate"></link><published>2012-07-18T00:00:00+00:00</published><updated>2012-07-18T00:00:00+00:00</updated><author><name>Erik Tollerud</name></author><id>tag:pyvideo.org,2012-07-18:scipy-2012/astropy-herding-snakes-or-astronomers-which-is.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Developers and users of astronomical software have long bemoaned the
+absence of shared efforts in the field. While there are well known, free
+software tools available for astronomy, most have been developed by
+large institutions, and the past few decades have seen comparatively
+little progress in fostering a community-based set of software tools.
+There is hope that is changing now. The continuing growth of Python in
+astronomy has led to an increasing awareness of needless duplication of
+efforts within the community and the need to make existing packages work
+better with each other; such discussions came to a head on the astropy
+email list in the spring of 2011 leading to formation of the astropy
+project. The first coordination meeting was held in the fall of 2011,
+and significant progress has been made in setting up a community
+repository of core astronomical packages. We will describe the general
+goals of astropy and the progress that has been made to date.&lt;/p&gt;
+</summary><category term="Astronomy Mini-Symposia"></category></entry><entry><title>Astropy, growing a community-based software system for astronomy</title><link href="http://pyvideo.org/scipy-2013/astropy-growing-a-community-based-software-syste-0.html" rel="alternate"></link><published>2013-07-01T00:00:00+00:00</published><updated>2013-07-01T00:00:00+00:00</updated><author><name>Erik Tollerud</name></author><id>tag:pyvideo.org,2013-07-01:scipy-2013/astropy-growing-a-community-based-software-syste-0.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Astropy is a community-based software project to coordinate the
+development of libraries and applications for astronomy. We will report
+on progress that has been made with astropy since the last scipy
+conference.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Authors: Droettboom, Michael, STScI; Robitaille, Thomas, Max Planck
+Institute; Tollerud, Erik, Yale Universit&lt;/p&gt;
+&lt;p&gt;Track: Astronomy and Astrophysics&lt;/p&gt;
+&lt;p&gt;Astropy is a community-based software project to coordinate the
+development of libraries and applications for astronomy. We will report
+on progress that has been made with astropy since the last scipy
+conference. The past year has seen much growth in the number and quality
+of the core libraries in astropy and a public release. We will highlight
+the new capabilities available, and outline the development plans for
+the upcoming year. Finally we discuss the strategies for advertising its
+capabilities and growing the documentation and tutorials available for
+users and developers.&lt;/p&gt;
+</summary><category term="astronomy"></category><category term="astrophysics"></category><category term="astropy"></category></entry></feed>

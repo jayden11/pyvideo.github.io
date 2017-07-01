@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 17 Sep 2016 00:00:00 +0000</lastBuildDate><item><title>Agile, Scrum y Kanban</title><link>http://pyvideo.org/pyday-galicia-2016/agile-scrum-y-kanban.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Explicación desde cero de los conceptos principales y las bases de Agile, Scrum y Kanban&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pepe Doval</dc:creator><pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-17:pyday-galicia-2016/agile-scrum-y-kanban.html</guid><category>pyday</category><category>agile</category><category>scrum</category><category>kanban</category></item><item><title>Come costruire un'azienda distribuita con Python</title><link>http://pyvideo.org/europython-2011/come-costruire-unazienda-distribuita-con-python.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Maurizio Delmonte - 22 June 2011 in &amp;quot;Track Italiana
+Big Mac &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Il nostro gruppo di lavoro, composto da varie figure professionali, da
+anni lavora su più progetti in parallelo, e con team di persone che si
+incontrano solo virtualmente.&lt;/p&gt;
+&lt;p&gt;Non è sufficiente dire: facciamolo!&lt;/p&gt;
+&lt;p&gt;Per non perdere la testa, gestire in modo agile i progetti e vivere
+felici affiniamo continuamente le nostre tecniche di gestione e gli
+strumenti che ci permettono di tenere sotto controllo la situazione:
+Extreme Management tool, Poi Tracker, Buildout sono solo alcuni degli
+strumenti che rendono il nostro lavoro fluido ed efficace.&lt;/p&gt;
+&lt;p&gt;Presenterò le nostre modalità operative, dimostrando che lavorare con un
+team composto da persone contemporaneamente a Milano, Napoli, Torino e
+Ancona è possibile. Non solo: è il futuro!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Maurizio Delmonte</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-07:europython-2011/come-costruire-unazienda-distribuita-con-python.html</guid><category>agile</category><category>ci</category></item><item><title>PyConAU 2010: Don't Break It: Continuous Integration &amp; Deployment</title><link>http://pyvideo.org/pycon-au-2010/pyconau-2010--don--39-t-break-it--continuous-inte.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Don't Break It: Continuous Integration &amp;amp; Deployment&lt;/p&gt;
+&lt;p&gt;Presented by Benno Rice&lt;/p&gt;
+&lt;p&gt;So you've developed your application, it appears to work and you may
+even have some tests to back that up. Now what?&lt;/p&gt;
+&lt;p&gt;One part of software development that tends to receive not nearly enough
+attention is the process of deploying, supporting and maintaining your
+code in production. This demonstration will give an overview of using
+tools such as Hudson, nose, stdeb and freshen to automate the testing,
+packaging, deployment and verification of production software.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benno Rice</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--don--39-t-break-it--continuous-inte.html</guid><category>agile</category><category>architecture</category><category>packaging</category><category>pyconau</category><category>pyconau2010</category><category>testing</category></item><item><title>Practical DevOps</title><link>http://pyvideo.org/pycon-de-2012/practical-devops.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;DevOps ist eine aktuelle Bewegung in der IT, die sich zur Aufgabe macht,
+ein Umdenken in den klassischen Lagern Entwicklung und Betrieb
+einzuleiten. Der Vortrag wirft einen Blick auf die noch junge Bewegung
+und zeigt mit Geschichten aus dem wahren Leben, wie sich die agile
+Denkweise fortschreiben lässt, die mit SCRUM ins allgemeine Bewusstsein
+getreten ist.&lt;/p&gt;
+&lt;p&gt;Schlomo gibt einen Überblick über das Thema und berichtet über die
+DevOps Erfolge bei der
+&lt;a class="reference external" href="http://www.immobilienscout24.de"&gt;ImmobilienScout24&lt;/a&gt;. Nach 2 Jahren
+agilem Umdenken in der Entwicklung zeigte sich, dass die klassische
+Gewaltenteilung Plan - Build - Run einfach nicht mehr gut funktioniert
+weil sich die Anforderungen und Erwartungen sowohl in der Entwicklung
+als auch im Betrieb ändern und daher auch eine neue Form der
+Zusammenarbeit nahe legen.&lt;/p&gt;
+&lt;p&gt;Die Ideen aus der DevOps Bewegung lassen sich fast überall einsetzen, wo
+bisher ein &amp;quot;über den Zaun werfen&amp;quot; gespielt wird und haben das primäre
+Ziel, alle Beteiligten gemeinsam an einem Strang ziehen zu lassen. Mit
+den Ideen und Erfahrungen aus dem Vortrag lassen sich sicher die ersten
+Schritte in die richtige Richtung einleiten.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Schlomo Schapiro</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-10-31:pycon-de-2012/practical-devops.html</guid><category>agile</category><category>devops</category><category>kanban</category><category>open source</category><category>python</category><category>scrum</category><category>web</category></item></channel></rss>

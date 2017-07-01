@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Mon, 13 Apr 2015 00:00:00 +0000</lastBuildDate><item><title>Introduction to Pandas</title><link>http://pyvideo.org/pydata-paris-2015/introduction-to-pandas-0.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Pandas is becoming the fundamental library for manipulating and
+analyzing structured data, providing high-performance, easy-to-use data
+structures and data analysis tools. This talk will give a basic
+introduction to pandas, explaining the key concepts and defining
+features.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joris Van Den Bossche</dc:creator><pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-13:pydata-paris-2015/introduction-to-pandas-0.html</guid></item></channel></rss>

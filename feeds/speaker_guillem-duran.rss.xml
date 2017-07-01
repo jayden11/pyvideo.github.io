@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>Per Shaolin ad Astra</title><link>http://pyvideo.org/pycon-es-2016/per-shaolin-ad-astra.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this talk we will show how it is possible to build an interactive 3D model of the solar system using the python packages shaolin and poliastro.&lt;/p&gt;
+&lt;p&gt;At EuroPython Juan Luis Cano asked for a 3D visualization module for poliastro, and now we are finally presenting the first version of the poliastro 3D models build using plotly and vpython.&lt;/p&gt;
+&lt;p&gt;We will review the data presented at EuroPython 2016 with an interactive model of the solar system for representing planets and its orbits.&lt;/p&gt;
+&lt;p&gt;Materials available at &lt;a class="reference external" href="https://github.com/Guillem-db/PyconEs-2016"&gt;https://github.com/Guillem-db/PyconEs-2016&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://2016.es.pycon.org/"&gt;http://2016.es.pycon.org/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guillem Durán</dc:creator><pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-09:pycon-es-2016/per-shaolin-ad-astra.html</guid></item><item><title>Interactive data Kung Fu with Shaolin</title><link>http://pyvideo.org/europython-2016/interactive-data-kung-fu-with-shaolin.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Guillem Duran - Interactive data Kung Fu with Shaolin
+[EuroPython 2016]
+[18 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/interactive-data-kung-fu-with-shaolin"&gt;https://ep2016.europython.eu//conference/talks/interactive-data-kung-fu-with-shaolin&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;“Notebooks come alive when interactive widgets are used”, but
+programming complex applications that rely entirely on widgets may end
+up being a painful and frustrating process. Shaolin is a new python
+project that aims to provide a framework for building interactive
+complex dashboards.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;You can read in The Project Jupyter web page that “Notebooks come
+alive when interactive widgets are used”, but programming complex
+applications that rely entirely on widgets may end up being a painful
+and frustrating process. Shaolin is a new python project that aims to
+provide a framework for building interactive complex dashboards.&lt;/p&gt;
+&lt;p&gt;Shaolin provides all the basic tools for building complex interactive
+data analysis applications using the pydata ecosystem. Arbitrary code
+can be embedded into a Dashboard -a class that works as a “black box”
+that allows to easily define a GUI based on the ipywidgets package- to
+process any data in any form and then let you interactively define how
+to plot it using automatically generated widgets. Hierarchical
+combinations of Dashboards can be arranged then to build more complex
+applications.&lt;/p&gt;
+&lt;p&gt;The talk is divided in two sections. First one introduce the framework
+and its main features:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Custom syntax for defining widgets in a simplified way.&lt;/li&gt;
+&lt;li&gt;Dashboards: Syntax rules and capabilities.&lt;/li&gt;
+&lt;li&gt;Combining Dashboards to build complex applications.&lt;/li&gt;
+&lt;li&gt;Interactive plot creation.&lt;/li&gt;
+&lt;li&gt;Integration with pydata.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Second section will show how this framework can be used to analyse
+real data using Dashboards without writing any code. I will show how
+to transform market data time series into graphs using pandas and
+networkx, then plot it interactively using bokeh and Vpython.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guillem Duran</dc:creator><pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-05:europython-2016/interactive-data-kung-fu-with-shaolin.html</guid></item></channel></rss>

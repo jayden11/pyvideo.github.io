@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 06 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>Public Python for the greater good</title><link>http://pyvideo.org/pycon-za-2016/public-python-for-the-greater-good.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;We at &lt;a class="reference external" href="http://code4sa.org/"&gt;Code For South Africa&lt;/a&gt; use technology to
+facilitate promoting informed decision making for positive social
+change. This can mean generally being aware of what's going on, as well
+as deep critical research and analysis. We run the civic tech movement
+&lt;a class="reference external" href="https://codebridge.org.za"&gt;{code}bridge&lt;/a&gt; where people come and hack
+together or on their lonesome on civic tech projects. A quick summary
+will be given of some outputs of this community in Cape Town and
+Ethekwini.&lt;/p&gt;
+&lt;p&gt;We'll summarise some work we've done using mostly common python tools
+for the good of South African society. In particular I'll show how I've
+scraped and mirrored a government website on a tight budget at
+{code}bridge for better access to public information and seen usage pick
+up right after the local elections. We'll also show how a little bit of
+tech can empower citizens to hold government to account, and participate
+in the governing and development of our infrastructure. How presumably
+boring government notices really come to life when made accessible and
+personal.&lt;/p&gt;
+&lt;p&gt;This talk is aimed at anyone keen on making a big impact with a little
+bit of tech, and interested in improving lives. There are many low
+hanging fruit out there where lives can be improved with technology
+facilitating the necessary groundwork. I'd like to show you how easy it
+is to make an impact.&lt;/p&gt;
+&lt;p&gt;This is a heavily revised version of a talk given at DebConf 2016 with
+several new projects matured or launched since.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JD Bothma</dc:creator><pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-06:pycon-za-2016/public-python-for-the-greater-good.html</guid></item></channel></rss>

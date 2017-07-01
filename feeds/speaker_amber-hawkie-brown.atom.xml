@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_amber-hawkie-brown.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-04T00:00:00+00:00</updated><entry><title>Slow Down, Compose Yourself</title><link href="http://pyvideo.org/pycon-au-2015/slow-down-compose-yourself.html" rel="alternate"></link><published>2015-08-04T00:00:00+00:00</published><updated>2015-08-04T00:00:00+00:00</updated><author><name>Amber "Hawkie" Brown</name></author><id>tag:pyvideo.org,2015-08-04:pycon-au-2015/slow-down-compose-yourself.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;As your codebase grows, you will have instances where you have code that
+needs to be reused. Then you think, I can do this with subclassing! Now
+you have a diamond-tree of problems.&lt;/p&gt;
+&lt;p&gt;Here, we’ll talk about a better way of code reuse and introducing
+alternate behaviour into existing classes — composition. It’ll improve
+how you test your code — making your test runs faster, making it easier
+to test exceptional cases, and making everything easier to understand.&lt;/p&gt;
+</summary></entry><entry><title>What Django can learn from Twisted</title><link href="http://pyvideo.org/pycon-au-2015/what-django-can-learn-from-twisted.html" rel="alternate"></link><published>2015-08-04T00:00:00+00:00</published><updated>2015-08-04T00:00:00+00:00</updated><author><name>Amber "Hawkie" Brown</name></author><id>tag:pyvideo.org,2015-08-04:pycon-au-2015/what-django-can-learn-from-twisted.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Web frameworks like Django are designed around the traditional
+request-response cycle — a request comes in, a response is generated,
+and that is delivered to the client. In the day of “single page”
+applications, where only sections of the page are updated through
+requests, doing real-time can be clunky. Twisted, and things that build
+off it, like Django Channels, might be worth thinking about, and this is
+what this talk will be about.&lt;/p&gt;
+</summary></entry></feed>

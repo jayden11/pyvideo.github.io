@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 09 Jun 2016 00:00:00 +0000</lastBuildDate><item><title>Machete-mode debugging: Hacking your way out of a tight spot</title><link>http://pyvideo.org/pycon-us-2016/ned-batchelder-machete-mode-debugging-hacking-your-way-out-of-a-tight-spot-pycon-2016.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Ned Batchelder&lt;/p&gt;
+&lt;p&gt;When chasing mysterious bugs, it's helpful to use all the tools at your disposal.  We'll explore ways to use Python's dynamic tools to help track down the cause of head-scratching problems in large systems.  Tools include the inspect module, monkey-patching, trace functions, and the Python mechanisms at work behind them all.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ned Batchelder</dc:creator><pubDate>Thu, 09 Jun 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-06-09:pycon-us-2016/ned-batchelder-machete-mode-debugging-hacking-your-way-out-of-a-tight-spot-pycon-2016.html</guid></item><item><title>PyCon 2009: A Whirlwind Excursion through Writing a C Extension (#68)</title><link>http://pyvideo.org/pycon-us-2009/pycon-2009--a-whirlwind-excursion-through-writing.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;[VIDEO HAS ISSUES: Ambient mic used, some echoing] Everyone's heard of C
+extensions to Python, but few have ventured into those murky depths.
+This is a quick overview of how to write a C extension, complete with
+highlights of the C API, memory management, error handling, and type
+creation. Whether you want to speed up your Python, integrate with
+legacy code, contribute to Python's core, or just learn a little about
+how it all works under the covers, you will enjoy this trip through
+unfamiliar territory. I guarantee you will return safely.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ned Batchelder</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pycon-us-2009/pycon-2009--a-whirlwind-excursion-through-writing.html</guid><category>extensions</category><category>pycon</category><category>pycon2009</category><category>python-advanced</category></item><item><title>Tests and Testability (#188)</title><link>http://pyvideo.org/pycon-us-2010/pycon-2010--tests-and-testability---188.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Tests and Testability&lt;/p&gt;
+&lt;p&gt;Presented by Ned Batchelder&lt;/p&gt;
+&lt;p&gt;Testing software is difficult. Large complex systems don't lend
+themselves naturally to automated testing. This isn't just because they
+are large, it's because developers often don't consider how testable
+their code is. Testability is as important as all the other -ilities in
+your code (portability, maintainability, efficiency, etc).&lt;/p&gt;
+&lt;p&gt;Testability is a characteristic of your code that makes it easier to
+test. Increased testability can give you better tests, but it also gives
+you just plain better code. Improving testability generally means
+considering the interfaces to your internal modules and improving them
+to provide better modularity. This improvement often has benefits in
+your product code.&lt;/p&gt;
+&lt;p&gt;I'll discuss specific examples to demonstrate how code can be made more
+testable. Mocks, dependency injection, and crisp API design are just a
+few of the techniques that can improve your code's testability and make
+you a happier person.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ned Batchelder</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--tests-and-testability---188.html</guid><category>pycon</category><category>pycon2010</category><category>testing</category></item><item><title>Python-Aware Python</title><link>http://pyvideo.org/pycon-us-2011/pycon-2011--python-aware-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python-Aware Python&lt;/p&gt;
+&lt;p&gt;Presented by Ned Batchelder&lt;/p&gt;
+&lt;p&gt;Python provides many features for introspecting, analyzing, parsing,
+compiling, and otherwise grokking Python code. This talk will cover a
+number of the techniques for writing Python-Aware Python, and will
+hopefully inspire you to build the next great Python tool.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Python provides many features for introspecting, analyzing, parsing,
+compiling, and otherwise grokking Python code. These modules and
+techniques provide the foundation for developer's tools such as
+autocompletion IDE's, code analysis tools, test runners, profilers, and
+so on.&lt;/p&gt;
+&lt;p&gt;I'll delve into a number of the common techniques used to write
+Python-Aware Python. Each has its area of applicability and its
+strengths and weaknesses. I'll demonstrate small samples that show how
+those techniques underlie the tools we all know and love.&lt;/p&gt;
+&lt;p&gt;The world of Python tools is ready for new exploration. This talk will
+give you the foundation you need to write the next great Python-aware
+application.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ned Batchelder</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--python-aware-python.html</guid><category>analysis</category><category>compiling</category><category>introspection</category><category>parsing</category><category>pycon</category><category>pycon2011</category></item><item><title>Pragmatic Unicode, or, How do I stop the pain?</title><link>http://pyvideo.org/pycon-us-2012/pragmatic-unicode-or-how-do-i-stop-the-pain.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python has great Unicode support, but it's still your responsibility to
+handle it properly. I'll do a quick overview of what Unicode is, but
+only enough to get your program working properly. I'll describe
+strategies to make your code work, and keep it working, without getting
+too far afield in Unicode la-la- land.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ned Batchelder</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-03-10:pycon-us-2012/pragmatic-unicode-or-how-do-i-stop-the-pain.html</guid></item><item><title>XBlock: Courseware Components from edX</title><link>http://pyvideo.org/pycon-us-2013/xblock-courseware-components-from-edx.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;edX.org is building XBlock, an open-source component architecture for
+courseware. It provides API's for creating course components of all
+kinds. Possible uses include: simple controls, new types of problems,
+new quiz structures, interactive simulations, and new navigation
+techniques. We're hoping to expand awareness of XBlock, and also to hear
+from potential users about their needs.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ned Batchelder</dc:creator><pubDate>Sun, 17 Mar 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-03-17:pycon-us-2013/xblock-courseware-components-from-edx.html</guid><category>poster</category></item><item><title>Loop like a native: while, for, iterators, generators</title><link>http://pyvideo.org/pycon-us-2013/loop-like-a-native-while-for-iterators-genera.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python provides powerful primitives for iterating over your data in ways
+that let you express yourself clearly and directly. But even programmers
+familiar with the tools don't use them as fully as they could. This talk
+will cover Python's iteration tools, from basic loops to generators and
+how to add iteration to your own classes. Come learn how looping was
+meant to be!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ned Batchelder</dc:creator><pubDate>Fri, 15 Mar 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-03-15:pycon-us-2013/loop-like-a-native-while-for-iterators-genera.html</guid><category>talk</category></item><item><title>Getting Started Testing</title><link>http://pyvideo.org/pycon-us-2014/getting-started-testing.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;If you've never written tests before, you probably know you &lt;em&gt;should&lt;/em&gt;,
+but view the whole process as a bureaucratic paperwork nightmare to
+check off on your ready-to-ship checklist. This is the wrong way to
+approach testing. Tests are a solution to a problem that is important to
+you: does my code work? I'll show how Python tests are written, and why.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ned Batchelder</dc:creator><pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-04-13:pycon-us-2014/getting-started-testing.html</guid></item><item><title>Facts and Myths about Python names and values</title><link>http://pyvideo.org/pycon-us-2015/facts-and-myths-about-python-names-and-values.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The behavior of names and values in Python can be confusing. Like many
+parts of Python, it has an underlying simplicity that can be hard to
+discern, especially if you are used to other programming languages. Here
+I'll explain how it all works, and present some facts and myths along
+the way. Call-by-reference? Call-by-value? The answer will be clear!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ned Batchelder</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-11:pycon-us-2015/facts-and-myths-about-python-names-and-values.html</guid></item></channel></rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_camilla-montonen.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-04-14T00:00:00+00:00</updated><entry><title>Simulating and visualising commuter flow through the London Underground</title><link href="http://pyvideo.org/pydata-paris-2015/simulating-and-visualising-commuter-flow-through.html" rel="alternate"></link><published>2015-04-14T00:00:00+00:00</published><updated>2015-04-14T00:00:00+00:00</updated><author><name>Camilla Montonen</name></author><id>tag:pyvideo.org,2015-04-14:pydata-paris-2015/simulating-and-visualising-commuter-flow-through.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Every year the London Tube transports about 1.3 billion commuters. With
+multiple intersecting lines, the daily functioning of the London Tube
+network poses many interesting questions: What effects do severe delays
+on the Piccadilly Line have on passengers taking the Northern Line? What
+is the shortest path from station x to station y? How does overcrowding
+on one station affect its neighbouring stations? These are but a few
+examples of the many questions one can start to investigate using two
+Python libraries: graph­tool for manipulating and analysing graphs and
+bokeh for visualizing and streaming “live” data from simulations. In
+this talk, I will briefly show how one can transform structures such as
+the London Underground map into programmatic objects that can be
+analysed and manipulated using Python. Furthermore, I will show examples
+of simulations based on the publicly available data from Transport for
+London and illustrate how simulations can be used to glean insight on
+the large scale behaviour of a complex system. Last but not least, I
+hope to illustrate how the bokeh server can be leveraged to create
+“real­time” visualizations of simulations.&lt;/p&gt;
+</summary></entry></feed>

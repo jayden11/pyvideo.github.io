@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_sebastian-vetter.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-15T00:00:00+00:00</updated><entry><title>Click: A Pleasure To Write, A Pleasure To Use</title><link href="http://pyvideo.org/pycon-au-2016/click-a-pleasure-to-write-a-pleasure-to-use.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Sebastian Vetter</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/click-a-pleasure-to-write-a-pleasure-to-use.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sebastian Vetter
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/64/view_talk"&gt;https://2016.pycon-au.org/schedule/64/view_talk&lt;/a&gt;
+We have a wide variety of packages and modules in Python that help build
+commandline tools in different ways. One of the more recent contenders is
+'click'. It uses a very intuitive approach to create simple CLIs as well as
+complex ones. In this talk, I will introduce building CLIs with 'click' and
+illustrate some of its advantages.&lt;/p&gt;
+</summary><category term="click"></category></entry><entry><title>Hunting Treasures in Django</title><link href="http://pyvideo.org/pycaribbean-2016/pycaribbean-2016-hunting-treasures-in-django-by-sebastian-vetter.html" rel="alternate"></link><published>2016-02-21T00:00:00+00:00</published><updated>2016-02-21T00:00:00+00:00</updated><author><name>Sebastian Vetter</name></author><id>tag:pyvideo.org,2016-02-21:pycaribbean-2016/pycaribbean-2016-hunting-treasures-in-django-by-sebastian-vetter.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django is a comprehensive web framework that provides well-defined concepts such as request, response, middleware and view that make our lives as perfectionists with deadlines much easier. What many of us are not aware of is the rich collection of utilities and tooling around these concepts that are part of the famework. Decorators, helper functions and context managers that are used internally but can make life as a developer much easier as well.&amp;quot;&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sebastian Vette&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Click: A Pleasure To Write, A Pleasure To Use</title><link href="http://pyvideo.org/pycon-us-2016/sebastian-vetter-click-a-pleasure-to-write-a-pleasure-to-use-pycon-2016.html" rel="alternate"></link><published>2016-05-31T00:00:00+00:00</published><updated>2016-05-31T00:00:00+00:00</updated><author><name>Sebastian Vetter</name></author><id>tag:pyvideo.org,2016-05-31:pycon-us-2016/sebastian-vetter-click-a-pleasure-to-write-a-pleasure-to-use-pycon-2016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Sebastian Vetter&lt;/p&gt;
+&lt;p&gt;We have a wide variety of packages and modules in Python that help build commandline tools in different ways. One of the more recent contenders is 'click'. It uses a very intuitive approach to create simple CLIs as well as complex ones. In this talk, I will introduce building CLIs with 'click' and illustrate some of its advantages.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Hunting for Treasure in Django</title><link href="http://pyvideo.org/djangocon-2015/hunting-for-treasure-in-django-by-sebastian-vetter.html" rel="alternate"></link><published>2015-09-18T00:00:00+00:00</published><updated>2015-09-18T00:00:00+00:00</updated><author><name>Sebastian Vetter</name></author><id>tag:pyvideo.org,2015-09-18:djangocon-2015/hunting-for-treasure-in-django-by-sebastian-vetter.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Hunting for Treasure in Django by Sebastian Vetter&lt;/p&gt;
+&lt;p&gt;Django is a comprehensive web framework that provides well-defined
+concepts such as request, response, middleware and view that make our
+lives as perfectionists with deadlines much easier. What many of us are
+not aware of is the rich collection of utilities and tooling around
+these concepts that are part of the famework. Decorators, helper
+functions and context managers that are used internally but can make
+life as a developer much easier as well.&lt;/p&gt;
+&lt;p&gt;Introduction (~ 2 mins)&lt;/p&gt;
+&lt;p&gt;A little bit about me. Why am I talking about this? Django's Hidden
+Treasures (~ 4 mins)&lt;/p&gt;
+&lt;p&gt;The reason for this talks. What do I consider hidden treasures? Which
+Django modules are interesting? Are they documented and were do I find
+it? Examples of hidden treasures:&lt;/p&gt;
+&lt;p&gt;A quick introduction of the module. What's a possible use case for it?
+How does it solve it? Where is it used in the Django?&lt;/p&gt;
+&lt;p&gt;cached_property (~ 2 mins)&lt;/p&gt;
+&lt;p&gt;import_string (~ 2 mins)&lt;/p&gt;
+&lt;p&gt;lazy, LazyObject and lazy_property (~ 3 mins)&lt;/p&gt;
+&lt;p&gt;decorators module (~ 4 mins)&lt;/p&gt;
+&lt;p&gt;classonlymethod decorator_from_middleware update_wrapper and wraps
+(technically not Django) django.views (~ 4 mins)&lt;/p&gt;
+&lt;p&gt;debug.cleanse_setting decorators.debug.sensitive_parameters
+decorators.debug.sensitive_post_paramete­rs Wrapping up (~ 2 mins)&lt;/p&gt;
+&lt;p&gt;Django documentation links. Some suggestions for further investigation.&lt;/p&gt;
+</summary></entry><entry><title>Moby and the Beanstalk</title><link href="http://pyvideo.org/pycon-au-2015/moby-and-the-beanstalk.html" rel="alternate"></link><published>2015-08-04T00:00:00+00:00</published><updated>2015-08-04T00:00:00+00:00</updated><author><name>Sebastian Vetter</name></author><id>tag:pyvideo.org,2015-08-04:pycon-au-2015/moby-and-the-beanstalk.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The popularity of Docker these days is incredible and a lot of people
+are already using it for their production systems. Although it makes a
+lot of things much simpler, it's not a silver bullet and comes with some
+caveats of it's own. This talk will describe the journey of my team at
+Mobify from a self-hosted VM to a AWS-backed web app deployed using
+Docker.&lt;/p&gt;
+</summary></entry></feed>

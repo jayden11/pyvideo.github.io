@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_marco-buttu.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-02T00:00:00+00:00</updated><entry><title>Un grande linguaggio per un grande strumento</title><link href="http://pyvideo.org/pycon-italia-2014/un-grande-linguaggio-per-un-grande-strumento.html" rel="alternate"></link><published>2014-05-25T00:00:00+00:00</published><updated>2014-05-25T00:00:00+00:00</updated><author><name>Marco Buttu</name></author><id>tag:pyvideo.org,2014-05-25:pycon-italia-2014/un-grande-linguaggio-per-un-grande-strumento.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Il Sardinia Radio Telescope (SRT) è tra i più grandi radiotelescopi al mondo, ed è il più moderno radiotelescopio europeo sia per quanto riguarda l'equipaggiamento elettronico sia per la componentistica meccanica. E' situato in Sardegna, a circa 35 km a nord di Cagliari, e ha una imponente struttura meccanica, caratterizzata da uno specchio primario di 64 metri di diametro, un'altezza di 70 metri e un peso di 3000 tonnellate. Il SRT non è solamente un grande impianto, ma uno strumento scientifico molto complesso con un sistema software altrettanto complesso, che mette assieme diverse tecnologie e linguaggi di programmazione. Python, grazie alla sua facilità di utilizzo e la sua trasversalità, viene utilizzato in vari ambiti all'interno di questo progetto: sistema di controllo/monitoraggio, testing, interfacce grafiche, simulazioni, applicazioni web e ricerca scientifica. Lo scopo di questo talk è illustrare questi vari casi d'uso e possibili altri futuri, in fase di definizione, come la gestione dell'allocazione dei tempi di utilizzo del radiotelescopio e il sistema di archiviazione (centinaia di TB all'anno) e di accesso ai dati.&lt;/p&gt;
+</summary></entry><entry><title>Lessons learned about testing and TDD</title><link href="http://pyvideo.org/europython-2015/europython-2015-marco-buttu-lessons-learned-about-testing-and-tdd.html" rel="alternate"></link><published>2015-08-02T00:00:00+00:00</published><updated>2015-08-02T00:00:00+00:00</updated><author><name>Marco Buttu</name></author><id>tag:pyvideo.org,2015-08-02:europython-2015/europython-2015-marco-buttu-lessons-learned-about-testing-and-tdd.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Marco Buttu - Lessons learned about testing and TDD
+[EuroPython 2015]
+[21 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;One day our software will go in production, and so shortly we will pay
+dearly for our youthful mistakes. Without regression tests, we will be
+in deep trouble. If we have regression tests, but we did not have
+performed TDD, we should probably increase the effort in bug fixing
+and
+maintenance, since we do not have enough code coverage and our tests
+come out complex.&lt;/p&gt;
+&lt;p&gt;By retracing the author youthful mistakes, we will see a complete
+development workflow, from the user story to the low-level tests, in
+order to highlight the differences between functional, integration and
+unit tests, the best practices, and the lessons learned by the author
+during the development of the [Sardinia Radio Telescope][1]  control
+software.&lt;/p&gt;
+&lt;p&gt;[Slides available here][2].&lt;/p&gt;
+&lt;p&gt;[1]: &lt;a class="reference external" href="https://www.youtube.com/watch?v=zCL_tSMqsRg"&gt;https://www.youtube.com/watch?v=zCL_tSMqsRg&lt;/a&gt;
+[2]: &lt;a class="reference external" href="http://marco-buttu.github.io/pycon_testing/"&gt;http://marco-buttu.github.io/pycon_testing/&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Lessons learned about testing and TDD</title><link href="http://pyvideo.org/pycon-italia-2015/lessons-learned-about-testing-and-tdd.html" rel="alternate"></link><published>2015-05-30T00:00:00+00:00</published><updated>2015-05-30T00:00:00+00:00</updated><author><name>Marco Buttu</name></author><id>tag:pyvideo.org,2015-05-30:pycon-italia-2015/lessons-learned-about-testing-and-tdd.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Prima o poi, sperabilmente, il nostro software andrà in produzione.
+Questo è il momento in cui gli errori di gioventù si pagano cari, senza
+alcuno sconto. Se non abbiamo scritto regression test, siamo veramente
+nei guai, guai seri! Se li abbiamo scritti, ma senza adottare il TDD,
+probabilmente aumenterà il tempo necessario per il bug fix e la
+manutenzione, sia perché non abbiamo massimizzato la copertura del
+codice, sia perché i test risulteranno complessi e con duplicazioni. In
+questo talk l’autore parlerà dei suoi errori di gioventù, del perché ha
+adottato il TDD come disciplina per lo sviluppo e di quelle che
+considera le best practice. Verranno mostrati degli esempi di test di
+accettazione, funzionali, di integrazione e unitari. Esempi reali, ma
+semplici ed eloquenti, volti ad evidenziare non solo l’utilità dei test,
+ma anche quella di scriverli prima del codice. Il contesto è quello del
+Sardinia Radio Telescope. Slides:
+&lt;a class="reference external" href="http://marco-buttu.github.io/pycon_testing/"&gt;http://marco-buttu.github.io/pycon_testing/&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Il modello ad oggetti di Python</title><link href="http://pyvideo.org/pycon-italia-2015/il-modello-ad-oggetti-di-python.html" rel="alternate"></link><published>2015-05-29T00:00:00+00:00</published><updated>2015-05-29T00:00:00+00:00</updated><author><name>Marco Buttu</name></author><id>tag:pyvideo.org,2015-05-29:pycon-italia-2015/il-modello-ad-oggetti-di-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Come sappiamo in Python ogni nome è legato ad un oggetto, e questo è il
+motivo per cui si dice: everything in Python is an object. Ma in realtà
+cosa sia un oggetto, non sempre ci è ben chiaro, e anche nella
+documentazione ufficiale difatti si trovano imprecisioni in proposito.
+Lo scopo di questo talk è illustrare il modello ad oggetti di Python, in
+modo sia da chiarire il significato delle relazioni tra oggetti, sia i
+termini oggetto, istanza, classe e tipo. Vedremo quanto sia importante
+capire il concetto di metaclasse, perché anche se mai ne definiremo una,
+programmando in Python ne avremo a che fare quotidianamente. A questo
+punto sapremo che se una classe ha un attributo, non significa che anche
+le sue istanze lo debbano avere. Capiremo che non ha senso fare
+distinzioni tra oggetti e classi, mentre ha senso farle tra classi e
+non-classi. Slides: &lt;a class="reference external" href="http://marco-buttu.github.io/pycon_objmodel/"&gt;http://marco-buttu.github.io/pycon_objmodel/&lt;/a&gt;&lt;/p&gt;
+</summary></entry></feed>

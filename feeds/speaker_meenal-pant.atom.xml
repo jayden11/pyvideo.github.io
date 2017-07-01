@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_meenal-pant.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-03-17T00:00:00+00:00</updated><entry><title>Data Classification Using Python, Django and R</title><link href="http://pyvideo.org/pycon-us-2013/data-classification-using-python-django-and-r.html" rel="alternate"></link><published>2013-03-17T00:00:00+00:00</published><updated>2013-03-17T00:00:00+00:00</updated><author><name>Meenal Pant</name></author><id>tag:pyvideo.org,2013-03-17:pycon-us-2013/data-classification-using-python-django-and-r.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;For a recent project, I had to develop a real time diagnostics tool with
+a web dashboard. The goal of this tool was to assist data experts with
+proactive monitoring and trouble-shooting our equipment deployed in the
+field. So I decided to design a real time web dashboard with status
+updates and email alerts using Python, Django and R.&lt;/p&gt;
+</summary><category term="poster"></category></entry></feed>

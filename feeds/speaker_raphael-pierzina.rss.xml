@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 04 Aug 2016 00:00:00 +0000</lastBuildDate><item><title>Come to the Dark Side! We have a whole bunch of Cookiecutters!</title><link>http://pyvideo.org/europython-2015/come-to-the-dark-side-we-have-a-whole-bunch-of-cookiecutters.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Raphael Pierzina - Come to the Dark Side! We have a whole bunch of Cookiecutters!
+[EuroPython 2015]
+[23 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(This talk is intended for intermediate-level participants who have a
+basic understanding of the Python language and contains quotes from
+Darth Vader that some attendees may find hilarious)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Writing a Python script from scratch is fairly easy and you get on
+with very little boilerplate code in general. However starting a new
+Python project can be tiring if you decide to stick to best practices
+and plan on submitting it to PyPI. It requires great diligence and
+occasionally gets pretty cumbersome if you start new tools on a
+regular basis.&lt;/p&gt;
+&lt;div class="section" id="you-underestimate-the-power-of-a-good-template"&gt;
+&lt;h4&gt;You underestimate the power of a good template&lt;/h4&gt;
+&lt;p&gt;Why not just use a template for it? Cookiecutter is a CLI tool written
+in pure Python that enables you to do so. Not only is it working for
+Python code, but also markdown formats and even other programming
+languages. We will talk about the ideas behind Cookiecutter and go
+over how you can create your very own template, so you and others can
+benefit from your experience.&lt;/p&gt;
+&lt;p&gt;I would like to briefly go into the technologies used and how you can
+get involved in the Cookiecutter GitHub project. There are already
+plenty of Cookiecutter templates, or Cookiecutters as we call them,
+available online. Most of them target Python projects, but others can
+be used to create C++, LaTeX or Javascript projects.&lt;/p&gt;
+&lt;p&gt;The ability to destroy a planet is insignificant next to the power of
+Cookiecutter.
+----------------------------------------------------------------------
+-------------&lt;/p&gt;
+&lt;p&gt;I will show you how to use Cookiecutter and highlight some of the
+amazing templates created by the community. More importantly we will
+create a Cookiecutter template from scratch using the example of a
+simple Kivy app and make use of advanced features such as post-gen
+hooks, copy-without-render and templates in context values.&lt;/p&gt;
+&lt;p&gt;Finally I will recommend resources on how to follow up on this talk
+and how to get in touch in case of any queries.&lt;/p&gt;
+&lt;p&gt;GitHub: [&lt;a class="reference external" href="https://github.com/hackebrot][1"&gt;https://github.com/hackebrot][1&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Twitter: [&lt;a class="reference external" href="https://twitter.com/hackebrot][2"&gt;https://twitter.com/hackebrot][2&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Blog: [&lt;a class="reference external" href="http://www.hackebrot.de/][3"&gt;http://www.hackebrot.de/][3&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;[1]: &lt;a class="reference external" href="https://github.com/hackebrot"&gt;https://github.com/hackebrot&lt;/a&gt;
+[2]: &lt;a class="reference external" href="https://twitter.com/hackebrot"&gt;https://twitter.com/hackebrot&lt;/a&gt;
+[3]: &lt;a class="reference external" href="http://www.hackebrot.de/"&gt;http://www.hackebrot.de/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raphael Pierzina</dc:creator><pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-03:europython-2015/come-to-the-dark-side-we-have-a-whole-bunch-of-cookiecutters.html</guid></item><item><title>Pytest 3.0</title><link>http://pyvideo.org/europython-2016/pytest-30.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Raphael Pierzina - Pytest 3.0
+[EuroPython 2016]
+[21 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/pytest-30"&gt;https://ep2016.europython.eu//conference/talks/pytest-30&lt;/a&gt;)&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;New features of pytest's upcoming major version 3.0&lt;/li&gt;
+&lt;li&gt;Breaking changes and other important information&lt;/li&gt;
+&lt;li&gt;Recap of the first developer sprint in June, 2016&lt;/li&gt;
+&lt;li&gt;Thank you notes to all who have contributed to the fundraiser&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Pytest is a mature testing framework for Python that is developed by a
+thriving and ever-growing community of volunteers. Following the
+principle of &amp;quot;no API is the best API&amp;quot; it uses plain assert statements
+and regular Python comparisons. Writing tests with pytest requires
+little to no boilerplate code and powerful features allow easy
+parametrization and intelligent test selection.&lt;/p&gt;
+&lt;p&gt;In this talk we will have an in-depth look at new features of pytest
+3.0 and live demo possible use cases. We will also learn about
+important bugfixes and other enhancements of the upcoming major
+release. Backwards-incompatible changes will be addressed and changes
+made to the documentation will be highlighted.&lt;/p&gt;
+&lt;p&gt;If you are already familiar with pytest, you will be happy to hear
+about significant improvements of the fixture and hook system but also
+what's in store for a better integration with tox, an important tool
+that allows testing across different Python versions.&lt;/p&gt;
+&lt;p&gt;In June, 2016 more than 25 Pythonistas from around the globe gather in
+Freiburg, Germany to work on the release and set the path for future
+developments of the core framework. This is a big step forward for the
+project made posssible by a fundraiser that reached 108% of it's
+initial goal.&lt;/p&gt;
+&lt;p&gt;I will share our experiences from the developer sprint while they are
+still fresh and explain why these events are incredibly important for
+a community and give advice on how to organize your own.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raphael Pierzina</dc:creator><pubDate>Thu, 04 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-04:europython-2016/pytest-30.html</guid></item></channel></rss>

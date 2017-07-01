@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 19 May 2017 00:00:00 +0000</lastBuildDate><item><title>Snek in the Browser</title><link>http://pyvideo.org/pycon-us-2017/snek-in-the-browser.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python is a decades-strong language with a large community, and it has a
+solid foundation on the server, but it doesn't have a good user story in
+the browser... until now.&lt;/p&gt;
+&lt;p&gt;The BeeWare project aims to bring Python natively, everywhere. Using a
+combination of the Batavia and Toga projects, we can develop and
+entirely native web experience in Python, no JavaScript required.&lt;/p&gt;
+&lt;p&gt;During this talk, you will learn about how the BeeWare project has built
+Batavia, a Python virtual machine in JavaScript; and Toga, a
+multi-platform native API wrapper; a combination of which can be used to
+build an entire web platform in Python only.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katie McLaughlin</dc:creator><pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-19:pycon-us-2017/snek-in-the-browser.html</guid></item><item><title>The Power ⚡️ and Responsibility 😓 of Unicode Adoption ✨</title><link>http://pyvideo.org/kiwi-pycon-2016/the-power-and-responsibility-of-unicode-adoption.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Katie McLaughlin
+&lt;a class="reference external" href="https://kiwi.pycon.org/schedule/presentation/107/"&gt;https://kiwi.pycon.org/schedule/presentation/107/&lt;/a&gt;
+Unicode is the way of the future, with thousands of hours being spent to incorporate it into legacy systems. But what about Emoji adoption? From the technical to the social aspects, this talk will cover why the extended character set provided by the Unicode standard needs to be treated with responsibility by users and platforms alike.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katie McLaughlin</dc:creator><pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-11:kiwi-pycon-2016/the-power-and-responsibility-of-unicode-adoption.html</guid></item><item><title>The Power ⚡️ and Responsibility 😓 of Unicode Adoption ✨</title><link>http://pyvideo.org/pycon-au-2016/pycon-au-2016-the-power-and-responsibility-of-unicode-adoption.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Katie McLaughlin
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/19/view_talk"&gt;https://2016.pycon-au.org/schedule/19/view_talk&lt;/a&gt;
+Communication is difficult.&lt;/p&gt;
+&lt;p&gt;Whether it’s between humans or machines or a combination of the two, trying to translate meaningful information is a lossy process.&lt;/p&gt;
+&lt;p&gt;Converting languages to use the new Unicode standard is hard, but once it's in place, you get this marvellous feature-add: Emoji compatibility. No longer do we have to make faces with symbols, or be forced to platform-specific emoticons! Rejoice in the extended character set!&lt;/p&gt;
+&lt;p&gt;Emoji has a rich history as a way to allow the communication of ideas in a reduced amount of data, and dates back to a time where this was important: SMS communications in Japan. However, as social networks feverishly try and clamber into this bandwagon, their implementations of the standard create more issues with miscommunication that aren't already possible with a 12x12 pictograph. 🤔&lt;/p&gt;
+&lt;p&gt;From the technical to the social aspects, mojibake and UTF-{8,16,32}, this talk will cover why the extended character set provided by the Unicode standard needs to be treated with responsibility by users and platforms alike.&lt;/p&gt;
+&lt;p&gt;This talk is not just an excuse to see what parts of the conference stack can’t handle Unicode, I promise. 😇&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katie McLaughlin</dc:creator><pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-15:pycon-au-2016/pycon-au-2016-the-power-and-responsibility-of-unicode-adoption.html</guid></item><item><title>The Power ⚡️ and Responsibility 😓 of Unicode Adoption ✨</title><link>http://pyvideo.org/djangocon-europe-2016/the-power-and-responsibility-of-unicode-adoption.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/11"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/the-power-and-responsibility-of-unicode-adoption-by-katie-mclaughlin/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katie McLaughlin</dc:creator><pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-03-31:djangocon-europe-2016/the-power-and-responsibility-of-unicode-adoption.html</guid><category>django</category></item><item><title>Build a Better Hat Rack: All Contributions Welcome</title><link>http://pyvideo.org/pycon-us-2016/katie-mclaughlin-build-a-better-hat-rack-all-contributions-welcome-pycon-2016.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Katie McLaughlin&lt;/p&gt;
+&lt;p&gt;By default, we idolise a 'open source contributor' as a person that contributes code. But what about all the other things in the software development lifecycle - documentation, code review, marketing, support - so much work happens without proper acknowledgement. Learn just how every little bit helps, and how to find and acknowledge these contributions.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katie McLaughlin</dc:creator><pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-05-31:pycon-us-2016/katie-mclaughlin-build-a-better-hat-rack-all-contributions-welcome-pycon-2016.html</guid></item><item><title>Build a Better Hat Rack: All Contributions Welcome</title><link>http://pyvideo.org/kiwi-pycon-2015/build-a-better-hat-rack-all-contributions-welcom.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;We have many ways of reporting and recognising our code contributions in
+open source projects, but often it is the work we do outside of code
+commits themselves that get forgotten and unattributed. Hours of code
+review, documentation, testing; organising of meetups and volunteering
+at conferences; even just brainstorming and talking about things - how
+much of these have you done without accreditation?&lt;/p&gt;
+&lt;p&gt;During this session, we will discuss what it means to contribute to open
+source projects, what constitutes a non-code contribution, steps we can
+take to recognise the work of our peers, and how projects can better
+encourage non-code participation through recognition and
+acknowledgement.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katie McLaughlin</dc:creator><pubDate>Sat, 05 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-05:kiwi-pycon-2015/build-a-better-hat-rack-all-contributions-welcom.html</guid></item><item><title>Build a Better Hat Rack: All Contributions Welcome</title><link>http://pyvideo.org/pycon-au-2015/build-a-better-hat-rack-all-contributions-welcom-0.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;We have many ways of reporting and recognising our code contributions in
+open source projects, but often it is the work we do outside of code
+commits themselves that get forgotten and unattributed. Hours of code
+review, documentation, testing; organising of meetups and volunteering
+at conferences; even just brainstorming and talking about things - how
+much of these have you done without accreditation?&lt;/p&gt;
+&lt;p&gt;During this session, we will discuss what it means to contribute to open
+source projects, what constitutes a non-code contribution, steps we can
+take to recognise the work of our peers, and how projects can better
+encourage non-code participation through recognition and
+acknowledgement.&lt;/p&gt;
+&lt;div class="section" id="labhr-is-an-original-concept-by-leslie-hawthorn-http-hawthornlandings-org-2015-02-13-a-place-to-hang-your-hat"&gt;
+&lt;h4&gt;LABHR is an original concept by Leslie Hawthorn, &lt;a class="reference external" href="http://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/"&gt;http://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/&lt;/a&gt;&lt;/h4&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katie McLaughlin</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-04:pycon-au-2015/build-a-better-hat-rack-all-contributions-welcom-0.html</guid></item></channel></rss>

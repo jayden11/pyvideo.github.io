@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 13 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>Tales from Python Security</title><link>http://pyvideo.org/pycon-pl-2016/tales-from-python-security.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk explores how programming changes your brain, and the power of
+translating the free software mindset to domains outside of open source.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christian Heimes</dc:creator><pubDate>Thu, 13 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-13:pycon-pl-2016/tales-from-python-security.html</guid></item><item><title>Core Developers' Panel</title><link>http://pyvideo.org/europython-2016/core-developers-panel.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Victor Stinner/Larry Hastings/Christian Heimes/Yury Selivanov - Core Developers' Panel
+[EuroPython 2016]
+[20 July 2016]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Q&amp;amp;A session with Python core developers&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Victor Stinner</dc:creator><pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-01:europython-2016/core-developers-panel.html</guid></item><item><title>File descriptors, Unix sockets and other POSIX wizardry</title><link>http://pyvideo.org/pycon-us-2016/christian-heimes-file-descriptors-unix-sockets-and-other-posix-wizardry-pycon-2016.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Christian Heimes&lt;/p&gt;
+&lt;p&gt;Have you ever wondered how the OS manages open files and network connections, what this 'file descriptor' thing actually is all about, or what's so special about Unix sockets? In my talk I will give you a quick tour into the I/O layer and process model of Unix-like operating systems. You will learn how to securely identify and efficiently share resources between processes.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christian Heimes</dc:creator><pubDate>Mon, 30 May 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-05-30:pycon-us-2016/christian-heimes-file-descriptors-unix-sockets-and-other-posix-wizardry-pycon-2016.html</guid></item><item><title>Schwachstellen und Sicherheitslücken</title><link>http://pyvideo.org/pycon-de-2013/schwachstellen-und-sicherheitslucken.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In diesem Vortrag werden eine Reihe von Schwachstellen behandeln, die in
+der Vergangenheit in CPython oder prominenten Pythonprojekten
+aufgetreten sind. Als Python Kernentwickler und Mitglied des Python
+Security Response Team war ich in die Analyse und Korrektur, zum Teil
+auch in die Entdeckung dieser Lücken involviert.&lt;/p&gt;
+&lt;p&gt;Jede Schwachstelle zählt exemplarisch einen oder mehrere typische
+Programmierfehler auf. Mit Hilfe von best practices wird gezeigt, wie
+man sicher mit Betriebsystemressourcen und Daten aus nicht
+vertrauenswürdigen Quellen umgeht, kryptographischen Algorithmen korrekt
+verwendet und side channel attacks verhindert.&lt;/p&gt;
+&lt;p&gt;Desweiteren werde ich einen Ausblick auf geplante Änderungen und
+sicherheitsrelevante Verbesserungen in Python 3.4 geben. Jenseits von
+Python wird der Vortrag auch beleuchten, welche Fallstricke und Probleme
+Compiler, Betriebsysteme und moderne CPU-Architekturen mit sich bringen
+und sie sogar die Entwicklung sicherer Software verhindern können.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christian Heimes</dc:creator><pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-15:pycon-de-2013/schwachstellen-und-sicherheitslucken.html</guid></item></channel></rss>

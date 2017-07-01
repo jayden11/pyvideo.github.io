@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_brad-montgomery.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-07-27T00:00:00+00:00</updated><entry><title>My Adventures with Mock</title><link href="http://pyvideo.org/pyohio-2013/my-adventures-with-mock.html" rel="alternate"></link><published>2013-07-28T00:00:00+00:00</published><updated>2013-07-28T00:00:00+00:00</updated><author><name>Brad Montgomery</name></author><id>tag:pyvideo.org,2013-07-28:pyohio-2013/my-adventures-with-mock.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Mock is a powerful testing library. Unfortunately, there seems to be a
+trend of confusion and distress among those who are just getting started
+with Mock. This talk will highlight my experience learning Mock, and
+will list a few of the patterns that I've seen emerge during my quest
+for 100% test coverage.&lt;/p&gt;
+</summary><category term="talk"></category></entry><entry><title>Warming up to Graphs</title><link href="http://pyvideo.org/pyohio-2014/warming-up-to-graphs.html" rel="alternate"></link><published>2014-07-27T00:00:00+00:00</published><updated>2014-07-27T00:00:00+00:00</updated><author><name>Brad Montgomery</name></author><id>tag:pyvideo.org,2014-07-27:pyohio-2014/warming-up-to-graphs.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Graphs are a powerful data structure and are increasingly relevant for
+today's social and data-centric applications. This talk offers a brief
+overview of Graphs, Graph theory, and explores scenarios where using a
+Graph database (particularly Neo4j) can be of great benefit.&lt;/p&gt;
+</summary><category term="talk"></category></entry></feed>

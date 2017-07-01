@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_paul-logston.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-11-13T00:00:00+00:00</updated><entry><title>Living in a land down dunder</title><link href="http://pyvideo.org/pycon-ca-2016/living-in-a-land-down-dunder.html" rel="alternate"></link><published>2016-11-13T00:00:00+00:00</published><updated>2016-11-13T00:00:00+00:00</updated><author><name>Paul Logston</name></author><id>tag:pyvideo.org,2016-11-13:pycon-ca-2016/living-in-a-land-down-dunder.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will cover some common uses of dunder methods and some not so
+common. It will also lightly cover the process of editing the C Python
+source in order to add your own operator/dunder method combo to the C
+Python interpreter.&lt;/p&gt;
+&lt;div class="section" id="paul-logston-bio"&gt;
+&lt;h4&gt;Paul Logston Bio&lt;/h4&gt;
+&lt;p&gt;Paul Logston is a New York City based developer. He helps organize and
+run the NYC Python, Learn Python NYC, and PyGotham events that take
+place in NYC. He works at 15Five and teaches at Columbia.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>State of the PyVideo</title><link href="http://pyvideo.org/pycon-ca-2016/state-of-the-pyvideo.html" rel="alternate"></link><published>2016-11-12T00:00:00+00:00</published><updated>2016-11-12T00:00:00+00:00</updated><author><name>Paul Logston</name></author><id>tag:pyvideo.org,2016-11-12:pycon-ca-2016/state-of-the-pyvideo.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyVideo.org has undergone significant changes over the past year. It's
+changed teams, infrastructure, and looks. Come hear about the progress
+the PyVideo team is making and the direction in which PyVideo is headed.&lt;/p&gt;
+&lt;div class="section" id="paul-logston-bio"&gt;
+&lt;h4&gt;Paul Logston Bio&lt;/h4&gt;
+&lt;p&gt;Paul Logston is a New York City based developer. He helps organize and
+run the NYC Python, Learn Python NYC, and PyGotham events that take
+place in NYC. He works at 15Five and teaches at Columbia.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Supercomputing with python</title><link href="http://pyvideo.org/pycaribbean-2016/supercomputing-with-python.html" rel="alternate"></link><published>2016-02-20T00:00:00+00:00</published><updated>2016-02-20T00:00:00+00:00</updated><author><name>Paul Logston</name></author><id>tag:pyvideo.org,2016-02-20:pycaribbean-2016/supercomputing-with-python.html</id><summary type="html"></summary></entry></feed>

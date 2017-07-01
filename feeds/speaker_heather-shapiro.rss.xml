@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 12 Nov 2016 00:00:00 +0000</lastBuildDate><item><title>An end to boring data with visualizations</title><link>http://pyvideo.org/pycon-ca-2016/an-end-to-boring-data-with-visualizations.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Put the days of trying to decipher meaning from boring spreadsheets
+behind you. Visualize data to give greater and immediate meaning to all
+those numbers with Python. Explore the variety of options available for
+data visualization in Python using different libraries and understand
+which ones excel for what type of task. Create maps, statistical graphs
+and more detailed or interactive visualization&lt;/p&gt;
+&lt;div class="section" id="heather-shapiro-bio"&gt;
+&lt;h4&gt;Heather Shapiro Bio&lt;/h4&gt;
+&lt;p&gt;Heather Shapiro is a Technical Evangelist in Microsoft's Developer
+Experience group, where she educates developers on Microsoft's new
+technologies. In this role, Heather works closely with students and
+developer communities across the North East to understand the newest
+technologies and architectures. Prior to becoming a Technical
+Evangelist, Heather completed her undergraduate degree at Duke
+University and graduated in the Class of 2015. She received Bachelors of
+Science in Computer Science and Statistical Science, and completed an
+Honors Thesis about employing Bayesian Approaches to Understanding Music
+Popularity. Heather blogs at &lt;a class="reference external" href="http://microheather.com"&gt;http://microheather.com&lt;/a&gt; and tweets at
+&lt;a class="reference external" href="http://twitter.com/microheather"&gt;http://twitter.com/microheather&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heather Shapiro</dc:creator><pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-12:pycon-ca-2016/an-end-to-boring-data-with-visualizations.html</guid></item><item><title>An End to Boring Data with Visualizations</title><link>http://pyvideo.org/pygotham-2016/an-end-to-boring-data-with-visualizations.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Put the days of trying to decipher meaning from boring spreadsheets behind you. Visualize data to give greater and immediate meaning to all those numbers with Python. Explore the variety of options available for data visualization in Python using different libraries and understand which ones excel for what type of task. Create maps, statistical graphs and more detailed or interactive visualizations that can also be used on the web, ideal to take that blog post to a whole new level.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Heather Shapiro</dc:creator><pubDate>Sat, 16 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-16:pygotham-2016/an-end-to-boring-data-with-visualizations.html</guid></item></channel></rss>

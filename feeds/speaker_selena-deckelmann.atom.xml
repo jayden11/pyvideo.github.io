@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_selena-deckelmann.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-04-13T00:00:00+00:00</updated><entry><title>DjangoCon 2012 Keynote - Selena Deckelmann</title><link href="http://pyvideo.org/djangocon-2012/djangocon-2012-keynote-selena-deckelmann.html" rel="alternate"></link><published>2012-10-06T00:00:00+00:00</published><updated>2012-10-06T00:00:00+00:00</updated><author><name>Selena Deckelmann</name></author><id>tag:pyvideo.org,2012-10-06:djangocon-2012/djangocon-2012-keynote-selena-deckelmann.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;DjangoCon 2012 Keynote - Selena Deckelmann&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>What teachers really need from us</title><link href="http://pyvideo.org/pycon-us-2013/what-teachers-really-need-from-us.html" rel="alternate"></link><published>2013-03-16T00:00:00+00:00</published><updated>2013-03-16T00:00:00+00:00</updated><author><name>Selena Deckelmann</name></author><id>tag:pyvideo.org,2013-03-16:pycon-us-2013/what-teachers-really-need-from-us.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;We need great resources and great teachers for the next generation of
+software developers. Hear about what teachers say about what they need
+and what the Python community has to offer K-12 classrooms.&lt;/p&gt;
+</summary><category term="talk"></category></entry><entry><title>Sane schema migrations with Alembic and SQLAlchemy</title><link href="http://pyvideo.org/pycon-us-2014/sane-schema-migrations-with-alembic-and-sqlalchem.html" rel="alternate"></link><published>2014-04-13T00:00:00+00:00</published><updated>2014-04-13T00:00:00+00:00</updated><author><name>Selena Deckelmann</name></author><id>tag:pyvideo.org,2014-04-13:pycon-us-2014/sane-schema-migrations-with-alembic-and-sqlalchem.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Working with developers on schema migrations is a perennial challenge
+for DBAs and developers. Devs tend to like a &amp;quot;set it and forget it&amp;quot;
+tool. This talk discusses the strategies used to move from a pure SQL
+and shell migration system to using SQLAlchemy and alembic for maximum
+DBA and developer happiness.&lt;/p&gt;
+</summary></entry><entry><title>The Python Pipeline: Why you should reach out to local teachers</title><link href="http://pyvideo.org/pycon-us-2014/the-python-pipeline-why-you-should-reach-out-to.html" rel="alternate"></link><published>2014-04-12T00:00:00+00:00</published><updated>2014-04-12T00:00:00+00:00</updated><author><name>Selena Deckelmann</name></author><id>tag:pyvideo.org,2014-04-12:pycon-us-2014/the-python-pipeline-why-you-should-reach-out-to.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;There's a gaping hole in Python advocacy: K-12 educators. These are the
+front-lines of CS education, especially in countries where attending
+primary and secondary school is compulsory, and resources to teach CS
+are stretched very thin. Learn what we have to offer CS teachers and how
+you can help in your local area.&lt;/p&gt;
+</summary></entry></feed>

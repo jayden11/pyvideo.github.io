@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_andrei-soldatenko.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-01-31T00:00:00+00:00</updated><entry><title>Разработка высокопроизводительныx функциональных тестов для Django проектов</title><link href="http://pyvideo.org/pycon-belarus-2015/razrabotka-vysokoproizvoditelnyx-funktsionalnykh-testov-dlia-django-proektov.html" rel="alternate"></link><published>2015-01-31T00:00:00+00:00</published><updated>2015-01-31T00:00:00+00:00</updated><author><name>Андрей Солдатенко</name></author><id>tag:pyvideo.org,2015-01-31:pycon-belarus-2015/razrabotka-vysokoproizvoditelnyx-funktsionalnykh-testov-dlia-django-proektov.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;способы уменьшения время выполнения тестов;&lt;/li&gt;
+&lt;li&gt;шаблоны проектирования быстрых тестов;&lt;/li&gt;
+&lt;li&gt;генерация тестовых данных;&lt;/li&gt;
+&lt;li&gt;как правильно дебажить тесты;&lt;/li&gt;
+&lt;li&gt;параллельное выполнения тестов;&lt;/li&gt;
+&lt;li&gt;Sause Labs;&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry></feed>

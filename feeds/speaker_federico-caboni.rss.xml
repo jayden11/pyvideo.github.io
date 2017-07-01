@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 24 Jul 2011 00:00:00 +0000</lastBuildDate><item><title>Healthcare process management in Python: a use case</title><link>http://pyvideo.org/europython-2011/healthcare-process-management-in-python-a-use-ca.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Federico Caboni - 24 June 2011 in &amp;quot;Track Tagliatelle &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this talk I'll describe our successful experience in introducing
+Python into a system for blood collection tube labeling in laboratory
+and hospital environments, based on IHE Technical Frameworks –the
+industry standard for modeling and streamlining healthcare processes–
+and designed to avoid human errors and ensure process traceability.&lt;/p&gt;
+&lt;p&gt;During the talk I will explain why we chose Python in the first place,
+how we've been able to leverage the language's features and
+characteristics for our specific field and what problems and limitations
+we faced.&lt;/p&gt;
+&lt;p&gt;I will show specific instances of Python usage in different parts of the
+project, including a low-level driver for laboratory automation
+machinery, an asynchronous messaging module, the implementation of
+IHE-compliant actors and the inevitable end-user web application,
+implemented with Django.&lt;/p&gt;
+&lt;p&gt;Using Python greatly helped us in building our system, allowing very
+rapid prototyping cycles for both hardware and software, but during the
+talk I'll also point out what we found was missing, and what would be
+nice to have to ensure Python has its proper place as a viable platform
+for designing streamlined healthcare workflows based on established
+international standards.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Federico Caboni</dc:creator><pubDate>Sun, 24 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-24:europython-2011/healthcare-process-management-in-python-a-use-ca.html</guid><category>asynchronous</category><category>prototyping</category><category>web</category></item><item><title>Gestione di processi clinici in Python: un caso d'uso</title><link>http://pyvideo.org/europython-2011/gestione-di-processi-clinici-in-python-un-caso-d.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Federico Caboni - 23 June 2011 in &amp;quot;Track Italiana Big
+Mac &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In questo seminario descriverò la nostra esperienza positiva d'uso di
+Python per lo sviluppo di un sistema di etichettatura di provette per il
+prelievo sanguigno in ambito di laboratorio e corsia ospedaliera. Il
+sistema è basato sui Technical Framework di IHE –standard industriale
+per la modellazione di processi clinici– ed è progettato per ridurre gli
+errori umani e assicurare la tracciabilità del processo.&lt;/p&gt;
+&lt;p&gt;Durante il seminario spiegherò perché abbiamo scelto Python in primo
+luogo, e descriverò come siamo stati in grado di sfruttarne le
+caratteristiche peculiari nello specifico del nostro dominio, esaminando
+le limitazioni e i problemi affrontati.&lt;/p&gt;
+&lt;p&gt;Mostrerò specifici casi d'uso di Python in parti differenti del
+progetto, come un driver di basso livello per la gestione della robotica
+di laboratorio, un modulo di comunicazione asincrona, l'implementazione
+di attori IHE, e l'inevitabile applicazione web sviluppata in Django.&lt;/p&gt;
+&lt;p&gt;Usare Python ha contribuito enormemente alla progettazione del sistema,
+e ci ha consentito di adottare cicli di prototipizzazione estremamente
+rapidi, sia per l'hardware che per il software. Durante il seminario
+parlerò anche di ciò che, secondo noi, ancora manca perché Python possa
+guadagnarsi il posto che gli spetta come piattaforma credibile per
+l'implementazione di processi clinici basati sui più diffusi standard
+internazionali.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Federico Caboni</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-18:europython-2011/gestione-di-processi-clinici-in-python-un-caso-d.html</guid><category>ci</category><category>framework</category><category>web</category></item></channel></rss>

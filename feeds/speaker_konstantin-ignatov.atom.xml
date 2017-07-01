@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_konstantin-ignatov.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-09-18T00:00:00+00:00</updated><entry><title>Превращаем свалку проектов в экосистему при помощи setuptools</title><link href="http://pyvideo.org/pycon-russia-2015/prevrashchaem-svalku-proektov-v-ekosistemu-pri-pomoshchi-setuptools.html" rel="alternate"></link><published>2015-09-18T00:00:00+00:00</published><updated>2015-09-18T00:00:00+00:00</updated><author><name>Konstantin Ignatov</name></author><id>tag:pyvideo.org,2015-09-18:pycon-russia-2015/prevrashchaem-svalku-proektov-v-ekosistemu-pri-pomoshchi-setuptools.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;В докладе мы рассмотрим создание файлов setup.py и setup.cfg.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Используем edit-mode при установке пакетов&lt;/li&gt;
+&lt;li&gt;Простой setup.py для простого проекта&lt;/li&gt;
+&lt;li&gt;Устанавливаем дополнительные файлы&lt;/li&gt;
+&lt;li&gt;Строим расширения&lt;/li&gt;
+&lt;li&gt;Делаем сложные зависимости&lt;/li&gt;
+&lt;li&gt;Добавляем консольные скрипты&lt;/li&gt;
+&lt;li&gt;Включаем поддержку плагинов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Будет полезно всем, кто: разрабатывает &amp;gt;1 взаимодействующих друг с другом проектов, копирует в каждый новый проект папку с любимыми функциями, устанавливает проекты при помощи git clone, copy, rsync и тп,
+не пишет расширения из-за сложности развёртывания, пишет консольные скрипты при помощи def main()... if name == '__main__'...,
+избегает пакетирования, потому что проекты слишком зависят друг от друга (изменения в одном приводят к изменениям везде).&lt;/p&gt;
+</summary></entry></feed>

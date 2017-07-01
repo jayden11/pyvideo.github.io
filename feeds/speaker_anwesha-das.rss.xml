@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate><item><title>Trends in licensesin Python ecosystem by Anwesha Das 38:47</title><link>http://pyvideo.org/pycon-india-2016/trends-in-licensesin-python-ecosystem-by-anwesha-das-3847.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anwesha Das</dc:creator><pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-23:pycon-india-2016/trends-in-licensesin-python-ecosystem-by-anwesha-das-3847.html</guid></item><item><title>The trends in choosing licenses in Python ecosystem</title><link>http://pyvideo.org/pycon-us-2017/the-trends-in-choosing-licenses-in-python-ecosystem.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The software licenses are the permissions over copyrighted software. The
+permission and/ grant includes the grant to use, to redistribute, to
+prepare derivative works etc. These software licenses also set forth the
+limitations over these aforesaid rights. The software licenses basically
+marks the boundary for the usage of the code.&lt;/p&gt;
+&lt;p&gt;Therefore from the above mentioned introduction it very clear that it is
+very important for developers to choose the license for their code
+wisely and correctly.&lt;/p&gt;
+&lt;p&gt;PyPI, the Python Package Index is a repository of software for the
+Python programming language. There are currently 80000+ packages there.&lt;/p&gt;
+&lt;p&gt;This talk will go through the licenses of the top 2500 packages. We will
+see the trend of choosing a license for these top Python projects. We
+will discuss the licenses individually, compare them with each other.
+the advantages and disadvantages of the same.&lt;/p&gt;
+&lt;p&gt;We will further explain that why a license and/or licenses are being
+favored by the developers.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anwesha Das</dc:creator><pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-20:pycon-us-2017/the-trends-in-choosing-licenses-in-python-ecosystem.html</guid></item></channel></rss>

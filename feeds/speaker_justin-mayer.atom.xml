@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_justin-mayer.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-11-05T00:00:00+00:00</updated><entry><title>Deploy your Python Application Without Getting Owned</title><link href="http://pyvideo.org/pycon-ireland-2016/deploy-your-python-application-without-getting-owned.html" rel="alternate"></link><published>2016-11-05T00:00:00+00:00</published><updated>2016-11-05T00:00:00+00:00</updated><author><name>Justin Mayer</name></author><id>tag:pyvideo.org,2016-11-05:pycon-ireland-2016/deploy-your-python-application-without-getting-owned.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;With severe security vulnerabilities on the rise, it’s critical for
+Python developers to understand how to protect their applications.
+Unattended upgrades, automated TLS certificate provisioning, enhanced
+web security, and other measures can significantly reduce the attack
+surface of the systems upon which our applications run.&lt;/p&gt;
+</summary></entry><entry><title>DevOps Security — Protect Your Application From Being Owned</title><link href="http://pyvideo.org/pycon-italia-2015/devops-security-protect-your-application-from-b.html" rel="alternate"></link><published>2015-06-09T00:00:00+00:00</published><updated>2015-06-09T00:00:00+00:00</updated><author><name>Justin Mayer</name></author><id>tag:pyvideo.org,2015-06-09:pycon-italia-2015/devops-security-protect-your-application-from-b.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In addition to outlining strategies for proper configuration of
+unattended security updates, this talk briefly covers how to maintain
+the security of Docker container environments, where the above
+strategies generally do not apply. In such environments, an entirely
+different approach and workflow is usually required.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Heartbleed, Shellshock, POODLE, GHOST… With severe security
+vulnerabilities on the rise, how can developers protect the systems used
+to deploy their applications? Unattended package upgrades can help, but
+only if they are properly set up and monitored. Some of the challenges
+include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;many popular virtual private server (VPS) providers do not install or
+enable automatic security updates in their OS images&lt;/li&gt;
+&lt;li&gt;“unattended-upgrades” on Debian-based systems installs automatic
+security updates but does not actually enable them, potentially
+putting unsuspecting users at risk&lt;/li&gt;
+&lt;li&gt;some security updates (e.g., kernel-level) require a server reboot to
+take effect, and yet users often don’t realize this until the next
+time they log in, resulting in a system that is vulnerable in the
+interim&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry></feed>

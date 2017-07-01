@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 07 Aug 2015 00:00:00 +0000</lastBuildDate><item><title>Plone 5 and how to use machine learning with it.</title><link>http://pyvideo.org/europython-2015/plone-5-and-how-to-use-machine-learning-with-it.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Ramon Navarro Bosch - Plone 5 and how to use machine learning with it.
+[EuroPython 2015]
+[22 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Plone is a Document Management System and Content Management System
+that has been in the Python scope for more than 10 years.&lt;/p&gt;
+&lt;p&gt;Plone 5’s features allow us to manage content, define various kinds of
+content and provide a nice useful UI to work on semantic web
+technologies. In this talk we are going to explain our approach for
+using Plone with the Python machine learning toolkit sklearn (http
+://scikit-learn.org/stable/) to enable clusterization and
+classification of content using a scalable content management system.
+We will also add some sophisticated front-end gloss using the new
+functionalities on frontend development added on Plone 5 and some real
+use cases of CMS/DMS with machine learning using sklean and solr.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ramon Navarro Bosch</dc:creator><pubDate>Fri, 07 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-07:europython-2015/plone-5-and-how-to-use-machine-learning-with-it.html</guid></item></channel></rss>

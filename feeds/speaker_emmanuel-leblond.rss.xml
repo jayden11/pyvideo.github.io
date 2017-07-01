@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 15 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>À la découverte du bytecode CPython !</title><link>http://pyvideo.org/pycon-fr-2016/a-la-decouverte-du-bytecode-cpython.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Le bytecode est au cœur de l'interpréteur CPython. Toutefois du point du vu de l'utilisateur il se limite à l'apparition (horripilante ?) de fichiers &amp;quot;.pyc&amp;quot; une fois un code exécuté.
+Dans cette présentation, nous partirons à l'aventure au cœur de la machine virtuelle CPython
+pour découvrir ce qui l'anime tout en répondant à des questions existentielles comme&amp;nbsp;:
+- d'où viennent et à quoi servent les fameux fichiers .pyc
+- à quoi ressemble le bytecode et quels sont ses instructions les plus courantes
+- comment le désassembler grâce au module &lt;cite&gt;dis&lt;/cite&gt;
+- comment tout cela fonctionne-t-il au sein du système de piles et de frames de la machine virtuelle CPython
+- et bien sûr à quoi tout cela peut-il bien servir dans la vrai vie ;-)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Emmanuel Leblond</dc:creator><pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-15:pycon-fr-2016/a-la-decouverte-du-bytecode-cpython.html</guid></item></channel></rss>

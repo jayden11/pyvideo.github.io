@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_leonardo-rochael.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-03-15T00:00:00+00:00</updated><entry><title>sys._current_frames(): Take real-time x-rays of your software for fun and performance</title><link href="http://pyvideo.org/pycon-us-2013/sys_current_frames-take-real-time-x-rays-of-y-0.html" rel="alternate"></link><published>2013-03-15T00:00:00+00:00</published><updated>2013-03-15T00:00:00+00:00</updated><author><name>Leonardo Rochael</name></author><id>tag:pyvideo.org,2013-03-15:pycon-us-2013/sys_current_frames-take-real-time-x-rays-of-y-0.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Profiling is hard. Trying to understand what is making your system slow
+can be very frustrating. Specially when it happens only when your
+clients are looking, but not you.&lt;/p&gt;
+</summary><category term="talk"></category></entry></feed>

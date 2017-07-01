@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_ed-rivas.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-12T00:00:00+00:00</updated><entry><title>Spicing up Django: An Introduction to Mezzanine CMS</title><link href="http://pyvideo.org/djangocon-us-2016/spicing-up-django-an-introduction-to-mezzanine-cms.html" rel="alternate"></link><published>2016-08-12T00:00:00+00:00</published><updated>2016-08-12T00:00:00+00:00</updated><author><name>Ed Rivas</name></author><id>tag:pyvideo.org,2016-08-12:djangocon-us-2016/spicing-up-django-an-introduction-to-mezzanine-cms.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Spicing up Django: An Introduction to Mezzanine CMS by Ed Rivas&lt;/p&gt;
+&lt;p&gt;Mezzanine CMS is a popular content-management solution for Django. With a rich set of built-in features and following Django’s batteries-included approach, it can supercharge your new or existing apps for content-oriented sites.&lt;/p&gt;
+&lt;p&gt;In this talk we will explore the features that Mezzanine provides by default, and how they take care of many common content-management tasks (page creation and editing, maintaining a blog, WYSIWYG editors, SEO, and more).&lt;/p&gt;
+&lt;p&gt;We will also take an existing Django app and convert it into a fully integrated Mezzanine application. You’ll be surprised at how much of the work has been done for you, and how your existing Django skills will let you hit the ground running when working with Mezzanine.&lt;/p&gt;
+&lt;p&gt;Outline:&lt;/p&gt;
+&lt;p&gt;Mezzanine tour
+Basic integration of custom models
+Advanced integration of custom models
+Working with templates
+Review
+Questions (if time permits)&lt;/p&gt;
+</summary></entry></feed>

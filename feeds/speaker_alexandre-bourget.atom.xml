@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_alexandre-bourget.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2012-11-11T00:00:00+00:00</updated><entry><title>Gevent-socketio, cross-framework real-time web live demo</title><link href="http://pyvideo.org/pycon-ca-2012/gevent-socketio-cross-framework-real-time-web-li.html" rel="alternate"></link><published>2012-11-11T00:00:00+00:00</published><updated>2012-11-11T00:00:00+00:00</updated><author><name>Alexandre Bourget</name></author><id>tag:pyvideo.org,2012-11-11:pycon-ca-2012/gevent-socketio-cross-framework-real-time-web-li.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;gevent-socketio is the cross-framework python implementation of the
+Socket.IO protocol, based on Gevent's cooperative concurrency model.
+Alexandre Bourget is the maintainer of the project.&lt;/p&gt;
+&lt;p&gt;In this talk, we're going to have a live demo of its capabilities
+building Google Analytics in 45 minutes, with some AngularJS on the
+front-end, and other cool integrations.&lt;/p&gt;
+&lt;p&gt;Black chocolate will await you.&lt;/p&gt;
+</summary></entry></feed>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_martin-schweitzer.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-15T00:00:00+00:00</updated><entry><title>Python for Bioinformatics for learning Python</title><link href="http://pyvideo.org/pycon-au-2016/python-for-bioinformatics-for-learning-python.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Martin Schweitzer</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/python-for-bioinformatics-for-learning-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Martin Schweitzer
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/89/view_talk"&gt;https://2016.pycon-au.org/schedule/89/view_talk&lt;/a&gt;
+In this talk I will explain why Python is an excellent language for learning about bioinformatics.  I intend to make a compelling case in favour of using Python as a first language for teaching bioinformatics.&lt;/p&gt;
+&lt;p&gt;I will then explain how bioinformatics can be a useful vehicle for learning Python.&lt;/p&gt;
+&lt;p&gt;Finally, we will visit a site where users can learn both Python and bioinformatics in a stimulating, engaging and motivating environment.&lt;/p&gt;
+&lt;p&gt;The talk will assume familiarity with Python, but does not assume any knowledge of bioinformatics.&lt;/p&gt;
+</summary></entry></feed>

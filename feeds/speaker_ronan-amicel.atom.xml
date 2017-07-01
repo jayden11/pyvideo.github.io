@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_ronan-amicel.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-11-30T00:00:00+00:00</updated><entry><title>Rendez votre code Python plus beau !</title><link href="http://pyvideo.org/pycon-fr-2013/rendez-votre-code-python-plus-beau.html" rel="alternate"></link><published>2013-11-30T00:00:00+00:00</published><updated>2013-11-30T00:00:00+00:00</updated><author><name>Ronan Amicel</name></author><id>tag:pyvideo.org,2013-11-30:pycon-fr-2013/rendez-votre-code-python-plus-beau.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Apprenez à mieux utiliser les possibilités de Python pour rendre votre
+code plus élégant, plus lisible, plus performant. Avec de nombreux
+exemples que vous pourrez appliquer dès demain sur votre propre code.&lt;/p&gt;
+</summary></entry></feed>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_mjumbe-poe.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2012-09-04T00:00:00+00:00</updated><entry><title>Creating Dynamic Applications with Django and Backbone.js</title><link href="http://pyvideo.org/djangocon-2012/creating-dynamic-applications-with-django-and-bac.html" rel="alternate"></link><published>2012-09-04T00:00:00+00:00</published><updated>2012-09-04T00:00:00+00:00</updated><author><name>Mjumbe Poe</name></author><id>tag:pyvideo.org,2012-09-04:djangocon-2012/creating-dynamic-applications-with-django-and-bac.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;See how well Django and Backbone.js can complement each other, and learn
+a few best-practices for building dynamic web applications using these
+tools in concert.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django is a great tool for creating powerful database-driven web
+applications quickly. The ORM, form processing, the admin interface, and
+wealth of community applications make Django the right tool for a number
+of situations.&lt;/p&gt;
+&lt;p&gt;One thing that Django doesn’t do well is make it terribly easy to create
+highly-interactive, dynamic interfaces. There are solutions that people
+are working on. This talk will be about using Django with Backbone.js to
+help create these interfaces. Backbone.js is a Javascript framework
+that, in many ways, sees the world in the same way as Django. These two
+tools can complement each other nicely.&lt;/p&gt;
+&lt;p&gt;Topics:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Similarities and differences in how the two frameworks see the world&lt;/li&gt;
+&lt;li&gt;Creating REST interfaces with Django REST Framework&lt;/li&gt;
+&lt;li&gt;Tools to ease the interface between Django and Backbone&lt;/li&gt;
+&lt;li&gt;Templating strategies&lt;/li&gt;
+&lt;li&gt;Shortcomings and implications on accessibility&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="django"></category></entry></feed>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 28 Nov 2014 00:00:00 +0000</lastBuildDate><item><title>IPython-Reveal.js Attacks Again, But Now... It Is Alive!</title><link>http://pyvideo.org/scipy-2014/ipython-revealjs-attacks-again-but-now-it-is.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Recently, the IPython Notebook has began to be used for presentations in
+several conferences. But, there is not a full-featured and executable
+IPython presentation tool available. So, we developed a new
+Reveal.js-powered live slideshow extension, designed specifically to be
+used directly from the notebook and to be as executable as the notebook
+is, and also powered with great features.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Detailed Abtract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In the last years, &lt;strong&gt;IPython&lt;/strong&gt;, a comprehensive environment for
+interactive and exploratory computing, has arose as must-have
+application to run in the daily scientific &lt;em&gt;work-flow&lt;/em&gt; because provides,
+not only an enhanced interactive &lt;strong&gt;Python&lt;/strong&gt; shell (terminal or
+qt-based), but also a very popular interactive browser-based
+&lt;strong&gt;notebook&lt;/strong&gt; with an unimaginable scope.&lt;/p&gt;
+&lt;p&gt;The presentation of our research results and the teaching of our
+knownledge are very important steps in the scientific research
+work-flow, and recently, the &lt;strong&gt;IPython Notebook&lt;/strong&gt; has began to be used
+for all kind of oral communications in several conferences, curses,
+classes and bootcamps.&lt;/p&gt;
+&lt;p&gt;Despite the fact that we can present our talks with the IPython notebook
+itself or through a static &lt;strong&gt;Reveal.js&lt;/strong&gt;-based slideshow powered by
+IPython.nbconvert (a tool we presented at SciPy 2013), there is not a
+&lt;strong&gt;full-featured&lt;/strong&gt; and &lt;strong&gt;executable&lt;/strong&gt; (live) IPython presentation tool
+available. So, we developed a new &lt;strong&gt;IPython&lt;/strong&gt;-&lt;strong&gt;Reveal.js&lt;/strong&gt;-powered
+&lt;strong&gt;live&lt;/strong&gt; slideshow extension, designed specifically to be used
+&lt;strong&gt;directly&lt;/strong&gt; from the IPython notebook and to be as &lt;strong&gt;executable&lt;/strong&gt; as
+the notebook is (because deep inside, it is the notebook itself but
+rendered with another face), and also powered with a lot of &lt;em&gt;features&lt;/em&gt;
+to address the most common tasks performed during the oral presentation
+and spreading of our scientific work, such as: main slides and nested
+slides, fragments views, transitions, themes and speaker notes.&lt;/p&gt;
+&lt;p&gt;To conclude, we have developed a new visualization tool for the
+&lt;strong&gt;IPython Notebook&lt;/strong&gt;, suited for the final steps of our scientific
+research &lt;em&gt;work-flow&lt;/em&gt;, providing us with, not only an enhanced and new
+experience in the oral presentation and communication of our results,
+but also with a super-powerful tool at teaching time, helping us to
+easily tranfer our concepts and spread our knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Important&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can see the extension in action in the following video link:
+&lt;a class="reference external" href="http://www.youtube.com/watch?v=Pc-1FS0l2vg"&gt;http://www.youtube.com/watch?v=Pc-1FS0l2vg&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;And you can also see the source code of the extension at the following
+repository: &lt;a class="reference external" href="http://github.com/damianavila/live_reveal"&gt;http://github.com/damianavila/live_reveal&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Damián Avila</dc:creator><pubDate>Sun, 13 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-13:scipy-2014/ipython-revealjs-attacks-again-but-now-it-is.html</guid></item><item><title>Introducción A Jupyter</title><link>http://pyvideo.org/pycon-ar-2014/introduccion-a-jupyter.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Damián Avila</dc:creator><pubDate>Fri, 28 Nov 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-11-28:pycon-ar-2014/introduccion-a-jupyter.html</guid></item><item><title>22. Quantitative Finance Research with Python: Statistical arbitrage.</title><link>http://pyvideo.org/pycon-us-2012/22-quantitative-finance-research-with-python-st.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Recently, many projects have been developed to make Python useful to do
+quantitative finance research. We proposed us not only to show you the
+integration of these tools to perform time series analysis and modeling,
+but also to show you how we can search for cointegrated pairs of asset
+and set up a statistical arbitrage strategy - pairs trading - to get
+potential profit from financial market.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Damián Avila</dc:creator><pubDate>Sun, 11 Mar 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-03-11:pycon-us-2012/22-quantitative-finance-research-with-python-st.html</guid></item></channel></rss>

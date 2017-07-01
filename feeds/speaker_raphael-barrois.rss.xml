@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Tue, 13 May 2014 00:00:00 +0000</lastBuildDate><item><title>Designing and maintaining distributed systems</title><link>http://pyvideo.org/djangocon-europe-2014/designing-and-maintaining-distributed-systems.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;As projects grow, they tend to mutate into complex, monolithic
+applications ; that's where the team splits them into loosely coupled
+modules talking over the network (a.k.a a service-oriented
+architecture).&lt;/p&gt;
+&lt;p&gt;This talk will focus on a few key points for a successful &amp;quot;monolithic to
+distributed&amp;quot; transition:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Setting clean and logical boundaries between services&lt;/li&gt;
+&lt;li&gt;Providing a seamless integration to service users (SSO, merging
+views, ...)&lt;/li&gt;
+&lt;li&gt;Performing a smooth transition when a service turns remote&lt;/li&gt;
+&lt;li&gt;Choosing suitable protocols for communications (spoiler alert: avoid
+SOAP/XML :p)&lt;/li&gt;
+&lt;li&gt;Stubbing versus integration testing, tips and tricks&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raphaël Barrois</dc:creator><pubDate>Tue, 13 May 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-05-13:djangocon-europe-2014/designing-and-maintaining-distributed-systems.html</guid></item></channel></rss>

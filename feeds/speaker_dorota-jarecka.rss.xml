@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 09 Jul 2014 00:00:00 +0000</lastBuildDate><item><title>Object oriented Programming with NumPy using CPython &amp; PyPy</title><link>http://pyvideo.org/scipy-2014/object-oriented-programming-with-numpy-using-cpyt.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In the paper we compare object-oriented implementations of an advection
+algorithm written in Python, C++ and modern FORTRAN. The main angles of
+comparison are code brevity and syntax clarity (and hence
+maintainability and auditability) as well as performance. A notable
+performance gain when switching from CPython to PyPy will be
+exemplified, and the reasons for it will be briefly explained.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In the paper we compare object-oriented implementations of an advection
+algorithm written in Python, C++ and modern FORTRAN. The MPDATA
+advection algorithm (Multidimensional Positive-Definite Advective
+Transport Algorithm) used as a core of weather, ocean and climate
+modelling systems serves as an example.&lt;/p&gt;
+&lt;p&gt;In the context of scientific programming, employment of object-oriented
+programming (OOP) techniques may help to improve code readability, and
+hence its auditability and maintainability. OOP offers, in particular,
+the possibility to reproduce in the program code the mathematical
+&amp;quot;blackboard abstractions&amp;quot; used in the literature. We compare how the
+choice of a particular language influences syntax clarity, code length
+and the performance: CPU time and memory usage.&lt;/p&gt;
+&lt;p&gt;The Python implementation of MPDATA is based on NumPy. Its performance
+is compared with C++/Blitz++ and FORTRAN implementations. A notable
+performance gain when switching from the standard CPython to PyPy will
+be exemplified, and the reasons for it will be briefly explained.
+Discussion of other selected solutions for improving the NumPy’s
+relatively poor performance will be also presented.&lt;/p&gt;
+&lt;p&gt;This talk will describe and extend on the key findings presented in
+&lt;a class="reference external" href="http://arxiv.org/abs/1301.1334"&gt;http://arxiv.org/abs/1301.1334&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dorota Jarecka</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-09:scipy-2014/object-oriented-programming-with-numpy-using-cpyt.html</guid><category>pypy</category></item></channel></rss>

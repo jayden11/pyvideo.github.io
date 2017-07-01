@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Mon, 03 Aug 2015 00:00:00 +0000</lastBuildDate><item><title>Why Salt?</title><link>http://pyvideo.org/pycon-au-2015/why-salt.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;DevOps is a growing movement in the tech community, and configuration
+management is a huge necessity for doing DevOps well. In this talk,
+we'll be talking about why you should use the SaltStack configuration
+management platform in your environment, versus the other major
+platforms of Puppet and Chef.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">aurynn shaw</dc:creator><pubDate>Mon, 03 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-03:pycon-au-2015/why-salt.html</guid></item><item><title>Let's Learn Twisted Python</title><link>http://pyvideo.org/pycon-us-2014/lets-learn-twisted-python.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Let's Learn Twisted is a short 3-hour tutorial covering the basics of
+writing a Twisted Python client-server application using Twisted
+Python's Factory and Endpoint APIs to construct a peer-to-peer chat and
+RPC network.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aurynn Shaw</dc:creator><pubDate>Sat, 12 Apr 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-04-12:pycon-us-2014/lets-learn-twisted-python.html</guid></item></channel></rss>

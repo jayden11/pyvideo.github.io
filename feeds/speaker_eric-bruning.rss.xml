@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 19 Jul 2012 00:00:00 +0000</lastBuildDate><item><title>Can Python's web and science communities run concurrently?</title><link>http://pyvideo.org/scipy-2012/can-pythons-web-and-science-communities-run-conc.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python has been adopted by many disciplinary communities, showing its
+adaptability to many problems. Scientific computing and web development
+are two examples of such communities. These might, at first glance, seem
+to share few common interests, especially at the level of algorithms and
+libraries. However, at the level of integrated practice in
+time-constrained academic environments, where framework development is
+less valued than research and teaching productivity, ease of adoption of
+tools from each of these communities can be tremendously valuable.&lt;/p&gt;
+&lt;p&gt;Using examples from the recently-deployed West Texas Lightning Mapping
+Array, which is processed and visualized in real-time, this paper will
+argue that a shared sense, among disciplinary communities, of the
+essence of how one deploys Python for specific problems is beneficial
+for continuation and growth of Python's status as a go-to language for
+practitioners in academic settings.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Bruning</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-07-19:scipy-2012/can-pythons-web-and-science-communities-run-conc.html</guid><category>Meteorology Mini-Symposia</category></item></channel></rss>

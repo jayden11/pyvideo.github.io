@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 03 Oct 2014 00:00:00 +0000</lastBuildDate><item><title>How Python helps writing documentation less painful</title><link>http://pyvideo.org/pycon-za-2014/how-python-helps-writing-documentation-less-painf.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;We all know writing documentation is an arduous exercise. We all know
+how useless and frustrating out-of-date or just plain incorrect
+documentation is. In this talk I'd like to demonstrate how Python can
+help make writing documentation, keeping it up-to-date and verifying its
+validity. It can be surprising what happens when other people discover
+your little-but-well-documented API. Python has several built-in
+concepts and standard tools to help making this easier, such as
+docstrings, help(), Sphinx, Sphinx plugins, Doctests and generating
+documentation off tests themselves. I'll focus on not only using Sphinx
+as a tool, but also on how to structure your application/library/tool so
+as to make writing accurate documentation as simple as possible.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nickolas Grigoriadis</dc:creator><pubDate>Fri, 03 Oct 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-10-03:pycon-za-2014/how-python-helps-writing-documentation-less-painf.html</guid><category>pyconza</category><category>pyconza2014</category></item></channel></rss>

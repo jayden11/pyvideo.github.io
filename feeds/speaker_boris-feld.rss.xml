@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 16 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>Mock considered harmful</title><link>http://pyvideo.org/pycon-fr-2015/mock-considered-harmful.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Très connu pour ses excellents travaux et ses dons, le marabout Boris
+peut soigner vos tests de leurs mocks, garantir le retour du statut vert
+aimé, réduire la durée de vos tests et améliorer vos relations avec
+votre sysadmin. Succès garanti. Paiement en bitcoin.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Les mocks, si puissants, mais un grand pouvoir implique un grand chaos
+le plus souvent.&lt;/p&gt;
+&lt;p&gt;Les mocks font souvent plus de mal que de bien et ralentissent le
+développement en couplant les tests et l'implémentation. Les mocks, bien
+utilisée avec d'autres bonne pratique tel que l'inversion de dépendance
+peuvent au contraire rendre votre code plus facilement testable et ainsi
+plus robuste.&lt;/p&gt;
+&lt;p&gt;Les mocks gardent une grande importance dans les tests applicatifs et
+avec les bonnes pratiques, vous pouvez en tirer le maximum.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Boris FELD</dc:creator><pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-18:pycon-fr-2015/mock-considered-harmful.html</guid></item><item><title>from Sync to to Async Python, a AsyncIO migration</title><link>http://pyvideo.org/pycon-fr-2015/from-sync-to-to-async-python-a-asyncio-migration.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Migration d'une librairie de communication réseau depuis Tornado
+(python2.7) vers Asyncio (python3.4)&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Présentation de la migration de ZeroServices
+(&lt;a class="reference external" href="https://github.com/Lothiraldan/ZeroServices"&gt;https://github.com/Lothiraldan/ZeroServices&lt;/a&gt;) depuis Tornado en python2
+vers Tornado en python3.4 en passant par une version synchrone en
+python3.&lt;/p&gt;
+&lt;p&gt;Présentation des raisons de chacun de ces changements, les challenges
+qu'ils ont représenté, les compromis faits et les points positifs de ces
+changements et les évolutions dans le design.&lt;/p&gt;
+&lt;p&gt;Un gros focus sera mis sur l'intérêt d'asyncio dans une application
+réseau, l'intérêt de l'unicode partout en python3 et sur comment tester
+une application asynchrone en asyncio.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Boris FELD</dc:creator><pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-17:pycon-fr-2015/from-sync-to-to-async-python-a-asyncio-migration.html</guid></item><item><title>Micro-services késako</title><link>http://pyvideo.org/pycon-fr-2015/micro-services-kesako.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Les micro-services sont la nouvelle mode ces derniers temps, qu'est-ce
+qui se cache derrière ce &amp;quot;nouveau&amp;quot; terme et comment en faire en Python ?&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Les micro-services sont la nouvelle mode de ces derniers temps, mais
+qu'est-ce que terme représente donc bien ? Encore un truc à la mode du
+style full-stack developer ou DevOps ? C'est un peu lié effectivement.&lt;/p&gt;
+&lt;p&gt;Comment peut se définir une architecture micro-service, quels sont ses
+avantages, ses inconvénients. Quels sont les challenges à adresser avant
+de pouvoir passer à une architecture micro-services, quand ne faut-il ne
+pas y passer ? Quel sont les différences avec les architectures SOA
+&amp;quot;classiques&amp;quot; ?&lt;/p&gt;
+&lt;p&gt;Je donnerais un début de réponse à vos interrogations et vous
+présenterais des solutions pour développer des micro-services en Python
+grâce à principalement ZeroServices.&lt;/p&gt;
+&lt;p&gt;Ce talk se concentrera surtout sur la partie théorique puisque les
+micro- services sont une architecture agnostique sur le language de
+programmation.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Boris FELD</dc:creator><pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-17:pycon-fr-2015/micro-services-kesako.html</guid></item><item><title>Monkey-Patcher Python en production</title><link>http://pyvideo.org/pycon-fr-2016/monkey-patcher-python-en-production.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Monkey-Patching est difficile, le faire en production l’est encore plus ! Il faut trouver comment entrer dans Python et faire attention aux pièges tendus en ces eaux souvent peu explorées. Nous vous présenterons les solutions que nous avons trouvées et ce qu’il faut éviter de faire quand on monkey-patch du code en production.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Boris FELD</dc:creator><pubDate>Sun, 16 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-16:pycon-fr-2016/monkey-patcher-python-en-production.html</guid></item><item><title>ZeroServices</title><link>http://pyvideo.org/pycon-fr-2013/zeroservices.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Qui n'a jamais eut besoin d'écrire des services réseau qui se découvrent
+automatiquement, qui détectent la perte d'un des service, qui permet la
+diffusion en unicast, en multicast ou broadcast ? ZeroServices vous
+simplifie la vie. ZeroServices est construit autour de ZeroMQ et de
+Tornado et vous permet d'écrire des services réseau sans efforts.&lt;/p&gt;
+&lt;p&gt;Présentation de ZeroServices, une libraire python écrite grâce au couple
+Tornado/ZeroMQ qui facilite l'écriture de services réseaux
+décentralisés. Grâce à la découverte automatique des pairs, à l'émission
+de message en unicast et/ou multicast et à la détection des services
+morts, ZeroServices permet d'écrire des services réseaux facilement et
+rapidement.&lt;/p&gt;
+&lt;p&gt;Cette conférence présentera ZeroServices, détaillera le fonctionnement
+et enfin présentera les capacités de la librairie avec une démo de
+service de chat.&lt;/p&gt;
+&lt;p&gt;ZeroServices est hébergé ici :
+&lt;a class="reference external" href="https://github.com/Lothiraldan/ZeroServices"&gt;https://github.com/Lothiraldan/ZeroServices&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Boris Feld</dc:creator><pubDate>Sat, 30 Nov 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-11-30:pycon-fr-2013/zeroservices.html</guid></item></channel></rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_romain-guillebert.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-02T00:00:00+00:00</updated><entry><title>PyPy and the future of the Python ecosystem</title><link href="http://pyvideo.org/europython-2015/pypy-and-the-future-of-the-python-ecosystem.html" rel="alternate"></link><published>2015-08-02T00:00:00+00:00</published><updated>2015-08-02T00:00:00+00:00</updated><author><name>Romain Guillebert</name></author><id>tag:pyvideo.org,2015-08-02:europython-2015/pypy-and-the-future-of-the-python-ecosystem.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Romain Guillebert - PyPy and the future of the Python ecosystem
+[EuroPython 2015]
+[24 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Python has a great versatile ecosystem but the competition is getting
+better, this talk is about how Python can keep up with these new
+languages and where PyPy fits into this.&lt;/p&gt;
+&lt;p&gt;Recently we've seen the rise of new technologies like Go, Node.js and
+Julia, those have the ability to build an ecosystem on a clean slate
+and thus be better than Python in some aspects. What would it take to
+be as good as those technologies on those aspects without loosing all
+the things we love about Python ? This talk will describe my perfect
+future where Python keeps getting better, gets to keep it's great set
+of libraries and where PyPy fits in that future.&lt;/p&gt;
+</summary></entry><entry><title>PyPy status talk (a.k.a.: no no, PyPy is not dead)</title><link href="http://pyvideo.org/europython-2014/pypy-status-talk-aka-no-no-pypy-is-not-dead.html" rel="alternate"></link><published>2014-07-22T00:00:00+00:00</published><updated>2014-07-22T00:00:00+00:00</updated><author><name>Romain Guillebert</name></author><id>tag:pyvideo.org,2014-07-22:europython-2014/pypy-status-talk-aka-no-no-pypy-is-not-dead.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The current status of PyPy, with a particular focus on what happened in
+the last two years, since the last EuroPython PyPy talk. We will give a
+brief overview of the current speed and the on-going development efforts
+on the JIT, the GC, NumPy, Python 3 compatibility, CFFI, STM...&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this talk we will present the current status of PyPy, with a
+particular focus on what happened in the last two years, since the last
+EuroPython PyPy talk. We will give an overview of the current speed and
+the on-going development efforts, including but not limited to:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;the status of the Just-in-Time Compiler (JIT) and PyPy performance in
+general;&lt;/li&gt;
+&lt;li&gt;the improvements on the Garbage Collector (GC);&lt;/li&gt;
+&lt;li&gt;the status of the NumPy and Python 3 compatibility subprojects;&lt;/li&gt;
+&lt;li&gt;CFFI, which aims to be a general C interface mechanism for both
+CPython and PyPy;&lt;/li&gt;
+&lt;li&gt;a quick overview of the STM (Software Transactional Memory) research
+project, which aims at solving the GIL problem.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is the &amp;quot;general PyPy status talk&amp;quot; that we give every year at
+EuroPython (except last year; hence the &amp;quot;no no, PyPy is not dead&amp;quot; part
+of the title of this talk).&lt;/p&gt;
+</summary></entry><entry><title>PyPy : une implémentation rapide de Python</title><link href="http://pyvideo.org/pycon-fr-2013/pypy-une-implementation-rapide-de-python.html" rel="alternate"></link><published>2013-11-30T00:00:00+00:00</published><updated>2013-11-30T00:00:00+00:00</updated><author><name>Romain Guillebert</name></author><id>tag:pyvideo.org,2013-11-30:pycon-fr-2013/pypy-une-implementation-rapide-de-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;PyPy est l'implémentation la plus rapide de Python, cette présentation
+répondra à deux questions &amp;quot;Comment fonctionne PyPy ?&amp;quot; et &amp;quot;Qu'est-ce que
+PyPy peut m'apporter ?&amp;quot;.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;L'histoire de PyPy (un projet vieux de 10 ans)&lt;/li&gt;
+&lt;li&gt;Comment fonctionne PyPy ?&lt;/li&gt;
+&lt;li&gt;Qu'est-ce que PyPy peut m'apporter ?&lt;/li&gt;
+&lt;li&gt;Le futur de PyPy&lt;/li&gt;
+&lt;li&gt;Questions&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry></feed>

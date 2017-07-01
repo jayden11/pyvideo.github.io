@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate><item><title>Test-Driven Data Analysis</title><link>http://pyvideo.org/pydata-london-2017/test-driven-data-analysis.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Filmed at PyData London 2017&lt;/p&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;p&gt;This tutorial will introduce attendees to the concepts of test-driven data analysis and practical, hands-on use of the tdda library (available from Github and PyPI) for:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;writing reference tests, and&lt;/li&gt;
+&lt;li&gt;generating and verifying constraints from data, using Pandas data frames.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;TDDA aims to bring the ideas and benefits of test-driven development to the arena of data analysis, augmenting those ideas as appropriate. There are two central planks of TDDA at present:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;The idea of a reference test, which is a lot like a system or integration test for an analytical process&lt;/li&gt;
+&lt;li&gt;The idea of using constraints to verify input, intermediate and output data for/from analytical processes.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The tdda library (available from Github and PyPI) provides tooling support for both of these, major current components being:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Support for writing tests, under unittest or pytest, than involve comparison of complex objects (e.g. graphs, dataframes etc.), possibly with variable components, and regenerating reference (&amp;quot;expected&amp;quot;) results easily when they have changed (after verification!)&lt;/li&gt;
+&lt;li&gt;Support for automatically generating suggested constraints from example datasets/data frames (including Pandas DataFrames)&lt;/li&gt;
+&lt;li&gt;Support for verifying a dataset/dataframe against a set of constraints&lt;/li&gt;
+&lt;li&gt;Support for generating regular expressions from example strings, for possible use as constraints (or otherwise). (It will probably do more by May, but these things are there now!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This tutorial will introduce users to using these ideas through the tdda library. Users will be able to use their own analytical processes and/or datasets, or to use example data that will be provided.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nick Radcliffe</dc:creator><pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-05:pydata-london-2017/test-driven-data-analysis.html</guid></item></channel></rss>

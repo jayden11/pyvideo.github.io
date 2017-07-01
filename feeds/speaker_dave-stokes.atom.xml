@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_dave-stokes.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-10-03T00:00:00+00:00</updated><entry><title>MySQL 5.6</title><link href="http://pyvideo.org/djangocon-2013/mysql-5-6.html" rel="alternate"></link><published>2013-10-03T00:00:00+00:00</published><updated>2013-10-03T00:00:00+00:00</updated><author><name>Dave Stokes</name></author><id>tag:pyvideo.org,2013-10-03:djangocon-2013/mysql-5-6.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;MySQL 5.6&lt;/p&gt;
+&lt;p&gt;Wednesday 11:30 a.m.--12:15 p.m.&lt;/p&gt;
+&lt;p&gt;Audience level: Novice&lt;/p&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;p&gt;MySQL is the ubiquitous web database but many developers are unaware of
+new features found in the later releases. This session will cover
+improvements in the optimizer, Global Transactions IDs, dynamic DDL, and
+more. Abstract&lt;/p&gt;
+&lt;p&gt;MySQL is the ubiquitous web database but many developers are unaware of
+new features found in the later releases. This session will cover the
+advancements MySQL has made in version 5.6 and show how these new
+features can make your life easier. See how Global Transaction IDs and
+simple Python scripts (MySQL Utilities) can be used to replicate slave
+servers from a master and provide automatic fail over if the master
+dies. Discover how the improved optimizer provides better performance,
+handles sub-queries, and provides more tuning possibilities. New dynamic
+table definitions make schema changes less onerous. Discover how a NoSQL
+interface via memcached provides key/value pair access to data and SQL
+access. The new performance schema provides more insights into system
+tuning to eek out the last bit of performance. All that and more in less
+than an hour.&lt;/p&gt;
+</summary></entry></feed>

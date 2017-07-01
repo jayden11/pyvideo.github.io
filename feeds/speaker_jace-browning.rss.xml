@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 02 Aug 2015 00:00:00 +0000</lastBuildDate><item><title>Synchronizing Objects to YAML using Black Magic</title><link>http://pyvideo.org/pyohio-2015/synchronizing-objects-to-yaml-using-black-magic.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lately, I've been running into many situations where I'd like to store
+program configuration and/or data in version control. YORM was born to
+provide automatic, bidirectional, and human-friendly mappings of Python
+object attributes to YAML files. In order to explain the inner-workings
+of this library, I'll be diving into some of the less common features of
+Python that I learned along the way.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jace Browning</dc:creator><pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-02:pyohio-2015/synchronizing-objects-to-yaml-using-black-magic.html</guid><category>talk</category></item></channel></rss>

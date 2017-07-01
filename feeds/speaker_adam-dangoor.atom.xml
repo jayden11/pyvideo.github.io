@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_adam-dangoor.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-04T00:00:00+00:00</updated><entry><title>Another pair of eyes: Reviewing code well</title><link href="http://pyvideo.org/europython-2016/another-pair-of-eyes-reviewing-code-well.html" rel="alternate"></link><published>2016-08-04T00:00:00+00:00</published><updated>2016-08-04T00:00:00+00:00</updated><author><name>Adam Dangoor</name></author><id>tag:pyvideo.org,2016-08-04:europython-2016/another-pair-of-eyes-reviewing-code-well.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Adam Dangoor - Another pair of eyes: Reviewing code well
+[EuroPython 2016]
+[21 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/another-pair-of-eyes-reviewing-code-well"&gt;https://ep2016.europython.eu//conference/talks/another-pair-of-eyes-reviewing-code-well&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Many of us have been taught to code, but we know that software
+engineering jobs are so much more than that.
+Programmers can spend 5-6 hours per week on code review, but doing
+that is almost ignored as a skill.
+How many of us have seen poor reviews, which don't catch bugs, make
+people feel bad or block important features being merged?
+An introduction to what code review is alongside guidelines, tips,
+tricks and anecdotes to help make your code reviews be as productive
+as possible.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Many of us have been taught to code, but we know that software
+engineering is so much more than that. Programmers can spend 5-6 hours
+per week on code review, but doing that is almost ignored as a skill,
+and instead it is often treated as a rote chore.&lt;/p&gt;
+&lt;p&gt;How many of us have seen poor reviews - those which upset people,
+don't catch bugs or block important features being merged? This talk
+explores the social and technical impacts of various code review
+practices as well as helpful tooling. The goal is to provide a
+structure to help improve how teams review code, and to introduce the
+costs and benefits of code review to anyone unfamiliar with the
+practice.&lt;/p&gt;
+&lt;p&gt;There are always trade-offs to be made - e.g. think how costly a
+security flaw in this code could be to your organisation - perhaps
+intense scrutiny is not necessary for prototypes soon to be thrown
+away. It is useful to consider the  trade-offs in order to optimise
+for a particular problem domain. Perhaps right now it is more
+important to look for issues with maintainability, functionality or
+performance.&lt;/p&gt;
+&lt;p&gt;I talk about how some fantastic code reviews from mentors, colleagues
+and strangers have helped me become a better programmer and team
+member, as well as occasions where code review has been detrimental by
+slowing things down and causing arguments.&lt;/p&gt;
+&lt;p&gt;This is aimed at everyone from beginner to advanced programmers.&lt;/p&gt;
+</summary></entry></feed>

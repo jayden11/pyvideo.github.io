@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_performance.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-09T00:00:00+00:00</updated><entry><title>Improving PySpark Performance Spark performance beyond the JVM</title><link href="http://pyvideo.org/pydata-dc-2016/improving-pyspark-performance-spark-performance-beyond-the-jvm.html" rel="alternate"></link><published>2016-10-09T00:00:00+00:00</published><updated>2016-10-09T00:00:00+00:00</updated><author><name>Holden Karau</name></author><id>tag:pyvideo.org,2016-10-09:pydata-dc-2016/improving-pyspark-performance-spark-performance-beyond-the-jvm.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData DC 2016&lt;/p&gt;
+&lt;p&gt;This talk assumes you have a basic understanding of Spark (if not check out one of the intro videos on youtube - &lt;a class="reference external" href="http://bit.ly/hkPySpark"&gt;http://bit.ly/hkPySpark&lt;/a&gt; ) and takes us beyond the standard intro to explore what makes PySpark fast and how to best scale our PySpark jobs. If you are using Python and Spark together and want to get faster jobs - this is the talk for you.&lt;/p&gt;
+&lt;p&gt;This talk covers a number of important topics for making scalable Apache Spark programs - from RDD re-use to considerations for working with Key/Value data, why avoiding groupByKey is important and more. We also include Python specific considerations, like the difference between DataFrames and traditional RDDs with Python. Looking at Spark 2.0; we examine how to mix functional transformations with relational queries for performance using the new (to PySpark) Dataset API. We also explore some tricks to intermix Python and JVM code for cases where the performance overhead is too high.&lt;/p&gt;
+</summary><category term="jvm"></category><category term="performance"></category><category term="pyspark"></category><category term="spark"></category></entry><entry><title>Airspeed Velocity: Tracking Performance of Python Projects Over Their Lifetime</title><link href="http://pyvideo.org/scipy-2014/airspeed-velocity-tracking-performance-of-python.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Michael Droettboom</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/airspeed-velocity-tracking-performance-of-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Presenting &amp;quot;airspeed velocity&amp;quot;, a new tool for benchmarking Python
+software projects over their lifetime.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;As software projects mature and become more robust against bugs, they
+may also lose some of their runtime performance and memory efficiency.
+Airspeed velocity (asv) is a new tool to help find those performance
+degradations before they get out to end users. It automatically runs a
+benchmark suite over a range of commits in a project's repository, as
+well as in a matrix of configurations of Python versions and other
+dependencies. The results, possibly from multiple machines, are then
+collated and published in a web-based report.&lt;/p&gt;
+&lt;p&gt;While filling a similar role as projects such as &amp;quot;codespeed&amp;quot; and
+&amp;quot;vbench&amp;quot;, airspeed velocity is designed to be easier to set up and
+deploy, since it uses only a DVCS repository as its database and the
+report is deployable to any static web server.&lt;/p&gt;
+&lt;p&gt;Airspeed velocity provides an easy way to write benchmarks, inspired by
+&amp;quot;nosetests&amp;quot; and &amp;quot;py.test&amp;quot;. It is possible to benchmark runtime, memory
+usage, or any user-defined metric.&lt;/p&gt;
+&lt;p&gt;Other features either implemented or in the planning stages include:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;tight integration with existing profiling tools, such as RunSnakeRun&lt;/li&gt;
+&lt;li&gt;parameterized benchmarks to investigate how an algorithm scales with
+data size&lt;/li&gt;
+&lt;li&gt;automatic search for degrading commits&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The presentation will provide a demo of airspeed velocity, and discuss
+its early usage for benchmarking the astropy project.&lt;/p&gt;
+</summary><category term="benchmarking"></category><category term="performance"></category></entry><entry><title>PyPy and Unladen Swallow: Making your Python Fast</title><link href="http://pyvideo.org/chipy/pypy-and-unladen-swallow--making-your-python-fast.html" rel="alternate"></link><published>2010-07-08T00:00:00+00:00</published><updated>2010-07-08T00:00:00+00:00</updated><author><name>Alex Gaynor</name></author><id>tag:pyvideo.org,2010-07-08:chipy/pypy-and-unladen-swallow--making-your-python-fast.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python has a reputation for being a bit slow, but it doesn't have to be
+that way. This talk will cover why Python is slow, and what two of the
+most exciting virtual machines are doing about it.&lt;/p&gt;
+</summary><category term="chipy"></category><category term="optimization"></category><category term="performance"></category><category term="pypy"></category><category term="unladenswallow"></category></entry><entry><title>Alice in Performanceland -- Down the Rabbit Hole with Frank Wiles</title><link href="http://pyvideo.org/djangocon-2010/djangocon-2010--alice-in-performanceland----down-.html" rel="alternate"></link><published>2010-09-09T00:00:00+00:00</published><updated>2010-09-09T00:00:00+00:00</updated><author><name>Frank Wiles</name></author><id>tag:pyvideo.org,2010-09-09:djangocon-2010/djangocon-2010--alice-in-performanceland----down-.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;While pre-optimization is often the root of all evil, knowing how to
+think about performance and scalability are important skills for any
+geek. Learn about all the knobs you didn't know you could or should
+tweak.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Code profiling and dealing with your database aren't the only places to
+find performance gains. Performance and scalability are holistic
+endeavors.&lt;/p&gt;
+</summary><category term="djangocon"></category><category term="djangocon2010"></category><category term="optimization"></category><category term="performance"></category><category term="scaling"></category></entry><entry><title>First steps in performance tuning</title><link href="http://pyvideo.org/djangocon-2010/djangocon-2010--first-steps-in-performance-tuning.html" rel="alternate"></link><published>2010-09-08T00:00:00+00:00</published><updated>2010-09-08T00:00:00+00:00</updated><author><name>Dr. Russell Keith-Magee</name></author><id>tag:pyvideo.org,2010-09-08:djangocon-2010/djangocon-2010--first-steps-in-performance-tuning.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;So you've built your first Django website. You've tested it, you've
+released it, you've got a few customers... and a few more... and a few
+more... and now you're having performance problems. What do you do? This
+talk will look at some performance problems you may experience, and show
+some simple (and creative) ways to squeeze the most out of your server
+hardware.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;The talk is especially aimed at web developers that haven't got a
+background in computing, but nonetheless have fallen into a web
+development role. Topics will include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;How to work out that you have a problem&lt;/li&gt;
+&lt;li&gt;Getting computation out of the request/response loop&lt;/li&gt;
+&lt;li&gt;Caching -- when, how, and problems that caching introduces&lt;/li&gt;
+&lt;li&gt;Setting up a webserver to avoid deadlocks&lt;/li&gt;
+&lt;li&gt;Likely causes (and solutions) of database bottlenecks&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="djangocon"></category><category term="djangocon2010"></category><category term="performance"></category><category term="tuning"></category></entry><entry><title>Monkeying Around with Python at New Relic</title><link href="http://pyvideo.org/djangocon-2011/djangocon-2011--monkeying-around-with-python-at-n.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Graham Dumpleton</name></author><id>tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--monkeying-around-with-python-at-n.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Monkeying around with Python at New Relic&lt;/p&gt;
+&lt;p&gt;Presented by Graham Dumpleton&lt;/p&gt;
+&lt;p&gt;This session will cover the challenges of creating a production
+application performance monitoring system for Python. It includes an
+overview of the architecture of the system, as well as how it hooks into
+Django and captures details about web transactions, database
+transactions, memcache requests, exceptions and much more.&lt;/p&gt;
+</summary><category term="djangocon"></category><category term="djangocon2011"></category><category term="exceptions"></category><category term="memcache"></category><category term="monitoring"></category><category term="performance"></category><category term="requests"></category><category term="transactions"></category></entry><entry><title>A Python Takeover</title><link href="http://pyvideo.org/europython-2011/a-python-takeover.html" rel="alternate"></link><published>2011-07-24T00:00:00+00:00</published><updated>2011-07-24T00:00:00+00:00</updated><author><name>Mark Ramm-Christensen</name></author><id>tag:pyvideo.org,2011-07-24:europython-2011/a-python-takeover.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Mark Ramm-Christensen - 23 June 2011 in &amp;quot;Track
+Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Two years ago I started working on SourceForge with a couple of python
+developers. Back then the site was written in PHP and was in some ways
+buried in technical debt. Everything is different today, we have a
+complete set of tools for Ticket tracking, Wiki documents, Git,
+Mercurial, Subversion, and IRC - all written in Python, and now released
+as open source software.&lt;/p&gt;
+&lt;p&gt;This is the story of how the amazing libraries, tools, and talent in the
+Python web community has radically changed an established company, and
+allowed us to reinvent sourceforge.net.&lt;/p&gt;
+&lt;p&gt;This talk will go over our tech stack, talk about the libraries we used,
+the way we solved scalability, internationalization, and performance
+issues issues. Ultimately we know that without python, we could not have
+built a flexible plugin based system, and gotten permission from
+management to open source it.&lt;/p&gt;
+</summary><category term="community"></category><category term="performance"></category><category term="python,"></category><category term="sourceforge"></category><category term="web"></category></entry><entry><title>Derivatives Analytics with Python &amp; Numpy</title><link href="http://pyvideo.org/europython-2011/derivatives-analytics-with-python-numpy.html" rel="alternate"></link><published>2011-07-24T00:00:00+00:00</published><updated>2011-07-24T00:00:00+00:00</updated><author><name>Dr. Yves J. Hilpisch</name></author><id>tag:pyvideo.org,2011-07-24:europython-2011/derivatives-analytics-with-python-numpy.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Yves Hilpisch - 24 June 2011 in &amp;quot;Track Ravioli &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In financial engineering and derivatives analytics, C/C++/Java/VBA and
+other languages are still dominating. Visixion has developed with
+&lt;a class="reference external" href="http://www.dexision.com"&gt;DEXISION&lt;/a&gt; the first full fledged
+derivatives analytics suite with Python as core language.&lt;/p&gt;
+&lt;p&gt;DEXISION is an On Demand application that is completely Open Source
+based (LAMP). For derivatives valuation, it uses Monte Carlo simulation
+- an approach known to be computationally demanding. However, Numpy
+provides the performance and functionality needed to implement financial
+simulation algorithms in a fast and compact manner.&lt;/p&gt;
+&lt;p&gt;The talk illustrates the architecture of our analytics suite and
+demonstrates how to implement fast and compact simulation algorithms
+with Python and Numpy. The talk shows that the Python/Numpy combination
+reaches sufficient speed for productive financial applications -
+something still widely doubted.&lt;/p&gt;
+&lt;p&gt;[No prerequisites.]&lt;/p&gt;
+</summary><category term="architecture"></category><category term="engineering"></category><category term="numpy"></category><category term="performance"></category><category term="simulation"></category></entry><entry><title>High-performance computing on gamer PCs</title><link href="http://pyvideo.org/europython-2011/high-performance-computing-on-gamer-pcs.html" rel="alternate"></link><published>2011-07-21T00:00:00+00:00</published><updated>2011-07-21T00:00:00+00:00</updated><author><name>Yann Le Du</name></author><id>tag:pyvideo.org,2011-07-21:europython-2011/high-performance-computing-on-gamer-pcs.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Yann Le Du - 20 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In Electron Paramagnetic Resonance Imaging, we are faced with a
+deconvolution problem that has a strong impact on the image actually
+reconstructed. Faced with the need of mapping the distribution of
+organic matter in Terrestrial and Martian rock samples for applications
+in exobiology, we needed to see how to extract a maximum amount of
+information from our data: our approach uses reservoir computing
+artificial neural networks coupled to a particle swarm algorithm that
+evolves the reservoirs’ weights.&lt;/p&gt;
+&lt;p&gt;The code runs on the Hybrid Processing Units for Science (HPU4Science)
+cluster located at the Laboratoire de Chimie de la Matière Condensée de
+Paris (LCMCP). The cluster is composed of a central data storage machine
+and a heterogeneous ensemble of 6 decentralized nodes. Each node is
+equipped with a Core2 Quad or i7 CPU and 3-7 NVIDIA Graphical Processing
+Units (GPUs) including the GF110 series. Each of the 28 GPUs
+independently explores a different parameter space sphere of the same
+problem. Our application shows a sustained real performance of 15.6
+TFLOPS. The HPU4Science cluster cost
+&lt;span class="formula"&gt;36, 090&lt;i&gt;resulting&lt;/i&gt;&lt;i&gt;in&lt;/i&gt;&lt;i&gt;a&lt;/i&gt;432.3&lt;i&gt;MFLOPS&lt;/i&gt; ⁄ &lt;/span&gt; cost performance.&lt;/p&gt;
+&lt;p&gt;That talk is meant to demonstrate on a practical case how consumer grade
+computer hardware coupled to a very popular computer language can be
+used to tackle a difficult yet very elementary scientific problem: how
+do you go from formulating the problem, to choosing the right hardware
+and software, and all the way to programming the algorithms using the
+appropriate development tools and methodologies (notably Literate
+Programming). On the math side, the talk requires a basic understanding
+of matrix algebra and of the discretization process involved when
+computing integrals.&lt;/p&gt;
+</summary><category term="image"></category><category term="mapping"></category><category term="nvidia"></category><category term="performance"></category><category term="processing"></category><category term="science"></category><category term="scientific"></category></entry><entry><title>Python + Oracle = Prosperity &amp; Performance</title><link href="http://pyvideo.org/europython-2011/python-oracle-prosperity-performance.html" rel="alternate"></link><published>2011-07-21T00:00:00+00:00</published><updated>2011-07-21T00:00:00+00:00</updated><author><name>Todd Trichler</name></author><id>tag:pyvideo.org,2011-07-21:europython-2011/python-oracle-prosperity-performance.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Todd Trichler - 23 June 2011 in &amp;quot;Training Pizza Napoli&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever wanted or perhaps needed to access data stored in a
+corporate Oracle database from within your Python environment?&lt;/p&gt;
+&lt;p&gt;This session will help developers get up and running using Python with
+Oracle:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Learn the basics of working with cx_Oracle&lt;/li&gt;
+&lt;li&gt;Learn how to use VirtualBox to set up a Python &amp;amp; Oracle test and developement environment.&lt;/li&gt;
+&lt;li&gt;Discover features within Oracle that you can use to build more performant python based applications.&lt;/li&gt;
+&lt;li&gt;Leave with all the resources you need to certify your python app to run against a production Oracle11gR2 database, or hone those skills for the next job.&lt;/li&gt;
+&lt;li&gt;Get a quick intro to Oracle Linux along the way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;No prior experience with Oracle is required, some basic understanding of
+databases would be helpful.&lt;/p&gt;
+&lt;p&gt;Look forward to meeting you &amp;#64; EuroPython 2011 - Todd&lt;/p&gt;
+</summary><category term="database"></category><category term="performance"></category><category term="virtualbox"></category></entry><entry><title>Challenges in developing a large Django site</title><link href="http://pyvideo.org/europython-2011/challenges-in-developing-a-large-django-site.html" rel="alternate"></link><published>2011-07-20T00:00:00+00:00</published><updated>2011-07-20T00:00:00+00:00</updated><author><name>Simon Willison</name></author><id>tag:pyvideo.org,2011-07-20:europython-2011/challenges-in-developing-a-large-django-site.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Simon Willison - 22 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django makes it easy to build web sites and applications on tight
+deadlines - but how does it deal with sites that scale up in both
+traffic and complexity? Using Lanyrd.com as a case study, this talk will
+explore tricks and techniques for taking advantage of what Django has to
+offer while coping with the unexpected challenges raised by a highly
+dynamic social web application.&lt;/p&gt;
+&lt;p&gt;Topics covered will include performance monitoring and optimisation,
+advanced caching tricks, denormalisation with Solr and Redis and finding
+the right balance between technical elegance and pragmatism.&lt;/p&gt;
+</summary><category term="django"></category><category term="monitoring"></category><category term="performance"></category><category term="redis"></category><category term="web"></category></entry><entry><title>Debugging and profiling techniques</title><link href="http://pyvideo.org/europython-2011/debugging-and-profiling-techniques.html" rel="alternate"></link><published>2011-07-20T00:00:00+00:00</published><updated>2011-07-20T00:00:00+00:00</updated><author><name>Giovanni Bajo</name></author><id>tag:pyvideo.org,2011-07-20:europython-2011/debugging-and-profiling-techniques.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Giovanni Bajo - 22 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will give on overview over some common problems related to
+profiling and debugging CPython applications (especially desktop-based
+ones).&lt;/p&gt;
+&lt;p&gt;The following subjects will be covered:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Debugging of memory/resource leaks (circular references, &lt;strong&gt;del&lt;/strong&gt;,
+weakref, garbage collector, etc.). We will show in details how the
+memory management of Python objects work and we will show a few
+tricks to track memory leaks&lt;/li&gt;
+&lt;li&gt;Python code profiling (profile/hotshots/cProfile, design of small
+tests, etc.). We will show how to measure, profile, and analyse an
+application to spot performance problems and solve them.&lt;/li&gt;
+&lt;li&gt;Post-mortem step-by-step debugging of C/C++ extension under Windows.
+We will show how to setup Visual Studio for debugging, how to see a
+traceback in case of an unexpected segfault, and how to further debug
+and solve the crash.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This talk is aimed at intermediate Python programmers, who have already
+developed non-trivial Python applications but have never &amp;quot;jumped
+through&amp;quot; the interpreter abstraction layer. If you feel a little lost
+when you see a segfault from a Python program or you don't have a clear
+idea how memory is collected in Python, this talk is perfect for you.&lt;/p&gt;
+</summary><category term="cpython"></category><category term="debugging"></category><category term="design"></category><category term="memory"></category><category term="performance"></category><category term="profiling"></category><category term="python,"></category></entry><entry><title>It's the message, stupid: python &amp; amqp</title><link href="http://pyvideo.org/europython-2011/its-the-message-stupid-python-amqp.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Muharem Hrnjadovic</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/its-the-message-stupid-python-amqp.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Muharem Hrnjadovic - 21 June 2011 in &amp;quot;Track Ravioli&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Messaging is a well established domain in information technology and can
+greatly improve the scalability and throughput of a system when employed
+appropriately. Message queues can be used to achieve&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;spatial decoupling i.e. the systems that produce and consume messages
+may be deployed on different machines, networks, continents etc.&lt;/li&gt;
+&lt;li&gt;temporal decoupling i.e. a system can enqueue a message and carry on
+without waiting for the message consumer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We use e.g. messaging in &lt;a class="reference external" href="http://openquake.org"&gt;OpenQuake&lt;/a&gt; to
+distribute calculations of &lt;a class="reference external" href="http://openquake.org/about/gem/"&gt;seismic
+hazard&lt;/a&gt; and the respective risk to
+human lives and infrastructure.&lt;/p&gt;
+&lt;p&gt;There is a huge number of messaging patterns identified in the
+&lt;a class="reference external" href="http://www.amazon.com/dp/0321200683/"&gt;industry&lt;/a&gt; and a small
+selection of these will be presented to whet your appetite :-)&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.amqp.org/"&gt;AMQP&lt;/a&gt; is a fairly new and open messaging
+standard with a number of freely available open source message brokers
+(&lt;a class="reference external" href="http://www.rabbitmq.com/"&gt;RabbitMQ&lt;/a&gt;,
+&lt;a class="reference external" href="http://www.zeromq.org/"&gt;ZeroMQ&lt;/a&gt;, &lt;a class="reference external" href="http://qpid.apache.org/"&gt;qpid&lt;/a&gt;
+etc.) with different features and performance trade-offs.&lt;/p&gt;
+&lt;p&gt;In the course of the presentation you will be - introduced to AMQP
+concepts and jargon - introduced to available Python AMQP bindings
+(focussing on an asynchronous
+(&lt;a class="reference external" href="https://launchpad.net/txamqp"&gt;txAMQP&lt;/a&gt;) and a synchronous variant
+(most likely &lt;a class="reference external" href="http://ask.github.com/kombu/"&gt;kombu&lt;/a&gt;) - shown code
+examples demonstrating how to use these Python bindings&lt;/p&gt;
+&lt;p&gt;The presentation (45 minutes in total) is structured as follows:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;7.5 minutes for messaging concepts and patterns&lt;/li&gt;
+&lt;li&gt;7.5 minutes for AMQP concepts&lt;/li&gt;
+&lt;li&gt;5 minutes for an overview of the Python bindings for AMQP&lt;/li&gt;
+&lt;li&gt;10 minutes for txAMQP examples (asynchronous bindings)&lt;/li&gt;
+&lt;li&gt;10 minutes for kombu examples (synchronous bindings)&lt;/li&gt;
+&lt;li&gt;5 minutes for questions&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.amqp.org/"&gt;http://www.amqp.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.rabbitmq.com/"&gt;http://www.rabbitmq.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.zeromq.org/"&gt;http://www.zeromq.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://qpid.apache.org/"&gt;http://qpid.apache.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://launchpad.net/txamqp"&gt;https://launchpad.net/txamqp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://ask.github.com/kombu/"&gt;http://ask.github.com/kombu/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.amazon.com/dp/0321200683/"&gt;http://www.amazon.com/dp/0321200683/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="amqp"></category><category term="asynchronous"></category><category term="patterns"></category><category term="performance"></category><category term="queues"></category><category term="scalability"></category><category term="technology"></category></entry><entry><title>Meteorology, Climate and Python: desperately trying to forget technical details</title><link href="http://pyvideo.org/europython-2011/meteorology-climate-and-python-desperately-tryi.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Claude Gibert</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/meteorology-climate-and-python-desperately-tryi.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Claude Gibert - 24 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;div class="section" id="contents"&gt;
+&lt;h4&gt;Contents&lt;/h4&gt;
+&lt;p&gt;Python is a great language for writing programming frameworks. Python
+frameworks are normally addressed to software developers who are Python
+professionals. I developed a software package in a scientific
+institution, designed to be used by non-programmers, but also designed
+to enable customisation through programming by some users. I finally
+designed a three level package:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;A Python programming framework, addressed whoever wanted to invest in
+Python and had plans to develop applications;&lt;/li&gt;
+&lt;li&gt;An application built on that framework with an interface designed for
+non-programmers;&lt;/li&gt;
+&lt;li&gt;Ways of customising the behaviour of the application by providing
+some basic Python functions or more elaborated code.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One of the challenges was to offer an application with an easy to use
+interface, not graphical, not web-based and not requiring Python
+programming. This interface was necessary for batch processing.&lt;/p&gt;
+&lt;p&gt;This talk addresses how this project was carried out, the technical
+solutions adopted and how Python was introduced in an operational
+scientific institution (&lt;a class="reference external" href="http://www.ecmwf.int"&gt;http://www.ecmwf.int&lt;/a&gt;) where most users were
+Fortran programmers. Python was introduced as early as 2004 and it was a
+challenge to gain acceptance. I will also make a parallel with a project
+I am currently working on for NASA (&lt;a class="reference external" href="http://gmao.gsfc.nasa.gov/"&gt;http://gmao.gsfc.nasa.gov/&lt;/a&gt;).
+&lt;em&gt;Desperately trying to forget technical details&lt;/em&gt; summarises how I tried,
+using Python, to help Meteorology scientists to focus on their domain of
+expertise instead of constantly solving technical problems.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="background"&gt;
+&lt;h4&gt;Background:&lt;/h4&gt;
+&lt;p&gt;The disciplines of Meteorology and Climate involve numerical modelling
+of physical phenomena. The amount of data going in and out of the model
+is considerable. The organisation and the storage of data is
+complicated, their post-processing is a challenge. Scientists need to
+access and process input and output data to monitor the trends of the
+input data and to evaluate the performance of their models. Those
+statistics, diagnostics, plots and verifications are crucial to the
+improvement of the quality of the models. Finding the right data,
+decoding it, transforming it to be ready for use are necessary steps to
+initiate the pre-processing. All these actions are fundamentally the
+same between different prediction centres, but the data organisation and
+file formats can differ.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="framework"></category><category term="nasa"></category><category term="parallel"></category><category term="performance"></category><category term="python,"></category><category term="scientific"></category></entry><entry><title>Python for High Performance and Scientific Computing</title><link href="http://pyvideo.org/europython-2011/python-for-high-performance-and-scientific-comput.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Andreas Schreiber</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/python-for-high-performance-and-scientific-comput.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Andreas Schreiber - 23 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python is an accepted high-level scripting language with a growing
+community in academia and industry. It is used in a lot of scientific
+applications in many different scientific fields and in more and more
+industries, for example, in engineering or life science). In all fields,
+the use of Python for high- performance and parallel computing is
+increasing. Several organizations and companies are providing tools or
+support for Python development. This includes libraries for scientific
+computing, parallel computing, and MPI. Python is also used on many core
+architectures and GPUs, for which specific Python interpreters are being
+developed. A related topic is the performance of the various interpreter
+and compiler implementations for Python. The talk gives an overview of
+Python’s use in HPC and Scientific Computing and gives information on
+many topics, such as Python on massively parallel systems, GPU
+programming with Python, scientific libraries in Python, and Python
+interpreter performance issues. The talk will include examples for
+scientific codes and applications from many domains.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://bit.ly/k94rC4"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+</summary><category term="community"></category><category term="engineering"></category><category term="gpu"></category><category term="hpc"></category><category term="interpreters"></category><category term="parallel"></category><category term="performance"></category><category term="python,"></category><category term="scientific"></category></entry><entry><title>Relate or !Relate</title><link href="http://pyvideo.org/europython-2011/relate-or-relate.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Mark Ramm-Christensen</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/relate-or-relate.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Mark Ramm-Christensen - 21 June 2011 in &amp;quot;Track
+Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;To Relate or Not to Relate, that is the question raised by the NoSQL
+movement. There is a lot of buzz about Couch, Casandra, MongoDB, and
+other non relational databases, and at the same time there are decades
+of hard work that's gone into optimizing databases built around the
+relational model.&lt;/p&gt;
+&lt;p&gt;I would actually argue that there is no such thing as a NoSQL database -
+there are a variety of compelling options to relational database - each
+of which have different features and different performance
+characteristics. So no one- sized fits all comparison will do. So, I'll
+try to outline a general taxonomy for persistence mechanisms, and then
+proceed to comparing relational DB's to their new friends in practice.&lt;/p&gt;
+&lt;p&gt;The talk will contain quite a few stories from the trenches with
+CouchDB, MongoDB, MySQL, Postgres, Tokyo Cabinet, ZODB, and other
+databases, and will help you think about the data storage needs of your
+applications in new ways.&lt;/p&gt;
+</summary><category term="database"></category><category term="nosql"></category><category term="optimizing"></category><category term="performance"></category></entry><entry><title>PyConAU 2010: Making your Python code fast</title><link href="http://pyvideo.org/pycon-au-2010/pyconau-2010--making-your-python-code-fast.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Andrew Bennetts</name></author><id>tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--making-your-python-code-fast.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Making your Python code fast&lt;/p&gt;
+&lt;p&gt;Presented by Andrew Bennetts (Canonical)&lt;/p&gt;
+&lt;p&gt;Before you can make your program faster you need to understand why it
+slow. Andrew will show you some tools and techniques for investigating
+and analysing your program's performance.&lt;/p&gt;
+</summary><category term="optimisation"></category><category term="performance"></category><category term="pyconau"></category><category term="pyconau2010"></category></entry><entry><title>PyConAU 2010: What's eating my memory?</title><link href="http://pyvideo.org/pycon-au-2010/pyconau-2010--what--39-s-eating-my-memory.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Andrew Bennetts</name></author><id>tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--what--39-s-eating-my-memory.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;What's eating my memory?&lt;/p&gt;
+&lt;p&gt;Presented by Andrew Bennetts (Canonical)&lt;/p&gt;
+&lt;p&gt;Ever wondered why your Python process has consumed 2 gigabytes of memory
+overnight? Ever torn out your hair trying to find out why? Andrew will
+show you some tools and techniques that can help you investigate.&lt;/p&gt;
+</summary><category term="memory"></category><category term="optimisation"></category><category term="performance"></category><category term="pyconau"></category><category term="pyconau2010"></category></entry><entry><title>Benchmarking stuff made ridiculously easy (with lots of pictures)</title><link href="http://pyvideo.org/pycon-au-2011/benchmarking-stuff-made-ridiculously-easy-with-l.html" rel="alternate"></link><published>2011-08-22T00:00:00+00:00</published><updated>2011-08-22T00:00:00+00:00</updated><author><name>Tennessee J Leeuwenburg</name></author><id>tag:pyvideo.org,2011-08-22:pycon-au-2011/benchmarking-stuff-made-ridiculously-easy-with-l.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;(Mic issues for first ~1:30) Tennessee has been working on a module for
+integrating cpu time management with unit testing using an easy-to-use
+decorator. With all the options turned on, this will produce a a
+performance history, tracked by revision, integrated with the software
+used to produce the benchmarking graphs as used
+on&amp;amp;nbsp_place_holder;http://speed.pypy.org/. You too can have this
+kind of shinyness for (almost) free!.&lt;/p&gt;
+</summary><category term="performance"></category><category term="testing"></category></entry><entry><title>Web Server Bottlenecks And Performance Tuning</title><link href="http://pyvideo.org/pycon-au-2012/web-server-bottlenecks-and-performance-tuning-0.html" rel="alternate"></link><published>2012-08-22T00:00:00+00:00</published><updated>2012-08-22T00:00:00+00:00</updated><author><name>Graham Dumpleton</name></author><id>tag:pyvideo.org,2012-08-22:pycon-au-2012/web-server-bottlenecks-and-performance-tuning-0.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;A benchmark of a hello world application is often what developers use to
+make the all important decision of what web hosting infrastructure they
+use. Worse is that in many cases this is the only sort of performance
+testing or monitor&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;A benchmark of a hello world application is often what developers use to
+make the all important decision of what web hosting infrastructure they
+use. Worse is that in many cases this is the only sort of performance
+testing or monitoring they will ever do. When it comes to their
+production applications they are usually flying blind and have no idea
+of how it is performing and what they need to do to tune their web
+application stack.&lt;/p&gt;
+&lt;p&gt;This talk will provide an overview as to where in your overall request
+handling pipeline the main overheads are going to arise. It will then
+zoom in and discuss different limiting factors or bottlenecks which can
+arise within your WSGI server stack and system that can directly affect
+the performance of your Python web application.&lt;/p&gt;
+&lt;p&gt;Such factors that will be discussed will include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Use of threads vs processes.&lt;/li&gt;
+&lt;li&gt;Number of processors available.&lt;/li&gt;
+&lt;li&gt;Python global interpreter lock (GIL)&lt;/li&gt;
+&lt;li&gt;Amount of memory available.&lt;/li&gt;
+&lt;li&gt;Slow HTTP browsers/clients.&lt;/li&gt;
+&lt;li&gt;Browser keep alive connections.&lt;/li&gt;
+&lt;li&gt;Need to handle static assets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From this will be provided some general guidelines of what is a good
+configuration/architecture to use for different types of Python web
+applications.&lt;/p&gt;
+&lt;p&gt;The importance of continuous production monitoring will also be covered,
+ensuring that you know when the performance of your system is dropping
+off due to changing traffic patterns as well as code changes you have
+made in your actual web application.&lt;/p&gt;
+</summary><category term="bottlenecks"></category><category term="performance"></category></entry></feed>

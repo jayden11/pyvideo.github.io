@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_davide-corio.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-06-09T00:00:00+00:00</updated><entry><title>Kivy, applicazioni mobile cross-platform in Python</title><link href="http://pyvideo.org/pycon-italia-2014/kivy-applicazioni-mobile-cross-platform-in-python.html" rel="alternate"></link><published>2014-05-25T00:00:00+00:00</published><updated>2014-05-25T00:00:00+00:00</updated><author><name>Davide Corio</name></author><id>tag:pyvideo.org,2014-05-25:pycon-italia-2014/kivy-applicazioni-mobile-cross-platform-in-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Kivy è sicuramente uno dei progetti liberi, basati su python, che sta catturando maggiore attenzione. Conosciamo questo strumento, scriviamo assieme una semplice applicazione e approfondiamo le tecniche per poter pubblicare le nostre applicazioni python su marketplace come Google Play e Apple Store.&lt;/p&gt;
+</summary></entry><entry><title>OpenERP: 100% pythonic way for business management</title><link href="http://pyvideo.org/europython-2011/openerp-100-pythonic-way-for-business-managemen.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Davide Corio</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/openerp-100-pythonic-way-for-business-managemen.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Davide Corio - 23 June 2011 in &amp;quot;Track Tagliatelle&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Business management isn't just accounting. Let's see how Python can help
+us to build a complete ERP infrastructure. From CRM to e-commerce, from
+accounting to document management…we'll see how Python is mature and
+able to do great things where Java and .NET are still considered as the
+only option. Case studies to be presented.&lt;/p&gt;
+</summary><category term="business"></category><category term="crm"></category><category term="java"></category><category term=".net"></category></entry><entry><title>Rubrica indirizzi all'ennesima potenza</title><link href="http://pyvideo.org/europython-2011/rubrica-indirizzi-allennesima-potenza.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Davide Corio</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/rubrica-indirizzi-allennesima-potenza.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Davide Corio - 23 June 2011 in &amp;quot;Track Italiana Big Mac&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Avete presente il classico, noioso, banale esempio di rubrica indirizzi
+in Python? Si? Quindi, diamo un'occhiata ad un nuovissimo, complicato ed
+entusiasmante modo di tenere la nostra rubrica e il nostro dispositivo
+mobile sincronizzati. Mischieremo differenti tecnologie come Zope,
+OpenERP, Funambol, XML-RPC e Json. Tutto per rendere la vostra vita più
+elettrizzante!&lt;/p&gt;
+</summary><category term="mobile"></category></entry><entry><title>Python and Arduino: a tale of snakes and kings</title><link href="http://pyvideo.org/europython-2012/python-and-arduino-a-tale-of-snakes-and-kings.html" rel="alternate"></link><published>2012-07-06T00:00:00+00:00</published><updated>2012-07-06T00:00:00+00:00</updated><author><name>Alessandro Pasotti</name></author><id>tag:pyvideo.org,2012-07-06:europython-2012/python-and-arduino-a-tale-of-snakes-and-kings.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2012] Davide Corio e Alessandro Pasotti - 5 JULY 2012 in
+&amp;quot;Track Big Mac&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Interact with the real world is one of the most common needs when we
+talk about monitoring, robotics, PLC and other business software related
+needs we often hear about. Arduino is the most important electronic
+prototyping platform, but few know we can use Python to interact with
+it. So, let’s discover how we can use Python to develop applications and
+interact with this awesome prototyping board.&lt;/p&gt;
+</summary></entry><entry><title>Python e Arduino una storia di serpenti e re</title><link href="http://pyvideo.org/europython-2012/python-e-arduino-una-storia-di-serpenti-e-re.html" rel="alternate"></link><published>2012-07-06T00:00:00+00:00</published><updated>2012-07-06T00:00:00+00:00</updated><author><name>Alessandro Pasotti</name></author><id>tag:pyvideo.org,2012-07-06:europython-2012/python-e-arduino-una-storia-di-serpenti-e-re.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;None&lt;/p&gt;
+</summary></entry><entry><title>OpenERP 6.1, come progettare applicazioni business</title><link href="http://pyvideo.org/europython-2012/openerp-61-come-progettare-applicazioni-busines.html" rel="alternate"></link><published>2012-07-04T00:00:00+00:00</published><updated>2012-07-04T00:00:00+00:00</updated><author><name>Davide Corio</name></author><id>tag:pyvideo.org,2012-07-04:europython-2012/openerp-61-come-progettare-applicazioni-busines.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2012] Davide Corio - 3 JULY 2012 in &amp;quot;Track Big Mac&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;OpenERP 6.1 è uno dei più importanti free e opensource software scritti
+in Python. Immergiamoci nel framework a scopriamo come progettare la
+nostra applicazione. Durante la presentazione exploreremo gli strumenti
+integrati a disposizione degli sviluppatori per la creazione di nuove
+funzionalità, la progettazione di stampe o per dialogare con dispositivi
+mobile e applicazioni di terze parti.&lt;/p&gt;
+</summary></entry><entry><title>Kivy RAD Python per lo sviluppo di applicazioni mobile e non solo.</title><link href="http://pyvideo.org/pycon-italia-2015/kivy-rad-python-per-lo-sviluppo-di-applicazioni-m.html" rel="alternate"></link><published>2015-06-09T00:00:00+00:00</published><updated>2015-06-09T00:00:00+00:00</updated><author><name>Davide Corio</name></author><id>tag:pyvideo.org,2015-06-09:pycon-italia-2015/kivy-rad-python-per-lo-sviluppo-di-applicazioni-m.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Kivy è un RAD Python per lo sviluppo di applicazioni NUI (Natural User
+Interface) cross-platform, caratterizzato dalla possibilità di creare
+applicazioni per Android ed iOS oltre che per i principali ambienti
+desktop. Scopriamo qualcosa di più su Kivy e sulle sue potenzialità.&lt;/p&gt;
+</summary><category term="kivy"></category></entry><entry><title>Odoo 8.0. Le nuove API</title><link href="http://pyvideo.org/pycon-italia-2015/odoo-80-le-nuove-api.html" rel="alternate"></link><published>2015-05-29T00:00:00+00:00</published><updated>2015-05-29T00:00:00+00:00</updated><author><name>Davide Corio</name></author><id>tag:pyvideo.org,2015-05-29:pycon-italia-2015/odoo-80-le-nuove-api.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;La novità principale della versione 8.0 sono state sicuramente le tanto
+attese nuove API. Più pythoniche, meno prolisse. Vediamo assieme le
+principali differenze, tramite un confronto approfondito con le API che
+hanno accompagnato Odoo fino alla versione 7.0.&lt;/p&gt;
+</summary></entry><entry><title>Odoo CMS by Davide Corio</title><link href="http://pyvideo.org/pycon-italia-2015/odoo-cms-by-davide-corio.html" rel="alternate"></link><published>2015-05-29T00:00:00+00:00</published><updated>2015-05-29T00:00:00+00:00</updated><author><name>Davide Corio</name></author><id>tag:pyvideo.org,2015-05-29:pycon-italia-2015/odoo-cms-by-davide-corio.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Odoo website builder, ecommerce ed altre nuove funzionalità.
+Approfondiamo questo nuovo set di moduli introdotto con la versione 8.0
+di Odoo con i quali possiamo aggiungere funzionalità specifiche di CMS
+ed altri strumenti per lo sviluppo di siti web. Configuriamo assieme un
+sito web con Odoo CMS e giochiamo con temi, snippets e blocchi. Odoo si
+è dichiarato in guerra contro Wordpress, Drupal, Joomla &amp;amp; C. Riuscirà a
+scalare la classifica?&lt;/p&gt;
+</summary></entry></feed>

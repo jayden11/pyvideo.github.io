@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_hannu-krosing.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-04-13T00:00:00+00:00</updated><entry><title>PostgreSQL is Web Scale (Really :) )</title><link href="http://pyvideo.org/pycon-us-2014/postgresql-is-web-scale-really.html" rel="alternate"></link><published>2014-04-13T00:00:00+00:00</published><updated>2014-04-13T00:00:00+00:00</updated><author><name>Hannu Krosing</name></author><id>tag:pyvideo.org,2014-04-13:pycon-us-2014/postgresql-is-web-scale-really.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This talk will outline and demonstrate usage of PostgreSQL for data
+storage and processing scenarios where new common wisdom would usually
+turn to &amp;quot;NoSQL&amp;quot; databases for scalability reasons. It demonstrates both
+NoSQL style usage and techniques using more traditional relational
+storage models with required adjustments for infinite scalability.&lt;/p&gt;
+</summary></entry></feed>

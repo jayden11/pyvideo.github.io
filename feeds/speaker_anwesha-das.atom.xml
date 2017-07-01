@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_anwesha-das.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-20T00:00:00+00:00</updated><entry><title>Trends in licensesin Python ecosystem by Anwesha Das 38:47</title><link href="http://pyvideo.org/pycon-india-2016/trends-in-licensesin-python-ecosystem-by-anwesha-das-3847.html" rel="alternate"></link><published>2016-09-23T00:00:00+00:00</published><updated>2016-09-23T00:00:00+00:00</updated><author><name>Anwesha Das</name></author><id>tag:pyvideo.org,2016-09-23:pycon-india-2016/trends-in-licensesin-python-ecosystem-by-anwesha-das-3847.html</id><summary type="html"></summary></entry><entry><title>The trends in choosing licenses in Python ecosystem</title><link href="http://pyvideo.org/pycon-us-2017/the-trends-in-choosing-licenses-in-python-ecosystem.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Anwesha Das</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/the-trends-in-choosing-licenses-in-python-ecosystem.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The software licenses are the permissions over copyrighted software. The
+permission and/ grant includes the grant to use, to redistribute, to
+prepare derivative works etc. These software licenses also set forth the
+limitations over these aforesaid rights. The software licenses basically
+marks the boundary for the usage of the code.&lt;/p&gt;
+&lt;p&gt;Therefore from the above mentioned introduction it very clear that it is
+very important for developers to choose the license for their code
+wisely and correctly.&lt;/p&gt;
+&lt;p&gt;PyPI, the Python Package Index is a repository of software for the
+Python programming language. There are currently 80000+ packages there.&lt;/p&gt;
+&lt;p&gt;This talk will go through the licenses of the top 2500 packages. We will
+see the trend of choosing a license for these top Python projects. We
+will discuss the licenses individually, compare them with each other.
+the advantages and disadvantages of the same.&lt;/p&gt;
+&lt;p&gt;We will further explain that why a license and/or licenses are being
+favored by the developers.&lt;/p&gt;
+</summary></entry></feed>

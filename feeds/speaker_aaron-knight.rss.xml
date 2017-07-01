@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate><item><title>Build a data pipeline with Luigi</title><link>http://pyvideo.org/pycon-us-2017/build-a-data-pipeline-with-luigi.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;a class="reference external" href="https://pypi.python.org/pypi/luigi"&gt;Luigi&lt;/a&gt; is a Python library for
+building pipelines of batch processes. It &amp;quot;handles dependency
+resolution, workflow management, visualization, handling failures,
+command line integration, and much more&amp;quot;&lt;/p&gt;
+&lt;p&gt;In this tutorial, we will use Luigi to build a data pipeline that runs a
+series of interdependent jobs. We will also discuss some real-world use
+cases for Luigi, and show how it can make running a data pipeline much
+more robust and reliable.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Aaron Knight</dc:creator><pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-18:pycon-us-2017/build-a-data-pipeline-with-luigi.html</guid></item></channel></rss>

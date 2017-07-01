@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 19 May 2017 00:00:00 +0000</lastBuildDate><item><title>Type uWSGI; press enter; what happens?</title><link>http://pyvideo.org/pycon-us-2017/type-uwsgi-press-enter-what-happens.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You're a pretty knowledgeable Python web application developer, but how
+does that web application get served to the world? For many of us, uWSGI
+is the magic that makes our application available, and in this talk
+we'll look at how uWSGI works with the OS and the networking stack to
+make the magic happen.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia</dc:creator><pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-19:pycon-us-2017/type-uwsgi-press-enter-what-happens.html</guid></item><item><title>Frog and Toad Learn Django Security</title><link>http://pyvideo.org/pydx-2016/frog-and-toad-learn-django-security.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyDX 2016 talk by Philip James&lt;/p&gt;
+&lt;p&gt;Come join us by the fire as we have Security Story Time with our friends, Frog and Toad. With them, you'll learn about all the things Django does to protect users and developers out of the box. We'll look at simplified code samples from the Django codebase to see what's happening under the hood, and cover how to make the Django security model even stronger in your application.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Philip James</dc:creator><pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-12-30:pydx-2016/frog-and-toad-learn-django-security.html</guid><category>security</category><category>django</category></item><item><title>Safe-ish By Default</title><link>http://pyvideo.org/pybay-2016/safe-ish-by-default.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Come join us by the fire as we have Security Story Time with our friends, Frog and Toad. With them, you'll learn about all the things Django does to protect users and developers out of the box. We'll look at simplified code samples from the Django codebase to see what's happening under the hood, and cover how to make the Django security model even stronger in your application
+​
+Abstract
+Introduction to the story, and the characters. Safe-ish: Talk about Django’s Security Model and how it tries to provide sane defaults for developers&lt;/p&gt;
+&lt;p&gt;Run-through of the parts of the django security model:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;XSS (brief definition). How do you turn it off? Mark Safe, | n, safe&lt;/li&gt;
+&lt;li&gt;CSRF (brief definition). Django has middleware that checks POST requests for a token. Token is stored in cookie, also. Side-effect: harder to JS. Also, only an issue if you’re already owned, so maybe not an issue?. How to get around it? csrf_exempt&lt;/li&gt;
+&lt;li&gt;SQLi (brief definition). Django’s ORM makes clean sql, (even when given bad data?). How? How to get around it: extra()/RawSQL()&lt;/li&gt;
+&lt;li&gt;Clickjacking protection (brief definition). Django has middleware that sets headers browsers are supposed to respect. How to get around it: xframe_options_exempt, xframe_options_deny, xframe_options_sameorigin&lt;/li&gt;
+&lt;li&gt;HTTPS. This one is less &amp;quot;out of the box&amp;quot; than the others, so won’t be talked about here.&lt;/li&gt;
+&lt;li&gt;Host Header Validation (brief definition). Django verifies against allowed hosts in settings. How? get_host()&lt;/li&gt;
+&lt;li&gt;Session security. What are django sessions?. Cookie-based by design. How can we make this better?&lt;/li&gt;
+&lt;li&gt;Overall: Vigilance. Be aware of uses of this within your product&lt;/li&gt;
+&lt;li&gt;HTTPS: Use it!. Set the correct settings. SECURE_SSL_REDIRECT: How does it work?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;
+Philip is a Senior Software Engineer at Eventbrite. In his spare time, he writes novels, makes twitter bots, and gives technical talks. He used to run a webcomic, but there's just no money in it, you know? Philip is a refugee from the video games industry, and wishes anyone still there the best of luck. Philip has spoken at conferences about Python, Django, Node.js, and Linux. Philip believes in the web.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://speakerdeck.com/pybay2016/philip-james-safe-ish-by-default-the-django-security-model-and-how-to-make-it-better-security-intermediate"&gt;https://speakerdeck.com/pybay2016/philip-james-safe-ish-by-default-the-django-security-model-and-how-to-make-it-better-security-intermediate&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Philip James</dc:creator><pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-21:pybay-2016/safe-ish-by-default.html</guid></item><item><title>PyDX 2015: Type Python, Press Enter, What Happens?</title><link>http://pyvideo.org/pydx-2015/pydx-2015-type-python-press-enter-what-happens.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyDX 2015 talk by Philip James&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Philip James</dc:creator><pubDate>Sat, 10 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-10:pydx-2015/pydx-2015-type-python-press-enter-what-happens.html</guid></item><item><title>Frog and Toad Learn About Django Security</title><link>http://pyvideo.org/djangocon-us-2016/frog-and-toad-learn-about-django-security.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;DjangoCon US 2016 - Frog and Toad Learn About Django Security by Philip James&lt;/p&gt;
+&lt;p&gt;Django Security Talk Notes&lt;/p&gt;
+&lt;p&gt;Introduction
+Philip James, how long I’ve worked with Python and Django, background at EB
+Introduction to the story, and the characters
+Safe-ish: Talk about Django’s Security Model and how it tries to provide sane defaults for developers
+Run-through of the parts of the django security model&lt;/p&gt;
+&lt;p&gt;XSS (brief definition)&lt;/p&gt;
+&lt;p&gt;Django escapes characters by default&lt;/p&gt;
+&lt;p&gt;How?&lt;/p&gt;
+&lt;p&gt;How do you turn it off? Mark Safe, | n, safe&lt;/p&gt;
+&lt;p&gt;CSRF (brief definition)&lt;/p&gt;
+&lt;p&gt;Django has middleware that checks POST requests for a token&lt;/p&gt;
+&lt;p&gt;How?&lt;/p&gt;
+&lt;p&gt;Token is stored in cookie, also&lt;/p&gt;
+&lt;p&gt;Could be better? Make cookie httponly&lt;/p&gt;
+&lt;p&gt;Side-effect: harder to JS. Also, only an issue if you’re already owned, so maybe not an issue?&lt;/p&gt;
+&lt;p&gt;How to get around it? csrf_exempt&lt;/p&gt;
+&lt;p&gt;SQLi (brief definition)&lt;/p&gt;
+&lt;p&gt;Django’s ORM makes clean sql, (even when given bad data?)&lt;/p&gt;
+&lt;p&gt;How?&lt;/p&gt;
+&lt;p&gt;How to get around it: extra()/RawSQL()&lt;/p&gt;
+&lt;p&gt;Clickjacking protection (brief definition)&lt;/p&gt;
+&lt;p&gt;Django has middleware that sets headers browsers are supposed to respect&lt;/p&gt;
+&lt;p&gt;Which browsers? &lt;a class="reference external" href="https://docs.djangoproject.com/en/1.8/ref/clickjacking/#limitations"&gt;https://docs.djangoproject.com/en/1.8/ref/clickjacking/#limitations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;How to get around it: xframe_options_exempt, xframe_options_deny, xframe_options_sameorigin&lt;/p&gt;
+&lt;p&gt;HTTPS&lt;/p&gt;
+&lt;p&gt;This one is less &amp;quot;out of the box&amp;quot; than the others, so won’t be talked about here.
+Host Header Validation (brief definition)&lt;/p&gt;
+&lt;p&gt;Django verifies against allowed hosts in settings&lt;/p&gt;
+&lt;p&gt;How? get_host()&lt;/p&gt;
+&lt;p&gt;Session security&lt;/p&gt;
+&lt;p&gt;What are django sessions?&lt;/p&gt;
+&lt;p&gt;Cookie-based by design&lt;/p&gt;
+&lt;p&gt;How can we make this better?&lt;/p&gt;
+&lt;p&gt;Overall: Vigilance. Be aware of uses of this within your product&lt;/p&gt;
+&lt;p&gt;XSS, CSRF, SQLi, Clickjacking: Have them all enabled, write rules to check for &amp;quot;escape-hatch&amp;quot; functions&lt;/p&gt;
+&lt;p&gt;HTTPS:&lt;/p&gt;
+&lt;p&gt;Use it!&lt;/p&gt;
+&lt;p&gt;Set the correct settings&lt;/p&gt;
+&lt;p&gt;SECURE_SSL_REDIRECT: How does it work?&lt;/p&gt;
+&lt;p&gt;Other things&lt;/p&gt;
+&lt;p&gt;django-secure&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://www.ponycheckup.com/"&gt;https://www.ponycheckup.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://nerd.kelseyinnis.com/blog/2015/09/08/making-django-really-really-ridiculously-secure/"&gt;http://nerd.kelseyinnis.com/blog/2015/09/08/making-django-really-really-ridiculously-secure/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Philip James</dc:creator><pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-10:djangocon-us-2016/frog-and-toad-learn-about-django-security.html</guid></item><item><title>Safe-Ish by Default: The Django Security Model and How to Make it Better</title><link>http://pyvideo.org/djangocon-europe-2016/safe-ish-by-default-the-django-security-model-and-how-to-make-it-better.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/23"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/safe-ish-by-default-the-django-security-model-and-how-to-make-it-better-by-philip-james/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Philip James</dc:creator><pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-04-01:djangocon-europe-2016/safe-ish-by-default-the-django-security-model-and-how-to-make-it-better.html</guid><category>django</category></item><item><title>Type python, press enter. What happens?</title><link>http://pyvideo.org/pycon-us-2015/type-python-press-enter-what-happens.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk discusses how the Python interpreter starts, from the
+perspective of the operating system (OS). Together, we will see the ins
+&amp;amp; outs of processes: fork(), exec(), stdin, and stdout.&lt;/p&gt;
+&lt;p&gt;It focuses on OS concepts and requires no background knowledge, using
+analogies to Python data structures. (The talk does not discuss Python’s
+own initialization, such as site.py or global variables.)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Asheesh Laroia</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-11:pycon-us-2015/type-python-press-enter-what-happens.html</guid></item></channel></rss>

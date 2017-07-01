@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 28 Jul 2012 00:00:00 +0000</lastBuildDate><item><title>An Introduction to the ZODB</title><link>http://pyvideo.org/pyohio-2012/an-introduction-to-the-zodb.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The Zope Object Database is an object database that allows you to store
+and retrieve your Python objects directly, without an intermediary
+layer. It's fully ACID-compliant and features multiple backends. This
+talk will familiarize the audience with ZODB programming and it's use
+cases.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nolan Brubaker</dc:creator><pubDate>Sat, 28 Jul 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-07-28:pyohio-2012/an-introduction-to-the-zodb.html</guid></item></channel></rss>

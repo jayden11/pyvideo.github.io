@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_hannah-aizenman.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-04-12T00:00:00+00:00</updated><entry><title>Beyond Defaults: Creating Polished Visualizations Using Matplotlib</title><link href="http://pyvideo.org/pycon-us-2014/beyond-defaults-creating-polished-visualizations.html" rel="alternate"></link><published>2014-04-12T00:00:00+00:00</published><updated>2014-04-12T00:00:00+00:00</updated><author><name>Hannah Aizenman</name></author><id>tag:pyvideo.org,2014-04-12:pycon-us-2014/beyond-defaults-creating-polished-visualizations.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;When people hear of matplotlib, they think rudimentary graphs that will
+need to be touched up in photoshop. This tutorial aims to teach
+attendees how to exploit the functionality provided by various
+matplotlib libraries to create professional looking data visualizations.&lt;/p&gt;
+</summary></entry></feed>

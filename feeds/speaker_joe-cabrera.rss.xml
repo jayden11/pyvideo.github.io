@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 15 Aug 2015 00:00:00 +0000</lastBuildDate><item><title>Building a data processing pipeline in Python</title><link>http://pyvideo.org/pygotham-2015/building-a-data-processing-pipeline-in-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Recently, the growth of publicly available data has been enormous.
+Python has a number of libraries and tool to aid you in building your
+data processing pipeline. These tools include Celery, Requests,
+BeautifulSoup and SQL-Alchemy. When combined together you can build an
+efficient and scalable data processing pipeline.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Joe Cabrera</dc:creator><pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-15:pygotham-2015/building-a-data-processing-pipeline-in-python.html</guid></item></channel></rss>

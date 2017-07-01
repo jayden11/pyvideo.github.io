@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Mon, 27 Feb 2012 00:00:00 +0000</lastBuildDate><item><title>Browse and print problems and solutions</title><link>http://pyvideo.org/europython-2011/browse-and-print-problems-and-solutions.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Jonathan Fine - 21 June 2011 in &amp;quot;Track Tagliatelle&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;With the growth of the web, how we publish is changing. Paper alone is
+not enough, web pages are also required. And for many web pages it is
+not enough to rely on the browser’s print capabilities. Sphinx, used
+since 2008 for Python’s documentation, is a creative response to this
+tension.&lt;/p&gt;
+&lt;p&gt;This talk will take a broader view of the problem. For example, many
+browsers support web fonts for display but not for printing. Mathematics
+on web pages is still difficult, but SVG holds out much promise not only
+for mathematics but for tables and other complex typeset material.
+Achieving accessibility remains difficult.&lt;/p&gt;
+&lt;p&gt;Based on over 15 year’s experience in print and electronic publishing,
+this talk will survey problems and emerging solutions. Software and
+sites covered include LaTeX, PDF, SVG, MathJax, web-fonts, PediaPress,
+Sphinx and arXiv.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Fine</dc:creator><pubDate>Mon, 27 Feb 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-02-27:europython-2011/browse-and-print-problems-and-solutions.html</guid><category>accessibility</category><category>sphinx</category><category>web</category></item><item><title>Pycon 2010: 508 and You: Taking the Pain out of Accessibility (#119)</title><link>http://pyvideo.org/pycon-us-2010/pycon-2010--508-and-you--taking-the-pain-out-of-a.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;508 and You: Taking the Pain out of Accessibility&lt;/p&gt;
+&lt;p&gt;Presented by Katie A Cunningham (NASA/Indyne)&lt;/p&gt;
+&lt;p&gt;Thinking about scoring a government contract, but haven't heard of 508
+compliance yet? Interested in making your site accessible to people with
+disabilities? Never thought about compliance, but want to know why it's
+a good idea?&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katie Cunningham</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--508-and-you--taking-the-pain-out-of-a.html</guid><category>accessibility</category><category>pycon</category><category>pycon2010</category></item></channel></rss>

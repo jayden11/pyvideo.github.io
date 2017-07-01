@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_jenkins.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>1990-01-01T00:00:00+00:00</updated><entry><title>Testing: The Developer Strikes Back</title><link href="http://pyvideo.org/djangocon-2011/djangocon-2011--testing--the-developer-strikes-ba.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--testing--the-developer-strikes-ba.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Testing: The Developer Strikes Back&lt;/p&gt;
+&lt;p&gt;Sandy Strong&lt;/p&gt;
+&lt;p&gt;“Code not tested is broken by design” - Jacob Kaplan-Moss&lt;/p&gt;
+&lt;p&gt;Every programming project has unique testing needs. It’s not always easy
+to understand what those needs are, or how to write tests that satisfy
+them. One of our goals as developers is to write tests that minimize
+failures in production that can cost our companies time, money,
+resources, and in many cases, hours of sleep!&lt;/p&gt;
+</summary><category term="coverage.py"></category><category term="djangocon"></category><category term="djangocon2011"></category><category term="jenkins"></category><category term="testing"></category><category term="web"></category></entry></feed>

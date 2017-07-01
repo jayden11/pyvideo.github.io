@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_skipper-seabold.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-26T00:00:00+00:00</updated><entry><title>Using Dask for Parallel Computing in Python</title><link href="http://pyvideo.org/pydata-chicago-2016/using-dask-for-parallel-computing-in-python.html" rel="alternate"></link><published>2016-08-26T00:00:00+00:00</published><updated>2016-08-26T00:00:00+00:00</updated><author><name>Skipper Seabold</name></author><id>tag:pyvideo.org,2016-08-26:pydata-chicago-2016/using-dask-for-parallel-computing-in-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Chicago 2016&lt;/p&gt;
+&lt;p&gt;Dask is a relatively new library for parallel computing in Python. It builds around familiar data structures to users of the PyData stack and enables them to scale up their work on one or many machines. This tutorial will introduce users to the core concepts of dask by working through some example problems. The tutorial will be distributed via Jupyter Notebooks.&lt;/p&gt;
+</summary><category term="dask"></category><category term="parallel"></category><category term="parallel computing"></category></entry><entry><title>statsmodels</title><link href="http://pyvideo.org/scipy-2012/statsmodels.html" rel="alternate"></link><published>2012-07-17T00:00:00+00:00</published><updated>2012-07-17T00:00:00+00:00</updated><author><name>Skipper Seabold</name></author><id>tag:pyvideo.org,2012-07-17:scipy-2012/statsmodels.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This tutorial will give users an overview of the capabilities of
+statsmodels, including how to conduct exploratory data analysis, fit
+statistical models, and check that the modeling assumptions are met.&lt;/p&gt;
+&lt;p&gt;The use of Python in data analysis and statistics is growing rapidly. It
+is not uncommon now for researchers to conduct data cleaning steps in
+Python and then move to some other software to estimate statistical
+models. Statsmodels, however, is a Python module that attempts to bridge
+this gap and allow users to estimate statistical models, perform
+statistical tests, and conduct data exploration in Python. Researchers
+across fields such as economics and the social sciences to finance and
+engineering may find that statsmodels meets their needs for statistical
+computing and data analysis in Python.&lt;/p&gt;
+&lt;p&gt;All examples in this tutorial will use real data. Attendees are expected
+to have some familiarity with statistical methods.&lt;/p&gt;
+&lt;p&gt;With this knowledge attendees will be ready to jump in and use Python
+for applied statistical analysis and will have an idea how they can
+extend statsmodels for their own needs.&lt;/p&gt;
+</summary><category term="advanced"></category></entry><entry><title>Classification using Pandas and Scikit-Learn</title><link href="http://pyvideo.org/depy-2015/classification-using-pandas-and-scikit-learn.html" rel="alternate"></link><published>2015-05-30T00:00:00+00:00</published><updated>2015-05-30T00:00:00+00:00</updated><author><name>Skipper Seabold</name></author><id>tag:pyvideo.org,2015-05-30:depy-2015/classification-using-pandas-and-scikit-learn.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This will be a tutorial-style talk demonstrating how to use pandas and
+scikit-learn to do classification tasks. We will do some data munging
+and visualization using pandas and matplotlib. Then we will introduce
+some of the different classifiers in scikit-learn and show how to
+include them into a classification pipeline to produce the best
+predictive model. Interactive IPython/Jupyter notebooks will be
+provided.&lt;/p&gt;
+</summary></entry></feed>

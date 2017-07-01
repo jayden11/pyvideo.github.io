@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 24 Sep 2014 00:00:00 +0000</lastBuildDate><item><title>JSON Web Tokens</title><link>http://pyvideo.org/djangocon-2014/json-web-tokens.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;When it comes to implementing authentication on web apps, one solution
+you’ll definitely hear about first are cookies. Cookie-based
+authentication uses a server side cookies to authenticate the user on
+every request. A solution you’ll probably not hear as often is
+token-based authentication which relies on a signed token that is sent
+to the server on each request.&lt;/p&gt;
+&lt;p&gt;Help us caption &amp;amp; translate this video!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://amara.org/v/FQmX/"&gt;http://amara.org/v/FQmX/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">José Padilla</dc:creator><pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-09-24:djangocon-2014/json-web-tokens.html</guid></item></channel></rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_daniel-chen.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-08T00:00:00+00:00</updated><entry><title>Introduction to Pandas</title><link href="http://pyvideo.org/pydata-carolinas-2016/introduction-to-pandas.html" rel="alternate"></link><published>2016-09-14T00:00:00+00:00</published><updated>2016-09-14T00:00:00+00:00</updated><author><name>Daniel Chen</name></author><id>tag:pyvideo.org,2016-09-14:pydata-carolinas-2016/introduction-to-pandas.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This tutorial aims to expose future data analysis with the Python
+Pandas library. The tutorial is meant for absolute beginners to Pandas
+and Python as a programming language. We will begin with loading
+tabular data and various ways to calculate summary statistics and
+visualize data. Next, we will learn various ways to join multiple
+datasets, and how we can work with missing values etc.&lt;/p&gt;
+&lt;p&gt;The purpose of the tutorial is to expose users to Pandas for data
+analysis and move users into a more reproducible analysis workflow
+compared to spreadsheet programs. The tutorial will begin with loading
+in tabular data and various ways to view columns and rows of data. The
+initial part of the tutorial will show users how to load in data and
+quickly create descriptive statistical plots. Next, we will cover more
+of pandas internal data structures. This will cover some fundamental
+knowledge about Python as a programming language, mainly object
+methods. Finally, before showing users basic data cleaning examples,
+we will cover data visualizations using matplotlib, seaborn, and
+pandas itself.&lt;/p&gt;
+&lt;p&gt;The next section of the tutorial will show learners how to assemble
+and merge multiple datasets, and how to work with missing values.
+Lastly, before we get to fitting models, I will go over how to recode
+variables for analysis.&lt;/p&gt;
+&lt;p&gt;The main purpose is to show users how to use Pandas, and not how to
+fit machine learning models. However, I show a simple model at the end
+so users see how data cleaning and analysis all fit together in a
+workflow.&lt;/p&gt;
+</summary></entry><entry><title>Python useRs</title><link href="http://pyvideo.org/pydata-dc-2016/python-users.html" rel="alternate"></link><published>2016-10-08T00:00:00+00:00</published><updated>2016-10-08T00:00:00+00:00</updated><author><name>Daniel Chen</name></author><id>tag:pyvideo.org,2016-10-08:pydata-dc-2016/python-users.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData DC 2016&lt;/p&gt;
+&lt;p&gt;According to the most recent IEEE language rankings, R is now the 5th most popular language. It is the only domain specific language in the top 5, behind the general-purpose languages C, Java, Python, and C++, respectively. It is common for data science teams to work in multiple languages and for the Pythonista, a working knowledge in R is useful for collaboration, analysis, and performance.&lt;/p&gt;
+&lt;p&gt;It may be better to extend a simple analysis in R than passing around CSV files. Even worse, there might be a new analysis package that only exists in R, or certain bits infrastructure are already implemented in R and it needs to incorporate a bit of Python analysis.&lt;/p&gt;
+</summary></entry></feed>

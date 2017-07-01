@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_younggun-kim.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-30T00:00:00+00:00</updated><entry><title>Opening 2015-08-30</title><link href="http://pyvideo.org/pycon-korea-2015/opening-2015-08-30.html" rel="alternate"></link><published>2015-08-30T00:00:00+00:00</published><updated>2015-08-30T00:00:00+00:00</updated><author><name>Younggun Kim</name></author><id>tag:pyvideo.org,2015-08-30:pycon-korea-2015/opening-2015-08-30.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;</summary></entry><entry><title>Writing fast code</title><link href="http://pyvideo.org/pycon-korea-2015/writing-fast-code.html" rel="alternate"></link><published>2015-08-29T00:00:00+00:00</published><updated>2015-08-29T00:00:00+00:00</updated><author><name>Younggun Kim</name></author><id>tag:pyvideo.org,2015-08-29:pycon-korea-2015/writing-fast-code.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;If you want to make your code run faster, it is important to
+understanding how computers (and also Python!) do work under the hood.
+By understanding this and having knowledge of good profiler, you can
+make your code run faster.&lt;/p&gt;
+&lt;p&gt;This talk will introduce nice tools for the job. Using &lt;tt class="docutils literal"&gt;dis&lt;/tt&gt; module,
+you can understand the workflow of Python code. Using various profiler
+(such as, &lt;tt class="docutils literal"&gt;cProfile&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;line_profiler&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;profiling&lt;/tt&gt;), you can find
+bottlenecks in your code easily.&lt;/p&gt;
+&lt;p&gt;After that, you can write fast code.&lt;/p&gt;
+</summary></entry></feed>

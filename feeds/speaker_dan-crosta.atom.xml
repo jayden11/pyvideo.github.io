@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_dan-crosta.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-04-11T00:00:00+00:00</updated><entry><title>Exploring Python Code Objects</title><link href="http://pyvideo.org/pyohio-2012/exploring-python-code-objects.html" rel="alternate"></link><published>2012-07-29T00:00:00+00:00</published><updated>2012-07-29T00:00:00+00:00</updated><author><name>Dan Crosta</name></author><id>tag:pyvideo.org,2012-07-29:pyohio-2012/exploring-python-code-objects.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python is an interpreted language, right? Wrong! In this talk, dive deep
+into Python bytecode, and learn what actually happens in everyone's
+favorite Python program, 'print &amp;quot;Hello world&amp;quot;'. Learn to use the
+compile() and exec statement, understand what your Python code is doing
+with the dis and compiler modules, and discover new ways to explore and
+enjoy Python at a low level.&lt;/p&gt;
+</summary></entry><entry><title>Performance Testing and Profiling: A Virtuous Cycle</title><link href="http://pyvideo.org/pycon-us-2014/performance-testing-and-profiling-a-virtuous-cyc.html" rel="alternate"></link><published>2014-04-13T00:00:00+00:00</published><updated>2014-04-13T00:00:00+00:00</updated><author><name>Dan Crosta</name></author><id>tag:pyvideo.org,2014-04-13:pycon-us-2014/performance-testing-and-profiling-a-virtuous-cyc.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Donald Knuth famously said that we should avoid optimization 97% of the
+time and focus on the &amp;quot;critical 3%&amp;quot;. How can we identify that 3%? How
+can we best focus our optimization efforts, and avoid the &amp;quot;root of all
+evil&amp;quot; that is premature optimization? This talk introduces key types of
+performance testing, and demonstrates how they can be paired with
+profiling techniques in a cycle of improvement.&lt;/p&gt;
+</summary></entry><entry><title>Good Test, Bad Test</title><link href="http://pyvideo.org/pycon-us-2015/good-test-bad-test.html" rel="alternate"></link><published>2015-04-11T00:00:00+00:00</published><updated>2015-04-11T00:00:00+00:00</updated><author><name>Dan Crosta</name></author><id>tag:pyvideo.org,2015-04-11:pycon-us-2015/good-test-bad-test.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In a highly dynamic language like Python, testing is even more critical
+than in compiled or more static languages. Like any other code we
+produce, tests can be either good or bad. This talk explores three
+fallacies of testing, and the mistakes and bad habits these fallacies
+encourage; and shows how to write good tests which help assure proper
+behavior without impeding development progress.&lt;/p&gt;
+</summary></entry></feed>

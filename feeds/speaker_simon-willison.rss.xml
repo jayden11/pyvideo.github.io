@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 11 Jul 2015 00:00:00 +0000</lastBuildDate><item><title>DjangoCon 2008 Panel: Django Technical Design</title><link>http://pyvideo.org/djangocon-2008/djangocon-2008-panel-django-technical-design.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderated by Michael Trier&lt;/p&gt;
+&lt;p&gt;Panelists: Jacob Kaplan-Moss, Adrian Holovaty, Simon Willison, James Bennett, Malcolm Tredinnick&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Trier</dc:creator><pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-django-technical-design.html</guid><category>Django</category><category>panel</category><category>djangocon</category><category>djangocon2008</category></item><item><title>DjangoCon 2008 Panel: Schema Evolution</title><link>http://pyvideo.org/djangocon-2008/djangocon-2008-panel-schema-evolution.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderator:
+Michael Trier&lt;/p&gt;
+&lt;p&gt;Panelists:
+Simon Willison, Russ Keith-Magee, Andrew Godwin&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Trier</dc:creator><pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-schema-evolution.html</guid><category>Django</category><category>panel</category><category>djangocon</category><category>djangocon2008</category></item><item><title>A new default web stack</title><link>http://pyvideo.org/pyohio-2014/a-new-default-web-stack.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;When building a new web application, the default set of tools used to be
+a web framework such as Django and a relational database such as
+PostgreSQL. In 2014, these tools are no longer enough. In this talk,
+I'll present a new default stack to help build applications that are
+faster, more robust, easy to scale and still support rapid iteration and
+fast feature development.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-26:pyohio-2014/a-new-default-web-stack.html</guid><category>talk</category></item><item><title>Django Origins (and some things I have built with Django)</title><link>http://pyvideo.org/django-birthday/some-things-ive-made-with-django.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;How &amp;quot;The CMS&amp;quot; became Django and then what happened later.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-07-11:django-birthday/some-things-ive-made-with-django.html</guid></item><item><title>Cowboy Development with Django</title><link>http://pyvideo.org/djangocon-2009/cowboy-development-with-django.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Cowboy development with Django&lt;/p&gt;
+&lt;p&gt;Presented by Simon Willison&lt;/p&gt;
+&lt;p&gt;Hard to describe this talk--it's very entertaining.&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: Audio is mostly in left speaker; lost audio at 36:45]&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><pubDate>Tue, 08 Sep 2009 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2009-09-08:djangocon-2009/cowboy-development-with-django.html</guid><category>djangocon</category><category>djangocon2009</category></item><item><title>Django Technical Design Panel</title><link>http://pyvideo.org/djangocon-2009/django-technical-design-panel.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django Technical Design Panel&lt;/p&gt;
+&lt;p&gt;Featuring Joseph K, Russell Keith-Magee, Simon Willison, James Bennett,
+Brian&lt;/p&gt;
+&lt;p&gt;Moderated question and answer period covering a bunch of topics.&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: sound only from left speaker]&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Bennett</dc:creator><pubDate>Tue, 08 Sep 2009 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2009-09-08:djangocon-2009/django-technical-design-panel.html</guid><category>djangocon</category><category>djangocon2009</category></item><item><title>Challenges in developing a large Django site</title><link>http://pyvideo.org/europython-2011/challenges-in-developing-a-large-django-site.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Simon Willison - 22 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django makes it easy to build web sites and applications on tight
+deadlines - but how does it deal with sites that scale up in both
+traffic and complexity? Using Lanyrd.com as a case study, this talk will
+explore tricks and techniques for taking advantage of what Django has to
+offer while coping with the unexpected challenges raised by a highly
+dynamic social web application.&lt;/p&gt;
+&lt;p&gt;Topics covered will include performance monitoring and optimisation,
+advanced caching tricks, denormalisation with Solr and Redis and finding
+the right balance between technical elegance and pragmatism.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-20:europython-2011/challenges-in-developing-a-large-django-site.html</guid><category>django</category><category>monitoring</category><category>performance</category><category>redis</category><category>web</category></item><item><title>Advanced Aspects of the Django Ecosystem: Haystack, Celery &amp; Fabric</title><link>http://pyvideo.org/europython-2011/advanced-aspects-of-the-django-ecosystem-haystac.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Simon Willison - 21 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django benefits from a thriving third-party ecosystem. This talk will
+take a deep look at three of the components I have found most useful in
+my own projects: Haystack for full-text search, Celery for offline
+processing and Fabric for automated eployments. I'll discuss how we use
+them for Lanyrd.com, and demonstrate why they deserve a permanent place
+in your toolbox.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-18:europython-2011/advanced-aspects-of-the-django-ecosystem-haystac.html</guid><category>celery</category><category>django</category><category>fabric</category><category>processing</category></item></channel></rss>

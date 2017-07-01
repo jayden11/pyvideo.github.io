@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Mon, 01 Jan 1990 00:00:00 +0000</lastBuildDate><item><title>Stuart Mitchell - Operations research and Optimization in Python using Pulp</title><link>http://pyvideo.org/kiwi-pycon-2009/stuart-mitchell---operations-research-and-optimiz.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Operations research and optimization in Python using Pulp&lt;/p&gt;
+&lt;p&gt;Presented by Stuart Mitchell&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Operations research has the catch phrase &amp;quot;The science of better&amp;quot;. In
+this talk we will discuss what a linear programming problem is and how
+to solve one using the pulp-or package.&lt;/p&gt;
+&lt;p&gt;Outline&lt;/p&gt;
+&lt;p&gt;TBA hopefully to include a relevant example possibly a python
+implementation of graphviz.&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stuart Mitchell</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:kiwi-pycon-2009/stuart-mitchell---operations-research-and-optimiz.html</guid><category>graphviz</category><category>kiwipycon</category><category>kiwipycon2009</category></item></channel></rss>

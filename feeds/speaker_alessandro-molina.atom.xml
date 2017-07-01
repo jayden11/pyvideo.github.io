@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_alessandro-molina.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-11-06T00:00:00+00:00</updated><entry><title>Post-mortem Debugging e Sviluppo Web</title><link href="http://pyvideo.org/pycon-italia-2014/post-mortem-debugging-e-sviluppo-web.html" rel="alternate"></link><published>2014-05-24T00:00:00+00:00</published><updated>2014-05-24T00:00:00+00:00</updated><author><name>Alessandro Molina</name></author><id>tag:pyvideo.org,2014-05-24:pycon-italia-2014/post-mortem-debugging-e-sviluppo-web.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Gli sviluppatori spesso tendono a dimenticare che gli utenti possono essere molto più creativi di loro nell'uso dei loro software. Gli utenti possono essere i migliori tester del nostro software e possiamo sfruttare le loro capacità di portare alla luce problemi a nostro favore se correttamente supportate da strumenti di logging e analisi forense appropriati.&lt;/p&gt;
+&lt;p&gt;Gli strumenti di Post-Mortem debugging sono una delle funzionalità più importanti che il nostro ambiente di sviluppo dovrebbe avere, ma spesso sono sottovalutati o sconosciuti.&lt;/p&gt;
+&lt;p&gt;Il talk copre alcune delle pratiche più semplici e gli strumenti necessari a metterle in atto per effettuare efficacemente debugging delle problematiche che nascono in una applicazione web sull'ambiente di produzione.&lt;/p&gt;
+&lt;p&gt;Alcune delle tematiche coperte riguardano:&lt;/p&gt;
+&lt;p&gt;Interactive Debuggers
+Post-Mortem Debugging Best Practices
+Crash logging and reporting
+Performance Monitoring
+Parassitaggio dei processi in esecuzione&lt;/p&gt;
+</summary></entry><entry><title>Applicazioni Web Realtime e Reattive con Python e TurboGears</title><link href="http://pyvideo.org/pycon-italia-2014/applicazioni-web-realtime-e-reattive-con-python-e-turbogears.html" rel="alternate"></link><published>2014-05-23T00:00:00+00:00</published><updated>2014-05-23T00:00:00+00:00</updated><author><name>Alessandro Molina</name></author><id>tag:pyvideo.org,2014-05-23:pycon-italia-2014/applicazioni-web-realtime-e-reattive-con-python-e-turbogears.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Le applicazioni web diventano ogni giorno più legate ad aggiornamenti in tempo reale e feedback istantanei all'utente. Nonostante questo sia un ambito dominato da librerie e strumenti Javascript ci sono tecnologie Python che possono facilitarci la vita nel lavorare con componenti riusabili ed aggiornamenti in tempo reale senza bisogno di particolari conoscenze Javascript.&lt;/p&gt;
+&lt;p&gt;Il talk copre prevalentemente due tecnologie che possono facilitarci la vita come sviluppatori:&lt;/p&gt;
+&lt;p&gt;La prima, ToscaWidgets2 ci permette di creare rapidamente widgets reattivi e riusabili che si aggiornano in modo autonomo quando il loro modello di dati cambia, iniettando e gestendo in autonomia eventuali dipendenze javascript richieste dagli stessi.
+La seconda, tgext.socketio ci permette di creare senza fatica applicazioni in grado di comunicare in modo bidirezionale e concorrente con l'utente ed il browser web esattamente come faremmo per qualsiasi altra view/controller del nostro sito.
+Il talk spiegherà come essere immediatamente produttivi con queste tecnologie e come iniziare ad usarle tramite la realizzazione di una TodoList multi utente e reattiva che si aggiorna in tempo reale quando un qualsiasi utente effettua modifiche.&lt;/p&gt;
+</summary></entry><entry><title>Kajiki, the fast and validated Template Engine your were looking for</title><link href="http://pyvideo.org/pycon-ireland-2016/kajiki-the-fast-and-validated-template-engine-your-were-looking-for.html" rel="alternate"></link><published>2016-11-06T00:00:00+00:00</published><updated>2016-11-06T00:00:00+00:00</updated><author><name>Alessandro Molina</name></author><id>tag:pyvideo.org,2016-11-06:pycon-ireland-2016/kajiki-the-fast-and-validated-template-engine-your-were-looking-for.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Being dissatisfied with some of the constraints and complex usage of
+Genshi, the TurboGears2 team started working on an alternative that
+could solve Genshi speed issues, complex inheritance system and be
+backward compatible with genshi templates. This is what lead to the
+creation of the Kajiki template engine.&lt;/p&gt;
+&lt;p&gt;The talk will cover:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Comparison on the major template engines available in python to
+showcase what's special in Kajiki (validated, xml based) what was
+special in Genshi (also lazy evaluated)&lt;/li&gt;
+&lt;li&gt;What's a validated template engine and why it's good to have one.&lt;/li&gt;
+&lt;li&gt;How Kajiki works, showcase kajiki syntax, it's performances and how
+to use it in any python project.&lt;/li&gt;
+&lt;li&gt;Why Kajiki is fast, code generation applied and how to write a code
+generation template engine like Kajiki and Jinja2 (showcase a simple
+50 lines of code template engine that uses code generation).&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>DukyPuy liberarsi dalle catene di NodeJS</title><link href="http://pyvideo.org/pycon-italia-2016/dukypuy-liberarsi-dalle-catene-di-nodejs.html" rel="alternate"></link><published>2016-06-20T00:00:00+00:00</published><updated>2016-06-20T00:00:00+00:00</updated><author><name>Alessandro Molina</name></author><id>tag:pyvideo.org,2016-06-20:pycon-italia-2016/dukypuy-liberarsi-dalle-catene-di-nodejs.html</id><summary type="html"></summary></entry><entry><title>Why storing files for the web is not as straightforward as you might think.</title><link href="http://pyvideo.org/europython-2015/why-storing-files-for-the-web-is-not-as-straightforward-as-you-might-think.html" rel="alternate"></link><published>2015-08-06T00:00:00+00:00</published><updated>2015-08-06T00:00:00+00:00</updated><author><name>Alessandro Molina</name></author><id>tag:pyvideo.org,2015-08-06:europython-2015/why-storing-files-for-the-web-is-not-as-straightforward-as-you-might-think.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Alessandro Molina - Why storing files for the web is not as straightforward as you might think.
+[EuroPython 2015]
+[21 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;DEPOT ( &lt;a class="reference external" href="http://depot.readthedocs.org/en/latest/"&gt;http://depot.readthedocs.org/en/latest/&lt;/a&gt; ) is a file storage
+framework born from the experience on a project that saved a lot of
+files on disk, until the day it went online and the customer system
+engineering team decided to switch to Heroku, which doesn't support
+storing files on disk.&lt;/p&gt;
+&lt;p&gt;The talk will cover the facets of a feature &amp;quot;saving files&amp;quot; which has
+always been considered straightforward but that can become complex in
+the era of cloud deployment and when infrastructure migration happens.&lt;/p&gt;
+&lt;p&gt;After exposing the major drawbacks and issues that big projects might
+face on short and long terms with file storage the talk will introduce
+DEPOT and how it tried to solve most of the issues while providing a
+super-easy-to-use interface for developers. We will see how to use
+DEPOT to provide attachments on SQLAlchemy or MongoDB and how to
+handle problems like migration to a different storage backend and long
+term evolution.&lt;/p&gt;
+&lt;p&gt;Like SQLAlchemy makes possible to switch your storage on the fly
+without touching code, DEPOT aims at making so possible for files and
+even use multiple different storages together.&lt;/p&gt;
+</summary></entry><entry><title>Moving away from NodeJS to a pure python solution for assets</title><link href="http://pyvideo.org/europython-2016/moving-away-from-nodejs-to-a-pure-python-solution-for-assets.html" rel="alternate"></link><published>2016-08-01T00:00:00+00:00</published><updated>2016-08-01T00:00:00+00:00</updated><author><name>Alessandro Molina</name></author><id>tag:pyvideo.org,2016-08-01:europython-2016/moving-away-from-nodejs-to-a-pure-python-solution-for-assets.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Alessandro Molina - Moving away from NodeJS to a pure python solution for assets
+[EuroPython 2016]
+[20 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/moving-away-from-nodejs-to-a-pure-python-solution-for-assets"&gt;https://ep2016.europython.eu//conference/talks/moving-away-from-nodejs-to-a-pure-python-solution-for-assets&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;The talk covers the complexity of managing an asset transformation
+pipeline through tools like Grunt and NodeJS, especially during
+deploy, test suites or when a new development environment has to be
+configured from scratch, and showcase how this complexity can be
+dodged by using tools like WebAssets and DukPy.&lt;/p&gt;
+&lt;p&gt;No more need to keep around two languages, two package management
+systems and manage your dependencies between them by youself. Just pip
+install your app and have it working.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;When working with WebApplications it is common to rely on an asset
+management pipeline to compile scripts, minify css or preprocess
+images.&lt;/p&gt;
+&lt;p&gt;Most of the tools available today rely on JavaScript to perform those
+steps and always forced Python developers to rely on NodeJS to have
+grunt perform the pipeline tasks, coffee-script to compile their
+CoffeeScript or lessc to build their css. This causes longer setup
+times for projects newcomers, complex development environment, working
+with two package managers and dependencies that you use once a week
+but still need to be there.&lt;/p&gt;
+&lt;p&gt;The talk will showcase the DukPy project and focus on how it is
+possible to build a pure python asset pipeline relying on DukPy to run
+javascript tools and WebAssets framework to perform the most common
+tasks that usually Nodejs and tools like Grunt handle for us, greatly
+reducing the development environment complexity and making its setup
+as simple as ‘pip install’.&lt;/p&gt;
+&lt;p&gt;The talk aims at explaining the complexity of managing an asset
+transformation pipeline through tools like Grunt, especially during
+deploy, test suites or when a new development environment has to be
+created, and showcase how this complexity can be dodged by using tools
+like WebAssets and DukPy.&lt;/p&gt;
+&lt;p&gt;No more need to keep around two languages, two package management
+systems and manage your dependencies between them by youself. Just pip
+install your app and have it working.&lt;/p&gt;
+</summary></entry><entry><title>Costruire applicazioni web complesse con le pluggable applications di TurboGears2 in pochi minuti</title><link href="http://pyvideo.org/europython-2012/costruire-applicazioni-web-complesse-con-le-plugg.html" rel="alternate"></link><published>2012-07-06T00:00:00+00:00</published><updated>2012-07-06T00:00:00+00:00</updated><author><name>Alessandro Molina</name></author><id>tag:pyvideo.org,2012-07-06:europython-2012/costruire-applicazioni-web-complesse-con-le-plugg.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2012] Alessandro Molina - 5 JULY 2012 in &amp;quot;Track Big Mac&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Con la release 2.1 di TurboGears il team di sviluppo ha posto molta
+enfasi nel creare un set di strumenti utili al rapid prototyping di
+applicazioni web. Questo ha portato alla realizzazione di molte
+migliorie all’estensione per la generazione di CRUD ed al supporto per
+le applicazioni pluggabili. Padroneggiare questi strumenti può
+permetterci di creare applicazioni web complesse senza troppa fatica
+riutilizzando parti messe a disposizione da altre applicazioni
+pluggabili e creando sezioni amministrative con poche righe di codice
+tramite l’uso dell’estensione CRUD sia su SQLAlchemy che MongoDB.&lt;/p&gt;
+</summary></entry><entry><title>Baking Beaker perchè sessioni e caching possono ancora convivere</title><link href="http://pyvideo.org/pycon-italia-2015/baking-beaker-perche-sessioni-e-caching-possono.html" rel="alternate"></link><published>2015-05-30T00:00:00+00:00</published><updated>2015-05-30T00:00:00+00:00</updated><author><name>Alessandro Molina</name></author><id>tag:pyvideo.org,2015-05-30:pycon-italia-2015/baking-beaker-perche-sessioni-e-caching-possono.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Beaker è probabilmente la più diffusa soluzione cross-framework per la
+gestione delle sessioni e della cache nell’ambito web. Nato nel 2005
+dagli autori di SQLAlchemy e Pylons è stato sempre mantenuto al fianco
+del framework Pylons. Dopo la fine di Pylons a favore di Pyramid il suo
+futuro è diventato incerto e, per quanto sia ancora oggi molto usato al
+fianco di Bottle, Flask, TurboGears e spesso anche Pyramid, alcuni dei
+limiti dovuti all’incompatibilità con Python3 ed alcune scelte
+architetturali hanno portato gli utenti ad avvicinarsi a soluzioni
+alternative. Nel 2015 la manutenzione di Beaker è stata passata da Ben
+Bangert al team di TurboGears che ha riscritto tutta la compatibilità
+con Python3 rendendo Beaker un progetto nativo Python3 e risolto alcuni
+dei bugs di più lunga data. Il talk mira a mostrare l’esperienza e le
+problematiche venute alla luce nei quasi 10 anni di vita del framework
+ed illustrare come si intende ridare forza al progetto risolvendo alcuni
+dei limiti architetturali pricinpali e quali sono state le scelte
+“sbagliate”. Lo scopo è diffondere quali possono essere le problematiche
+e le false supposizioni che esistono nell’ambito del caching e della
+gestione delle sessioni facendo tesoro delle esperienze fatte dal
+progetto Beaker nel corso della sua vita.&lt;/p&gt;
+</summary></entry><entry><title>Messing up with PyMongo for fun and profit</title><link href="http://pyvideo.org/pycon-italia-2015/messing-up-with-pymongo-for-fun-and-profit.html" rel="alternate"></link><published>2015-05-30T00:00:00+00:00</published><updated>2015-05-30T00:00:00+00:00</updated><author><name>Alessandro Molina</name></author><id>tag:pyvideo.org,2015-05-30:pycon-italia-2015/messing-up-with-pymongo-for-fun-and-profit.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;BSON (Binary JSON) è il formato di rappresentazione dei dati usato
+internamente da MongoDB per la trasmissione e rappresentazione dei
+documenti salvati nel database. Ogni volta che si implementano delle API
+HTTP basate su MongoDB il driver (pymongo) riceve i dati in formato BSON
+e li deve convertire in un formato comprensibile da Python.
+Successivamente questi dati dovranno essere re-encodati nel formato
+usato dalle nostre API, solitamente JSON. Per qualcosa come una API REST
+che solitamente è solo un proxy ai dati effettivi, l’encoding/decoding
+dance può arrivare a pesare pesantemente sulle performance riducendo il
+throughput del nostro API Server. La presentazione mira a mostrare come
+studiando il funzionamento interno di PyMONGO ed alterandone alcuni
+flussi si può evitare in molti casi questo balletto e guadagnare
+sensibilmente in numero di richieste al secondo servite dal nostro
+ambiente.&lt;/p&gt;
+</summary></entry></feed>

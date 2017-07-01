@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 27 Aug 2015 00:00:00 +0000</lastBuildDate><item><title>R0 DAY03-03 Kernel-mapper (Tool to simplify the use of PyOpenCL) - Kilik Kuo (PyCon APAC 2015)</title><link>http://pyvideo.org/pycon-apac-2015/r0-day03-03-kernel-mapper-tool-to-simplify-the-use.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Kilik Kuo&lt;/p&gt;
+&lt;p&gt;We'd like to provide a simpler way for people to utilize GPU power via PyOpenCL.
+Also provide a more clearer line to separate tasks easily for people we're good at OpenCL kernel programming &amp;amp; python programming.&lt;/p&gt;
+&lt;p&gt;About the speaker&lt;/p&gt;
+&lt;p&gt;ABOUT&lt;/p&gt;
+&lt;p&gt;Experience with Python for 5+ years.
+Being fascinated by the coding style and simplicity of expression, and the people who use it !&lt;/p&gt;
+&lt;p&gt;Current job - Software engineer in Mozilla Taiwan, worked on FxOS.
+Previous job - Associate principal engineer in CyberLink, Windows / Mac desktop application&lt;/p&gt;
+&lt;p&gt;個人網頁連結 &lt;a class="reference external" href="https://www.facebook.com/kilik.kuo"&gt;https://www.facebook.com/kilik.kuo&lt;/a&gt;
+組織/公司 Mozilla Taiwan
+頭銜 Software Engineer&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://tw.pycon.org/2015apac/zh/program/48"&gt;https://tw.pycon.org/2015apac/zh/program/48&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kilik Kuo</dc:creator><pubDate>Thu, 27 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-27:pycon-apac-2015/r0-day03-03-kernel-mapper-tool-to-simplify-the-use.html</guid></item></channel></rss>

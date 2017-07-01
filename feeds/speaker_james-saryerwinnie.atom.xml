@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_james-saryerwinnie.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-19T00:00:00+00:00</updated><entry><title>Next Level Testing</title><link href="http://pyvideo.org/pycon-us-2017/next-level-testing.html" rel="alternate"></link><published>2017-05-19T00:00:00+00:00</published><updated>2017-05-19T00:00:00+00:00</updated><author><name>James Saryerwinnie</name></author><id>tag:pyvideo.org,2017-05-19:pycon-us-2017/next-level-testing.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Unit, functional, and integration tests are great first steps towards
+improving the quality of your python project. Ever wonder if there’s
+even more you can do? Maybe you've heard of property-based testing,
+fuzzing, and mutation testing but you're unsure exactly how they can
+help you. In this talk we’ll cover additional types of tests that can
+help improve the quality and robustness of your python projects:
+property-based testing, fuzz testing, stress testing, long term
+reliability testing, and mutation testing.&lt;/p&gt;
+&lt;p&gt;We’ll also go beyond just covering what these tests are. For each of the
+test types above, I’ll give you real world examples from open source
+software that I maintain that shows you the types of bugs each test type
+can find. I’ll also show you how you can integrate these tests into your
+Travis CI and/or Jenkins environment.&lt;/p&gt;
+</summary></entry><entry><title>Writing Redis in Python with asyncio</title><link href="http://pyvideo.org/europython-2016/writing-redis-in-python-with-asyncio.html" rel="alternate"></link><published>2016-08-04T00:00:00+00:00</published><updated>2016-08-04T00:00:00+00:00</updated><author><name>James Saryerwinnie</name></author><id>tag:pyvideo.org,2016-08-04:europython-2016/writing-redis-in-python-with-asyncio.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;James Saryerwinnie - Writing Redis in Python with asyncio
+[EuroPython 2016]
+[21 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/writing-redis-in-python-with-asyncio"&gt;https://ep2016.europython.eu//conference/talks/writing-redis-in-python-with-asyncio&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;In this talk, I'll show you how to write redis using asyncio.  You'll
+see how you can create a real world application using asyncio by
+creating a python port of redis.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Python has been adding more and more async features to the language.
+Starting with asyncio in python 3.4 and including the new async/await
+keywords in python 3.5, it's difficult to understand how all these
+pieces fit together.  More importantly, it's hard to envision how to
+use these new language features in a real world application.  In this
+talk we're going to move beyond the basic examples of TCP echo servers
+and example servers that can add number together.  Instead I'll show
+you a realistic asyncio application.  This application is a port of
+redis, a popular data structure server, written in python using
+asyncio.  In addition to basic topics such as handling simple redis
+commands (GET, SET, APPEND, etc),  we'll look at notifications using
+pub/sub, how to implement the MONITOR command, and persistence.  Come
+learn how to apply the asyncio library to real world applications.&lt;/p&gt;
+</summary></entry><entry><title>Supporting Everything - Python2/3, Mac/Linux/Windows</title><link href="http://pyvideo.org/pycon-ca-2013/supporting-everything-python23-maclinuxwind.html" rel="alternate"></link><published>2013-08-10T00:00:00+00:00</published><updated>2013-08-10T00:00:00+00:00</updated><author><name>James Saryerwinnie</name></author><id>tag:pyvideo.org,2013-08-10:pycon-ca-2013/supporting-everything-python23-maclinuxwind.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;There comes a time in the life of a library where it must leave your
+machine and find a home in a far away computer. That computer might even
+run windows. This talk will show how you can write a library that
+supports Linux/Mac/Windows and runs on python 2 and 3.&lt;/p&gt;
+</summary><category term="talk"></category></entry></feed>

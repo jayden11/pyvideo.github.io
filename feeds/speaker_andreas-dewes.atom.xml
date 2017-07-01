@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_andreas-dewes.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-04T00:00:00+00:00</updated><entry><title>Code is not text! How graph technologies can help us to understand our code better.</title><link href="http://pyvideo.org/europython-2015/code-is-not-text-how-graph-technologies-can-help-us-to-understand-our-code-better.html" rel="alternate"></link><published>2015-08-07T00:00:00+00:00</published><updated>2015-08-07T00:00:00+00:00</updated><author><name>Andreas Dewes</name></author><id>tag:pyvideo.org,2015-08-07:europython-2015/code-is-not-text-how-graph-technologies-can-help-us-to-understand-our-code-better.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Andreas Dewes - Code is not text! How graph technologies can help us to understand our code better.
+[EuroPython 2015]
+[21 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Today, we almost exclusively think of code in software projects as a
+collection of text files. The tools that we use (version control
+systems, IDEs, code analyzers) also use text as the primary storage
+format for code. In fact, the belief that &amp;quot;code is text&amp;quot; is so deeply
+ingrained in our heads that we never question its validity or even
+become aware of the fact that there are other ways to look at code.&lt;/p&gt;
+&lt;p&gt;In my talk I will explain why treating code as text is a very bad idea
+which actively holds back our understanding and creates a range of
+problems in large software projects. I will then show how we can
+overcome (some of) these problems by treating and storing code as
+data, and more specifically as a graph. I will show specific examples
+of how we can use this approach to improve our understanding of large
+code bases, increase code quality and automate certain aspects of
+software development.&lt;/p&gt;
+&lt;p&gt;Finally, I will outline my personal vision of the future of
+programming, which is a future where we no longer primarily interact
+with code bases using simple text editors. I will also give some ideas
+on how we might get to that future.&lt;/p&gt;
+&lt;p&gt;More information about me:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Github: &lt;a class="reference external" href="https://github.com/adewes"&gt;https://github.com/adewes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Twitter: &lt;a class="reference external" href="https://twitter.com/japh44"&gt;https://twitter.com/japh44&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Website: &lt;a class="reference external" href="http://www.andreas-dewes.de/en"&gt;http://www.andreas-dewes.de/en&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry><entry><title>Analyzing Data with Python &amp; Docker</title><link href="http://pyvideo.org/europython-2016/analyzing-data-with-python-docker.html" rel="alternate"></link><published>2016-08-04T00:00:00+00:00</published><updated>2016-08-04T00:00:00+00:00</updated><author><name>Andreas Dewes</name></author><id>tag:pyvideo.org,2016-08-04:europython-2016/analyzing-data-with-python-docker.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Andreas Dewes - Analyzing Data with Python &amp;amp; Docker
+[EuroPython 2016]
+[21 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/analyzing-data-with-python-docker"&gt;https://ep2016.europython.eu//conference/talks/analyzing-data-with-python-docker&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Docker is a powerful tool for packaging software and services in
+containers and running them on a virtual infrastructure. Python is a
+very powerful language for data analysis. What happens if we combine
+the two? We get a very versatile and robust system for analyzing data
+at small and large scale!&lt;/p&gt;
+&lt;p&gt;I will show how we can make use of Python and Docker to build
+repeatable, robust data analysis workflows which can be used in many
+different contexts (possibly with a live demo).&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Docker is a powerful tool for packaging software and services in
+containers and running them on a virtual infrastructure. Python is a
+very powerful language for data analysis. What happens if we combine
+the two? We get a very versatile and robust system for analyzing data
+at small and large scale!&lt;/p&gt;
+&lt;p&gt;I will show how we can make use of Python and Docker to build
+repeatable, robust data analysis workflows that can be used in many
+different contexts. I will explain the core ideas behind Docker and
+show how they can be useful in data analysis. I will then discuss an
+open-source Python library (Rouster) which uses the Python Docker-API
+to analyze data in containers and show several interesting use cases
+(possibly even a live-demo).&lt;/p&gt;
+&lt;p&gt;Outline:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Why data analysis can be frustrating: Managing software, dependencies, data versions, workflows&lt;/li&gt;
+&lt;li&gt;How Docker can help us to make data analysis easier &amp;amp; more reproducible&lt;/li&gt;
+&lt;li&gt;Introducing Rouster: Building data analysis workflows with Python and Docker&lt;/li&gt;
+&lt;li&gt;Examples of data analysis workflows: Business Intelligence, Scientific Data Analysis, Interactive Exploration of Data&lt;/li&gt;
+&lt;li&gt;Future Directions &amp;amp; Outlook&lt;/li&gt;
+&lt;/ol&gt;
+</summary></entry><entry><title>Learning from other's mistakes: Data-driven analysis of Python code</title><link href="http://pyvideo.org/pycon-us-2015/learning-from-others-mistakes-data-driven-analy.html" rel="alternate"></link><published>2015-04-11T00:00:00+00:00</published><updated>2015-04-11T00:00:00+00:00</updated><author><name>Andreas Dewes</name></author><id>tag:pyvideo.org,2015-04-11:pycon-us-2015/learning-from-others-mistakes-data-driven-analy.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Static code analysis is an useful tool that can help to detect bugs
+early in the software development life cycle. I will explain the basics
+of static analysis and show the challenges we face when analyzing Python
+code. I will introduce a data-driven approach to code analysis that
+makes use of public code and example-based learning and show how it can
+be applied to analyzing Python code.&lt;/p&gt;
+</summary></entry></feed>

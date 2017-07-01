@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_sean-odonnell.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-11-05T00:00:00+00:00</updated><entry><title>Practical Django Debugging and Profiling</title><link href="http://pyvideo.org/pycon-ireland-2016/practical-django-debugging-and-profiling.html" rel="alternate"></link><published>2016-11-05T00:00:00+00:00</published><updated>2016-11-05T00:00:00+00:00</updated><author><name>Sean O'Donnell</name></author><id>tag:pyvideo.org,2016-11-05:pycon-ireland-2016/practical-django-debugging-and-profiling.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;I plan to cover Debug Mode, The Django Debug Toolbar, The Werkzeug
+Debugger, Profiling Middleware, Logging and Locust for Load testing. The
+Goal is to introduce each tool, give its pros and cons, and a short
+demonstration. Ideally there will be enough time for some Q&amp;amp;A; at the
+end.&lt;/p&gt;
+</summary></entry></feed>

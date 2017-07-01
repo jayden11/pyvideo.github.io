@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 14 Sep 2014 00:00:00 +0000</lastBuildDate><item><title>Deploying test and production systems with Ansible</title><link>http://pyvideo.org/kiwi-pycon-2014/deploying-test-and-production-systems-with-ansibl.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Audience level&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intermediate&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This talk presents Ansible as a light-weight, simple and effective
+configuration management tool. We will see why configuration management
+is important and how we can use Ansible to automatically deploy and test
+full production clusters - showcased with a sample Django application -
+with just a single command and in a number of different environments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With modern configuration, deployment and orchestration systems,
+software developers can easily maintain, bring up and tear down local
+test systems, staging, demonstration and production systems, which are
+100% identical to each other.&lt;/p&gt;
+&lt;p&gt;This presentation will give an introduction to Ansible, a modern, simple
+and efficient configuration management system. We will see how we can
+deploy complete clusters (with load balancers, database and some Django
+application servers), reliably and fully automated, either on dedicated
+servers, on local virtual machines or in the cloud.&lt;/p&gt;
+&lt;p&gt;If all goes well, there will even be a live demo in which we will bring
+up a complete cluster or two in different environments, to illustrate
+the power of this approach.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://speakerdeck.com/nzpug/juergen-brendel-deploying-test-and-production-systems-with-ansible"&gt;https://speakerdeck.com/nzpug/juergen-brendel-deploying-test-and-production-systems-with-ansible&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juergen Brendel</dc:creator><pubDate>Sun, 14 Sep 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-09-14:kiwi-pycon-2014/deploying-test-and-production-systems-with-ansibl.html</guid><category>talk</category></item><item><title>PyConAU 2010: Introducing Python to a Java shop</title><link>http://pyvideo.org/pycon-au-2010/pyconau-2010--introducing-python-to-a-java-shop.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Introducing Python to a Java shop&lt;/p&gt;
+&lt;p&gt;Presented by Juergen Brendel (MuleSoft)&lt;/p&gt;
+&lt;p&gt;There is a time and place for everything: For some applications Python
+is perfect, for others a language like Java and its entire ecosystem is
+more ideal. In this talk we see how Python was introduced to a Java shop
+as a vehicle for rapid and dynamic prototyping of a new project. The
+talk then explains how Jython/Java integration was used to translate
+this project step by step from Python to Java. Going beyond the advocacy
+focus, the talk then shows the interfaces to call Java from Python and
+vice versa and illustrates those with examples. Furthermore, unit
+testing of Java classes via test cases written in Python is also touched
+upon.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Juergen Brendel</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--introducing-python-to-a-java-shop.html</guid><category>advocacy</category><category>jython</category><category>prototyping</category><category>pyconau</category><category>pyconau2010</category></item></channel></rss>

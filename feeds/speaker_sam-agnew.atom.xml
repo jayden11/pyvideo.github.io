@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_sam-agnew.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-21T00:00:00+00:00</updated><entry><title>Keynote: Hacking a gameboy with Python</title><link href="http://pyvideo.org/python-brasil-2016/keynote-hacking-a-gameboy-with-python.html" rel="alternate"></link><published>2016-10-16T00:00:00+00:00</published><updated>2016-10-16T00:00:00+00:00</updated><author><name>Sam Agnew</name></author><id>tag:pyvideo.org,2016-10-16:python-brasil-2016/keynote-hacking-a-gameboy-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Keynote Sam - Hacking a gameboy with Python&lt;/p&gt;
+</summary></entry><entry><title>Hacking Classic Nintendo Games with Python</title><link href="http://pyvideo.org/pycon-us-2017/hacking-classic-nintendo-games-with-python.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Sam Agnew</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/hacking-classic-nintendo-games-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Do you feel like using your superpowers as a developer to bring the
+games of your childhood into the future with the power of the Internet?
+In this live coded journey, we'll build an SMS powered &amp;quot;Game Genie&amp;quot;
+allowing the audience to send text messages to manipulate the Nintendo
+games being played in real time. This will involve working with Flask,
+the Twilio API, the FCEUX NES emulator and how to bridge them with quick
+Lua scripts.&lt;/p&gt;
+</summary></entry></feed>

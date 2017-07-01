@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 06 Nov 2016 00:00:00 +0000</lastBuildDate><item><title>How Data Science fits in the Balanced Team</title><link>http://pyvideo.org/pycon-ireland-2016/how-data-science-fits-in-the-balanced-team.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The goal of a Balanced Team is to share ownership and responsibility
+for the success of a project between team members. Each team member
+has specific obligations to the team and a specific area of authority.
+Until recently, designers, product managers and developers were the
+usual team members considered. In this talk I will explore how data
+scientists can function in a balanced team and discuss my experience
+working as a data scientist on balanced teams at Pivotal Labs with our
+global clients. I will consider what obligations and authority a data
+scientist can provide as part of a balanced team and how this
+situation differs from the usual jack-of-all-trades type data science
+work. I will outline specific examples where data science can help
+user centric design and product management, and where the practices of
+lean-startup and agile development can help accelerate analysis and
+data science. Based on my experience building data science driven
+products with a global bank and European car manufacturers, I will
+outline what we tried, what worked and most importantly what didn’t.&lt;/p&gt;
+&lt;p&gt;If you are a data scientist or need to work with one, this talk will
+equip you to understand how data science can be an integral part of a
+balanced team.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ian Huston</dc:creator><pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-06:pycon-ireland-2016/how-data-science-fits-in-the-balanced-team.html</guid></item></channel></rss>

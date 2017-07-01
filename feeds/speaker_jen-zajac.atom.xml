@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_jen-zajac.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-09-13T00:00:00+00:00</updated><entry><title>Integrating JavaScript with Python Web Frameworks</title><link href="http://pyvideo.org/kiwi-pycon-2013/integrating-javascript-with-python-web-frameworks.html" rel="alternate"></link><published>2013-09-13T00:00:00+00:00</published><updated>2013-09-13T00:00:00+00:00</updated><author><name>Jen Zajac</name></author><id>tag:pyvideo.org,2013-09-13:kiwi-pycon-2013/integrating-javascript-with-python-web-frameworks.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;For today's modern web applications it's inevitable that you're going to
+need some client side magic to give your application the responsiveness
+it needs. This talk covers some of the dos and don'ts of integrating
+JavaScript with various Python web frameworks like Django.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&amp;#64; Kiwi PyCon 2013 - Saturday, 08 Sep 2013 - Track 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Audience level&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Intermediate&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Having spent the last year working on a big Django + AngularJS web
+application, Jen has ironed out the majority of issues that you might
+bump into whilst trying to work with both Python and JavaScript.&lt;/p&gt;
+&lt;p&gt;She will go over some of the common pitfalls, whilst outlining best
+practice. This talk will cover set up of some of the common combinations
+of frameworks your might be considering using for your next big project,
+and also examine how to leverage API modules like Django's Tastypie in
+order to provide a RESTful API and create a good abstraction between
+your server side and client side code.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://speakerdeck.com/nzpug/jen-zajac-integrating-javascript-with-python-web-frameworks"&gt;https://speakerdeck.com/nzpug/jen-zajac-integrating-javascript-with-python-web-frameworks&lt;/a&gt;&lt;/p&gt;
+</summary></entry></feed>

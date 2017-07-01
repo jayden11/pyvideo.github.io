@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_nginx.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2011-02-10T00:00:00+00:00</updated><entry><title>Python/Django deployment</title><link href="http://pyvideo.org/chipy/python-django-deployment.html" rel="alternate"></link><published>2011-02-10T00:00:00+00:00</published><updated>2011-02-10T00:00:00+00:00</updated><author><name>Rohit Sankaran</name></author><id>tag:pyvideo.org,2011-02-10:chipy/python-django-deployment.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;I'll introduce the WSGI ecosystem. We'll then setup a Django app and
+deploy it to a VM. I'll cover server setup/config and best practices and
+cover software used like Fabric, nginx etc. Sample nginx, WSGI and
+Apache configs will be provided. People can follow along and I'll
+provide download links after so they can try it at home. This will be
+the best meeting ever.&lt;/p&gt;
+</summary><category term="apache"></category><category term="chipy"></category><category term="fabric"></category><category term="nginx"></category><category term="wsgi"></category></entry><entry><title>Simple WSGI composition: story of one refactoring (#51)</title><link href="http://pyvideo.org/pycon-us-2010/pycon-2010--simple-wsgi-composition--story-of-one.html" rel="alternate"></link><published>2010-02-19T00:00:00+00:00</published><updated>2010-02-19T00:00:00+00:00</updated><author><name>Max Ischenko</name></author><id>tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--simple-wsgi-composition--story-of-one.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Simple WSGI composition: story of one refactoring&lt;/p&gt;
+&lt;p&gt;Presented by Max Ischenko&lt;/p&gt;
+&lt;p&gt;Story of a refactoring I did to split one big, monolithic Pylons app
+into a bunch of smaller ones, using power of WSGI and nginx. The devil
+is in the details: how to handle common auth, site-wide look and feel,
+common utilities, database management. Pros and cons of the approach,
+possible alternatives.&lt;/p&gt;
+&lt;p&gt;The talk assumes listeners know what WSGI is and preferably have used
+some WSGI-centered framework like Pylons, Werkzeug, Paste or other.&lt;/p&gt;
+&lt;p&gt;The application this talk describes powers developers.org.ua.&lt;/p&gt;
+</summary><category term="nginx"></category><category term="pycon"></category><category term="pycon2010"></category><category term="pylons"></category><category term="wsgi"></category></entry></feed>

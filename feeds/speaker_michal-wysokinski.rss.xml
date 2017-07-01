@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 14 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>Parallel Python</title><link>http://pyvideo.org/pycon-pl-2016/parallel-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Many people believe that GIL completely rules out executing Python code
+in parallel. It's true that GIL limits it to some extent, however the
+rich ecosystem of Python modules not only allows that, but even offers
+several ways of how it can be achieved. During the talk I will describe
+these approaches together with their corresponding modules. I will also
+briefly discuss when using parallelism in Python might be beneficial,
+when to avoid it and what possible traps might be encountered during
+parallel execution of Python code.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michał Wysokiński</dc:creator><pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-14:pycon-pl-2016/parallel-python.html</guid></item></channel></rss>

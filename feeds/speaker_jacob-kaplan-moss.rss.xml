@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate><item><title>DjangoCon 2008: Chairman Opening Keynote</title><link>http://pyvideo.org/djangocon-2008/djangocon-2008-chairman-opening-keynote.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Conference Chair Robert Lofthouse, Jacob Kaplan-Moss and Leslie Hawthorn welcome attendees to DjangoCon 2008.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Robert Lofthouse</dc:creator><pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-chairman-opening-keynote.html</guid><category>Django</category><category>djangocon</category><category>djangocon2008</category></item><item><title>DjangoCon 2008 Keynote: Adrian Holovaty &amp; Jacob Kaplan-Moss</title><link>http://pyvideo.org/djangocon-2008/djangocon-2008-keynote-adrian-holovaty-jacob-kaplan-moss.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Adrian Holovaty and Jacob Kaplan-Moss deliver keynote address &amp;quot;Django's Future&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adrian Holovaty</dc:creator><pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-keynote-adrian-holovaty-jacob-kaplan-moss.html</guid><category>Django</category><category>keynote</category><category>djangocon</category><category>djangocon2008</category></item><item><title>DjangoCon 2008 Keynote Questions: State of Django</title><link>http://pyvideo.org/djangocon-2008/djangocon-2008-keynote-questions-state-of-django.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Jacob Kaplan-Moss &amp;amp; Adrian Holovaty answer attendee questions following their &amp;quot;State of Django&amp;quot; Keynote&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-keynote-questions-state-of-django.html</guid><category>Django</category><category>keynote</category><category>djangocon</category><category>djangocon2008</category></item><item><title>DjangoCon 2008 Panel: Django Success Stories</title><link>http://pyvideo.org/djangocon-2008/djangocon-2008-panel-django-success-stories.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderator:
+Jacob Kaplan-Moss&lt;/p&gt;
+&lt;p&gt;Panelists:
+Matt Croydon, Michael Greer, Joshua Jag Ginsberg, Leah Culver, Andy McCurdy, Jason Yan&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-django-success-stories.html</guid><category>Django</category><category>panel</category><category>djangocon</category><category>djangocon2008</category></item><item><title>DjangoCon 2008 Panel: Django Technical Design</title><link>http://pyvideo.org/djangocon-2008/djangocon-2008-panel-django-technical-design.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderated by Michael Trier&lt;/p&gt;
+&lt;p&gt;Panelists: Jacob Kaplan-Moss, Adrian Holovaty, Simon Willison, James Bennett, Malcolm Tredinnick&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Trier</dc:creator><pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-django-technical-design.html</guid><category>Django</category><category>panel</category><category>djangocon</category><category>djangocon2008</category></item><item><title>Let's build a web framework!</title><link>http://pyvideo.org/pycon-us-2017/lets-build-a-web-framework.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;blockquote&gt;
+&amp;quot;Reinventing the wheel is great if your goal is to learn more about
+wheels.&amp;quot; -- James Tauber&lt;/blockquote&gt;
+&lt;p&gt;If you're building a web app, you probably reach for your favorite
+framework -- Django, Flask, Pyramid, etc. But we rarely stop to think
+about what these tools are doing under the hood. In this hands-on
+tutorial, you'll gain a deeper understanding of what frameworks are and
+how they work by implementing your own framework from scratch. We'll
+build a complete (if minimal) web framework that handles the WSGI
+request/response cycle, routing, controllers, templating, and a data
+layer. Along the way you'll gain a deeper understanding of the decisions
+web frameworks make, their relative merits, and inner workings.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-18:pycon-us-2017/lets-build-a-web-framework.html</guid></item><item><title>Django minus Django</title><link>http://pyvideo.org/djangocon-europe-2014/django-minus-django.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django is a monolithic framework -- or is it? Django prides itself on
+being &amp;quot;batteries-included,&amp;quot; but that doesn't mean you need an
+appointment at the Genius Bar to replace them. This talk aims to show
+the audience how to replace every facet of Django, from the template
+engine to the ORM. The talk will also highlight the areas of Django that
+still carry this difficulty, and offer direction where Django can go to
+fix them.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Burch</dc:creator><pubDate>Wed, 14 May 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-05-14:djangocon-europe-2014/django-minus-django.html</guid></item><item><title>Keynote - Python Everywhere</title><link>http://pyvideo.org/pycon-uy-2013/keynote-python-everywhere.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon UY 2013: Keynote - Python Everywhere - Jacob Kaplan Moss&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-11-01:pycon-uy-2013/keynote-python-everywhere.html</guid></item><item><title>The Future of Django</title><link>http://pyvideo.org/pycon-uy-2013/the-future-of-django.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyCon UY 2013: The Future of Django - Jacob Kaplan Moss&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-11-01:pycon-uy-2013/the-future-of-django.html</guid></item><item><title>Be Agile, Not Vulnerable</title><link>http://pyvideo.org/djangocon-2013/be-agile-not-vulnerable.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Be Agile, Not Vulnerable&lt;/p&gt;
+&lt;p&gt;Audience level: Novice&lt;/p&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;p&gt;Security has to be everyone's responsibility, and cannot be managed as a
+feature.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Startups like to &amp;quot;move fast and break things&amp;quot;... but how do you ensure
+that what breaks isn't security? How do you strike a balance and make
+sure you're able to ship quickly while still ensuring that what goes out
+the door doesn't have vulnerabilities? The answer begins by recognizing
+that security is a process, not a feature, and this has ramifications
+throughout the organization. It means that security engineering needs to
+be everyone's responsibility (instead of a select few), and it means
+that when security vulnerabilities crop up — and they will — the
+organization needs to be prepared and aligned to act quickly.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Thu, 03 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-03:djangocon-2013/be-agile-not-vulnerable.html</guid></item><item><title>Minimum Viable Security</title><link>http://pyvideo.org/djangocon-2015/minimum-viable-security-by-jacob-kaplan-moss.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Minimum Viable Security&lt;/p&gt;
+&lt;p&gt;We'll look at creating a full security program for a startup-sized
+company, one that can start quite small, but can be iterated on
+continually, and grown to match the growth of your business. This talk
+uses the conceit of a five day program, to be completed in a one-week
+sprint, but the steps could easily be scaled down to just a few hours,
+spread out, or otherwise modified to fit your time and organization.&lt;/p&gt;
+&lt;p&gt;Day 1 - Training: for a security program to work, it needs to be
+everybody's responsibility, not just a select few. So your first step in
+creating a security program is to establish a minimum bar for secure
+coding techniques. Luckily, basic secure coding is easily explained and
+taught, and there are great free guides and resources that can form the
+backbone of a simple, easy training program. On Day 1, you'll pull
+together these guides and create a training manual.&lt;/p&gt;
+&lt;p&gt;Day 2 - Secure Development Lifecycle: now we know how to write good
+code, but how do we ensure that best practices are followed? As we learn
+lessons about our own product and its security posture, how do we make
+sure those learnings are captured, retained, and applied in the future?
+The answer to these questions lies in creating a Secure Development
+Lifecycle, which is just a fancy name for procedures and checklists that
+capture your best practices, and help remind you of them as you ship new
+features. On day 2, you'll write those checklists, adopt some
+lightweight process, and being tracking your product security.&lt;/p&gt;
+&lt;p&gt;Day 3 - Incident Response: sooner or later, something will go wrong.
+When it does, will you be able to respond? Trying to make up an incident
+response process when something's already on fire is an unpleasant
+experience, and you can avoid it with a little bit of preparation. On
+day 3, you'll develop a basic IR plan, run a table-top exercise to try
+it out, and be ready to respond if and when something goes bump in the
+night.&lt;/p&gt;
+&lt;p&gt;Day 4 - Governance, Risk, and Compliance: there's an alphabet soup of
+security standards: ISO, SOC, SIG, PCI, HIPAA, FIPS, FISMA, FedRAMP...
+oh my! At small scale, most of these are formal attestations probably
+aren't worth the investment. However, at larger scale these ways of
+formally proving security standards start to become increasingly
+important. Completely ignoring formal risk programs can get you into a
+bind if you decide to pursue them later. Thus, on day 4 you'll lay the
+groundwork for a formal GRC program, making sure you're ready to start
+down this path once your business grows to that point.&lt;/p&gt;
+&lt;p&gt;Day 5: Brag about it! At this point, you've got a security program far
+better than most startups (and better than many established businesses).
+This is great! Security is increasingly a concern even for non-technical
+customers, and now that you've got a good story to tell, you should tell
+it! On day 5, you'll lay out that security story, publicly, and make
+sure your customers know about all your hard work.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-18:djangocon-2015/minimum-viable-security-by-jacob-kaplan-moss.html</guid></item><item><title>Porting Django apps to Python 3</title><link>http://pyvideo.org/djangocon-au-2013/porting-django-apps-to-python-3-0.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Django 1.5 now supports Python 3, so now's the time to start thinking
+about porting your apps and sites. Come see how! I'll talk about the
+porting techniques that work, and present two case studies: porting a
+site, and porting a reusable app.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Fri, 05 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-05:djangocon-au-2013/porting-django-apps-to-python-3-0.html</guid></item><item><title>Lightning Talks (day 3)</title><link>http://pyvideo.org/djangocon-eu-2010/djangoconeu-lightingtalksthirdday663flv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jan Lehnardt</dc:creator><pubDate>Wed, 26 May 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-05-26:djangocon-eu-2010/djangoconeu-lightingtalksthirdday663flv.html</guid></item><item><title>NoSQL Panel</title><link>http://pyvideo.org/djangocon-eu-2010/djangoconeu-nosqlpanel416m4v.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Gaynor</dc:creator><pubDate>Wed, 26 May 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-05-26:djangocon-eu-2010/djangoconeu-nosqlpanel416m4v.html</guid></item><item><title>Django Technical Design Panel</title><link>http://pyvideo.org/djangocon-eu-2010/djangoconeu-djangotechnicaldesignpanel420flv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Russell Keith-Magee</dc:creator><pubDate>Tue, 25 May 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-05-25:djangocon-eu-2010/djangoconeu-djangotechnicaldesignpanel420flv.html</guid></item><item><title>Lightning Talks (day 2)</title><link>http://pyvideo.org/djangocon-eu-2010/djangoconeu-lightningtalkssecondday965flv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Erik Romijn</dc:creator><pubDate>Tue, 25 May 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-05-25:djangocon-eu-2010/djangoconeu-lightningtalkssecondday965flv.html</guid></item><item><title>Keynote</title><link>http://pyvideo.org/djangocon-eu-2010/djangoconeu-jacobkaplanmosskeynote270flv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Mon, 24 May 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-05-24:djangocon-eu-2010/djangoconeu-jacobkaplanmosskeynote270flv.html</guid></item><item><title>Building secure web apps: Python vs the OWASP Top 10</title><link>http://pyvideo.org/pycon-au-2013/building-secure-web-apps-python-vs-the-owasp-top.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The web is a scary place, and building secure web applications is
+difficult. Luckily, you've got Python! The Python web community tends to
+take security seriously, so most popular Python web frameworks have
+defenses available. This talk looks at the list of the top 10 security
+vulnerabilities, as ranked by The Open Web Application Security Project
+(OWASP). We'll talk about what each attack is, and look at how to defend
+against them using three popular Python web frameworks -- Django,
+Pyramid, and Flask.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Sat, 06 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-06:pycon-au-2013/building-secure-web-apps-python-vs-the-owasp-top.html</guid></item><item><title>PyCon Canada 2013 Keynote - Jacob Kaplan-Moss</title><link>http://pyvideo.org/pycon-ca-2013/keynote-jacob-kaplan-moss.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Keynote - Jacob Kaplan-Moss Saturday, August 10 2013 09 AM&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Sat, 10 Aug 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-08-10:pycon-ca-2013/keynote-jacob-kaplan-moss.html</guid><category>keynote</category></item><item><title>PyCon 2009: Designing a web framework: Django's design decisions (#75)</title><link>http://pyvideo.org/pycon-us-2009/pycon-2009--designing-a-web-framework--django--39.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Designing a web framework: Django's design decisions&lt;/p&gt;
+&lt;p&gt;Presented by Jacob Kaplan-Moss&lt;/p&gt;
+&lt;p&gt;Django is a high-level web development framework designed for rapid
+development of database-backed web sites. Since its release three years
+ago Django's grown by leaps and bounds; it's now part of a highly
+successful new generation of web development tools.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pycon-us-2009/pycon-2009--designing-a-web-framework--django--39.html</guid><category>pycon</category><category>pycon2009</category></item><item><title>Django Deployment Workshop</title><link>http://pyvideo.org/pycon-us-2010/pycon-2010--django-deployment-workshop.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django Deployment Workshop&lt;/p&gt;
+&lt;p&gt;Presented by Jacob Kaplan-Moss&lt;/p&gt;
+&lt;p&gt;So you've written a Django site... now what? Writing the application is
+just the beginning; now you've got to put it into production! In this
+hands-on workshop we'll walk through the creation of a full Django
+deployment environment running on a cluster of (virtual) machines.&lt;/p&gt;
+&lt;p&gt;This class will introduce students to a wide variety of technologies,
+including Amazon's EC2 and S3, Fabric, Varnish, nginx, mod_wsgi,
+memcached, PostgreSQL, pgpool, pg_standby, and more.&lt;/p&gt;
+&lt;p&gt;By the end of the class, each student will have created an environment
+featuring:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Multiple levels of caching and load balancing.&lt;/li&gt;
+&lt;li&gt;Multiple web application servers.&lt;/li&gt;
+&lt;li&gt;Shared media servers.&lt;/li&gt;
+&lt;li&gt;Redundant replicated database servers.&lt;/li&gt;
+&lt;li&gt;Separate caching servers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We'll create this whole stack on Amazon EC2 virtual machines, so
+students will be able to take home a complete copy of all the deployment
+configuration for future review at their leisure.&lt;/p&gt;
+&lt;p&gt;Note: the example application used in this class with be a Django site,
+and the class assumes at least a moderate comfort level with Django.
+However, the tools and techniques apply just as well to other Python web
+frameworks, so users of other tools will likely be able to follow along
+fairly easily.&lt;/p&gt;
+&lt;div class="section" id="intended-audience"&gt;
+&lt;h4&gt;Intended Audience&lt;/h4&gt;
+&lt;p&gt;Intermediate to advanced Django users with sites nearing or in
+production. Python developers using other web frameworks will likely be
+able to follow along -- see the note in the summary, above.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="class-outline"&gt;
+&lt;h4&gt;Class Outline&lt;/h4&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Introduction: the deployment question&lt;/li&gt;
+&lt;li&gt;Application server: mod_wsgi&lt;/li&gt;
+&lt;li&gt;Database server: PostgreSQL&lt;/li&gt;
+&lt;li&gt;Automated deployment with Fabric&lt;/li&gt;
+&lt;li&gt;Multiple web servers; load balancing with nginx&lt;/li&gt;
+&lt;li&gt;Adding memcached&lt;/li&gt;
+&lt;li&gt;Database connection middleware: pgpool&lt;/li&gt;
+&lt;li&gt;Database redundancy: warm standby&lt;/li&gt;
+&lt;li&gt;Upstream caching: Varnish&lt;/li&gt;
+&lt;li&gt;Final load testing: how'd we do?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="requirements"&gt;
+&lt;h4&gt;Requirements&lt;/h4&gt;
+&lt;p&gt;Students will need a computer and Amazon EC2 and S3 accounts, and will
+be asked to familiarize themselves with the process of starting and
+stopping EC2 virtual machines before the class.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://us.pycon.org/20%2010/tutorials/kaplanmoss_django"&gt;http://us.pycon.org/2010/tutorials/kaplanmoss_django/&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--django-deployment-workshop.html</guid><category>pycon</category><category>pycon2010</category></item><item><title>Panel: Python VMs</title><link>http://pyvideo.org/pycon-us-2011/panel-python-vms.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Panel: Python VMs&lt;/p&gt;
+&lt;p&gt;Presented by Jacob Kaplan-Moss, Brett Cannon, Maciej Fijalkowski, Frank
+Wierzbicki, Dino Viehland&lt;/p&gt;
+&lt;p&gt;Python is lucky enough to have a healthy ecosystem of virtual machines
+(VMs) exist. CPython, Jython, IronPython, and PyPy are all used
+extensively by people in real-world situations. This panel brings
+together a representative from each of the major VMs to discuss where
+they are now, going in the future, and to answer questions from the
+community.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;All four major Python VMs will be represented:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://python.org/"&gt;CPython&lt;/a&gt;: Brett Cannon&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.jython.org/"&gt;Jython&lt;/a&gt;: Frank Wierzbicki&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://ironpython.net/"&gt;IronPython&lt;/a&gt;: Dino Viehland&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://pypy.org/"&gt;PyPy&lt;/a&gt;: Maciej Fijalkowski Moderation will be
+handled by Jacob Kaplan-Moss of Django.&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brett Cannon</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/panel-python-vms.html</guid><category>cpython</category><category>ironpython</category><category>jython</category><category>pycon</category><category>pycon2011</category><category>pypy</category></item><item><title>Writing great documentation</title><link>http://pyvideo.org/pycon-us-2011/pycon-2011--writing-great-documentation.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Writing great documentation&lt;/p&gt;
+&lt;p&gt;Presented by Jacob Kaplan-Moss&lt;/p&gt;
+&lt;p&gt;Django’s among the best documented open source projects; I'm intensely
+proud of that accomplishment. If any part of Django endures, I hope
+it’ll be a “documentation culture” — an ethos that values great,
+well-written documentation. To that end, this talk looks at the tools,
+tips, and techniques I’ve learned over the years. I hope it helps you
+write great documentation, too.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;This talk looks at tips, tools, and techniques you can use to produce
+great technical documentation.&lt;/p&gt;
+&lt;p&gt;It's split roughly into two parts:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Part 1: technique. We'll look at the structural elements that make
+documentation useful: tutorials, high-level overviews, topical
+guides, reference material, FAQs, and more. We'll cover some tips on
+how to get documentation done, and community processes for handling
+documentation in teams (open or not). We'll also talk about what I'm
+calling &amp;quot;Documentation Driven Development&amp;quot; - a technique riffing off
+Test Driven Development that calls for writing documentation before
+code.&lt;/li&gt;
+&lt;li&gt;Part 2: tools. Over the last couple of years a few fantastic tools
+have sprung up that ease the technical aspects of writing
+documentation. We'll talk about which tools are suitable for which
+uses, and look at a handful of cool tools including
+&lt;a class="reference external" href="http://sphinx.pocoo.org/"&gt;Sphinx&lt;/a&gt;,
+&lt;a class="reference external" href="http://epydoc.sourceforge.net/"&gt;Epydoc&lt;/a&gt;, and
+&lt;a class="reference external" href="http://fitzgen.github.com/pycco/"&gt;http://fitzgen.github.com/pycco/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This talk is mostly targeted towards those documenting libraries or
+frameworks intended for use by other developers, but much of it probably
+applies to any sort of technical documentation.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--writing-great-documentation.html</guid><category>docs</category><category>documentation</category><category>epydoc</category><category>faqs</category><category>pycco</category><category>pycon</category><category>pycon2011</category><category>sphinx</category></item><item><title>Porting Django apps to Python 3</title><link>http://pyvideo.org/pycon-us-2013/porting-django-apps-to-python-3.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Django 1.5 now supports Python 3, so now's the time to start thinking
+about porting your apps and sites. Come see how! I'll talk about the
+porting techniques that work, and present two case studies: porting a
+site, and porting a reusable app.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-03-16:pycon-us-2013/porting-django-apps-to-python-3.html</guid><category>talk</category></item><item><title>Keynote - Jacob Kaplan-Moss</title><link>http://pyvideo.org/pycon-us-2015/keynote-jacob-kaplan-moss-0.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-12:pycon-us-2015/keynote-jacob-kaplan-moss-0.html</guid></item></channel></rss>

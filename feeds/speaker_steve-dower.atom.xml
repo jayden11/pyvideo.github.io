@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_steve-dower.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-19T00:00:00+00:00</updated><entry><title>I Installed Python 3.6 on Windows and I Liked It</title><link href="http://pyvideo.org/pycon-us-2017/i-installed-python-36-on-windows-and-i-liked-it.html" rel="alternate"></link><published>2017-05-19T00:00:00+00:00</published><updated>2017-05-19T00:00:00+00:00</updated><author><name>Steve Dower</name></author><id>tag:pyvideo.org,2017-05-19:pycon-us-2017/i-installed-python-36-on-windows-and-i-liked-it.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python has a great reputation as a cross-platform language, which for
+many people means different varieties of Linux. But a huge number of
+Python users are running on Windows - a fundamentally different
+operating system where things do not always work the same. However,
+Python has always worked incredibly well across different platforms
+including Windows, going to great lengths to support and expose the
+platform without making development more complex. In this session,
+CPython core developer and Microsoft engineer Steve Dower will discuss
+some of the reasons why cross-platform support is not an accident, and
+how Python 3.6 makes it even easier to support both Windows and Linux.&lt;/p&gt;
+</summary></entry><entry><title>Panel: Using, contributing to, and integrating open source in large corporate environments</title><link href="http://pyvideo.org/pydata-seattle-2015/panel-using-contributing-to-and-integrating-open-source-in-large-corporate-environments.html" rel="alternate"></link><published>2015-07-25T00:00:00+00:00</published><updated>2015-07-25T00:00:00+00:00</updated><author><name>James Powell</name></author><id>tag:pyvideo.org,2015-07-25:pydata-seattle-2015/panel-using-contributing-to-and-integrating-open-source-in-large-corporate-environments.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData is a gathering of users and developers of data analysis tools in Python. The goals are to provide Python enthusiasts a place to share ideas and learn from each other about how best to apply our language and tools to ever-evolving challenges in the vast realm of data management, processing, analytics, and visualization.&lt;/p&gt;
+&lt;p&gt;We aim to be an accessible, community-driven conference, with tutorials for novices, advanced topical workshops for practitioners, and opportunities for package developers and users to meet in person.&lt;/p&gt;
+</summary></entry><entry><title>What's coming in Python 3.5 and why you should be excited</title><link href="http://pyvideo.org/pydata-seattle-2015/whats-coming-in-python-35-and-why-you-should-be-excited.html" rel="alternate"></link><published>2015-07-25T00:00:00+00:00</published><updated>2015-07-25T00:00:00+00:00</updated><author><name>Steve Dower</name></author><id>tag:pyvideo.org,2015-07-25:pydata-seattle-2015/whats-coming-in-python-35-and-why-you-should-be-excited.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Overview of the newest additions to Python 3.5, being released later this year.&lt;/p&gt;
+&lt;p&gt;Python 3.5, the latest installment of the language and library, is just around the corner-https://www.python.org/dev/peps/pep-0478/ (though you can try out the beta now-https://www.python.org/downloads/release/python-350b2/). This session will cover some of the new syntax and library additions that should have people excited to start using it.&lt;/p&gt;
+&lt;p&gt;As a teaser (come to the session for all the details), we'll look at better asynchronous programming, simpler mathematics, easier installation, better package management, formalized type hints, flexible function calls, and more!&lt;/p&gt;
+</summary></entry><entry><title>Why is Windows so broken? and what to do about it</title><link href="http://pyvideo.org/pydata-san-francisco-2016/why-is-windows-so-broken-and-what-to-do-about-it.html" rel="alternate"></link><published>2016-08-24T00:00:00+00:00</published><updated>2016-08-24T00:00:00+00:00</updated><author><name>Steve Dower</name></author><id>tag:pyvideo.org,2016-08-24:pydata-san-francisco-2016/why-is-windows-so-broken-and-what-to-do-about-it.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData SF 2016&lt;/p&gt;
+&lt;p&gt;Python on Windows has a reputation for being, well, pretty broken. But the good news is that things have been getting better. Join Microsoft employee and CPython core developer Steve Dower as he walks through the recent improvements to the Python ecosystem on Windows, and how things will get even better in the future.&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talks - Saturday evening</title><link href="http://pyvideo.org/pycon-us-2013/saturday-evening-lightning-talks.html" rel="alternate"></link><published>2013-03-16T00:00:00+00:00</published><updated>2013-03-16T00:00:00+00:00</updated><author><name>Katie Cunningham and Barbara Shaurette</name></author><id>tag:pyvideo.org,2013-03-16:pycon-us-2013/saturday-evening-lightning-talks.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Lightning talks from Saturday evening.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=0m"&gt;00:00&lt;/a&gt; - Young Coders at PyCon 2013 - Katie Cunningham and
+Barbara Shaurette&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=5m53s"&gt;05:53&lt;/a&gt; - Raspberry Pi connected to sensors - Jack
+Minardi&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=8m23s"&gt;08:23&lt;/a&gt; - Python &amp;amp; ArcGIS for Transit Data Analysers -
+Amy Smith&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=13m58s"&gt;13:58&lt;/a&gt; - Software Version Management - Quinn Weaver&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=19m48s"&gt;19:48&lt;/a&gt; - Parts and Scons - Jason Kenny&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=25m13s"&gt;25:13&lt;/a&gt; - Debugging Python on Linux with Visual Studio
+- Steve Dower&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=37m35s"&gt;37:35&lt;/a&gt; - Titan Files for App Engine - Mike Fotinakis&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=43m40s"&gt;43:40&lt;/a&gt; - Using git as a mercurial client - Dusty
+Phillips&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="lightningtalks"></category></entry></feed>

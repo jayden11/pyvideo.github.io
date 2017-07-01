@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_riccardo-magliocchetti.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-06-09T00:00:00+00:00</updated><entry><title>Cosa mi entusiasma nelle prossime release di Django</title><link href="http://pyvideo.org/pycon-italia-2015/cosa-mi-entusiasma-nelle-prossime-release-di-djan.html" rel="alternate"></link><published>2015-06-09T00:00:00+00:00</published><updated>2015-06-09T00:00:00+00:00</updated><author><name>Riccardo Magliocchetti</name></author><id>tag:pyvideo.org,2015-06-09:pycon-italia-2015/cosa-mi-entusiasma-nelle-prossime-release-di-djan.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Ci sono almeno tre feature di django 1.8 / 1.9 che mi entusiasmano. Non
+sono sono i template multipli o la possibilità di utilizzare i campi
+specializzati di postgres. Qualcuna di esse magari non finirà nemmeno
+nelle release notes. Ad alcune di esse ho collaborato direttamente e
+descriverò la mia esperienza nel contribuire a Django.&lt;/p&gt;
+</summary></entry><entry><title>Una guida per lo sviluppo collaborativo</title><link href="http://pyvideo.org/pycon-italia-2015/una-guida-per-lo-sviluppo-collaborativo.html" rel="alternate"></link><published>2015-06-09T00:00:00+00:00</published><updated>2015-06-09T00:00:00+00:00</updated><author><name>Riccardo Magliocchetti</name></author><id>tag:pyvideo.org,2015-06-09:pycon-italia-2015/una-guida-per-lo-sviluppo-collaborativo.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Lo scopo del talk è quello tramite esempi reali di fornire le basi
+tecniche (ma non solo) per poter sviluppare con efficacia free software
+in collaborazione con gli altri. Prerequisiti: conoscenza base di git&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Github ha reso lo sviluppo di software in modo collaborativo alla
+portata di tutti. E questo è grandioso! Lo sviluppo collaborativo però
+ha delle regole non scritte, diverse da quelle abituali dello sviluppo
+di software proprietario fatto all’interno delle mura aziendali.&lt;/p&gt;
+</summary></entry></feed>

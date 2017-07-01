@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_ronert-obst.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-06-01T00:00:00+00:00</updated><entry><title>PySpark in Practice</title><link href="http://pyvideo.org/pydata-berlin-2016/pyspark-in-practice.html" rel="alternate"></link><published>2016-06-01T00:00:00+00:00</published><updated>2016-06-01T00:00:00+00:00</updated><author><name>Ronert Obst</name></author><id>tag:pyvideo.org,2016-06-01:pydata-berlin-2016/pyspark-in-practice.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Berlin 2016&lt;/p&gt;
+&lt;p&gt;In this talk we will share our best practices of using PySpark in numerous customer facing data science engagements. Topics covered in this talk are:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Configuration&lt;/li&gt;
+&lt;li&gt;Unit testing with PySpark&lt;/li&gt;
+&lt;li&gt;Integration with SQL on Hadoop engines&lt;/li&gt;
+&lt;li&gt;Data pipeline management and workflows&lt;/li&gt;
+&lt;li&gt;Data Structures (RDDs vs. Data Frames vs. Data Sets)&lt;/li&gt;
+&lt;li&gt;When to use MLlib vs scikit-learn&lt;/li&gt;
+&lt;li&gt;Operationalisation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At Pivotal Labs we have many data science engagements on big data. Typical problems involve real-time data from sensors collected by telecom operators to GPS data produced by vehicle tracking systems. One widespread framework to solve those inherently difficult problems is Apache Spark. In this talk, we want to share our best practices with PySpark, Spark’s Python API, highlighting our experience as well as dos and dont's. In particular, we will focus on the whole data science pipeline from data ingestion, data munging and wrangling to the actual model building.&lt;/p&gt;
+&lt;p&gt;Finally, many businesses have started to realise that there is no return on investment from data science if the models do not go into production. At Pivotal Labs, one our core principle is API first. Therefore, we will also talk how we put our models into production, sharing our hands-on knowledge in this field and also how this fits into test-driven development.&lt;/p&gt;
+</summary><category term="pyspark"></category></entry><entry><title>PySpark in Practice</title><link href="http://pyvideo.org/pydata-london-2016/ronert-obst-dat-tran-pyspark-in-practice.html" rel="alternate"></link><published>2016-05-11T00:00:00+00:00</published><updated>2016-05-11T00:00:00+00:00</updated><author><name>Ronert Obst</name></author><id>tag:pyvideo.org,2016-05-11:pydata-london-2016/ronert-obst-dat-tran-pyspark-in-practice.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData London 2016&lt;/p&gt;
+&lt;p&gt;In this talk we will share our best practices of using PySpark in numerous customer facing data science engagements. Topics covered in this talk are:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Configuration&lt;/li&gt;
+&lt;li&gt;Unit testing with PySpark&lt;/li&gt;
+&lt;li&gt;Integration with SQL on Hadoop engines&lt;/li&gt;
+&lt;li&gt;Data pipeline management and workflows&lt;/li&gt;
+&lt;li&gt;Data Structures (RDDs vs. Data Frames vs. Data Sets)&lt;/li&gt;
+&lt;li&gt;When to use MLlib vs scikit-learn&lt;/li&gt;
+&lt;li&gt;Operationalisation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;At Pivotal Labs we have many data science engagements on big data. Typical problems involve real-time data from sensors collected by telecom operators to GPS data produced by vehicle tracking systems. One widespread framework to solve those inherently difficult problems is Apache Spark. In this talk, we want to share our best practices with PySpark, Spark’s Python API, highlighting our experience as well as dos and don'ts. In particular, we will focus on the whole data science pipeline from data ingestion, data munging and wrangling to the actual model building.&lt;/p&gt;
+&lt;p&gt;Finally, many businesses have started to realise that there is no return on investment from data science if the models do not go into production. At Pivotal Labs, one our core principle is API first. Therefore, we will also talk how we put our models into production, sharing our hands-on knowledge in this field and also how this fits into test-driven development.&lt;/p&gt;
+&lt;p&gt;Slides available here: &lt;a class="reference external" href="http://pydata2016.cfapps.io/"&gt;http://pydata2016.cfapps.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub Repo: &lt;a class="reference external" href="https://github.com/datitran/spark-tdd-example"&gt;https://github.com/datitran/spark-tdd-example&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Massively Parallel Processing with Procedural Python</title><link href="http://pyvideo.org/pydata-berlin-2014/massively-parallel-processing-with-procedural-pyt.html" rel="alternate"></link><published>2014-07-27T00:00:00+00:00</published><updated>2014-07-27T00:00:00+00:00</updated><author><name>Ronert Obst</name></author><id>tag:pyvideo.org,2014-07-27:pydata-berlin-2014/massively-parallel-processing-with-procedural-pyt.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Python data ecosystem has grown beyond the confines of single
+machines to embrace scalability. Here we describe one of our approaches
+to scaling, which is already being used in production systems. The goal
+of in-database analytics is to bring the calculations to the data,
+reducing transport costs and I/O bottlenecks. Using PL/Python we can run
+parallel queries across terabytes of data using not only pure SQL but
+also familiar PyData packages such as scikit-learn and nltk. This
+approach can also be used with PL/R to make use of a wide variety of R
+packages. We look at examples on Postgres compatible systems such as the
+Greenplum Database and on Hadoop through Pivotal HAWQ. We will also
+introduce MADlib, Pivotal’s open source library for scalable in-database
+machine learning, which uses Python to glue SQL queries to low level C++
+functions and is also usable through the PyMADlib package.&lt;/p&gt;
+</summary></entry></feed>

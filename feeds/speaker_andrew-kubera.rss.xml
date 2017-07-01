@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 02 Aug 2015 00:00:00 +0000</lastBuildDate><item><title>Growler - Using asyncio to Build a Web Framework</title><link>http://pyvideo.org/pyohio-2015/growler-using-asyncio-to-build-a-web-framework.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The asyncio library introduced a native way for python programs to
+handle multiple network connections with one thread, asynchronously.
+Inspired by the Express framework for nodejs, I set out to write my own
+web server using the new library. This is what I've learned.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Kubera</dc:creator><pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-02:pyohio-2015/growler-using-asyncio-to-build-a-web-framework.html</guid><category>talk</category></item></channel></rss>

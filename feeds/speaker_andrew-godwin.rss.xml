@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 21 Aug 2016 00:00:00 +0000</lastBuildDate><item><title>Reinventing Django for the Real-Time Web</title><link>http://pyvideo.org/djangocon-au-2016/reinventing-django-for-the-real-time-web.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Andrew Godwin
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/28/view_talk"&gt;https://2016.pycon-au.org/schedule/28/view_talk&lt;/a&gt;
+Django's new Channels feature takes Django beyond the world of HTTP's request-response protocol and into the modern Web protocol world of WebSockets and real-time communication - but it also does a lot more. Learn how Django can now respond to WebSockets, emails or instant messages as easily as HTTP, and we re-architected Django to support all these changes while keeping a clean API and backwards compatibility, and the implications it has for the wider Python ecosystem.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Fri, 12 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-12:djangocon-au-2016/reinventing-django-for-the-real-time-web.html</guid></item><item><title>DjangoCon 2008 Panel: Schema Evolution</title><link>http://pyvideo.org/djangocon-2008/djangocon-2008-panel-schema-evolution.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderator:
+Michael Trier&lt;/p&gt;
+&lt;p&gt;Panelists:
+Simon Willison, Russ Keith-Magee, Andrew Godwin&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Trier</dc:creator><pubDate>Sat, 06 Sep 2008 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-schema-evolution.html</guid><category>Django</category><category>panel</category><category>djangocon</category><category>djangocon2008</category></item><item><title>Good schema design - and why it matters!</title><link>http://pyvideo.org/djangocon-europe-2014/good-schema-design-and-why-it-matters.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Pretty much every website is underpinned by a database or two - and how
+you're storing data in there really matters. This talk will cover the
+best ways to set up your schema to store your data, how to change your
+schema without any downtime, and how to use the brand-new migration
+features in Django 1.7 to your best advantage.&lt;/p&gt;
+&lt;p&gt;We'll take a look at database normalisation (and why it's not always a
+good idea), denormalisation, schemaless data, how to best set up your
+tables and indexes for different load types (heavy read/heavy
+write/balanced), and how to scale up your database and its schema as you
+grow.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Thu, 15 May 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-05-15:djangocon-europe-2014/good-schema-design-and-why-it-matters.html</guid></item><item><title>Django, Channels, and Distributed Systems</title><link>http://pyvideo.org/pybay-2016/django-channels-and-distributed-systems.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Learn about the Django Channels project, how it makes WebSockets easy, how it's not just limited to Django, and the difficulty of building WebSocket and other stateful protocol handling at scale.
+​
+Abstract
+Django Channels' headline feature is bringing WebSocket support to Django, but what it provides is far more useful than that. Underlying it is a robust, generic cross-process communication mechanism, built to support and scale with stateful protocols like WebSockets.&lt;/p&gt;
+&lt;p&gt;This talk will look at the design of this mechanism - codenamed ASGI - and the difficulties of building an entire system to support WebSockets and broadcast systems across a large number of servers, and how Django encapsulates this to provide you a simple but powerful interface with good performance characteristics.&lt;/p&gt;
+&lt;p&gt;We'll also take a brief look at how parts of Channels are useable outside of Django with other web frameworks or pure Python code, and how it lets us build better systems overall.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt; Andrew is a Python programmer, Django core developer and Senior Engineer at Eventbrite. He's behind Django's migration and channels systems, and in his spare time enjoys mountains, archery, and cheese.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://speakerdeck.com/pybay2016/andrew-godwin-django-channels-and-distributed-systems"&gt;https://speakerdeck.com/pybay2016/andrew-godwin-django-channels-and-distributed-systems&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-21:pybay-2016/django-channels-and-distributed-systems.html</guid></item><item><title>DjangoCon EU 2013: Andrew Godwin - Migrating The Future</title><link>http://pyvideo.org/djangocon-eu-2013/djangocon-eu-2013-andrew-godwin-migrating-the-future.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Videos from DjangoCon Europe 2013 are kindly provided by Heroku, a cloud application platform -- a new way of building and deploying web apps: &lt;a class="reference external" href="http://heroku.com/"&gt;http://heroku.com/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Wed, 15 May 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-05-15:djangocon-eu-2013/djangocon-eu-2013-andrew-godwin-migrating-the-future.html</guid></item><item><title>Reinventing Django for the Real-Time Web</title><link>http://pyvideo.org/pycon-au-2016/reinventing-django-for-the-real-time-web.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Andrew Godwin
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/28/view_talk"&gt;https://2016.pycon-au.org/schedule/28/view_talk&lt;/a&gt;
+Django's new Channels feature takes Django beyond the world of HTTP's request-response protocol and into the modern Web protocol world of WebSockets and real-time communication - but it also does a lot more. Learn how Django can now respond to WebSockets, emails or instant messages as easily as HTTP, and we re-architected Django to support all these changes while keeping a clean API and backwards compatibility, and the implications it has for the wider Python ecosystem.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-15:pycon-au-2016/reinventing-django-for-the-real-time-web.html</guid><category>django</category></item><item><title>Keynote: Architecting with Channels</title><link>http://pyvideo.org/djangocon-us-2016/keynote-architecting-with-channels.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Keynote: Architecting with Channels by Andrew Godwin&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Sun, 14 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-14:djangocon-us-2016/keynote-architecting-with-channels.html</guid></item><item><title>A Brief History of Channels</title><link>http://pyvideo.org/djangocon-europe-2016/a-brief-history-of-channels.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/7"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/a-brief-history-of-channels-by-andrew-godwin/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Thu, 31 Mar 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-03-31:djangocon-europe-2016/a-brief-history-of-channels.html</guid><category>django</category></item><item><title>Reinventing Django for the Real-Time Web</title><link>http://pyvideo.org/pycon-us-2016/andrew-godwin-reinventing-django-for-the-real-time-web-pycon-2016.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Andrew Godwin&lt;/p&gt;
+&lt;p&gt;Django has long been tied to the request-response pattern, but the upcoming &amp;quot;&amp;quot;channels&amp;quot;&amp;quot; project changes this and allows Django to natively support WebSockets, running tasks after responses, easily handle long-polling and more. Come and learn about the design, how we're trying to keep things as Django-like as possible, and how you can use it in your projects.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-05-31:pycon-us-2016/andrew-godwin-reinventing-django-for-the-real-time-web-pycon-2016.html</guid></item><item><title>The first software engineer</title><link>http://pyvideo.org/djangocon-europe-2015/andrew-godwin-the-first-software-engineer-at-2015.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Mon, 10 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-10:djangocon-europe-2015/andrew-godwin-the-first-software-engineer-at-2015.html</guid></item><item><title>Django: The Conspiracy</title><link>http://pyvideo.org/django-birthday/django-the-conspiracy.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Ten years after the project known as &amp;quot;Django&amp;quot; was released to the
+public, there are still unanswered questions. Why did one of the
+original authors flee the country? What happened to all the removed
+magic? And, more importantly, why are there secret messages hidden in
+the template parser's regular expressions? I'll be attempting to throw
+light on some of the dark secrets of Django and, perhaps, finally divine
+its true purpose, after almost a decade of searching.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-07-11:django-birthday/django-the-conspiracy.html</guid></item><item><title>Database Migrations, South, And You</title><link>http://pyvideo.org/djangocon-2009/database-migrations--south--and-you.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Database migrations, south and you&lt;/p&gt;
+&lt;p&gt;Presented by Andrew Godwin&lt;/p&gt;
+&lt;p&gt;Talks about south which makes it easier to do database migrations.&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: audio tends towards left speaker]&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Tue, 08 Sep 2009 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2009-09-08:djangocon-2009/database-migrations--south--and-you.html</guid><category>databasemigration</category><category>djangocon</category><category>djangocon2009</category><category>south</category></item><item><title>Step Away From That Database</title><link>http://pyvideo.org/djangocon-2010/djangocon-2010--step-away-from-that-database.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;A look at the large array of database types now available: where each
+one excels, why NoSQL isn't always best, and the best ways to integrate
+them into your Django project.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;In the last few years we've seen an explosion in the number of
+production- ready databases available for web applications. From
+relational to document- oriented, key-value and more, there's a
+staggering array of choice.&lt;/p&gt;
+&lt;p&gt;This talk covers the various basic types of database now available, and
+highlights their weaknesses, their strengths, and the features you just
+can't get from traditional databases.&lt;/p&gt;
+&lt;p&gt;Then, after a short rant about the term &amp;quot;NoSQL&amp;quot;, learn how to best
+integrate them into your Django projects, why being schemaless isn't as
+good as it looks at first, and how relational databases are keeping up
+with the times.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Wed, 08 Sep 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-09-08:djangocon-2010/djangocon-2010--step-away-from-that-database.html</guid><category>databasemigration</category><category>databasemigrations</category><category>djangocon</category><category>djangocon2010</category><category>migration</category><category>migrations</category><category>south</category></item><item><title>Deployment, Daemons and Datacenters</title><link>http://pyvideo.org/djangocon-2011/djangocon-2011--deployment--daemons-and-datacente.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Deployment, Daemons, and Datacenters&lt;/p&gt;
+&lt;p&gt;Presented by Andrew Godwin&lt;/p&gt;
+&lt;p&gt;A tour through the systems that power &lt;a class="reference external" href="http://ep.io/"&gt;ep.io&lt;/a&gt;, the
+Python hosting platform, from the array of daemons powering the system,
+to how redundancy is set up, and also covering general best practices
+for hosting Django sites yourself.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--deployment--daemons-and-datacente.html</guid><category>daemons</category><category>datacenters</category><category>deployment</category><category>djangocon</category><category>djangocon2011</category><category>epio</category><category>ep.io</category><category>hosting</category></item><item><title>Models and Migrations and Schemas - oh my!</title><link>http://pyvideo.org/djangocon-2012/models-and-migrations-and-schemas-oh-my.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;A look at the past, current and future of schemas, migrations and
+Django, and what it means for both website developers and ops staff.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django has a long and varied history of dealing with changing schema
+requirements - from the early projects like django-evolution and the two
+aborted attempts to provide migrations in Django itself, through to
+projects like South and now looking ahead to a more integrated solution
+with Django itself once more.&lt;/p&gt;
+&lt;p&gt;This talk will cover some of that history - helpful to get some kind of
+context when it comes to current developments - as well as exploring
+some of the common problems a migration system (and its users)
+encounter, and how those lessons and ideas are being used to help
+improve Django itself to better support schema migrations.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Thu, 06 Sep 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-09-06:djangocon-2012/models-and-migrations-and-schemas-oh-my.html</guid><category>django</category><category>models</category></item><item><title>Everybody Loves Migrations</title><link>http://pyvideo.org/djangocon-2013/everybody-loves-migrations.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Everybody Loves Migrations&lt;/p&gt;
+&lt;p&gt;Wednesday 2:45 p.m.--3:30 p.m.&lt;/p&gt;
+&lt;p&gt;Audience level: Intermediate&lt;/p&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;p&gt;Times are changing - schema migrations are finding their way into core
+Django and becoming quite different in the process. Come and learn
+what's happening, why it's being done this way, and how you can best
+start using them. Abstract&lt;/p&gt;
+&lt;p&gt;This year has seen a lot of changes on the migration front. After a
+successful Kickstarter, schema migrations have been finding their way
+into core Django, and they're not quite the South migrations you're used
+to.&lt;/p&gt;
+&lt;p&gt;Don't worry though - behind every one of the new features or changes is
+five years of learning and experimentation, and this is where you can
+come and hear not only what's new and how best to use it, but also why
+it was done that way and the challenges that came up as part of it.&lt;/p&gt;
+&lt;p&gt;Among other topics, this should cover squashing, branch merge detection,
+custom fields, using raw SQL and data migrations with Python code.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Thu, 03 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-03:djangocon-2013/everybody-loves-migrations.html</guid></item><item><title>Digging Into Django's Migrations</title><link>http://pyvideo.org/djangocon-2014/digging-into-djangos-migrations.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;An in-depth look at Django's new migrations framework, explaining the
+component architecture, highlighting issues with multiple database
+backends, and showing how management commands typically get routed
+through the software.&lt;/p&gt;
+&lt;p&gt;Help us caption &amp;amp; translate this video!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://amara.org/v/FOPT/"&gt;http://amara.org/v/FOPT/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Tue, 16 Sep 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-09-16:djangocon-2014/digging-into-djangos-migrations.html</guid></item><item><title>Real World Django Q&amp;A</title><link>http://pyvideo.org/djangocon-2014/real-world-django-q-a.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Have questions about getting better performance out of Django or scaling
+it up large? We've assembled a group of knowledgable Django experts who
+have been there to answer the questions you have. While every site has
+its own challenges most follow similar patterns that are often easy to
+solve.&lt;/p&gt;
+&lt;p&gt;Help us caption &amp;amp; translate this video!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://amara.org/v/FOPS/"&gt;http://amara.org/v/FOPS/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Tue, 16 Sep 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-09-16:djangocon-2014/real-world-django-q-a.html</guid></item><item><title>Lightning Talks</title><link>http://pyvideo.org/djangocon-2015/djangocon-2015-lightning-talks.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Lightning Talks&lt;/p&gt;
+&lt;p&gt;Ricardo Ferraz Leal &amp;quot;Leveraging Neutron Sciences with Django&amp;quot;&lt;/p&gt;
+&lt;p&gt;Grant Jenks &amp;quot;Python Sorted Containers Module&amp;quot;&lt;/p&gt;
+&lt;p&gt;Tracy Osborn &amp;quot;Hello Web App Kickstarter Campaign&amp;quot;&lt;/p&gt;
+&lt;p&gt;Dan Dietz &amp;quot;Fabric Bolt&amp;quot;&lt;/p&gt;
+&lt;p&gt;Andrew Godwin &amp;quot;Channels Everywhere&amp;quot;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ricardo Ferraz Leal</dc:creator><pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-18:djangocon-2015/djangocon-2015-lightning-talks.html</guid></item><item><title>Dubious Database Design</title><link>http://pyvideo.org/djangocon-2015/dubious-database-design-by-andrew-godwin.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Dubious Database Design by Andrew Godwin&lt;/p&gt;
+&lt;p&gt;Everyone has seen plenty of articles about how to design data storage
+solutions well - but nobody is getting up there and talking about how
+bad their storage design is.&lt;/p&gt;
+&lt;p&gt;Rather than just listen to more things to do and vague reasons why, come
+and see some truly awful examples of storage design, and the lessons we
+can learn from it. What happens when you end up reimplementing indexes?
+Why shouldn't you turn off durability? Why not make a table for every
+user? And how can you render templates purely in the database?&lt;/p&gt;
+&lt;p&gt;All this, and more, as we delve into the realm of datastores and
+examples both historic and current that you can learn from, and
+hopefully come away with a better idea why the rest of us design things
+the way we do.&lt;/p&gt;
+&lt;p&gt;Help us caption &amp;amp; translate this video!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://amara.org/v/HGSe/"&gt;http://amara.org/v/HGSe/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-16:djangocon-2015/dubious-database-design-by-andrew-godwin.html</guid></item><item><title>South, New and Old</title><link>http://pyvideo.org/djangocon-eu-2010/djangoconeu-andrewgodwinsouthnewandold425flv.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Tue, 25 May 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-05-25:djangocon-eu-2010/djangoconeu-andrewgodwinsouthnewandold425flv.html</guid></item><item><title>Building a hosting platform with Python</title><link>http://pyvideo.org/europython-2011/building-a-hosting-platform-with-python.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Andrew Godwin - 20 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;At ep.io we built a Python hosting platform from the ground up, designed
+to run large numbers of web applications on a small number of physical
+machines both securely and in a reasonably scalable way. This talk will
+show you how we built our infrastructure - using Redis, eventlet,
+PostgreSQL and more - and what lessons we learnt from our first few
+thousand deploys.&lt;/p&gt;
+&lt;p&gt;See how we split services into multiple processes and greenthreads; the
+pains of building a cooperatively-multitasking PTY module; how Redis
+isn't the answer to everything, but is still very useful; how to
+persuade third-party software to work securely in a shared environment;
+and how important it is to have good logging, especially when you have
+more than five servers.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-20:europython-2011/building-a-hosting-platform-with-python.html</guid><category>ep.io</category><category>hosting</category><category>infrastructure</category><category>postgresql</category><category>redis</category><category>scalable</category><category>web</category></item><item><title>Designing Django's Migrations</title><link>http://pyvideo.org/pycon-us-2014/designing-djangos-migrations.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Django finally has built-in migrations, and they're a long way from the
+designs of South or django-evolution. Learn the key design decisions we
+made, ideas we discarded, and the unique treatment we have to give each
+of our four official database backends.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Sun, 13 Apr 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-04-13:pycon-us-2014/designing-djangos-migrations.html</guid></item><item><title>What can programmers learn from pilots?</title><link>http://pyvideo.org/pycon-us-2015/what-can-programmers-learn-from-pilots.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;What can Python-based software teams learn from aviation? Why should
+software always fail hard? What's wrong with too many error logs? And
+why are ops people already like pilots? Learn all this, and about
+planes, too.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Godwin</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-11:pycon-us-2015/what-can-programmers-learn-from-pilots.html</guid></item></channel></rss>

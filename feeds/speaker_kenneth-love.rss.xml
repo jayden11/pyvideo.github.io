@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate><item><title>Django Admin: Basics and Beyond</title><link>http://pyvideo.org/pycon-us-2017/django-admin-basics-and-beyond.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django's admin is a great tool but it isn't always the easiest or
+friendliest to set up and customize. The ModelAdmin class has a lot of
+attributes and methods to understand and come to grips with. On top of
+these attributes, the admin's inlines, custom actions, custom media, and
+more mean that, really, you can do anything you need with the admin...if
+you can figure out how. The docs are good but leave a lot to
+experimentation and the code is notoriously dense.&lt;/p&gt;
+&lt;p&gt;In this tutorial, you'll learn the basics of setting up the admin so you
+can get your job done. Then we'll dive deeper and see how advanced
+features like autocomplete, Markdown editors, image editors, and others
+would be added to make the admin really shine.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kenneth Love</dc:creator><pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-18:pycon-us-2017/django-admin-basics-and-beyond.html</guid></item><item><title>PyDX 2015: Tutorial — Teach a New Object Old Tricks</title><link>http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyDX 2015 tutorial by Kenneth Love&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kenneth Love</dc:creator><pubDate>Sat, 10 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-10:pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html</guid></item><item><title>Django 101</title><link>http://pyvideo.org/pycon-us-2016/kenneth-love-django-101-pycon-2016.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Kenneth Love&lt;/p&gt;
+&lt;p&gt;Want to build web apps with Django but don't know where to start? Did the Django tutorial but still feel unsure? Django 101 is a gentle introduction to Django. By the end, you'll be more confident in starting projects, apps, and tying together the most common pieces of Django.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kenneth Love</dc:creator><pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-05-29:pycon-us-2016/kenneth-love-django-101-pycon-2016.html</guid></item><item><title>Give a Python a Pony</title><link>http://pyvideo.org/django-birthday/give-a-python-a-pony.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;A couple of years ago, I was faced with one of the scariest situations
+there is for a self-employed developer: I was burned out. The blinking
+cursor in Vim was taunting me and no number of GitHub issues could
+motivate me to churn out more than a few lines of code in a day. This
+burnout, though, led me back to an early love: I started teaching full
+time.This is a talk in two parts. In part one, I’ll talk about some of
+the teaching triumphs I’ve had and witnessed thanks to a new career, the
+Python and Django worlds, and my employer, Treehouse (and others!). In
+the second part, I’ll share ways you can start teaching in your own
+communities and using your own talents, so we can all make the world
+better through learning.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kenneth Love</dc:creator><pubDate>Sat, 11 Jul 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-07-11:django-birthday/give-a-python-a-pony.html</guid></item><item><title>Views can be Classy!</title><link>http://pyvideo.org/djangocon-2012/views-can-be-classy.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;An overview of what class-based views (CBVs) are, which ones are
+available, and how to use them in your projects. I'll also cover
+creating mixins, where function-based views still make sense, and how to
+test CBVs. As part of this, I'll be covering my django-braces
+(&lt;a class="reference external" href="https://crate.io/packages/django-braces/"&gt;https://crate.io/packages/django-braces/&lt;/a&gt;) package.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;It seems like most people in the Django community either don't have any
+idea how class-based views work or are scared to try them out. I want to
+help with a solid introduction to the technology.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;The usual &amp;quot;who I am&amp;quot; bit.&lt;/li&gt;
+&lt;li&gt;Most other things in Django are classes.&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;models&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;forms&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;even templates&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Views should be classes, too.&lt;/li&gt;
+&lt;li&gt;What view classes are provided by Django.&lt;/li&gt;
+&lt;li&gt;How to create your own mixins to clean up pain points&lt;/li&gt;
+&lt;li&gt;Where function-based views are still handy.&lt;/li&gt;
+&lt;li&gt;Example CBVs for common use cases&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;handling form input for more than one form&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;ul class="first"&gt;
+&lt;li&gt;serving different content based on users&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kenneth Love</dc:creator><pubDate>Tue, 04 Sep 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-09-04:djangocon-2012/views-can-be-classy.html</guid><category>class-based-views</category><category>django</category></item><item><title>Getting Started with Django, a crash course</title><link>http://pyvideo.org/pycon-us-2014/getting-started-with-django-a-crash-course.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Getting Started With Django is a well-established series of videos
+teaching best practices and common approaches for building web apps to
+people new to Django. This tutorial combines the first few lessons into
+a single lesson. Attendees will follow along as I start and build an
+entire simple web app and, network permitting, deploy it to Heroku.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kenneth Love</dc:creator><pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-04-11:pycon-us-2014/getting-started-with-django-a-crash-course.html</guid></item></channel></rss>

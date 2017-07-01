@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_giles-thomas.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-07-23T00:00:00+00:00</updated><entry><title>An HTTP request's journey through a platform-as-a-service</title><link href="http://pyvideo.org/europython-2014/an-http-requests-journey-through-a-platform-as-a.html" rel="alternate"></link><published>2014-07-23T00:00:00+00:00</published><updated>2014-07-23T00:00:00+00:00</updated><author><name>Giles Thomas</name></author><id>tag:pyvideo.org,2014-07-23:europython-2014/an-http-requests-journey-through-a-platform-as-a.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;PythonAnywhere hosts tens of thousands of Python web applications, with
+traffic ranging from a couple of hits a week to dozens of hits a second.
+Hosting this many sites reliably at a reasonable cost requires a
+well-designed infrastructure, but it uses the same standard components
+as many other Python-based websites. We've built our stack on GNU/Linux,
+nginx, uWSGI, Redis, and Lua -- all managed with Python. In this talk
+we'll give a high-level overview of how it all works, by tracing how a
+request goes from the browser to the Python application and its response
+goes back again. As well as showing how a fairly large deployment works,
+we'll give tips on scaling and share a few insights that may help people
+running smaller sites discover how they can speed things up.&lt;/p&gt;
+</summary></entry></feed>

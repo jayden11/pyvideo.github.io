@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_click.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-15T00:00:00+00:00</updated><entry><title>Click: A Pleasure To Write, A Pleasure To Use</title><link href="http://pyvideo.org/pycon-au-2016/click-a-pleasure-to-write-a-pleasure-to-use.html" rel="alternate"></link><published>2016-08-15T00:00:00+00:00</published><updated>2016-08-15T00:00:00+00:00</updated><author><name>Sebastian Vetter</name></author><id>tag:pyvideo.org,2016-08-15:pycon-au-2016/click-a-pleasure-to-write-a-pleasure-to-use.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sebastian Vetter
+&lt;a class="reference external" href="https://2016.pycon-au.org/schedule/64/view_talk"&gt;https://2016.pycon-au.org/schedule/64/view_talk&lt;/a&gt;
+We have a wide variety of packages and modules in Python that help build
+commandline tools in different ways. One of the more recent contenders is
+'click'. It uses a very intuitive approach to create simple CLIs as well as
+complex ones. In this talk, I will introduce building CLIs with 'click' and
+illustrate some of its advantages.&lt;/p&gt;
+</summary><category term="click"></category></entry><entry><title>Command line interfaces are easy, use them</title><link href="http://pyvideo.org/pytexas-2014/the-command-line-interface-because-why-not.html" rel="alternate"></link><published>2014-10-04T00:00:00+00:00</published><updated>2014-10-04T00:00:00+00:00</updated><author><name>Eloy Zuniga Jr.</name></author><id>tag:pyvideo.org,2014-10-04:pytexas-2014/the-command-line-interface-because-why-not.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Building a useful and pleasant command line experience is easy. If
+you've never really tried adding a command line interface (CLI) to your
+python scripts or maybe you still have a bitter taste in your mouth from
+the days of sys.argv, getopt, optparse, and argparse.&lt;/p&gt;
+&lt;p&gt;I invite you to take another look ... or your first look at command line
+interfaces and how easy and useful it is for your progress and sanity.&lt;/p&gt;
+&lt;p&gt;Comparing &lt;tt class="docutils literal"&gt;Begins&lt;/tt&gt;, &lt;tt class="docutils literal"&gt;DocOpt&lt;/tt&gt;, and &lt;tt class="docutils literal"&gt;Click&lt;/tt&gt;&lt;/p&gt;
+</summary><category term="click"></category><category term="Commandline"></category></entry></feed>

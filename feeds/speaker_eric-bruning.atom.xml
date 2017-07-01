@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_eric-bruning.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2012-07-19T00:00:00+00:00</updated><entry><title>Can Python's web and science communities run concurrently?</title><link href="http://pyvideo.org/scipy-2012/can-pythons-web-and-science-communities-run-conc.html" rel="alternate"></link><published>2012-07-19T00:00:00+00:00</published><updated>2012-07-19T00:00:00+00:00</updated><author><name>Eric Bruning</name></author><id>tag:pyvideo.org,2012-07-19:scipy-2012/can-pythons-web-and-science-communities-run-conc.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python has been adopted by many disciplinary communities, showing its
+adaptability to many problems. Scientific computing and web development
+are two examples of such communities. These might, at first glance, seem
+to share few common interests, especially at the level of algorithms and
+libraries. However, at the level of integrated practice in
+time-constrained academic environments, where framework development is
+less valued than research and teaching productivity, ease of adoption of
+tools from each of these communities can be tremendously valuable.&lt;/p&gt;
+&lt;p&gt;Using examples from the recently-deployed West Texas Lightning Mapping
+Array, which is processed and visualized in real-time, this paper will
+argue that a shared sense, among disciplinary communities, of the
+essence of how one deploys Python for specific problems is beneficial
+for continuation and growth of Python's status as a go-to language for
+practitioners in academic settings.&lt;/p&gt;
+</summary><category term="Meteorology Mini-Symposia"></category></entry></feed>

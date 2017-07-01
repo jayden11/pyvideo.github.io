@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_ryan-may.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-07-14T00:00:00+00:00</updated><entry><title>Bootstrapping an Open Source Library: How MetPy Got Up and Running with Lazy Developers</title><link href="http://pyvideo.org/scipy-2016/bootstrapping-an-open-source-library-how-metpy-got-up-and-running-with-lazy-developers-scipy-201.html" rel="alternate"></link><published>2016-07-14T00:00:00+00:00</published><updated>2016-07-14T00:00:00+00:00</updated><author><name>Ryan May</name></author><id>tag:pyvideo.org,2016-07-14:scipy-2016/bootstrapping-an-open-source-library-how-metpy-got-up-and-running-with-lazy-developers-scipy-201.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;MetPy is an open-source Python package for meteorology, providing domain-specific tools for reading data, performing calculations, and visualizing data that we have recently started developing actively. In order to keep code working and in good shape, and minimize the accrual of technical debt, the project developers have focused on making use of many cloud services to automate the development of the project. These services accomplish: static code analysis, continuous integration testing, automated documentation builds, and automated releases. We will present our experiences of how these services have helped with development, as well as challenges that presented themselves, with the goal to encourage others to use those to support their own development efforts.&lt;/p&gt;
+</summary><category term="metpy"></category><category term="meteorology"></category><category term="toolchain"></category></entry><entry><title>Advanced Matplotlib</title><link href="http://pyvideo.org/scipy-2012/advanced-matplotlib.html" rel="alternate"></link><published>2012-07-16T00:00:00+00:00</published><updated>2012-07-16T00:00:00+00:00</updated><author><name>Ryan May</name></author><id>tag:pyvideo.org,2012-07-16:scipy-2012/advanced-matplotlib.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Matplotlib is one of the main plotting libraries in use within the
+scientific Python community. This tutorial covers advanced features of
+the Matplotlib library, including many recent additions: laying out
+axes, animation support, Basemap (for plotting on maps), and other
+tweaks for creating aesthetic plots. The goal of this tutorial is to
+expose attendees to several of the chief sub- packages within
+Matplotlib, helping to ensure that users maximize the use of the full
+capabilities of the library. Additionally, the attendees will be run
+through a 'grab-bag' of tweaks for plots that help to increase the
+aesthetic appeal of created figures. Attendees should be familiar with
+creating basic plots in Matplotlib as well as basic use of NumPy for
+manipulating data.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://github.com/dopplershift%20/Python-Tutorials"&gt;iPython notebooks used in the
+tutorial&lt;/a&gt;&lt;/p&gt;
+</summary><category term="advanced"></category><category term="matplotlib"></category><category term="tutorial"></category></entry></feed>

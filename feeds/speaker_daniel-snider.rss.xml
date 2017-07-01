@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 12 Nov 2016 00:00:00 +0000</lastBuildDate><item><title>What kind of sorcery is OpenStack?</title><link>http://pyvideo.org/pycon-ca-2016/what-kind-of-sorcery-is-openstack.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lets clear the air about witchcraft and best practices in data center
+IT. Come listen to my rants and raves about OpenStack, the software that
+controls large armies of compute, storage, and networking resources. Why
+does OpenStack get so much hype and so much hate?&lt;/p&gt;
+&lt;div class="section" id="daniel-snider-bio"&gt;
+&lt;h4&gt;Daniel Snider Bio&lt;/h4&gt;
+&lt;p&gt;Daniel Snider is a former OpenStack software engineer, UOIT
+undergraduate in Information Technology, IBM, and Google Summer of Code
+student. He is currently a bio-tech newbie at SickKids and roboticist at
+Ryerson University's R3 Robotics club.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Snider</dc:creator><pubDate>Sat, 12 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-12:pycon-ca-2016/what-kind-of-sorcery-is-openstack.html</guid></item></channel></rss>

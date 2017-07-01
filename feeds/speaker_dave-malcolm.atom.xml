@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_dave-malcolm.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2012-03-09T00:00:00+00:00</updated><entry><title>"Dude, Where's My RAM?" - A deep dive into how Python uses memory</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011---quot-dude--where--39-s-my-ram--quot-.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Dave Malcolm</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011---quot-dude--where--39-s-my-ram--quot-.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&amp;quot;Dude, Where's My RAM?&amp;quot; - A deep dive into how Python uses memory&lt;/p&gt;
+&lt;p&gt;Presented by Dave Malcolm&lt;/p&gt;
+&lt;p&gt;This talk will give a deep dive into how CPython uses memory. I'll be
+demonstrating a new tool I've written that analyses CPython's memory
+usage, and offer hints and tips on how you can reduce the memory
+footprint of your Python programs.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Is your Python program using too much memory? This talk will give a deep
+dive into how CPython uses memory - starting from objects in your Python
+code, down through the various implementations layers, eventually
+reaching actual hardware.&lt;/p&gt;
+&lt;p&gt;In particular, I'll be demonstrating a new tool I've written that can
+track CPython's memory usage down to the level of individual bytes, and
+offer hints and tips on how you can reduce the memory footprint of your
+Python programs.&lt;/p&gt;
+</summary><category term="cpython"></category><category term="memory"></category><category term="pycon"></category><category term="pycon2011"></category></entry><entry><title>Static analysis of Python extension modules using GCC</title><link href="http://pyvideo.org/pycon-us-2012/static-analysis-of-python-extension-modules-using.html" rel="alternate"></link><published>2012-03-09T00:00:00+00:00</published><updated>2012-03-09T00:00:00+00:00</updated><author><name>Dave Malcolm</name></author><id>tag:pyvideo.org,2012-03-09:pycon-us-2012/static-analysis-of-python-extension-modules-using.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Want to analyse C/C++ code using Python? I've written a plugin for GCC
+that embeds Python inside the compiler, allowing you to write new C/C++
+compilation passes in Python. I've used this to build a static analysis
+tool that understands the CPython extension API, and can automatically
+detect reference- counting bugs, and other errors.&lt;/p&gt;
+</summary></entry></feed>

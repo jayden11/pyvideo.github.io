@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_charles-merriam.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2010-02-19T00:00:00+00:00</updated><entry><title>Decorators From Basics to Class Decorators to Decorator Libraries (#138)</title><link href="http://pyvideo.org/pycon-us-2010/pycon-2010--decorators-from-basics-to-class-decor.html" rel="alternate"></link><published>2010-02-19T00:00:00+00:00</published><updated>2010-02-19T00:00:00+00:00</updated><author><name>Charles Merriam</name></author><id>tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--decorators-from-basics-to-class-decor.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Decorators from Basics to Class Decorators to Decorator Libraries&lt;/p&gt;
+&lt;p&gt;Presented by Charles Merriam&lt;/p&gt;
+&lt;p&gt;Decorators simplify design and improve readability and reliability. This
+tutorial starts from the beginning with basic decorators, showing how
+simple tasks like restricting administration functions are clearer and
+more readable with decorators, and exactly how the decorators work. A
+simple library of decorators for tracing, logging, and caching results
+is presented. This leads into writing your own decorators and
+parameterized decorators either from scratch or by using libraries like
+Simionato's Decorator Decorator and &amp;quot;&amp;#64;call_before(fn)&amp;quot;. Finally, using
+Python 3.x class decorators in place of metaclasses for most common
+dictionary modifications is covered.&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: Missing about 1 minute at start, because of technical
+problems.]&lt;/p&gt;
+</summary><category term="decorators"></category><category term="pycon"></category><category term="pycon2010"></category></entry></feed>

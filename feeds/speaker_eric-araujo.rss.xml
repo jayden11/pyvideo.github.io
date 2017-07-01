@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 10 Aug 2013 00:00:00 +0000</lastBuildDate><item><title>How you can contribute to Python</title><link>http://pyvideo.org/pycon-ca-2012/how-you-can-contribute-to-python.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Did you know that you could contribute to Python? From documentation&lt;/p&gt;
+&lt;p&gt;work to patch reviews to new features to blogging, there are a number of&lt;/p&gt;
+&lt;p&gt;ways you can give back to Python. This talk for beginners will walk you&lt;/p&gt;
+&lt;p&gt;through these ways with concrete demonstrations.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Éric Araujo</dc:creator><pubDate>Sun, 11 Nov 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-11-11:pycon-ca-2012/how-you-can-contribute-to-python.html</guid></item><item><title>The Joys and Pains of Using Pyramid</title><link>http://pyvideo.org/pycon-ca-2013/the-joys-and-pains-of-using-pyramid.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;A tour of Pyramid’s best and worst features, from the perspective of
+developers who love elegance and pragmatism.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Éric Araujo</dc:creator><pubDate>Sat, 10 Aug 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-08-10:pycon-ca-2013/the-joys-and-pains-of-using-pyramid.html</guid><category>talk</category></item><item><title>Why Pyramid is awesome: the example of Facebook applications</title><link>http://pyvideo.org/pycon-us-2013/why-pyramid-is-awesome-to-build-facebook-applicat.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Beside the friends, walls and photos, Facebook is a platform where
+anybody can build applications or games taking advantage of the huge
+user base and connections between people. Any web-capable language or
+framework can be used to do that, but this poster will show you why
+Pyramid is a most excellent choice.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Éric Araujo</dc:creator><pubDate>Sun, 17 Mar 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-03-17:pycon-us-2013/why-pyramid-is-awesome-to-build-facebook-applicat.html</guid><category>poster</category></item><item><title>Panel: Directions for Packaging</title><link>http://pyvideo.org/pycon-us-2013/panel-directions-for-packaging.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;What needs to happen to finally offer a first-class packaging experience
+to Python users? Several of the people working directly on that problem
+will be here to answer your questions.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Holth</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-03-16:pycon-us-2013/panel-directions-for-packaging.html</guid><category>talk</category></item></channel></rss>

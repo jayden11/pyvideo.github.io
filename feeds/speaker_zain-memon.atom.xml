@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_zain-memon.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2012-03-10T00:00:00+00:00</updated><entry><title>Google Summer of Code Overview Panel</title><link href="http://pyvideo.org/djangocon-2009/google-summer-of-code-overview-panel.html" rel="alternate"></link><published>2009-09-10T00:00:00+00:00</published><updated>2009-09-10T00:00:00+00:00</updated><author><name>Zain Memon</name></author><id>tag:pyvideo.org,2009-09-10:djangocon-2009/google-summer-of-code-overview-panel.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Google Summer of Code Overview Panel&lt;/p&gt;
+&lt;p&gt;Featuring Zain Memon, Alex Gaynor, Honza Kral, Marc Garcia&lt;/p&gt;
+&lt;p&gt;Moderated question and answer about GSOC and Django.&lt;/p&gt;
+</summary><category term="djangocon"></category><category term="djangocon2009"></category><category term="gsoc"></category></entry><entry><title>Making interactive maps for the web</title><link href="http://pyvideo.org/djangocon-2011/djangocon-2011--making-interactive-maps-for-the-w.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Zain Memon</name></author><id>tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--making-interactive-maps-for-the-w.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Making Interactive Maps for the Web&lt;/p&gt;
+&lt;p&gt;Presented by Zain Memon&lt;/p&gt;
+&lt;p&gt;When tasked with displaying geo-data, most developers decide to put some
+big red markers on an embeddable Google Map and call it a day. If you're
+interested in creating maps that are more beautiful, more interactive,
+and more usable, this talk is for you.&lt;/p&gt;
+</summary><category term="djangocon"></category><category term="djangocon2011"></category><category term="geodjango"></category><category term="gis"></category><category term="maps"></category><category term="polymaps"></category><category term="tilestash"></category></entry><entry><title>Making maps with Python</title><link href="http://pyvideo.org/pycon-us-2012/making-maps-with-python.html" rel="alternate"></link><published>2012-03-10T00:00:00+00:00</published><updated>2012-03-10T00:00:00+00:00</updated><author><name>Zain Memon</name></author><id>tag:pyvideo.org,2012-03-10:pycon-us-2012/making-maps-with-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python makes it easy to store, query, and transform geodata. We will run
+through a handful of useful GIS libraries and patterns that let you do
+magical things with your maps. If you want to make maps that are more
+interactive and more interesting, this talk is for you.&lt;/p&gt;
+</summary></entry><entry><title>Making interactive maps for the web</title><link href="http://pyvideo.org/pycon-us-2012/making-interactive-maps-for-the-web.html" rel="alternate"></link><published>2012-03-08T00:00:00+00:00</published><updated>2012-03-08T00:00:00+00:00</updated><author><name>Zain Memon</name></author><id>tag:pyvideo.org,2012-03-08:pycon-us-2012/making-interactive-maps-for-the-web.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This tutorial teaches students how to create beautiful, interactive maps
+for the web. When asked to display geodata, most developers decide to
+put some big red markers on an embeddable Google Map and call it a day.
+If you're interested in creating maps that are more beautiful, more
+interactive, and more usable, this tutorial is for you.&lt;/p&gt;
+</summary></entry></feed>

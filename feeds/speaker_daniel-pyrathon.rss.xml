@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 29 May 2015 00:00:00 +0000</lastBuildDate><item><title>Machine Learning as a Service: fare sentiment analysys in realtime con ZMQ e NLTK</title><link>http://pyvideo.org/pycon-italia-2014/machine-learning-as-a-service-fare-sentiment-analysys-in-realtime-con-zmq-e-nltk.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sono un appassionato di Machine Learning e Natural Language Processing. Quest'anno, per la mia tesi di laurea, ho deciso di creare una applicazione di Twitter sentiment analysis in tempo reale. Per questo motivo, nel mio talk voglio raccontare la mia esperienza nel creare un sistema di machine learning scalabile e adottabile su qualsiasi piattaforma. Lo scopo di questo talk non è quello di entrare nei dettagli dal punto di vista scientifico (perchè ovviamente sono alle prime armi) ma invece far vedere come Python e librerie fondamentali NLTK, ZMQ e MrJob mi hanno aiutato a creare un sistema distribuito e facilmente replicabile. Questo talk avrebbe benefici sia per un utente alle prime armi che per un veterano di ML: L'utente alle prime armi si porta a casa un overview di cosa è Machine learning, e tutti gli strumenti necessari per replicare il progetto a casa. L'utente più esperto si porta a casa nuove idee che può mettere in pratica e molto probabilmente creare un prodotto migliore del mio! Inoltre, a fine talk pubblicherò anche un GitHub project con slide e prodotto finito.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Pyrathon</dc:creator><pubDate>Sun, 25 May 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-05-25:pycon-italia-2014/machine-learning-as-a-service-fare-sentiment-analysys-in-realtime-con-zmq-e-nltk.html</guid></item><item><title>Machine Learning as a Service: making sentiment predictions in realtime with ZMQ and NLTK</title><link>http://pyvideo.org/pycon-italia-2014/machine-learning-as-a-service-making-sentiment-predictions-in-realtime-with-zmq-and-nltk.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;I am a Machine Learning (ML) and Natural Language Processing enthusiast. For my university dissertation I created a realtime sentiment analysis classifier for Twitter. My talk will be about the experience and the lessons learned. I will explain how to build a scalable machine learning software as a service, consumable with a REST API. The purpose of this talk is not to dig into the mathematics behind machine learning (as I do not have this experience), but it's more about showing how easy it can be to build a ML SaaS by using some of the amazing libraries such as NLTK, ZMQ and MrJob that have helped me make throughout the development. This talk will give several benefits: users with no ML background will have a great introduction to the subject, they will also be able to replicate my project at home. More experienced users will gain new ideas to put in practice and (most) probably build a better system than mine! Finally, I will attach a GitHub project with the slides and a finished product.&lt;/p&gt;
+&lt;p&gt;Contents:&lt;/p&gt;
+&lt;p&gt;Introduction&lt;/p&gt;
+&lt;p&gt;Overview
+Brief demo
+Introduction to Machine Learning and Natural Language processing
+Naive Bayes
+Offline training&lt;/p&gt;
+&lt;p&gt;Overview of offline training
+Pre-processing: NLTK for feature extraction, stemming, stopword removal, chi-square tests.
+Training script: using MrJob for MapReduce
+Testing script: accuracy, precision and recall
+Classification as a service&lt;/p&gt;
+&lt;p&gt;Intuition
+ZeroMQ and PUSH-PULL
+NodeJS for a RESTful back-end
+End&lt;/p&gt;
+&lt;p&gt;Things that can be improved
+Q and A&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Pyrathon</dc:creator><pubDate>Sat, 24 May 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-05-24:pycon-italia-2014/machine-learning-as-a-service-making-sentiment-predictions-in-realtime-with-zmq-and-nltk.html</guid></item><item><title>The Meta API: yesterday, today, and tomorrow</title><link>http://pyvideo.org/pycon-italia-2015/the-meta-api-yesterday-today-and-tomorrow.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Meta API is the core part of Django that enables introspection of
+the ORM with the rest of the system. The API allows different parts of
+the framework such as lookups, queries, forms, admin to understand and
+use the capabilities of every model. As part of Summer of Code 2014 I
+refactored and redesigned some core parts of this API and, as the
+purpose of this talk, I plan on advocating how developers can benefit
+from this API in numerous ways: from understanding how Django’s model
+works, to enhancing your application through model introspection.
+Moreover, I will give an overview of how we can create a custom store
+that can be plugged into Django, together with some code snippets and
+(maybe) a live demo. This talk is an extension of the talk I did at
+Django Under the Hood, when the API was not finished yet. Now that the
+API has landed in master, I will also describe my process in getting
+involved into the Django community and how easy and rewarding it is to
+contribute to the project. Objectives&lt;/p&gt;
+&lt;p&gt;Give a brief overview of what the Meta API is, it’s features and what
+can be done with it Look at some of Django’s ORM code: from the model
+metaclass to the relation graph Describe my experience in creating a
+custom Meta that talks to GMail through Django’s Model API (demo) Define
+a small but concise guide on how to contribute to Django&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Daniel Pyrathon</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-05-29:pycon-italia-2015/the-meta-api-yesterday-today-and-tomorrow.html</guid></item></channel></rss>

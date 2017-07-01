@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_payments.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2012-09-05T00:00:00+00:00</updated><entry><title>So You Want to Make a Payment: Comparing and contrasting Django payment options</title><link href="http://pyvideo.org/djangocon-2012/so-you-want-to-make-a-payment-comparing-and-cont.html" rel="alternate"></link><published>2012-09-05T00:00:00+00:00</published><updated>2012-09-05T00:00:00+00:00</updated><author><name>Joe Jasinski</name></author><id>tag:pyvideo.org,2012-09-05:djangocon-2012/so-you-want-to-make-a-payment-comparing-and-cont.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;So you've developed an eCommerce site and now you want users to be able
+to make payments. The aim of this talk will be to introduce and compare
+some common payment gateway options, such as Payflow, Authorize.net,
+Stripe, and Braintree, with the focus of integrating them into Django
+projects.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;When developing eCommerce applications in Django, you will often be
+faced with the choice of which payment API to use. It's not always clear
+which services are available, which will fit your needs, and how to get
+started with them. This talk aims to evaluate these payment options from
+a Django programmer's perspective and provide you with background that
+may help you choose a payment processor that fits your needs.&lt;/p&gt;
+&lt;p&gt;Topics will include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;High-level overview of how payments work.&lt;/li&gt;
+&lt;li&gt;Overview of popular payment options: Google Checkout, Authorize.net,
+Payflow Payments, Braintree, Stripe, etc.&lt;/li&gt;
+&lt;li&gt;Compare and contrast these payment gateway APIs&lt;ul&gt;
+&lt;li&gt;compare ease of use&lt;/li&gt;
+&lt;li&gt;features&lt;/li&gt;
+&lt;li&gt;price&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;General overview of payment gateway web interfaces&lt;/li&gt;
+&lt;li&gt;Example Code snippets for payment processing&lt;/li&gt;
+&lt;li&gt;Useful Python/Django payment-related modules&lt;/li&gt;
+&lt;li&gt;Q&amp;amp;A&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="django"></category><category term="payments"></category></entry></feed>

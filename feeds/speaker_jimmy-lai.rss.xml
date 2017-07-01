@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 27 Jun 2014 00:00:00 +0000</lastBuildDate><item><title>Building a Knowledge Graph - the new search engine technology</title><link>http://pyvideo.org/pycon-apac-2014/building-a-knowledge-graph-the-new-search-engin.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Knowledge graph is the new search engine technology. All the leading
+search engine exploit knowledge graph to provide more accurate result to
+user, e.g. Bing, Google, Yahoo.&lt;/p&gt;
+&lt;p&gt;In this talk, the speaker will demonstrate how to build a searchable
+knowledge graph from scratch. Lots of python tools will be applied
+during the process. The process includes data wrangling, graph entity
+indexing, full text search and web visualization. The data sources are
+from dbpedia.org. Enormous amount of entities are collected and stored
+to graph database for relationship querying and full text search engine
+for searching. In the web visualization, a searchable interface and
+visualized result demonstrate the knowledgable information to customer.&lt;/p&gt;
+&lt;p&gt;About the speaker&lt;/p&gt;
+&lt;p&gt;Jimmy Lai is a Python fan, and his interested topics are natural
+language processing and machine learning. He specializes in combining
+machine learning algorithm and cloud computing technology to do big data
+analysis, building application services.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jimmy Lai</dc:creator><pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-06-27:pycon-apac-2014/building-a-knowledge-graph-the-new-search-engin.html</guid></item></channel></rss>

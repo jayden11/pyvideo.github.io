@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate><item><title>Introduction to Convolutional Neural Networks using TensorFlow and Keras</title><link>http://pyvideo.org/pydata-london-2017/introduction-to-convolutional-neural-networks-using-tensorflow-and-keras.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Filmed at PyData London 2017&lt;/p&gt;
+&lt;p&gt;Description
+Introduction to image classification using Tensorflow. I will provide a Notebook for you to try things out.&lt;/p&gt;
+&lt;p&gt;Abstract
+We will discuss how Convolutional Neural Networks work and how you can apply them to the task of image classification. This will be illustrated by an example using real pictures of German speed limit signs which we will process with Tensorflow and Keras as a frontend. I will provide you with a Notebook so you can follow along without installation or try out the examples later at home.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Oliver Zeigermann</dc:creator><pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-05:pydata-london-2017/introduction-to-convolutional-neural-networks-using-tensorflow-and-keras.html</guid></item></channel></rss>

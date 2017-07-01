@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 30 Dec 2016 00:00:00 +0000</lastBuildDate><item><title>Growing Python with Spreadsheets</title><link>http://pyvideo.org/pytexas-2013/growing-python-with-spreadsheets.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Talk given at PyTexas 2013 by Kojo Idrissa (&amp;#64;Transition).&lt;/p&gt;
+&lt;p&gt;Spreadsheets are the &amp;quot;lingua franca&amp;quot; of data sharing, espeicially within organizations. Outside of technical circles (IT departments, developers, etc), a spreadsheet is still the way most data is analyzed, visualized or reported. While programmers prefer to work with data in another format, many non-programmers either don't have that option or lack the technical accumen to be aware the option exists. As a result, many non-technical people in organizations are forced to use kludgy, limited data analysis tools in spreadsheets. While spreadsheets are good for &lt;em&gt;basic&lt;/em&gt; data visualization (i.e., &amp;quot;What do I have here?&amp;quot;), they lack flexibility and force their users to jump through hoops. &lt;strong&gt;This&lt;/strong&gt; is an opportunity for Python to grow.&lt;/p&gt;
+&lt;p&gt;My underlying thesis is that one of Python's best vectors for growth is not converting &lt;em&gt;current&lt;/em&gt; programmers from other languages to Python (a 'Red Ocean' strategy), but converting current non-programmers &lt;em&gt;into&lt;/em&gt; programmers by demonstrating Python's utility (a 'Blue Ocean' strategy). In this case, the spreadsheet user (who's already one of the closest things to a programmer in most organizations) is our audience.&lt;/p&gt;
+&lt;p&gt;This session focuses on working with data that's in spreadsheets by 'talking' directly to the spreadsheets with Python. There are two main focuses to the session.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Help grow the Python community by showing spreadsheet users how Python can help them&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;speed up or eliminate repetitive tasks&lt;/li&gt;
+&lt;li&gt;provide better and data analysis than a spreadsheet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Expose Python developers to methods they can use to directly interact with spreadsheets, avoiding the 'delimited text file' intermediary step&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kojo Idrissa</dc:creator><pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-08-16:pytexas-2013/growing-python-with-spreadsheets.html</guid></item><item><title>Privilege Arbitrage</title><link>http://pyvideo.org/pydx-2016/privilege-arbitrage.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyDX 2016 talk by Kojo Idrissa&lt;/p&gt;
+&lt;p&gt;Multiple recent talks have highlighted the importance of an Inclusive culture for tech communities (coding, hackerspaces, etc). The question that often remains: HOW do we make these cultures more inclusive? This talk introduces Privilege Arbitrage as a method to promote that cultural change.&lt;/p&gt;
+&lt;p&gt;This talk is for people of all skill levels, interested in helping their tech community culture become more inclusive.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kojo Idrissa</dc:creator><pubDate>Fri, 30 Dec 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-12-30:pydx-2016/privilege-arbitrage.html</guid></item><item><title>A D&amp;D-based guide to Contribution and Inclusion in the Python Community</title><link>http://pyvideo.org/pytexas-2014/a-dd-based-guide-to-contribution-and-inclusion-i.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Python community needs many different types of contributions to
+thrive. If you ever thought, &amp;quot;I'm not a great programmer, so I can't
+contribute to the Python community. :-(&amp;quot;, you're WRONG!&lt;/p&gt;
+&lt;p&gt;First, using classes and roles from Dungeons &amp;amp; Dragons (D&amp;amp;D) as a lens,
+we'll look at multiple contributing roles in the Python community, and
+how you can find one that fits you. Not familiar with D&amp;amp;D? I'll provide
+a brief, relevant primer.&lt;/p&gt;
+&lt;p&gt;Next, we'll continue the discussion to see how Inclusiveness helps us
+get those different contributors into the Python community. To use D&amp;amp;D
+language, a party of only one class won't go far. We'll also look at how
+Inclusiveness is NOT the same thing as Diversity or Political
+Correctness.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kojo Idrissa</dc:creator><pubDate>Sun, 05 Oct 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-10-05:pytexas-2014/a-dd-based-guide-to-contribution-and-inclusion-i.html</guid></item><item><title>Python and Spreadsheets: State of the Union, Oct 2014</title><link>http://pyvideo.org/pytexas-2014/python-and-spreadsheets-state-of-the-union-oct.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;At PyTexas 2013 I gave a talk on using Python to work with spreadsheets.
+The landscape is rapidly changing and the options have expanded. This
+talk will be a whirlwind tour of your options for using Python with
+spreadsheets (NOT just Excel) as of late 2014. From processing
+spreadsheet &lt;em&gt;files&lt;/em&gt; to using Python to directly control a spreadsheet
+app, we'll see what's available, with a focus on how it can help &lt;strong&gt;you&lt;/strong&gt;
+with what you work on.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kojo Idrissa</dc:creator><pubDate>Sat, 04 Oct 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-10-04:pytexas-2014/python-and-spreadsheets-state-of-the-union-oct.html</guid></item><item><title>Building a More Inclusive Python Community Culture</title><link>http://pyvideo.org/pytexas-2015/building-a-more-inclusive-python-community-cultur.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Groups that are more diverse are &lt;a class="reference external" href="https://www.google.com/#q=diverse+%22problem+solving%22"&gt;better at solving
+problems&lt;/a&gt;
+than more homogenous groups. An inclusive group culture maximizes the
+odds of attracting and retaining skills &amp;amp; personalities needed to
+thrive. The Python community has a pretty good track record on issues
+related to inclusion. So, how can you help continue that trend,
+especially in your local community? I'll start with a brief &lt;em&gt;WHY&lt;/em&gt; and
+&lt;em&gt;WHAT&lt;/em&gt; of Inclusion, but most of this talk focuses on &lt;strong&gt;HOW&lt;/strong&gt; to help
+your local corner of the Python community be as Inclusive as possible.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kojo Idrissa</dc:creator><pubDate>Fri, 09 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-09:pytexas-2015/building-a-more-inclusive-python-community-cultur.html</guid><category>inclusion</category><category>diversity</category><category>Community</category><category>Culture</category></item><item><title>How to Practice Inclusion and Benefit Django</title><link>http://pyvideo.org/djangocon-2015/how-to-practice-inclusion-and-benefit-django-by.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;How to Practice Inclusion and Benefit Django by Kojo Idrissa&lt;/p&gt;
+&lt;p&gt;WHAT: Inclusion Defined&lt;/p&gt;
+&lt;p&gt;Not about morality Inclusion vs. Diversity vs. Political Correctness
+WHY: Why does this matter?&lt;/p&gt;
+&lt;p&gt;Inherent limits on community membership: not ALL 7 billion humans will
+join AND contribute Inclusion lets you maximize the number of
+contributors HOW: How do I DO this better?&lt;/p&gt;
+&lt;p&gt;Check your assumptions Zen of Python on Inclusiveness Errors should
+never pass silently Check for exceptions Discuss errors when they occur
+In the face of ambiguity, refuse the temptation to guess: how much does
+the ambiguity matter? Get out of your bubble Flip the Demographics
+Understanding The Power of Privilege Your Personal Privilege Matrix
+Privilege Arbitrage &amp;quot;Turn Your Sadness Into Kindness&amp;quot; Closing&lt;/p&gt;
+&lt;p&gt;What if you feel you can't?&lt;/p&gt;
+&lt;p&gt;If your heart's not really into it or you feel it's &amp;quot;too hard&amp;quot;, be
+honest with yourself and just hang around others like you. An insincere
+effort often does more harm than good.&lt;/p&gt;
+&lt;p&gt;Recognize that this behavior may leave you isolated from a large (and
+growing) portion of the community.&lt;/p&gt;
+&lt;p&gt;It's up to all of us&lt;/p&gt;
+&lt;p&gt;Just as systems tend towards entropy, if you leave a community alone it
+tends towards toxicity. Good communities require continual effort. -
+Jacob Kaplan-Moss&lt;/p&gt;
+&lt;p&gt;Help us caption &amp;amp; translate this video!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://amara.org/v/HHB0/"&gt;http://amara.org/v/HHB0/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kojo Idrissa</dc:creator><pubDate>Sat, 19 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-19:djangocon-2015/how-to-practice-inclusion-and-benefit-django-by.html</guid></item></channel></rss>

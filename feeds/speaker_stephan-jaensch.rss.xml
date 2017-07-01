@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 05 Aug 2016 00:00:00 +0000</lastBuildDate><item><title>Building mobile APIs with services at Yelp</title><link>http://pyvideo.org/europython-2015/building-mobile-apis-with-services-at-yelp.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Stephan Jaensch - Building mobile APIs with services at Yelp
+[EuroPython 2015]
+[21 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;At Yelp, we ship code multiple times a day and have maintained this
+pace as our team has grown to 300+ and our codebase to several million
+lines of Python code. This talk explores the pain points we
+experienced along the ways, how our service-oriented architecture
+alleviates them, and the infrastructure we built to develop, test, and
+deploy in this highly-distributed environment. As a case study, we’ll
+be looking at the backend powering the new Yelp Business Owner Android
+and iOS apps.&lt;/p&gt;
+&lt;p&gt;At the start, most of the development at Yelp occurred in a single,
+monolithic web application, creatively named “yelp-main” (naming is
+hard!). As the company grew, our developers were spending increasing
+amounts of time trying to ship code. After recognizing this pain
+point, we started experimenting with a service oriented architecture
+to scale the development process, and so far it’s been a resounding
+success. Over the course of the last three years, we’ve gone from
+writing our first service to having over seventy production services.
+Along the way, we’ve dabbled with Docker containers, Pyramid,
+SQLAlchemy, uWSGI, gevent, and virtualenv in an effort to build the
+next-generation service platform for our engineers.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stephan Jaensch</dc:creator><pubDate>Thu, 06 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-06:europython-2015/building-mobile-apis-with-services-at-yelp.html</guid></item><item><title>Building Service interfaces with OpenAPI / Swagger</title><link>http://pyvideo.org/europython-2016/building-service-interfaces-with-openapi-swagger.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Stephan Jaensch - Building Service interfaces with OpenAPI / Swagger
+[EuroPython 2016]
+[20 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/building-service-interfaces-using-OpenAPI"&gt;https://ep2016.europython.eu//conference/talks/building-service-interfaces-using-OpenAPI&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Ever wondered how to keep track of all of your services and their
+APIs? I'm going to explore how to build your Python services with
+OpenAPI/Swagger and how it helps you solve problems like communication
+between services, request and response validation, and documentation
+of your API. I'll also discuss some challenges you might face when
+running Swagger in production, gathered from over a year of heavy
+usage at Yelp.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Implementing a service-oriented architecture (SOA) is a proven way to
+split up large monolithic codebases and to scale development when your
+organization grows to hundreds or thousands of engineers. I'm going to
+explore how to build and document your services with OpenAPI (formerly
+known as Swagger). I’ll discuss the benefits, how to generate a
+beautiful HTML documentation for your API, and how you can
+effortlessly make calls to your services. In the second part of the
+talk I'll discuss and tell you how to overcome challenges you might
+face when running OpenAPI in production, gathered from over a year of
+heavy usage at Yelp for hundreds of services.&lt;/p&gt;
+&lt;p&gt;The OpenAPI initiative is a cross-vendor consortium focused on
+creating, evolving and promoting a vendor neutral description format.
+As an open governance structure under the Linux Foundation, its
+members include Google, IBM, Atlassian and PayPal.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stephan Jaensch</dc:creator><pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-05:europython-2016/building-service-interfaces-with-openapi-swagger.html</guid></item></channel></rss>

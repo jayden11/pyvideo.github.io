@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Tue, 04 Aug 2015 00:00:00 +0000</lastBuildDate><item><title>Slow Down, Compose Yourself</title><link>http://pyvideo.org/pycon-au-2015/slow-down-compose-yourself.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;As your codebase grows, you will have instances where you have code that
+needs to be reused. Then you think, I can do this with subclassing! Now
+you have a diamond-tree of problems.&lt;/p&gt;
+&lt;p&gt;Here, we’ll talk about a better way of code reuse and introducing
+alternate behaviour into existing classes — composition. It’ll improve
+how you test your code — making your test runs faster, making it easier
+to test exceptional cases, and making everything easier to understand.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Amber "Hawkie" Brown</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-04:pycon-au-2015/slow-down-compose-yourself.html</guid></item><item><title>What Django can learn from Twisted</title><link>http://pyvideo.org/pycon-au-2015/what-django-can-learn-from-twisted.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Web frameworks like Django are designed around the traditional
+request-response cycle — a request comes in, a response is generated,
+and that is delivered to the client. In the day of “single page”
+applications, where only sections of the page are updated through
+requests, doing real-time can be clunky. Twisted, and things that build
+off it, like Django Channels, might be worth thinking about, and this is
+what this talk will be about.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Amber "Hawkie" Brown</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-04:pycon-au-2015/what-django-can-learn-from-twisted.html</guid></item></channel></rss>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_pythoncommunity.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>1990-01-01T00:00:00+00:00</updated><entry><title>PyCon 2009: Giving back and helping expand the Python community. A roadmap for South America and Africa (#87)</title><link href="http://pyvideo.org/pycon-us-2009/pycon-2009--giving-back-and-helping-expand-the-py.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,1990-01-01:pycon-us-2009/pycon-2009--giving-back-and-helping-expand-the-py.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;For many of us, Python has dramatically changed our professional life:
+Open Source, technologies that get the job done, and let you learn and
+improve every day, a friendly and mature community, etc. Python is
+important! For learning, for science, for business, and for progress in
+general.&lt;/p&gt;
+</summary><category term="pycon"></category><category term="pycon2009"></category><category term="pythoncommunity"></category></entry></feed>

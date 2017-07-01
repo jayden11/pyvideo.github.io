@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Mon, 01 Jan 1990 00:00:00 +0000</lastBuildDate><item><title>Testing: The Developer Strikes Back</title><link>http://pyvideo.org/djangocon-2011/djangocon-2011--testing--the-developer-strikes-ba.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Testing: The Developer Strikes Back&lt;/p&gt;
+&lt;p&gt;Sandy Strong&lt;/p&gt;
+&lt;p&gt;“Code not tested is broken by design” - Jacob Kaplan-Moss&lt;/p&gt;
+&lt;p&gt;Every programming project has unique testing needs. It’s not always easy
+to understand what those needs are, or how to write tests that satisfy
+them. One of our goals as developers is to write tests that minimize
+failures in production that can cost our companies time, money,
+resources, and in many cases, hours of sleep!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--testing--the-developer-strikes-ba.html</guid><category>coverage.py</category><category>djangocon</category><category>djangocon2011</category><category>jenkins</category><category>testing</category><category>web</category></item></channel></rss>

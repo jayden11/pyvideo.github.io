@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_arthur-vuillard.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-10-18T00:00:00+00:00</updated><entry><title>Créer une communauté locale</title><link href="http://pyvideo.org/pycon-fr-2015/creer-une-communaute-locale.html" rel="alternate"></link><published>2015-10-18T00:00:00+00:00</published><updated>2015-10-18T00:00:00+00:00</updated><author><name>Arthur Vuillard</name></author><id>tag:pyvideo.org,2015-10-18:pycon-fr-2015/creer-une-communaute-locale.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;D'après la liste des inscrits à l'AFPy, il y a des personnes intéressées
+par Python un peu partout en France et un peu ailleurs aussi. Et
+pourtant, très peu de villes organisent des événements réguliers. Cette
+présentation va vous aider à organiser le premier événement Python dans
+votre ville.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Organiser un événement sur Python peut paraître chronophage et intimider
+d'éventuels organisateurs.&lt;/p&gt;
+&lt;p&gt;Cette présentation va montrer comment il est simple d'organiser un
+événement autour de Python.&lt;/p&gt;
+&lt;p&gt;Nous allons donc aborder divers aspects comme : - étudier l'intérêt
+local - trouver un lieu - trouver une date - faire venir des gens - être
+accueillant pour tout le monde - recommencer&lt;/p&gt;
+&lt;p&gt;En espérant que ça vous donne des idées :)&lt;/p&gt;
+</summary></entry></feed>

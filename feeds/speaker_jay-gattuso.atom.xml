@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_jay-gattuso.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-09-12T00:00:00+00:00</updated><entry><title>From nothing to daily use - How Python changed my work life</title><link href="http://pyvideo.org/kiwi-pycon-2013/from-nothing-to-daily-use-how-python-changed-my.html" rel="alternate"></link><published>2013-09-12T00:00:00+00:00</published><updated>2013-09-12T00:00:00+00:00</updated><author><name>Jay Gattuso</name></author><id>tag:pyvideo.org,2013-09-12:kiwi-pycon-2013/from-nothing-to-daily-use-how-python-changed-my.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;What happens when you take a Digital Preservation Analyst, an
+introduction to Python, and 18 months of learning? The answer is... a
+glut of tool building, problem solving and all round reliance on Python
+as a primary resource.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&amp;#64; Kiwi PyCon 2013 - Sunday, 08 Sep 2013 - Track 1&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Audience level&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Novice&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I will share my experiences of writing small python tools to help me to
+solve the daily challenges of my job. I'm a very novice Python coder,
+and have only really been using&lt;/p&gt;
+&lt;p&gt;The range of tools I've used/built include:-&lt;/p&gt;
+&lt;p&gt;file format conversion, db building/analysing, XML wrangling, text data
+wrangling, object administration (inc. cleaning and audit), webscraping
+and basic workflow automation...&lt;/p&gt;
+&lt;p&gt;I will share some (terribly coded) examples of how I solve analysis
+challenges, share some limitations I have found being a solo novice
+coder on the edge of a professional IT environment, and ask for your
+guidance in how to maintain the same rate of learning in the coding
+space.&lt;/p&gt;
+&lt;p&gt;Title will change to be something more pithy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://speakerdeck.com/nzpug/jay-gattuso-from-nothing-to-daily-use-how-python-changed-my-work-life"&gt;https://speakerdeck.com/nzpug/jay-gattuso-from-nothing-to-daily-use-how-python-changed-my-work-life&lt;/a&gt;&lt;/p&gt;
+</summary></entry></feed>

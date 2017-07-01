@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 19 Feb 2010 00:00:00 +0000</lastBuildDate><item><title>Decorators From Basics to Class Decorators to Decorator Libraries (#138)</title><link>http://pyvideo.org/pycon-us-2010/pycon-2010--decorators-from-basics-to-class-decor.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Decorators from Basics to Class Decorators to Decorator Libraries&lt;/p&gt;
+&lt;p&gt;Presented by Charles Merriam&lt;/p&gt;
+&lt;p&gt;Decorators simplify design and improve readability and reliability. This
+tutorial starts from the beginning with basic decorators, showing how
+simple tasks like restricting administration functions are clearer and
+more readable with decorators, and exactly how the decorators work. A
+simple library of decorators for tracing, logging, and caching results
+is presented. This leads into writing your own decorators and
+parameterized decorators either from scratch or by using libraries like
+Simionato's Decorator Decorator and &amp;quot;&amp;#64;call_before(fn)&amp;quot;. Finally, using
+Python 3.x class decorators in place of metaclasses for most common
+dictionary modifications is covered.&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: Missing about 1 minute at start, because of technical
+problems.]&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Charles Merriam</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--decorators-from-basics-to-class-decor.html</guid><category>decorators</category><category>pycon</category><category>pycon2010</category></item></channel></rss>

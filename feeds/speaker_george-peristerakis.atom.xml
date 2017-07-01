@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_george-peristerakis.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2012-07-06T00:00:00+00:00</updated><entry><title>Guidelines to writing a Python API</title><link href="http://pyvideo.org/europython-2012/guidelines-to-writing-a-python-api.html" rel="alternate"></link><published>2012-07-06T00:00:00+00:00</published><updated>2012-07-06T00:00:00+00:00</updated><author><name>George Peristerakis</name></author><id>tag:pyvideo.org,2012-07-06:europython-2012/guidelines-to-writing-a-python-api.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2012] George Peristerakis - 5 JULY 2012 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The talk will address the design and implementation of APIs using
+Python. The goal is show how Python can help design clean and consist
+API from the engineering point of view. The talk will be divided into 3
+parts. 1. The motivation behind writing a API. 2. Show design patterns
+that help design the foundations of an API 3. Show an example of
+building an API (e-commerce module)&lt;/p&gt;
+</summary></entry></feed>

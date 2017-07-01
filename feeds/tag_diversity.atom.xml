@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_diversity.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-02-20T00:00:00+00:00</updated><entry><title>Django Girls</title><link href="http://pyvideo.org/pycaribbean-2016/pycaribbean-2016-django-girls-ola-sitarska.html" rel="alternate"></link><published>2016-02-20T00:00:00+00:00</published><updated>2016-02-20T00:00:00+00:00</updated><author><name>Ola Sitarska</name></author><id>tag:pyvideo.org,2016-02-20:pycaribbean-2016/pycaribbean-2016-django-girls-ola-sitarska.html</id><summary type="html"></summary><category term="keynote"></category><category term="django"></category><category term="django girls"></category><category term="diversity"></category></entry><entry><title>Building a More Inclusive Python Community Culture</title><link href="http://pyvideo.org/pytexas-2015/building-a-more-inclusive-python-community-cultur.html" rel="alternate"></link><published>2015-10-09T00:00:00+00:00</published><updated>2015-10-09T00:00:00+00:00</updated><author><name>Kojo Idrissa</name></author><id>tag:pyvideo.org,2015-10-09:pytexas-2015/building-a-more-inclusive-python-community-cultur.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Groups that are more diverse are &lt;a class="reference external" href="https://www.google.com/#q=diverse+%22problem+solving%22"&gt;better at solving
+problems&lt;/a&gt;
+than more homogenous groups. An inclusive group culture maximizes the
+odds of attracting and retaining skills &amp;amp; personalities needed to
+thrive. The Python community has a pretty good track record on issues
+related to inclusion. So, how can you help continue that trend,
+especially in your local community? I'll start with a brief &lt;em&gt;WHY&lt;/em&gt; and
+&lt;em&gt;WHAT&lt;/em&gt; of Inclusion, but most of this talk focuses on &lt;strong&gt;HOW&lt;/strong&gt; to help
+your local corner of the Python community be as Inclusive as possible.&lt;/p&gt;
+</summary><category term="inclusion"></category><category term="diversity"></category><category term="Community"></category><category term="Culture"></category></entry><entry><title>Diversity as a Dependency</title><link href="http://pyvideo.org/europython-2011/diversity-as-a-dependency.html" rel="alternate"></link><published>2011-07-21T00:00:00+00:00</published><updated>2011-07-21T00:00:00+00:00</updated><author><name>Anna Ravenscroft</name></author><id>tag:pyvideo.org,2011-07-21:europython-2011/diversity-as-a-dependency.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Anna Ravenscroft - 20 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The PSF recently adopted a diversity statement. While some argue that we
+should do this just because it's &amp;quot;the right thing to do&amp;quot;, others
+question why we, as a technical community, should even worry about
+diversity. This talk addresses the diversity question, not in moralistic
+or ethical terms, but in pragmatic ones. Studies on creativity and
+productivity demonstrate the potential benefits of diversity for the
+Python community. Making Python the best language it can be is not
+merely helped by increasing diversity, but may be dependent on
+diversity.&lt;/p&gt;
+</summary><category term="diversity"></category><category term="psf"></category></entry><entry><title>Diversity in Tech: Improving our Toolset</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--diversity-in-tech--improving-our-tool.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Jennifer Leech</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--diversity-in-tech--improving-our-tool.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Diversity in Tech: Improving our Toolset&lt;/p&gt;
+&lt;p&gt;Presented by Jennifer Leech&lt;/p&gt;
+&lt;p&gt;As communities allow more diversity, they draw from a larger talent
+pool, challenge each other more, and hit a higher bar in terms of
+ingenuity and work-product. However questions surrounding diversity
+often seem under- examined. What are the effects of diversity in the
+community, or lack thereof? I intend to approach this topic from an
+accessible and entertaining, yet analytical perspective.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Last year there was a photo of Kate Moss shown during a PyCon
+presentation which raised debate as to its appropriateness. This debate
+brought up some interesting questions - but what I found most
+interesting was that while it elicited strong opinions, the issue seemed
+to be somewhat unexamined. This event sparked a desire for deeper
+analysis on this topic in a more focussed setting.&lt;/p&gt;
+&lt;p&gt;In this talk, I intend to address some of the core principles underlying
+this debate. Discussion will include the following questions: Where does
+responsibility lie in understanding these issues? What are the effects
+of failing to do so? What are the effects of diversity in the community,
+or lack thereof? What do we lose by being more homogenous or more
+diverse? Gain?&lt;/p&gt;
+&lt;p&gt;As communities allow more diversity, they draw from a larger talent
+pool, challenge each other more, and hit a higher bar in terms of
+ingenuity and work-product. However, diversity requires awareness and
+tolerance on both the part of the dominant culture and on the part of
+the new arrivals to smooth the inevitable rough edges.&lt;/p&gt;
+&lt;p&gt;I intend to approach this topic from an accessible, inclusive and
+entertaining, yet analytical perspective. The broader intent is to raise
+the level of understanding and community discourse on this topic. It is
+odd that diversity can so dramatically affect our lives and communities
+and yet be unexamined, particularly in a community so highly intelligent
+and educated as that which populates the tech industry.&lt;/p&gt;
+</summary><category term="diversity"></category><category term="pycon"></category><category term="pycon2011"></category></entry><entry><title>Get new contributors (and diversity) through outreach</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--get-new-contributors--and-diversity--.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Asheesh Laroia</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--get-new-contributors--and-diversity--.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Get new contributors (and diversity) through outreach&lt;/p&gt;
+&lt;p&gt;Presented by Asheesh Laroia&lt;/p&gt;
+&lt;p&gt;Groups like the Fedora Design Team, Dreamwidth, SF Ruby, and OpenHatch
+have discovered the power of outreach to bring in new contributors. In
+the past year, SF Ruby grew in numbers as well as in diversity, moving
+from 3% women to 18% women. Because most projects need ongoing help,
+this talk discusses effective strategies for bringing in contributors
+who stick around for the long haul.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;This talk is targeted at anyone involved in an open source project who
+wants to find more contributors.&lt;/p&gt;
+&lt;p&gt;Programs like Google Summer of Code often provide excited students who
+disappear after a summer's work. Meanwhile, request for help emails on
+development lists are typically met with silence. Hackathons create a
+flurry of commits, but then we never hear from the participants again.
+Expanding your team is possible, and it requires care in terms of
+outreach, expectation management, and mentorship.&lt;/p&gt;
+&lt;p&gt;We will discuss three major forms of outreach:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;One-on-one check-ins with participants,&lt;/li&gt;
+&lt;li&gt;Periodic drives to bring in new contributors, and&lt;/li&gt;
+&lt;li&gt;In-person teaching events. Each one has &amp;quot;do&amp;quot;s and &amp;quot;don't&amp;quot;s associated
+with it. This talk digests the experience of effective outreach into
+practical strategies that you can re-use within your project.&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="diversity"></category><category term="openhatch"></category><category term="outreach"></category><category term="pycon"></category><category term="pycon2011"></category></entry></feed>

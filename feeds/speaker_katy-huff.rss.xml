@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 20 May 2017 00:00:00 +0000</lastBuildDate><item><title>Keynote: Do It For Science</title><link>http://pyvideo.org/pycon-us-2017/keynote-do-it-for-science.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Saturday morning keynote by Katy Huff&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katy Huff</dc:creator><pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-20:pycon-us-2017/keynote-do-it-for-science.html</guid></item><item><title>Keynote</title><link>http://pyvideo.org/pydata-chicago-2016/keynote.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Chicago 2016&lt;/p&gt;
+&lt;p&gt;Slides: &lt;a class="reference external" href="https://katyhuff.github.io/2016-08-27-pydata/#/"&gt;https://katyhuff.github.io/2016-08-27-pydata/#/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katy Huff</dc:creator><pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-27:pydata-chicago-2016/keynote.html</guid><category>keynote</category></item><item><title>You Win or You SciPy</title><link>http://pyvideo.org/scipy-2014/you-win-or-you-scipy.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Reflections on the State of Scientific Python&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python is currently one of the most popular programming languages and it
+seems that that Scientific Python has truly hit its stride in recent
+years. With fame comes a deluge of users, but not necessarily any more
+developers. Scientific Python is often held up as one of the core
+strengths of the Python language. Why is this so? And how much does it
+actually help us? This talk intends to be a frank discussion on the
+great parts of the SciPy community and the parts that need work.&lt;/p&gt;
+&lt;p&gt;As a confederation of packages and projects, there are several issues
+that affect everyone. Sometimes these issues fall through the cracks and
+other times they are vigorously tackled head on. In either case, I posit
+that greater communication about these global topics is necessary to
+support and scale to the next wave of SciPy users and developers.&lt;/p&gt;
+&lt;p&gt;Points of discussion in this talk may include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Packaging,&lt;/li&gt;
+&lt;li&gt;Education,&lt;/li&gt;
+&lt;li&gt;Matplotlib - aged or awesome,&lt;/li&gt;
+&lt;li&gt;Competition from other languages,&lt;/li&gt;
+&lt;li&gt;Diversity,&lt;/li&gt;
+&lt;li&gt;Employing our own,&lt;/li&gt;
+&lt;li&gt;Interfacing with the broader Python community,&lt;/li&gt;
+&lt;li&gt;The legal status of projects, and&lt;/li&gt;
+&lt;li&gt;Maintaining critical packages in the ecosystem (when devs have moved
+on).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Historically, the SciPy conference has not had many overview talks,
+talks about the community itself, what we are doing right, and what we
+are doing wrong.&lt;/p&gt;
+&lt;p&gt;They were often relegated to keynotes if they were present at all. This
+talk is a boots-on-the-ground attempt to rectify that.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel</dc:creator><pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-09:scipy-2014/you-win-or-you-scipy.html</guid></item></channel></rss>

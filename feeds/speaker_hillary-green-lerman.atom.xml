@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_hillary-green-lerman.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-16T00:00:00+00:00</updated><entry><title>The Science of Doubt: Creating Good Controls for Data Science Experiments.</title><link href="http://pyvideo.org/pygotham-2015/think-of-the-children-a-methodology-for-measurin.html" rel="alternate"></link><published>2015-08-16T00:00:00+00:00</published><updated>2015-08-16T00:00:00+00:00</updated><author><name>Hillary Green-Lerman</name></author><id>tag:pyvideo.org,2015-08-16:pygotham-2015/think-of-the-children-a-methodology-for-measurin.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Adaptive learning technology is used to provide personalized learning
+experiences for students. A common implementation provides
+individualized follow-up assignments for struggling students. Using
+observed data, we show how to use bootstrapping and rejection sampling
+to create a valid comparative study of groups of students who do and
+don’t use adaptive technology, even when the samples are not
+uncorrelated.&lt;/p&gt;
+</summary></entry></feed>

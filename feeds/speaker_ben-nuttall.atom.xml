@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_ben-nuttall.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-02-05T00:00:00+00:00</updated><entry><title>Python and Raspberry PiPhysical computing, GPIO, HATs and IoT with Python</title><link href="http://pyvideo.org/fosdem-2017/python-and-raspberry-piphysical-computing-gpio-hats-and-iot-with-python.html" rel="alternate"></link><published>2017-02-05T00:00:00+00:00</published><updated>2017-02-05T00:00:00+00:00</updated><author><name>Ben Nuttall</name></author><id>tag:pyvideo.org,2017-02-05:fosdem-2017/python-and-raspberry-piphysical-computing-gpio-hats-and-iot-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Introducing Python developers to the world of physical computing and IoT using Python on the Raspberry Pi.There's great fun to be had using the Pi's GPIO pins to connect with the real world for home automation and IoT projects. Python libraries like GPIO Zero, Picamera and Sense HAT provide a simple interface to GPIO devices, HATs and more.I will demonstrate the possibilities and show the power of Python in this environment.&lt;/p&gt;
+</summary></entry><entry><title>Physical computing with Python and Raspberry Pi</title><link href="http://pyvideo.org/pycon-russia-2016/physical-computing-with-python-and-raspberry-pi.html" rel="alternate"></link><published>2016-07-04T00:00:00+00:00</published><updated>2016-07-04T00:00:00+00:00</updated><author><name>Ben Nuttall</name></author><id>tag:pyvideo.org,2016-07-04:pycon-russia-2016/physical-computing-with-python-and-raspberry-pi.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Raspberry Pi Foundation is a UK charity which creates low-cost, high-performance computers that people use to learn, solve problems and have fun. Through our educational programmes we work to put the power of digital making into the hands of people all over the world.&lt;/p&gt;
+&lt;p&gt;With Python on the Raspberry Pi, it's easy to start creating physical computing projects, and to experiment and tinker with add-ons and accessories from lights and buzzers to environmental sensors and robotics. This ease of access was accelerated with the creation of a new minimal boilerplate library called GPIO Zero, of which I am the primary author. In this talk I'll talk about the Foundation's work in education, share some great Pi projects, give a taster of how to get started in physical computing and dive into the technical innards of the GPIO Zero library. As well as a learning tool, the Pi is commonly used in home automation projects and industrial applications.&lt;/p&gt;
+</summary></entry><entry><title>PyPi (not that one) - Python on the RaspberryPi</title><link href="http://pyvideo.org/pycon-uk-2014/pypi-not-that-one-python-on-the-raspberrypi.html" rel="alternate"></link><published>2014-10-20T00:00:00+00:00</published><updated>2014-10-20T00:00:00+00:00</updated><author><name>Ben Nuttall</name></author><id>tag:pyvideo.org,2014-10-20:pycon-uk-2014/pypi-not-that-one-python-on-the-raspberrypi.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Presented by: Ben Nuttall&lt;/p&gt;
+&lt;p&gt;Interesting Python projects on Raspberry Pi&lt;/p&gt;
+</summary></entry><entry><title>Python Projects on the Raspberry Pi</title><link href="http://pyvideo.org/pycon-uk-2015/python-projects-on-the-raspberry-pi.html" rel="alternate"></link><published>2015-09-18T00:00:00+00:00</published><updated>2015-09-18T00:00:00+00:00</updated><author><name>Ben Nuttall</name></author><id>tag:pyvideo.org,2015-09-18:pycon-uk-2015/python-projects-on-the-raspberry-pi.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python is the most popular language in the Raspberry Pi community. Also
+with the Raspberry Pi, it's easy to do physical computing directly from
+Python code - rather than usual embedded hardware engineering in C or
+Assembler.&lt;/p&gt;
+&lt;p&gt;In this talk I’ll show examples of computing projects that use Python on
+the Raspberry Pi and demonstrate the sort of code used in such projects.&lt;/p&gt;
+&lt;p&gt;This will be an informative session with learning possibilities to give
+those new to Python on the Raspberry Pi a chance to get started.&lt;/p&gt;
+&lt;p&gt;Ben Nuttall is the Education Developer Advocate at the Raspberry Pi
+Foundation in Cambridge, UK.&lt;/p&gt;
+</summary></entry><entry><title>Physical computing with Python and Raspberry Pi</title><link href="http://pyvideo.org/europython-2015/physical-computing-with-python-and-raspberry-pi.html" rel="alternate"></link><published>2015-08-07T00:00:00+00:00</published><updated>2015-08-07T00:00:00+00:00</updated><author><name>Ben Nuttall</name></author><id>tag:pyvideo.org,2015-08-07:europython-2015/physical-computing-with-python-and-raspberry-pi.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Ben Nuttall - Physical computing with Python and Raspberry Pi
+[EuroPython 2015]
+[23 July 2015]
+[Bilbao, Euskadi, Spain]
+[Education Summit]&lt;/p&gt;
+&lt;p&gt;With the Raspberry Pi, it's easy to do physical computing directly
+from Python code - rather than usual embedded hardware engineering in
+C or Assembler.&lt;/p&gt;
+&lt;p&gt;In this talk I'll show examples of physical computing projects that
+use Python on Raspberry Pi and demonstrate the sort of code  used in
+such projects.&lt;/p&gt;
+&lt;p&gt;Physical computing with Python is very popular in education - as it's
+so engaging, and more interesting than printing to the screen.&lt;/p&gt;
+&lt;p&gt;This will be an informative session with learning possibilities to
+give those new to physical computing a change to get started.&lt;/p&gt;
+</summary></entry><entry><title>Pioneering the Future of Computing Education</title><link href="http://pyvideo.org/europython-2014/pioneering-the-future-of-computing-education.html" rel="alternate"></link><published>2014-07-24T00:00:00+00:00</published><updated>2014-07-24T00:00:00+00:00</updated><author><name>Ben Nuttall</name></author><id>tag:pyvideo.org,2014-07-24:europython-2014/pioneering-the-future-of-computing-education.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;How the Raspberry Pi Foundation are leading the way in the computing in
+schools revolution by providing affordable open and connectable hardware
+to people of all levels of experience.&lt;/p&gt;
+&lt;p&gt;Now we have an education team, we're pushing forward with creating
+resources and training teachers to help deliver modern computing
+education around the world.&lt;/p&gt;
+&lt;p&gt;All our learning resources are Creative Commons licensed and available
+on GitHub. We write materials that match the UK computing curriculum.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;I'm Ben, from Raspberry Pi. I do development and outreach for the
+Foundation and I work with the rest of the education team to help make
+learning through computer science, coding and hardware hacking more
+accessible to all.&lt;/p&gt;
+&lt;p&gt;In this talk I explain the Raspberry Pi story: its mission - the reason
+the Pi exists; what happened before release - getting the board in to
+production; what happened in the first two years - the community birth
+and growth; and what's coming next - education focus, new hardware and
+improved software.&lt;/p&gt;
+&lt;p&gt;Python is the main language used (and advocated by us) in education with
+Raspberry Pi.&lt;/p&gt;
+&lt;p&gt;We're creating learning resources to match up with the new UK computing
+curriculum, where we teach young people programming and computer science
+concepts with Python on Pi, and help teachers deliver quality material
+in the classroom to work towards the objectives the curriculum sets out
+to achieve.&lt;/p&gt;
+&lt;p&gt;With Raspberry Pi we open up possibilities for connecting to the real
+world in an accessible way using the powerful, high level and human
+read/write -able language of Python.&lt;/p&gt;
+&lt;p&gt;We work closely with the community: hobbyists organising Raspberry Jam
+events; educators teaching with Raspberry Pi; the software communities
+and their contributions - and we welcome any interested parties to get
+involved with helping us provide for the wider community.&lt;/p&gt;
+</summary></entry><entry><title>Keynote: Python Programming in Science Education</title><link href="http://pyvideo.org/euroscipy-2014/keynote-python-programming-in-science-education.html" rel="alternate"></link><published>2014-10-22T00:00:00+00:00</published><updated>2014-10-22T00:00:00+00:00</updated><author><name>Ben Nuttall</name></author><id>tag:pyvideo.org,2014-10-22:euroscipy-2014/keynote-python-programming-in-science-education.html</id><summary type="html"></summary></entry></feed>

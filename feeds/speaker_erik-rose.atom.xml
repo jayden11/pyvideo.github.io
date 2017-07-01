@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_erik-rose.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-19T00:00:00+00:00</updated><entry><title>Constructive Code Review</title><link href="http://pyvideo.org/pycon-us-2017/constructive-code-review.html" rel="alternate"></link><published>2017-05-19T00:00:00+00:00</published><updated>2017-05-19T00:00:00+00:00</updated><author><name>Erik Rose</name></author><id>tag:pyvideo.org,2017-05-19:pycon-us-2017/constructive-code-review.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;“Your code is bad and you are bad. Have a bad day.” Too many code
+reviews feel like this, and it saps the enthusiasm that drives open
+source. Instead, let’s explore how to give reviews that are truthful but
+encouraging, boosting the skill level of contributors and the quality of
+the project. We’ll look at “tact hacks” that nudge communication in a
+friendly direction, antipatterns to avoid, the pesky human emotions that
+can tempt us into reviewing poorly, and techniques for leveling up
+newcomers without losing all your coding time.&lt;/p&gt;
+</summary></entry><entry><title>Django's Nasal Passage</title><link href="http://pyvideo.org/djangocon-2012/djangos-nasal-passage.html" rel="alternate"></link><published>2012-09-06T00:00:00+00:00</published><updated>2012-09-06T00:00:00+00:00</updated><author><name>Erik Rose</name></author><id>tag:pyvideo.org,2012-09-06:djangocon-2012/djangos-nasal-passage.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Django's testrunner gets you started quickly, but you soon hit your head
+on its limitations as your project grows. By trading it for nose, a
+testing framework popular in the wider Python community, we can reduce
+boilerplate, boost performance, and improve testing UI, with only a few
+lines of setting changes. Re-use your test DBs, integrate with Jenkins,
+split your suite into pieces, and more.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;Why nose?&lt;ul&gt;
+&lt;li&gt;Pain points with standard Django testing&lt;/li&gt;
+&lt;li&gt;Extensibility without writing custom, uncombineable testrunner
+subclasses&lt;/li&gt;
+&lt;li&gt;Rich ecosystem of helpful plugins&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;django-nose&lt;ul&gt;
+&lt;li&gt;Testing just your apps, not all the random installed stuff&lt;/li&gt;
+&lt;li&gt;Test-selection tricks: running just failed tests, running a
+module, etc.&lt;/li&gt;
+&lt;li&gt;Killing the boilerplate:&lt;/li&gt;
+&lt;li&gt;No more imports into &lt;strong&gt;init&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;No more class name collisions and accidental shadowing&lt;/li&gt;
+&lt;li&gt;With all this freedom, how best should you organize your tests?&lt;/li&gt;
+&lt;li&gt;Going 4 times faster with fixture bundling&lt;/li&gt;
+&lt;li&gt;Troubleshooting&lt;/li&gt;
+&lt;li&gt;Fixtures are evil&lt;/li&gt;
+&lt;li&gt;Where do I put the factories?&lt;/li&gt;
+&lt;li&gt;Speeding startup with test DB reuse&lt;/li&gt;
+&lt;li&gt;Writing faster TransactionTestCases with hygienic base classes&lt;/li&gt;
+&lt;li&gt;Background on Django's handling of TransactionTestCases&lt;/li&gt;
+&lt;li&gt;How to improve matters&lt;/li&gt;
+&lt;li&gt;Test-only models: what's the best practice?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;nose-progressive&lt;ul&gt;
+&lt;li&gt;Dots considered harmful. When will my tests be done?&lt;/li&gt;
+&lt;li&gt;Patience is for the dead. Show me my tracebacks as they happen!&lt;/li&gt;
+&lt;li&gt;My terminal is only this big. Don't waste my space.&lt;/li&gt;
+&lt;li&gt;Hiding pointless stack frames&lt;/li&gt;
+&lt;li&gt;Editor round-tripping for quick debugging&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Splitting into sub-suites&lt;ul&gt;
+&lt;li&gt;An introduction to the attr plugin&lt;/li&gt;
+&lt;li&gt;Have some run only on CI machines, some constantly, others before
+checkin&lt;/li&gt;
+&lt;li&gt;Choosing tests with regexes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Other fun plugins&lt;ul&gt;
+&lt;li&gt;f7u12, for when your tests get angry&lt;/li&gt;
+&lt;li&gt;Coverage&lt;/li&gt;
+&lt;li&gt;xunit, for your continual integration pleasure&lt;/li&gt;
+&lt;li&gt;Profiling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="django"></category><category term="nose"></category><category term="testing"></category></entry><entry><title>Parsing Horrible Things with Python</title><link href="http://pyvideo.org/pycon-us-2012/parsing-horrible-things-with-python.html" rel="alternate"></link><published>2012-03-11T00:00:00+00:00</published><updated>2012-03-11T00:00:00+00:00</updated><author><name>Erik Rose</name></author><id>tag:pyvideo.org,2012-03-11:pycon-us-2012/parsing-horrible-things-with-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;If you've ever wanted to get started with parsers, here's your chance
+for a ground-floor introduction. A harebrained spare-time project gives
+birth to a whirlwind journey from basic algorithms to Python libraries
+and, at last, to a parser for one of the craziest syntaxes out there:
+the MediaWiki grammar that drives Wikipedia.&lt;/p&gt;
+</summary></entry><entry><title>Speedily Practical Large-Scale Tests</title><link href="http://pyvideo.org/pycon-us-2012/speedily-practical-large-scale-tests.html" rel="alternate"></link><published>2012-03-09T00:00:00+00:00</published><updated>2012-03-09T00:00:00+00:00</updated><author><name>Erik Rose</name></author><id>tag:pyvideo.org,2012-03-09:pycon-us-2012/speedily-practical-large-scale-tests.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Mozilla's projects have thousands of tests, so we've had to venture
+beyond vanilla test runners to keep things manageable. Our secret sauce
+can be used with your project as well. Reach beyond the test facilities
+that came with your project, harnessing pluggable test frameworks,
+dynamically reordering tests for speed, exploring various mocking
+libraries, and profiling your way to testing nirvana.&lt;/p&gt;
+</summary></entry><entry><title>Elasticsearch (Part 1): Indexing and Querying</title><link href="http://pyvideo.org/pycon-us-2013/elasticsearch-part-1-indexing-and-querying.html" rel="alternate"></link><published>2013-03-15T00:00:00+00:00</published><updated>2013-03-15T00:00:00+00:00</updated><author><name>Erik Rose</name></author><id>tag:pyvideo.org,2013-03-15:pycon-us-2013/elasticsearch-part-1-indexing-and-querying.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Elasticsearch provides an easy path to clusterable full-text search,
+with synonyms, faceting, and geographic math, but there's a paucity of
+written wisdom beyond its API docs. This talk, part 1 of a 2-part
+series, surveys its capabilities and shows how its internal data
+structures and algorithms work. With the groundwork laid, we explore how
+to choose efficient indexing and the right queries to make your apps go
+fast.&lt;/p&gt;
+</summary><category term="talk"></category></entry><entry><title>Designing Poetic APIs</title><link href="http://pyvideo.org/pycon-us-2014/designing-poetic-apis.html" rel="alternate"></link><published>2014-04-13T00:00:00+00:00</published><updated>2014-04-13T00:00:00+00:00</updated><author><name>Erik Rose</name></author><id>tag:pyvideo.org,2014-04-13:pycon-us-2014/designing-poetic-apis.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The language you speak determines the thoughts you can think. Thus, API
+designers (and that includes you, if you've ever coined a function) have
+a great duty, as language inventors, to expand the mental canvases of
+those who come after. We'll concretize that into 7 hallmarks of good
+APIs, pulling examples (and bloopers) from popular Python libraries.&lt;/p&gt;
+</summary></entry></feed>

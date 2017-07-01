@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_stefan-baerisch.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-02T00:00:00+00:00</updated><entry><title>A Deep Look at Logging</title><link href="http://pyvideo.org/europython-2015/a-deep-look-at-logging.html" rel="alternate"></link><published>2015-08-02T00:00:00+00:00</published><updated>2015-08-02T00:00:00+00:00</updated><author><name>Stefan Baerisch</name></author><id>tag:pyvideo.org,2015-08-02:europython-2015/a-deep-look-at-logging.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Stefan Baerisch - A Deep Look at Logging
+[EuroPython 2015]
+[21 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Do you know what your application did last night? Python logging can help you.&lt;/p&gt;
+&lt;p&gt;This talk you will show you how to implement a systematic logging
+approach without boilerplate code and how to set up the Python logging
+module for different needs in production systems.  We will see how to
+work with log files and other logging endpoints.  We will address the
+data protection concerns that come up when logging  from application
+with personal  information. We will also look at the performance
+implications of logging. We will then cover best practices - how to
+structure logging, what to include in a log message, and how to
+configure logging for different use cases.&lt;/p&gt;
+&lt;p&gt;We will use the Python standard logging module to implement logging.
+This talk is useful to beginners with some experience.  An
+understanding of decorators is useful, but not required.  Some
+experience in web programming is a plus.&lt;/p&gt;
+</summary></entry></feed>

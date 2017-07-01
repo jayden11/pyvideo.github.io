@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_filipe-ximenes.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-15T00:00:00+00:00</updated><entry><title>O que é esse tal de REST?</title><link href="http://pyvideo.org/python-brasil-2016/o-que-e-esse-tal-de-rest.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Filipe Ximenes</name></author><id>tag:pyvideo.org,2016-10-15:python-brasil-2016/o-que-e-esse-tal-de-rest.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;REST é a bola vez quando falamos sobre API. As maioria dos serviços que
+encontramos na web fornece interfaces deste tipo para que possamos
+desenvolver integrações. Será mesmo que estas APIs podem ser
+consideradas RESTful? O que é preciso para que uma API seja considerada
+RESTful? Você sabia que este padrão já existe a mais de 15 anos? Nesta
+palestra vamos nos aprofundar no tema e entender os conceitos e
+&lt;em&gt;constraints&lt;/em&gt; de um sistema RESTful para que possamos explorar suas
+vantagens na hora de arquitetar nossa próxima API web.&lt;/p&gt;
+</summary></entry><entry><title>What is wrong with API wrappers and how can we do better</title><link href="http://pyvideo.org/europython-2015/what-is-wrong-with-api-wrappers-and-how-can-we-do-better.html" rel="alternate"></link><published>2015-08-02T00:00:00+00:00</published><updated>2015-08-02T00:00:00+00:00</updated><author><name>Filipe Ximenes</name></author><id>tag:pyvideo.org,2015-08-02:europython-2015/what-is-wrong-with-api-wrappers-and-how-can-we-do-better.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Filipe Ximenes - What is wrong with API wrappers and how can we do better
+[EuroPython 2015]
+[20 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Wrappers are an essential tool for interacting with web APIs. They
+reduce the amount of work needed to make requests and sometimes, only
+sometimes prevent the developer from dealing with extensive
+documentations. It’s common to encounter libs that require not only
+the study of their own documentation, but also the APIs one,
+duplicating the needed work. This is caused because wrappers do not
+follow a design pattern, each developer creates it’s own design,
+coding style and use their preferred tools.&lt;/p&gt;
+&lt;p&gt;[Tapioca][1] is what can be called: &amp;quot;a wrapper generator”. Creating API wrappers with Tapioca is extremely easy and fast. For example, it took 1 hour to write the full wrapper for the [Parse.com][2] REST API. But this is not the more important thing, Tapioca libs have a similar interface so once understood how they work, developers can work with any other without the need to learn a new interface.&lt;/p&gt;
+&lt;p&gt;Tapioca is also thought to comply with REST features and takes HATEOAS
+(Hypermedia as the engine of application state) seriously, so
+“following” links and pagination are natively supported. Explorability
+is also a key concept and developers are encouraged to play with
+Tapioca packages and find their way through APIs before writing their
+final code. Although there are some production ready [Tapioca
+wrappers][3], it is a work in progress, there are still many features
+to be explored.&lt;/p&gt;
+&lt;p&gt;[1]: &lt;a class="reference external" href="https://github.com/vintasoftware/tapioca-wrapper"&gt;https://github.com/vintasoftware/tapioca-wrapper&lt;/a&gt;
+[2]: &lt;a class="reference external" href="http://parse.com"&gt;http://parse.com&lt;/a&gt;
+[3]: &lt;a class="reference external" href="https://github.com/vintasoftware/tapioca-wrapper#tapioca-comes-in-many-flavours"&gt;https://github.com/vintasoftware/tapioca-wrapper#tapioca-comes-in-many-flavours&lt;/a&gt;&lt;/p&gt;
+</summary></entry></feed>

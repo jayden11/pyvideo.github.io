@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_nolan-brubaker.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2012-07-28T00:00:00+00:00</updated><entry><title>An Introduction to the ZODB</title><link href="http://pyvideo.org/pyohio-2012/an-introduction-to-the-zodb.html" rel="alternate"></link><published>2012-07-28T00:00:00+00:00</published><updated>2012-07-28T00:00:00+00:00</updated><author><name>Nolan Brubaker</name></author><id>tag:pyvideo.org,2012-07-28:pyohio-2012/an-introduction-to-the-zodb.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The Zope Object Database is an object database that allows you to store
+and retrieve your Python objects directly, without an intermediary
+layer. It's fully ACID-compliant and features multiple backends. This
+talk will familiarize the audience with ZODB programming and it's use
+cases.&lt;/p&gt;
+</summary></entry></feed>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 15 Sep 2016 00:00:00 +0000</lastBuildDate><item><title>Let it shine - telling your data story</title><link>http://pyvideo.org/pydata-carolinas-2016/let-it-shine-telling-your-data-story.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You work for weeks on a new analysis, collecting, cleaning data,
+modeling it, you arrive at a new result. What happens next? How many
+people explore your results--and wider work? Bokeh is a data
+visualization library that gives you the power of web-based custom
+interactive visualizations, but lets you build them in Python. We'll
+talk about moving seamlessly from analysis to engaging presentation.&lt;/p&gt;
+&lt;p&gt;You work for weeks, maybe months, on a new analysis: collecting data,
+cleaning it, extracting your features and modeling it, and you finally
+come up with some meaningful results... What happens next? How many
+people dig into and explore your work and your results?&lt;/p&gt;
+&lt;p&gt;Bokeh is a data visualization library that gives you the power of
+custom interactive visualizations that you can publish on the web, but
+lets you build them in python.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sarah Bird</dc:creator><pubDate>Thu, 15 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-15:pydata-carolinas-2016/let-it-shine-telling-your-data-story.html</guid></item><item><title>Getting Started with Bokeh</title><link>http://pyvideo.org/pydata-carolinas-2016/getting-started-with-bokeh.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Bokeh is a python interactive visualization library that uses web
+browsers for its presentation. Bokeh supports a wide variety of
+visualization tasks from basic exploration through to building
+advanced data applications. In this tutorial we'll cover Bokeh's basic
+concepts and go from plotting a scatter plot to building an
+interactive dashboard that can run a clustering algorithm from a
+dropdown.&lt;/p&gt;
+&lt;p&gt;Bokeh is a python interactive visualization library that uses web
+browsers for its presentation. Bokeh supports a wide variety of
+visualization tasks from basic exploration through to building
+advanced data applications. In this tutorial we'll cover Bokeh's basic
+concepts and go from plotting a scatter plot to building an
+interactive dashboard that can run a clustering algorithm from a
+dropdown - you'll be surprised how easy that is.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sarah Bird</dc:creator><pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-14:pydata-carolinas-2016/getting-started-with-bokeh.html</guid></item><item><title>Getting started with Bokeh / Let's build an interactive data visualization for the web..in Python!</title><link>http://pyvideo.org/europython-2015/getting-started-with-bokeh-lets-build-an-interactive-data-visualization-for-the-webin-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sarah Bird - Getting started with Bokeh / Let's build an interactive data visualization for the web..in Python!
+[EuroPython 2015]
+[20 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Slides: [birdsarah.github.io/europython-2015-bokeh][1]&lt;/p&gt;
+&lt;p&gt;As a web developer, I find myself being asked to make increasing
+numbers of data visualizations, interactive infographics, and more.
+d3.js is great, as are many other javascript toolkits that are out
+there. But if I can write more Python and less JavaScript... well,
+that makes me happy!&lt;/p&gt;
+&lt;p&gt;Bokeh is a new Python library for interactive visualization. Its
+origins are in the data science community, but it has a lot to offer
+web developers. In this mini-tutorial, I'll run through how to build a
+data visualization in Bokeh and how to hook it into your web
+application. This will be a real-world example, that was previously
+built in d3.js.&lt;/p&gt;
+&lt;p&gt;Along the way, I'll provide tips and tricks that I've discovered in my
+experience including how Bokeh works wonderfully with the iPython
+notebook which I use to prototype my visualizations, and many data
+science people use as their native way to explore data.&lt;/p&gt;
+&lt;p&gt;For those of you who already know a little Bokeh, I'll be covering the
+new &amp;quot;actions framework&amp;quot; that lets you write JS callbacks in your
+python code so you can do lots of interactions all on the client side.&lt;/p&gt;
+&lt;p&gt;[1]: &lt;a class="reference external" href="http://birdsarah.github.io/europython-2015-bokeh/"&gt;http://birdsarah.github.io/europython-2015-bokeh/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sarah Bird</dc:creator><pubDate>Thu, 06 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-06:europython-2015/getting-started-with-bokeh-lets-build-an-interactive-data-visualization-for-the-webin-python.html</guid></item><item><title>Interactive data for the web</title><link>http://pyvideo.org/pycon-us-2015/interactive-data-for-the-web.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Interactive data visualization libraries are mostly a JavaScript
+stronghold. The new Python library, Bokeh, provides a simple, clean way
+to make more shiny things. Although it comes from the data science
+community, it has a lot to offer web developers. For a visualization you
+might have built in d3.js, I'll show how to build it in Bokeh, how to
+test it, and how to hook it into your web app.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Sarah Bird</dc:creator><pubDate>Sun, 12 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-12:pycon-us-2015/interactive-data-for-the-web.html</guid></item></channel></rss>

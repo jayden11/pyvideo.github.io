@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_massimo-di-pierro.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-11-23T00:00:00+00:00</updated><entry><title>[Keynote] web2py: Web Development Should be Easy</title><link href="http://pyvideo.org/python-brasil-2012/keynote-web2py-web-development-should-be-easy.html" rel="alternate"></link><published>2017-11-23T00:00:00+00:00</published><updated>2017-11-23T00:00:00+00:00</updated><author><name>Massimo Di Pierro</name></author><id>tag:pyvideo.org,2017-11-23:python-brasil-2012/keynote-web2py-web-development-should-be-easy.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Web Development should be easy - Maximo di Pierro&lt;/p&gt;
+</summary></entry><entry><title>Eight years of web2py</title><link href="http://pyvideo.org/depy-2015/eight-years-of-web2py.html" rel="alternate"></link><published>2015-05-30T00:00:00+00:00</published><updated>2015-05-30T00:00:00+00:00</updated><author><name>Massimo Di Pierro</name></author><id>tag:pyvideo.org,2015-05-30:depy-2015/eight-years-of-web2py.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This is a compressed tutorial about web2py taking an historical
+prospective, going from its older features to some of the most recent
+ones. No previous experience required.&lt;/p&gt;
+</summary></entry><entry><title>web2py secrets tutorial (1/2)</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--web2py-secrets-tutorial--1-2.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Massimo Di Pierro</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--web2py-secrets-tutorial--1-2.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;web2py secrets&lt;/p&gt;
+&lt;p&gt;Presented by Massimo Di Pierro&lt;/p&gt;
+&lt;p&gt;We will provide an introduction to web2py with particular focus on its
+design objectives, its differences when compared to other web
+frameworks, and some of the most recently added features (components,
+plugins, openid/oauth integration).&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Web2py is a framework for rapid web application development of secure
+database-driven web applications. In this tutorial we will provide a
+brief introduction to web2py, the web based IDE, its internal design,
+and its internal file organization. We will explain the motivations
+behind some of its most controversial design goals. We will also discuss
+in some detail its Ajax capabilities by using web2py components and
+plugins for modular design of rich web interfaces.&lt;/p&gt;
+&lt;p&gt;This will be a very concentrated version (10%) of a course (CSC438) on
+web frameworks the author teaches at DePaul University. The course has
+been taught 3 times and the last time counted more than 30 students.&lt;/p&gt;
+</summary><category term="pycon"></category><category term="pycon2011"></category><category term="web"></category><category term="web2py"></category></entry><entry><title>web2py: ideas we stole and ideas we had</title><link href="http://pyvideo.org/pycon-us-2012/web2py-ideas-we-stole-and-ideas-we-had.html" rel="alternate"></link><published>2012-03-11T00:00:00+00:00</published><updated>2012-03-11T00:00:00+00:00</updated><author><name>Massimo Di Pierro</name></author><id>tag:pyvideo.org,2012-03-11:pycon-us-2012/web2py-ideas-we-stole-and-ideas-we-had.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In this talk we will provide an overview of some of the web2py design
+decisions and its newest features. In particular we will discuss which
+design decisions were inspired by other frameworks (Django, Turbogears,
+Flask) and which were not and why.&lt;/p&gt;
+</summary></entry></feed>

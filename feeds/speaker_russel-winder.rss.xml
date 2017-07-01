@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Tue, 20 Sep 2016 00:00:00 +0000</lastBuildDate><item><title>Making Python Computations Fast</title><link>http://pyvideo.org/pycon-uk-2015/making-python-computations-fast.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python is slow at computing things. Some people try to use Cython, Numba
+or even NumPy to get round this. However the best way forward is to use
+a specialist native code language. No not C. Some people will use C++,
+but the real cogniscenti will use D or Chapel. This session will show
+how to do this using a small example.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Russel Winder</dc:creator><pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-18:pycon-uk-2015/making-python-computations-fast.html</guid></item><item><title>A RaspberryPi super computer in a briefcase</title><link>http://pyvideo.org/pycon-uk-2016/a-raspberrypi-super-computer-in-a-briefcase.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Russel Winder&lt;/p&gt;
+&lt;p&gt;Russel Winder will be leading a project at PyCon UK 2016 to develop a new open-source supercomputer, based on Raspberry Pis in clusters.&lt;/p&gt;
+&lt;p&gt;This talk will introduce the project, and explain how you can join in.&lt;/p&gt;
+&lt;p&gt;Following the talk on our open day, Russel will hold a planning and introduction session that day. On Monday work on the project will begin in earnest during the sprints.&lt;/p&gt;
+&lt;p&gt;Everyone's welcome. You don't need to be an expert or an advanced programmer to join in. It's meant to be a fun project and an opportunity to learn. However, if you have an actual briefcase and some skills that would help make the finished project look impressive, you'll be especially warmly welcomed...&lt;/p&gt;
+&lt;p&gt;You can just turn up and join in, but you can also contact Russel if you'd like to help plan the project.&lt;/p&gt;
+&lt;p&gt;Don't forget to bring your Raspberry Pis with you.&lt;/p&gt;
+&lt;p&gt;Apologies for some of the picture corruption in this video and a/v sync issues. We had a some first day glitches in our recording set up.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Russel Winder</dc:creator><pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-20:pycon-uk-2016/a-raspberrypi-super-computer-in-a-briefcase.html</guid></item></channel></rss>

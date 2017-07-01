@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 18 Oct 2015 00:00:00 +0000</lastBuildDate><item><title>Marre de faire du C++ sur une Arduino ? Faites du Python avec MicroPython sur une PyBoard</title><link>http://pyvideo.org/pycon-fr-2015/marre-de-faire-du-c-sur-une-arduino-faites-du-python-avec-micropython-sur-une-pyboard.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Introduction et démo de MicroPython sur une PyBoard.&lt;/p&gt;
+&lt;p&gt;MicroPython est une implémentation de Python3.4 pour microcontrôleurs
+(principalement la PyBoard carte en OpenHardware).&lt;/p&gt;
+&lt;p&gt;Venez faire clignoter des LEDs et bouger des moteurs directement depuis
+le prompt python !&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Présentation de l'historique du projet&lt;/p&gt;
+&lt;p&gt;Détails de l'architecture matérielle&lt;/p&gt;
+&lt;p&gt;Démonstrations sur une carte&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arthur Lutz</dc:creator><pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-18:pycon-fr-2015/marre-de-faire-du-c-sur-une-arduino-faites-du-python-avec-micropython-sur-une-pyboard.html</guid></item></channel></rss>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_databases.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-09T00:00:00+00:00</updated><entry><title>GraphGen: Conducting Graph Analytics over Relational Databases</title><link href="http://pyvideo.org/pydata-dc-2016/graphgen-conducting-graph-analytics-over-relational-databases.html" rel="alternate"></link><published>2016-10-09T00:00:00+00:00</published><updated>2016-10-09T00:00:00+00:00</updated><author><name>Konstantinos Xirogiannopoulos</name></author><id>tag:pyvideo.org,2016-10-09:pydata-dc-2016/graphgen-conducting-graph-analytics-over-relational-databases.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData DC 2016&lt;/p&gt;
+&lt;p&gt;Slides: &lt;a class="reference external" href="http://www.slideshare.net/PyData/graphgen-conducting-graph-analytics-over-relational-databases-67649554"&gt;http://www.slideshare.net/PyData/graphgen-conducting-graph-analytics-over-relational-databases-67649554&lt;/a&gt;
+Download and learn about GraphGen at: konstantinosx.github.io/graphgen-project/
+DDL Blog Post and Tutorial at: blog.districtdatalabs.com/graph-analytics-over-relational-datasets
+Note: Currently GraphGenPy is built for Python 2.0.  Python 3.0 support coming soon!&lt;/p&gt;
+&lt;p&gt;Applying graph analytics on data stored in relational databases can provide tremendous value in many application domains. We discuss the importance of leveraging these analyses, and the challenges in enabling them. We present a tool, called GraphGen, that allows users to visually explore, and rapidly analyze (using NetworkX) different graph structures present in their databases.&lt;/p&gt;
+</summary><category term="databases"></category></entry><entry><title>PyConAU 2010: Genropy - a framework for creating complex applications deployed on the web</title><link href="http://pyvideo.org/pycon-au-2010/pyconau-2010--genropy---a-framework-for-creating-.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Jeff B Edwards</name></author><id>tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--genropy---a-framework-for-creating-.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Genropy - A framework for creating complex applications deployed on the
+web&lt;/p&gt;
+&lt;p&gt;Presented by Jeff B Edwards (Goodsoftware)&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://blog.genropy.org/"&gt;Genropy&lt;/a&gt; is the python implementation of
+Genro, and is an application framework quite different from the standard
+(django, cherrypy, turbogears), for building powerful database
+applications deployed from the browser. Many differences and advantages
+between this framework and traditional python application frameworks are
+explained. Genropy is a suitable for creating complex 'applications' as
+opposed to 'sites'. The differentiation is that an application is
+something an operator uses all day, has trained users, that have to
+'squeeze' all the power from it available. Conversely, a 'site' is
+basically public and not necessarily powerful as a user spends a
+relatively small amount of time on it. Genropy is the framework for
+creation applications. It is used for attendee registration and sales in
+pycon italy, the larger national conference in Europe (Florence, Italy).&lt;/p&gt;
+&lt;p&gt;This session will demonstrate how to create a simple application (3
+tables) and demonstrate the ease and power of using python for the model
+view and controller on the client. It demonstrates how one api- being
+the genro Bag - is used to create the model, to map the sql to objects,
+to create the GUI and communicate all data. So all of it can be done in
+python instead of having to use many different technologies and
+languages.&lt;/p&gt;
+&lt;p&gt;Jeff Edwards from Goodsoftware is strategic partner of Sofwell who is
+the author of Genropy.&lt;/p&gt;
+</summary><category term="databases"></category><category term="gui"></category><category term="pyconau"></category><category term="pyconau2010"></category><category term="web"></category></entry><entry><title>PyConAU 2010: Multiple, Heterogeneous Models in Pylons</title><link href="http://pyvideo.org/pycon-au-2010/pyconau-2010--multiple--heterogeneous-models-in-p.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Nick Seidenman</name></author><id>tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--multiple--heterogeneous-models-in-p.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Multiple, Heterogeneous Models in Pylons&lt;/p&gt;
+&lt;p&gt;Presented by Nick Seidenman (WEHI)&lt;/p&gt;
+&lt;p&gt;There is a fair amount of sparse, disjoint information available on how
+to use multiple, possibly diverse databases within a single Pylons app.
+This talk seeks to present a coherent guideline, derived from lessons
+learned, on how to use several different data stores (sqlite,
+postgresql, mysql, flat files) simultaneously within the same pylons
+project.&lt;/p&gt;
+</summary><category term="databases"></category><category term="pyconau"></category><category term="pyconau2010"></category><category term="pylons"></category></entry><entry><title>PyConAU 2010: Virtualisation Used in Development</title><link href="http://pyvideo.org/pycon-au-2010/pyconau-2010--virtualisation-used-in-development.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Andrew Boag</name></author><id>tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--virtualisation-used-in-development.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Virtualisation Used in Development&lt;/p&gt;
+&lt;p&gt;Presented by Andrew Boag (Catalyst IT)&lt;/p&gt;
+&lt;p&gt;Some thoughts on why it makes sense to do your development inside some
+sort of virtual container. There are real pluses for the grass-level
+developement process, whether you have a large or small infrastructure.&lt;/p&gt;
+</summary><category term="databases"></category><category term="pyconau"></category><category term="pyconau2010"></category><category term="virtualisation"></category></entry><entry><title>PyCon 2009: Data Storage in Python - An Overview of Options (Part 2 of 3)</title><link href="http://pyvideo.org/pycon-us-2009/pycon-2009--data-storage-in-python---an-overview-.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,1990-01-01:pycon-us-2009/pycon-2009--data-storage-in-python---an-overview-.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;There are many possibilities in Python to store data. This tutorials
+explores some of them: flat file, Excel files, NetCDF and HDF5,
+serialization with pickle and friends, relational databases, bsddb and
+ZODB. The objective of this course is to give the participants an
+overview over available options as well as there advantages and
+disadvantages for different purposes. Participants are strongly
+recommended to bring laptops because all topics are introduced with
+examples and exercises.&lt;/p&gt;
+</summary><category term="bsddb"></category><category term="databases"></category><category term="excel"></category><category term="flatfile"></category><category term="hdf5"></category><category term="netcdf"></category><category term="pickle"></category><category term="pycon"></category><category term="pycon2009"></category><category term="serialization"></category><category term="zodb"></category></entry><entry><title>PyCon 2009: Data Storage in Python - An Overview of Options (Part 1 of 3)</title><link href="http://pyvideo.org/pycon-us-2009/pycon-2009--data-storage-in-python---an-overview0.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,1990-01-01:pycon-us-2009/pycon-2009--data-storage-in-python---an-overview0.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;There are many possibilities in Python to store data. This tutorials
+explores some of them: flat file, Excel files, NetCDF and HDF5,
+serialization with pickle and friends, relational databases, bsddb and
+ZODB. The objective of this course is to give the participants an
+overview over available options as well as there advantages and
+disadvantages for different purposes. Participants are strongly
+recommended to bring laptops because all topics are introduced with
+examples and exercises.&lt;/p&gt;
+</summary><category term="bsddb"></category><category term="databases"></category><category term="excel"></category><category term="flatfile"></category><category term="hdf5"></category><category term="netcdf"></category><category term="pickle"></category><category term="pycon"></category><category term="pycon2009"></category><category term="serialization"></category><category term="zodb"></category></entry><entry><title>PyCon 2009: Data Storage in Python - An Overview of Options (Part 3 of 3)</title><link href="http://pyvideo.org/pycon-us-2009/pycon-2009--data-storage-in-python---an-overview1.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,1990-01-01:pycon-us-2009/pycon-2009--data-storage-in-python---an-overview1.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;There are many possibilities in Python to store data. This tutorials
+explores some of them: flat file, Excel files, NetCDF and HDF5,
+serialization with pickle and friends, relational databases, bsddb and
+ZODB. The objective of this course is to give the participants an
+overview over available options as well as there advantages and
+disadvantages for different purposes. Participants are strongly
+recommended to bring laptops because all topics are introduced with
+examples and exercises.&lt;/p&gt;
+</summary><category term="bsddb"></category><category term="databases"></category><category term="excel"></category><category term="flatfile"></category><category term="hdf5"></category><category term="netcdf"></category><category term="pickle"></category><category term="pycon"></category><category term="pycon2009"></category><category term="serialization"></category><category term="zodb"></category></entry><entry><title>Dude, Where's My Database? (#133)</title><link href="http://pyvideo.org/pycon-us-2010/dude-wheres-my-database-133.html" rel="alternate"></link><published>2010-02-19T00:00:00+00:00</published><updated>2010-02-19T00:00:00+00:00</updated><author><name>Eric Florenzano</name></author><id>tag:pyvideo.org,2010-02-19:pycon-us-2010/dude-wheres-my-database-133.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Dude, Where's My Database?&lt;/p&gt;
+&lt;p&gt;Presented by Eric Florenzano (Django)&lt;/p&gt;
+&lt;p&gt;There are so many great open source databases out on the market right
+now-- we're really in the golden age of databases. Fortunately, Python
+can talk to virtually all of them. With so many databases at our
+disposal, how do we choose which one to use for our particular use case?&lt;/p&gt;
+&lt;p&gt;This talk will go over the many different classes of databases,
+introduce some of the particular implementations for each class of
+database, and describe the strengths and weaknesses of each. By weighing
+the pros and cons of each type of database, the speaker hopes to dispel
+the many rumors and misconceptions that people have about what's out
+there today.&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: Audio cuts out at about 20 seconds in, then gets out
+of sync until around 3:10.]&lt;/p&gt;
+</summary><category term="databases"></category><category term="pycon"></category><category term="pycon2010"></category></entry><entry><title>Revisioned Databases for MultiUser Editing (#86)</title><link href="http://pyvideo.org/pycon-us-2010/pycon-2010--revisioned-databases-for-multiuser-ed.html" rel="alternate"></link><published>2010-02-19T00:00:00+00:00</published><updated>2010-02-19T00:00:00+00:00</updated><author><name>John Rittenhouse</name></author><id>tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--revisioned-databases-for-multiuser-ed.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Revisioned Databases for MultiUser Editing&lt;/p&gt;
+&lt;p&gt;Presented by John Rittenhouse (CCP Games)&lt;/p&gt;
+&lt;p&gt;At CCP Games (www.ccpgames.com), we work on large MMO projects with tens
+of content editors editing the same data. To make this possible, we
+created a Revisioned Database framework that allows for us to create new
+multiuser editing systems without data synchronization between users
+having to be a major concern. In this talk, solutions we've tried are
+discussed, the basic layout of our revision database shown, the Python
+layer which handles it transparently for the programmer detailed, and
+how the Python layer is used in practice. All of this is focused on
+discussing what worked well and what pitfalls we ran into during
+development.&lt;/p&gt;
+</summary><category term="databases"></category><category term="pycon"></category><category term="pycon2010"></category></entry></feed>

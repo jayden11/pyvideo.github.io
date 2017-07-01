@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_luke-lee.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-10-05T00:00:00+00:00</updated><entry><title>Bugs: Can't code without them, so code against them!</title><link href="http://pyvideo.org/pytexas-2013/bugs-cant-code-without-them-so-code-against-them.html" rel="alternate"></link><published>2013-08-16T00:00:00+00:00</published><updated>2013-08-16T00:00:00+00:00</updated><author><name>Luke Lee</name></author><id>tag:pyvideo.org,2013-08-16:pytexas-2013/bugs-cant-code-without-them-so-code-against-them.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Over the last 10 years, Luke Lee has professionally written software for applications ranging from Python desktop and web applications to embedded C drivers for Solid State Disks. Currently, he writes scientific Python applications for Blueback Reservoir in Houston, TX. His enthusiasm for Python is emphasized throughout his presentations at several Python related conferences including Pycon, PyTexas, and PyArkansas. He is also an active member of the Houston Django and Python user groups.&lt;/p&gt;
+&lt;p&gt;There are a lot of approaches and philosophies to prevent bugs in software, but
+the truth is they are unavoidable in complex, modern systems. So, what's a
+developer to do? Code in a style that tries to alert and test for the bugs
+when they happen instead of feeling like a failure when you can't prevent the
+unavoidable.&lt;/p&gt;
+&lt;p&gt;Wikipedia defines this style of programming as 'defensive programming,' and the
+idea is code in a way that expects software to be misused and have bugs. This
+talk will explore this general concept and how to add bits of this style of
+development to you Python code with the following:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Asserts&lt;/li&gt;
+&lt;li&gt;Logging&lt;/li&gt;
+&lt;li&gt;Unit tests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</summary></entry><entry><title>Building full-stack scientific applications in Python</title><link href="http://pyvideo.org/pytexas-2013/building-full-stack-scientific-applications-in-python.html" rel="alternate"></link><published>2013-08-16T00:00:00+00:00</published><updated>2013-08-16T00:00:00+00:00</updated><author><name>Luke Lee</name></author><id>tag:pyvideo.org,2013-08-16:pytexas-2013/building-full-stack-scientific-applications-in-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Over the last 10 years, Luke Lee has professionally written software for applications ranging from Python desktop and web applications to embedded C drivers for Solid State Disks. Currently, he writes scientific Python applications for Blueback Reservoir in Houston, TX. His enthusiasm for Python is emphasized throughout his presentations at several Python related conferences including Pycon, PyTexas, and PyArkansas. He is also an active member of the Houston Django and Python user groups.&lt;/p&gt;
+&lt;p&gt;Python has a large collection of tools for scientific computing. However, finding the right pieces and assembling them into a fast and scale-able app can be a daunting task. This talk will explore common requirements of scientific apps and how to fulfill those from the Python ecosystem. It will also provide a blueprint for building apps using tools like PyQt, PyQwt, numpy, and HDF5.&lt;/p&gt;
+</summary></entry><entry><title>How to write dumber tests</title><link href="http://pyvideo.org/pytexas-2014/how-to-write-dumber-tests.html" rel="alternate"></link><published>2014-10-05T00:00:00+00:00</published><updated>2014-10-05T00:00:00+00:00</updated><author><name>Luke Lee</name></author><id>tag:pyvideo.org,2014-10-05:pytexas-2014/how-to-write-dumber-tests.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Writing and debugging code is hard, but testing shouldn't be. This talk
+will discuss common techniques for writing simpler tests that still
+exercise your production code while preventing you from spending time
+debugging test code.&lt;/p&gt;
+</summary></entry><entry><title>Building full-stack scientific applications in Python</title><link href="http://pyvideo.org/pycon-us-2013/building-full-stack-scientific-applications-in-py.html" rel="alternate"></link><published>2013-03-16T00:00:00+00:00</published><updated>2013-03-16T00:00:00+00:00</updated><author><name>Luke Lee</name></author><id>tag:pyvideo.org,2013-03-16:pycon-us-2013/building-full-stack-scientific-applications-in-py.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python has a large collection of tools for scientific computing.
+However, finding the right pieces and assembling them into a fast and
+scale-able app can be a daunting task. This talk will explore common
+requirements of scientific apps and how to fulfill those from the Python
+ecosystem. It will also provide a blueprint for building apps using
+tools like PyQt, PyQwt, numpy, and HDF5.&lt;/p&gt;
+</summary><category term="talk"></category></entry></feed>

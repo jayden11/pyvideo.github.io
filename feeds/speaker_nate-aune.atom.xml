@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_nate-aune.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-03-15T00:00:00+00:00</updated><entry><title>Lightning Talks - Day 1</title><link href="http://pyvideo.org/djangocon-2010/djangocon-2010--lightning-talks---day-1.html" rel="alternate"></link><published>2010-09-07T00:00:00+00:00</published><updated>2010-09-07T00:00:00+00:00</updated><author><name>David Gouldin</name></author><id>tag:pyvideo.org,2010-09-07:djangocon-2010/djangocon-2010--lightning-talks---day-1.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;00:00 - David Gouldin: Hash Signaling Made Easy
+(&lt;a class="reference external" href="http://github.com/dgouldin/django-hashsignal"&gt;http://github.com/dgouldin/django-hashsignal&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;05:20 - Tareque Mossain: Django ORM Tips&lt;/li&gt;
+&lt;li&gt;11:20 - Nathan?: OpenID in Django&lt;/li&gt;
+&lt;li&gt;18:00 - Ben? and Jeremy?: Django efficacy project--call for case
+studies&lt;/li&gt;
+&lt;li&gt;19:40 - Tobias McNulty: django.contrib.messages and contributing to
+Django core&lt;/li&gt;
+&lt;li&gt;25:00 - Jason ?: Django Config Store
+(&lt;a class="reference external" href="http://github.com/zbyte64/django-configstore"&gt;http://github.com/zbyte64/django-configstore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;28:25 - Niall Kelly: Giving Django a new front door&lt;/li&gt;
+&lt;li&gt;32:00 - Justin Lilly: Meetup Meeter&lt;/li&gt;
+&lt;li&gt;33:50 - Jesse Noller: WTF: PSF and DSF&lt;/li&gt;
+&lt;li&gt;40:00 - dmoisset ?: How request routing should be&lt;/li&gt;
+&lt;li&gt;45:30 - Gabriel Falcao: Feeding your ponies with lettuce
+(&lt;a class="reference external" href="http://lettuce.it/"&gt;http://lettuce.it/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;50:40 - Nate Aune: djangozoom: Effortless cloud deployment
+(&lt;a class="reference external" href="http://djangozoom.com/ponyexpress"&gt;http://djangozoom.com/ponyexpress&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[NOTE: If you know the people whose names have a ?, please add a comment
+so we can fix it in the description. Thanks!]&lt;/p&gt;
+</summary><category term="django-configstore"></category><category term="django.contrib.messages"></category><category term="django-hashsignal"></category><category term="djangozoom"></category><category term="dsf"></category><category term="hash-signaling"></category><category term="lettuce"></category><category term="openid"></category><category term="orm"></category><category term="psf"></category><category term="routing"></category></entry><entry><title>Deploying web applications to the cloud with Python</title><link href="http://pyvideo.org/europython-2011/deploying-web-applications-to-the-cloud-with-pyth.html" rel="alternate"></link><published>2011-07-24T00:00:00+00:00</published><updated>2011-07-24T00:00:00+00:00</updated><author><name>Nate Aune</name></author><id>tag:pyvideo.org,2011-07-24:europython-2011/deploying-web-applications-to-the-cloud-with-pyth.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Nate Aune - 23 June 2011 in &amp;quot;Track Ravioli&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;How can Python help you deploy web applications to the cloud? Amazon EC2
+provides virtual machines on demand but as a developer you still have to
+configure these machines and push your code to them. Fabric is a Python
+library that lets you execute commands on a remote machine, and Boto is
+a Python library for interfacing with Amazon web services. By using
+Fabric and Boto, you can easily create repeatable deployments and
+provision new resources as needed with minimal effort.&lt;/p&gt;
+&lt;p&gt;This talk will introduce Amazon Web Services and how to launch new
+machines using simple Boto scripts, and how to get started making your
+own repeatable deployments using Fabric scripts.&lt;/p&gt;
+</summary><category term="boto"></category><category term="cloud"></category><category term="deploy"></category><category term="ec2"></category><category term="fabric"></category><category term="web"></category></entry><entry><title>An iPhone-Python love affair: Building APIs for mobile</title><link href="http://pyvideo.org/europython-2011/an-iphone-python-love-affair-building-apis-for-m.html" rel="alternate"></link><published>2011-07-07T00:00:00+00:00</published><updated>2011-07-07T00:00:00+00:00</updated><author><name>Anna Callahan</name></author><id>tag:pyvideo.org,2011-07-07:europython-2011/an-iphone-python-love-affair-building-apis-for-m.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Anna Callahan,Nate Aune - 24 June 2011 in &amp;quot;Track
+Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Mobile apps are the hot item of the day - and the best mobile apps are
+backed by a great website. Python web developer Nate Aune and iPhone
+developer Anna Callahan will show you how we built a simple music web
+app in Django with a native iPhone app that communicates with it.
+Attendees of this talk will see a concrete case study of building an
+application that exposes an API for mobile devices.&lt;/p&gt;
+&lt;p&gt;Our web app exposes a JSON API for sending and receiving data from the
+mobile device. We’ll talk about why we chose Django and the TastyPie API
+package, and discuss other Python-based frameworks that could be used to
+build the API such as Pyramid, Flask and Bottle. We’ll also compare REST
+and custom APIs to understand best practices for building APIs designed
+for mobile devices.&lt;/p&gt;
+</summary><category term="api"></category><category term="django"></category><category term="flask"></category><category term="json"></category><category term="mobile"></category><category term="rest"></category><category term="tastypie"></category><category term="web"></category></entry><entry><title>Deploy your Python app in 5 min with a PaaS</title><link href="http://pyvideo.org/pycon-us-2013/deploy-your-python-app-in-5-min-with-a-paas.html" rel="alternate"></link><published>2013-03-15T00:00:00+00:00</published><updated>2013-03-15T00:00:00+00:00</updated><author><name>Nate Aune</name></author><id>tag:pyvideo.org,2013-03-15:pycon-us-2013/deploy-your-python-app-in-5-min-with-a-paas.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;How can you avoid servers and get back to coding? Platform-as-a-service
+(PaaS) makes deployment easy. But which PaaS do you choose and how do
+you get started? This talk will examine several of the leading PaaS
+providers and discuss their pros/cons. We'll also give examples for how
+to deploy the same app to each of them to see the differences.&lt;/p&gt;
+</summary><category term="talk"></category></entry></feed>

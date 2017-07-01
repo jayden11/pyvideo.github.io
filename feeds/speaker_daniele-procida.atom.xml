@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_daniele-procida.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-20T00:00:00+00:00</updated><entry><title>How documentation works, and how to make it work for your project</title><link href="http://pyvideo.org/pycon-us-2017/how-documentation-works-and-how-to-make-it-work-for-your-project.html" rel="alternate"></link><published>2017-05-20T00:00:00+00:00</published><updated>2017-05-20T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2017-05-20:pycon-us-2017/how-documentation-works-and-how-to-make-it-work-for-your-project.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Nearly everyone (especially in the Python community) agrees that good
+documentation is important to the success of software projects, and yet
+very few projects actually have good documentation.&lt;/p&gt;
+&lt;p&gt;Often, it's &lt;em&gt;not for want of effort&lt;/em&gt; - the project's developers have
+worked hard on it - &lt;em&gt;nor for lack of documentation&lt;/em&gt; - the authors have
+produced a lot of it.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;It simply turns out to be not very good&lt;/em&gt; - not helpful enough for the
+users who should be able to rely on it, and a depressing chore for the
+authors who have to maintain it.&lt;/p&gt;
+&lt;p&gt;The good news is that both these problems can be solved by understanding
+&lt;em&gt;how documentation works&lt;/em&gt;, and what its different functions are.
+Structuring documentation according to those distinct functions helps
+ensure that each of them is adequately served. It also makes it far
+easier to write and maintain.&lt;/p&gt;
+&lt;p&gt;Using real-life examples I'll draw out the key functions of
+documentation, and how they map onto different ways of writing it.
+Putting this into practice is simple when armed with some basic
+guidelines. The benefits are huge, and available with a minimum of
+effort.&lt;/p&gt;
+&lt;p&gt;I won't be discussing documentation tools or software or other topics
+that have been covered amply elsewhere, but some neglected aspects of
+software documentation that &lt;strong&gt;will make your software projects more
+successful&lt;/strong&gt;.&lt;/p&gt;
+</summary></entry><entry><title>Poets, programmers and Python</title><link href="http://pyvideo.org/pycon-sk-2016/poets-programmers-and-python.html" rel="alternate"></link><published>2016-03-12T00:00:00+00:00</published><updated>2016-03-12T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2016-03-12:pycon-sk-2016/poets-programmers-and-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Programming has a very unfair reputation for being an unimaginative, mechanical discipline - but if you're a programmer you know that's not true, and also that a programmer's work can bear the imprint of the programmer's creative personality as strongly as that of any other writer.&lt;/p&gt;
+&lt;p&gt;What's more, programmers enjoy playing with and exploring language in much the same way that poets do - turning it upon itself, referring it to itself, and taking pleasure in what's revealed.&lt;/p&gt;
+&lt;p&gt;There are some notable writers, artists and musicians whose work programmers always seem to find fascinating when they encounter it. The way programmers think makes them especially ready to understand and appreciate the intersection of rules, processes and play that characterises this work.&lt;/p&gt;
+&lt;p&gt;I'll discuss writers including Ulises Carrión and the Oulipo group, and show how what they do overlaps with what programmers do. I'll also demonstrate some Python programs I've developed that explore texts and language in the same playful way that the writers do, and invite the audience to develop this further.&lt;/p&gt;
+&lt;p&gt;An especially important construct I'm interested in is the loop, which is found in very similar ways at the heart of much programmer's play and in the work of the writers and artists I'm discussing.&lt;/p&gt;
+&lt;p&gt;In programming the loop - a tightly-repeated, often self-referential structure - is a concrete example of a concept that finds employment in the work of thinkers like Douglas Hofstadter. For Hofstadter, loops - in language, logic, processes, music, computation, art and elsewhere - are key to understanding the nature of thought and meaning.&lt;/p&gt;
+&lt;p&gt;I'll show how we can explore some of these ideas, again with the help of simple Python programs and poetry (including Ulises Carrión's almost maddening First Spanish Lesson).&lt;/p&gt;
+&lt;p&gt;Finally, I want to consider writing programs and poetry as a discipline. The discipline of the aspiring programmer in fact is not so far from that of the creative writer. Even more striking is how the hardest-to-learn lessons of successful writing are the ones that programmers learn right from the start - and why the aspiring creative writer can learn a lot from how programmers work.&lt;/p&gt;
+</summary></entry><entry><title>Keynote: The programmer's body</title><link href="http://pyvideo.org/djangocon-europe-2014/keynote-the-programmers-body.html" rel="alternate"></link><published>2014-05-15T00:00:00+00:00</published><updated>2014-05-15T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2014-05-15:djangocon-europe-2014/keynote-the-programmers-body.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;What is the only thing that really matters?&lt;/p&gt;
+&lt;p&gt;We are programmers, and everything in the ideology of our industry is
+disembodied and virtualised. At the same time we are building the world
+that the rest of the world, increasingly, will live in.&lt;/p&gt;
+&lt;p&gt;We are, it seems, sexless selves and disembodied minds in a world that
+doesn't need our bodies and isn't very interested in them.&lt;/p&gt;
+&lt;p&gt;And yet: the body remains at the centre of the world, even this
+supposedly bodiless world. Its disputes and politics, its hurts and
+controversies, its pains and insults all belong to the body.&lt;/p&gt;
+&lt;p&gt;Even the fiction and film of this new world of the unbodied are (and
+always have been) bodily-fixated.&lt;/p&gt;
+&lt;p&gt;In short, there's no escaping the body.&lt;/p&gt;
+&lt;p&gt;In this talk, I take examples from history, literature, film, poetry and
+other fields to show how our present state can be woven into a very
+ancient pattern, and ask: what should we, as programmers, do about it?&lt;/p&gt;
+&lt;p&gt;And finally, I make a modest attempt to answer that question.&lt;/p&gt;
+</summary></entry><entry><title>What if those words don't mean what we think they mean?</title><link href="http://pyvideo.org/pycon-ireland-2015/what-if-those-words-dont-mean-what-we-think-they-mean.html" rel="alternate"></link><published>2015-10-25T00:00:00+00:00</published><updated>2015-10-25T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2015-10-25:pycon-ireland-2015/what-if-those-words-dont-mean-what-we-think-they-mean.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;I used to teach what was called &amp;quot;Information and communication technology&amp;quot; in high school - but I realised that none of my colleagues in the department seemed very curious about information, communication or technology.&lt;/p&gt;
+&lt;p&gt;Later, I also realised that even the people who are deeply interested in those subjects mostly don't think very much about the meaning of those words - which is a shame, because those words are hiding some intriguing things, and help shine some light on some hot topics.&lt;/p&gt;
+&lt;p&gt;In its approach to the industry’s moral and political controversies, the Python community has earned a reputation for moral earnestness. It’s not undeserved, and it may even be inescapable, but be that as it may, if we’re going to agonise, let’s agonise with insight and awareness.&lt;/p&gt;
+&lt;p&gt;In recent years (and particularly importantly for our industry) there are some words whose meaning, without our noticing, has slipped out almost from beneath our feet.&lt;/p&gt;
+&lt;p&gt;Several of these words lie at the crux of the industry’s most significant ills; some are controversial words, like “meritocracy”, and some seem quite innocent, like “information”, &amp;quot;communication&amp;quot; and &amp;quot;technology&amp;quot;, but on closer inspection they can all be found loitering around scenes of trouble.&lt;/p&gt;
+&lt;p&gt;I won’t claim that we can solve any important disputes by dwelling upon words, but I will show how paying attention to the shifting or contested meanings of certain words will shed light on some of the ways in which we think about some disputes, and can suggest different ways of approaching them.&lt;/p&gt;
+&lt;p&gt;I’ll discuss what they mean for our debates about (for example) inclusivity and diversity, and even what they have to show about the way in which we conduct those debates.&lt;/p&gt;
+&lt;p&gt;Introspection, in other words, can be just as powerful in natural language as it can be in Python, and once learned the techniques will find numerous useful applications.&lt;/p&gt;
+&lt;p&gt;I will discuss topics including:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Ancient Athens&lt;/li&gt;
+&lt;li&gt;GitHub’s troublesome office rug&lt;/li&gt;
+&lt;li&gt;desert&lt;/li&gt;
+&lt;li&gt;“information” as content rather than an act&lt;/li&gt;
+&lt;li&gt;“communication” as a conduit rather than act&lt;/li&gt;
+&lt;li&gt;what technology “really” means&lt;/li&gt;
+&lt;li&gt;Aristotle on classes, functions and objects&lt;/li&gt;
+&lt;li&gt;Wittgenstein on function as meaning&lt;/li&gt;
+&lt;li&gt;elitism, aristocracy, meritocracy, diversity, inclusion, fairness&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;… and numerous other interwoven matters&lt;/p&gt;
+</summary></entry><entry><title>Python adventures in Namibia</title><link href="http://pyvideo.org/pycon-uk-2015/python-adventures-in-namibia.html" rel="alternate"></link><published>2015-09-19T00:00:00+00:00</published><updated>2015-09-19T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2015-09-19:pycon-uk-2015/python-adventures-in-namibia.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In February this year, with the help of the University of Namibia and
+Cardiff University's Phoenix Project, and with support from numerous
+organisations in the Django/Python community, we held Python Namibia, a
+four-day international software conference in the capital, Windhoek.&lt;/p&gt;
+&lt;p&gt;This is the story of why we did it, how we did it, how it went - and
+what's going to happen next.&lt;/p&gt;
+</summary></entry><entry><title>Keynote: All I really want is power</title><link href="http://pyvideo.org/pycon-uk-2015/keynote-all-i-really-want-is-power.html" rel="alternate"></link><published>2015-09-18T00:00:00+00:00</published><updated>2015-09-18T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2015-09-18:pycon-uk-2015/keynote-all-i-really-want-is-power.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Computing power is a kind of power, but I’m interested in a more
+powerful power: power over other people.&lt;/p&gt;
+&lt;p&gt;I want to understand power and where it comes from. I’m curious about
+the balances and imbalances of power in our worlds of software
+development, how it moves around and where it goes. I want to know how
+it affects the people who have it, how they use it, and whether they
+even realise that they hold it.&lt;/p&gt;
+&lt;p&gt;I believe that it really matters to open-source communities, that it’s
+poorly understood, and that not understanding it has harmful
+consequences for us.&lt;/p&gt;
+</summary></entry><entry><title>When We Were Young and In Love</title><link href="http://pyvideo.org/pycon-de-2016/when-we-were-young-and-in-love.html" rel="alternate"></link><published>2016-10-29T00:00:00+00:00</published><updated>2016-10-29T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2016-10-29:pycon-de-2016/when-we-were-young-and-in-love.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;An open-source software project is like a personal relationship: it can never endure on excitement and enthusiasm alone. Like a relationship, it has to be able to develop and mature - and that means it must also keep changing. And, less romantically but crucially, it must also learn to talk about money.&lt;/p&gt;
+</summary></entry><entry><title>Quando eravamo giovani e innamorati</title><link href="http://pyvideo.org/pycon-italia-2016/quando-eravamo-giovani-e-innamorati.html" rel="alternate"></link><published>2016-06-20T00:00:00+00:00</published><updated>2016-06-20T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2016-06-20:pycon-italia-2016/quando-eravamo-giovani-e-innamorati.html</id><summary type="html"></summary></entry><entry><title>Documentation-driven development</title><link href="http://pyvideo.org/europython-2016/documentation-driven-development.html" rel="alternate"></link><published>2016-08-04T00:00:00+00:00</published><updated>2016-08-04T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2016-08-04:europython-2016/documentation-driven-development.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Daniele Procida - Documentation-driven development
+[EuroPython 2016]
+[21 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/documentation-driven-development"&gt;https://ep2016.europython.eu//conference/talks/documentation-driven-development&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;One secret of Django's success is the quality of its documentation. As
+well as being key to the quality of the code itself, it has helped
+drive the development of Django as a community project, and even the
+professional development of programmers who adopt Django.&lt;/p&gt;
+&lt;p&gt;I'll discuss how Django has achieved it, and how any project can
+easily win the same benefits.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Part of my job title is &lt;em&gt;Documentation Manager&lt;/em&gt;. When I explain this
+to a programmer outside the Python/Django community, the reaction can
+be anything from bewilderment to a kind of mild horror. When I mention
+it to a Python/Django programmer, the response is usually: &lt;em&gt;Oh, cool&lt;/em&gt;.
+In fact, one secret of Django's success is the quality of its
+documentation, and everyone who uses Django is quick to note this.&lt;/p&gt;
+&lt;p&gt;The returns on Django's investment have been substantial, but some of
+them are also surprising.
+The documentation has clearly been key to the &lt;em&gt;quality of the code
+itself&lt;/em&gt;, but also (less obviously) to the &lt;em&gt;development of Django as a
+community project&lt;/em&gt;, and even the &lt;em&gt;professional development of
+programmers&lt;/em&gt; who adopt Django.&lt;/p&gt;
+&lt;p&gt;I'll discuss how Django has achieved it, and how any project can
+easily win the same benefits.&lt;/p&gt;
+</summary></entry><entry><title>Minds, machines and Python</title><link href="http://pyvideo.org/europython-2016/minds-machines-and-python.html" rel="alternate"></link><published>2016-07-31T00:00:00+00:00</published><updated>2016-07-31T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2016-07-31:europython-2016/minds-machines-and-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Daniele Procida - Minds, machines and Python
+[EuroPython 2016]
+[19 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/minds-machines-and-python"&gt;https://ep2016.europython.eu//conference/talks/minds-machines-and-python&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Are we looking in the wrong direction for artificial intelligence and
+machine learning?&lt;/p&gt;
+&lt;p&gt;I'll discuss an older but perhaps more satisfying approach, that has
+been neglected in recent years.&lt;/p&gt;
+&lt;p&gt;It begins with questions in logic and language, and can be explored
+using easy techniques. I'll use simple Python programs to explore
+three key notions in this AI research: &lt;strong&gt;loops&lt;/strong&gt;, &lt;strong&gt;self-reference&lt;/strong&gt;
+and &lt;strong&gt;tangled hierarchies&lt;/strong&gt;, themselves directly reflected in
+important programming concepts.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;In recent years, we've seen interesting and spectacular successes in
+artificial intelligence and machine learning, made possible by leaps
+in computing power and techniques able to harvest vast quantities of
+data.&lt;/p&gt;
+&lt;p&gt;The results are uncanny. We see them everywhere, from the personal
+assistants built into smartphones to the neural networks that do an
+astounding job of recognising images. However, they're also
+susceptible to the criticism that they represent not intelligence but
+a mere simulation of it, and that producing a convincing simulacrum
+has become more important than a genuine search for  intelligence or
+learning.&lt;/p&gt;
+&lt;p&gt;At the same time, another, perhaps deeper, approach has become
+neglected in recent decades, along with the questions it asks about
+the nature of mind, intelligence and learning. This approach begins
+with fundamental questions in logic and language, and can be explored
+using some of the simplest programming techniques.&lt;/p&gt;
+&lt;p&gt;In this talk, I'll use simple Python programs to explore three key
+notions in this strand of artificial intelligence research: &lt;em&gt;loops&lt;/em&gt;,
+&lt;em&gt;self-reference&lt;/em&gt; and &lt;em&gt;tangled hierarchies&lt;/em&gt;. The way these concepts
+directly reflect important concepts in programming suggests that for
+the programmer, this approach could be more interesting and
+satisfying, and simply more &lt;strong&gt;fun,&lt;/strong&gt; than using huge ontologies and
+big data to create mere simulacra of intelligence.&lt;/p&gt;
+&lt;p&gt;The examples I use will be concrete and easy to understand, even for
+novice programmers.&lt;/p&gt;
+</summary></entry><entry><title>Documentation-driven development - lessons from the Django Project</title><link href="http://pyvideo.org/pycon-us-2016/daniele-procida-documentation-driven-development-lessons-from-the-django-project-pycon-2016.html" rel="alternate"></link><published>2016-06-17T00:00:00+00:00</published><updated>2016-06-17T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2016-06-17:pycon-us-2016/daniele-procida-documentation-driven-development-lessons-from-the-django-project-pycon-2016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Daniele Procida&lt;/p&gt;
+&lt;p&gt;One secret of Django's success is the quality of its documentation. As well as being key to the quality of the code itself, it has helped drive the development of Django as a community project, and even the professional development of programmers who adopt Django.&lt;/p&gt;
+&lt;p&gt;I'll discuss how Django has achieved it, and how any project can easily win the same benefits.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>CMS Panel</title><link href="http://pyvideo.org/djangocon-europe-2015/iacopo-spalletti-tom-dyson-daniele-procida-cms-at.html" rel="alternate"></link><published>2015-07-31T00:00:00+00:00</published><updated>2015-07-31T00:00:00+00:00</updated><author><name>Iacopo Spalletti</name></author><id>tag:pyvideo.org,2015-07-31:djangocon-europe-2015/iacopo-spalletti-tom-dyson-daniele-procida-cms-at.html</id><summary type="html"></summary></entry><entry><title>All You Need Is L***</title><link href="http://pyvideo.org/djangocon-2014/all-you-need-is-l.html" rel="alternate"></link><published>2014-09-11T00:00:00+00:00</published><updated>2014-09-11T00:00:00+00:00</updated><author><name>Daniele Procida</name></author><id>tag:pyvideo.org,2014-09-11:djangocon-2014/all-you-need-is-l.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Help us caption &amp;amp; translate this video!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://amara.org/v/FNEd/"&gt;http://amara.org/v/FNEd/&lt;/a&gt;&lt;/p&gt;
+</summary></entry></feed>

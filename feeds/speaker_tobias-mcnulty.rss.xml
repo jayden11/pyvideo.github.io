@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Tue, 01 Oct 2013 00:00:00 +0000</lastBuildDate><item><title>Lightning Talks - Day 1</title><link>http://pyvideo.org/djangocon-2010/djangocon-2010--lightning-talks---day-1.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;00:00 - David Gouldin: Hash Signaling Made Easy
+(&lt;a class="reference external" href="http://github.com/dgouldin/django-hashsignal"&gt;http://github.com/dgouldin/django-hashsignal&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;05:20 - Tareque Mossain: Django ORM Tips&lt;/li&gt;
+&lt;li&gt;11:20 - Nathan?: OpenID in Django&lt;/li&gt;
+&lt;li&gt;18:00 - Ben? and Jeremy?: Django efficacy project--call for case
+studies&lt;/li&gt;
+&lt;li&gt;19:40 - Tobias McNulty: django.contrib.messages and contributing to
+Django core&lt;/li&gt;
+&lt;li&gt;25:00 - Jason ?: Django Config Store
+(&lt;a class="reference external" href="http://github.com/zbyte64/django-configstore"&gt;http://github.com/zbyte64/django-configstore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;28:25 - Niall Kelly: Giving Django a new front door&lt;/li&gt;
+&lt;li&gt;32:00 - Justin Lilly: Meetup Meeter&lt;/li&gt;
+&lt;li&gt;33:50 - Jesse Noller: WTF: PSF and DSF&lt;/li&gt;
+&lt;li&gt;40:00 - dmoisset ?: How request routing should be&lt;/li&gt;
+&lt;li&gt;45:30 - Gabriel Falcao: Feeding your ponies with lettuce
+(&lt;a class="reference external" href="http://lettuce.it/"&gt;http://lettuce.it/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;50:40 - Nate Aune: djangozoom: Effortless cloud deployment
+(&lt;a class="reference external" href="http://djangozoom.com/ponyexpress"&gt;http://djangozoom.com/ponyexpress&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[NOTE: If you know the people whose names have a ?, please add a comment
+so we can fix it in the description. Thanks!]&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">David Gouldin</dc:creator><pubDate>Tue, 07 Sep 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-09-07:djangocon-2010/djangocon-2010--lightning-talks---day-1.html</guid><category>django-configstore</category><category>django.contrib.messages</category><category>django-hashsignal</category><category>djangozoom</category><category>dsf</category><category>hash-signaling</category><category>lettuce</category><category>openid</category><category>orm</category><category>psf</category><category>routing</category></item><item><title>Scaling Your Write-heavy Django App: a case study</title><link>http://pyvideo.org/djangocon-2013/scaling-your-write-heavy-django-app-a-case-study.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Scaling Your Write-heavy Django App: a case study&lt;/p&gt;
+&lt;p&gt;Tuesday 11:30 a.m.--12:15 p.m.&lt;/p&gt;
+&lt;p&gt;Audience level: Intermediate&lt;/p&gt;
+&lt;p&gt;Description&lt;/p&gt;
+&lt;p&gt;Content management systems and other read-heavy Django apps are
+relatively easy to scale. Scaling write-heavy apps is another matter. In
+this talk I'll walk through our experience scaling the University of
+Chicago's custom school survey application to handle over 75,000
+requests per minute and upwards of 9,500 PostgreSQL transactions per
+second. Abstract&lt;/p&gt;
+&lt;p&gt;Content management systems and other read-heavy Django apps are
+relatively easy to scale. You add some caching, and maybe a couple extra
+web servers for good measure. Scaling write-heavy apps is another
+matter, both from an app server and a database server perspective. In
+this talk I'll walk through our experience scaling the University of
+Chicago's custom school survey application to handle over 75,000
+requests per minute and upwards of 9,500 PostgreSQL transactions per
+second. This includes everything from django-debug-toolbar and server
+provisioning to load testing and consolidated logging. The following is
+a rough outline of topics to be covered: Eliminating gross
+inefficiencies with django-debug-toolbar Analyzing your Postgres logs
+for repetitive queries Establishing a platform you can use to test
+Creating a test script with JMeter Running your test script at scale
+Interpreting load test results Things we tried that didn't work
+Optimizing your web server configuration Final tweaks to your Postgres
+configuration&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tobias McNulty</dc:creator><pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-01:djangocon-2013/scaling-your-write-heavy-django-app-a-case-study.html</guid></item></channel></rss>

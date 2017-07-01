@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_jamie-lennox.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-04T00:00:00+00:00</updated><entry><title>JSON Standards for the Web</title><link href="http://pyvideo.org/pycon-au-2015/json-standards-for-the-web.html" rel="alternate"></link><published>2015-08-04T00:00:00+00:00</published><updated>2015-08-04T00:00:00+00:00</updated><author><name>Jamie Lennox</name></author><id>tag:pyvideo.org,2015-08-04:pycon-au-2015/json-standards-for-the-web.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;RESTful APIs reign supreme! No longer do developers have to put up with
+SOAP and XML-RPC and those bulky, schema laden exchanges. JSON maps
+almost directly to python and we're flying again!&lt;/p&gt;
+&lt;p&gt;Over time the chaos of free form JSON representations has subsided and a
+number of best practices have appeared such that we now expect certain
+patterns when encountering a new JSON REST API. The next step is to
+standardize these practices and start offering the predictability and
+code reuse we lost years ago.&lt;/p&gt;
+&lt;p&gt;The talk will provide an overview of current attempts at standardizing
+JSON exchanges such as jsonapi, jsonhome and jsonschema.&lt;/p&gt;
+</summary></entry><entry><title>Practical Federated Identity</title><link href="http://pyvideo.org/pycon-au-2015/practical-federated-identity.html" rel="alternate"></link><published>2015-08-04T00:00:00+00:00</published><updated>2015-08-04T00:00:00+00:00</updated><author><name>Jamie Lennox</name></author><id>tag:pyvideo.org,2015-08-04:pycon-au-2015/practical-federated-identity.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Federated Identity was once again a highlight of the OpenStack summit in
+Vancouver this time with the announcement of keystone to keystone
+federation that will pave the way for inter-cloud workloads.&lt;/p&gt;
+&lt;p&gt;In the past I have done presentations on what Federated Identity is,
+however in this talk we delve into the more practical requirements of
+connecting to an IdP, discuss the changes in workflow required to
+authenticate your applications, how to configure web single sign on with
+horizon, what is possible today and the pain points you may encounter
+using federation.&lt;/p&gt;
+</summary></entry></feed>

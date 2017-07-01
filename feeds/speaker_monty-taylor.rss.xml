@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Tue, 04 Aug 2015 00:00:00 +0000</lastBuildDate><item><title>OpenStack: A vision for the future</title><link>http://pyvideo.org/pycon-au-2015/openstack-a-vision-for-the-future.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;OpenStack as a phenomenon has been explosive and rather unprecedented.
+The highly decentralized decision making coupled with an aggressive
+release cadence have allowed us to be both an inclusive body and also
+ship software. However, crisp vision is not necessarily an emergent
+property of collective thought process. It's time for some vision to be
+presented and championed if we're going to take the next step in our
+evolution.&lt;/p&gt;
+&lt;p&gt;Let's talk about a vision of what OpenStack needs to be, how it needs to
+be shaped, and what it will take to get us there.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Monty Taylor</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-04:pycon-au-2015/openstack-a-vision-for-the-future.html</guid></item><item><title>OpenStack Works, so now what?</title><link>http://pyvideo.org/pycon-au-2015/openstack-works-so-now-what.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;While we've made a great big hoopla over the last few years about
+deploying OpenStack and what our development process is and other
+fascinating topics, it turns out that a cloud is not particularly
+interesting in and of itself. A cloud is a thing that you use to, well,
+DO something.&lt;/p&gt;
+&lt;p&gt;The OpenStack Infra team DO something with OpenStack clouds every day.
+It turns out it is related to both developing and deploying OpenStack,
+but let's forget about that for now. What we really are is a giant
+machine for manipulating OpenStacks, and we've gotten rather good at it.
+As a result of that ... we've been good little hackers and have produced
+a library, called shade, which is the embodiment of the knowledge we've
+gathered in trying to do useful things. shade is at the heart of our
+nodepool project, as well as the basis of the latest set of Ansible
+modules for OpenStack.&lt;/p&gt;
+&lt;p&gt;So - Let's talk about shade. And let's talk about Ansible. And let's
+talk about using clouds to actually perform work.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Monty Taylor</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-04:pycon-au-2015/openstack-works-so-now-what.html</guid></item></channel></rss>

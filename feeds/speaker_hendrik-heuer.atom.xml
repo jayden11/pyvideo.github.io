@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_hendrik-heuer.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-05-25T00:00:00+00:00</updated><entry><title>Hacking Human Language</title><link href="http://pyvideo.org/pycon-se-2015/hacking-human-language.html" rel="alternate"></link><published>2015-05-25T00:00:00+00:00</published><updated>2015-05-25T00:00:00+00:00</updated><author><name>Hendrik Heuer</name></author><id>tag:pyvideo.org,2015-05-25:pycon-se-2015/hacking-human-language.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;If you convert words into numbers, you can do interesting things with
+them. You can compare the topics in a book, make better translations and
+tell if a sentence is positive or negative. Python libraries like gensim
+and spaCy make it easy to play with this for fun, profit or social
+science.&lt;/p&gt;
+</summary></entry></feed>

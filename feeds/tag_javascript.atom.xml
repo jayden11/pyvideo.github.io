@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_javascript.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-10-15T00:00:00+00:00</updated><entry><title>Objects and classes in Python (and JavaScript)</title><link href="http://pyvideo.org/europython-2011/objects-and-classes-in-python-and-javascript.html" rel="alternate"></link><published>2011-07-21T00:00:00+00:00</published><updated>2011-07-21T00:00:00+00:00</updated><author><name>Jonathan Fine</name></author><id>tag:pyvideo.org,2011-07-21:europython-2011/objects-and-classes-in-python-and-javascript.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Jonathan Fine - 23 June 2011 in &amp;quot;Training Pizza Napoli&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python has a well-thought out system for classes. Beginners can use it
+without understanding it all. Experts can use it to produce code that is
+both elegant and powerful (such as models and class-based views in
+Django). Python classes can be used for many purposes.&lt;/p&gt;
+&lt;p&gt;This tutorial arises from the author's experience in using classes to
+solve problems, such as:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Add custom methods and attributes to objects that are, at root, just an integer&lt;/li&gt;
+&lt;li&gt;Construct dictionaries whose values are functions&lt;/li&gt;
+&lt;li&gt;Construct classes on-the-fly&lt;/li&gt;
+&lt;li&gt;Implement JavaScript object semantics in Python (advanced topic)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The outline syllabus is:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Review of the class statement in Python (and decorators)&lt;/li&gt;
+&lt;li&gt;Subclassing built-in types such as int and tuple&lt;/li&gt;
+&lt;li&gt;How to define classes without using a class statement&lt;/li&gt;
+&lt;li&gt;How to define a dispatch dictionary using a class statement&lt;/li&gt;
+&lt;li&gt;Metaclasses as syntactic sugar for class construction&lt;/li&gt;
+&lt;li&gt;Metaclasses to provide new class semantics&lt;/li&gt;
+&lt;li&gt;Review of JavaScript object semantics&lt;/li&gt;
+&lt;li&gt;Using Python classes to implement JavaScript object semantics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For Guido on the history of Python classes see:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://python-history.blogspot.com/2010/06/new-style-classes.html"&gt;http://python-history.blogspot.com/2010/06/new-style-classes.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html"&gt;http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://python-history.blogspot.com/2010/06/method-resolution-order.html"&gt;http://python-history.blogspot.com/2010/06/method-resolution-order.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This tutorial is for Intermediate or Advanced Python programmers.
+(Beginners will find it very hard going.) The aim of the course is to
+explain exactly what happens when a class in constructed, and to learn
+ways of using this knowledge.&lt;/p&gt;
+</summary><category term="dictionaries"></category><category term="javascript"></category><category term="tutorial"></category></entry><entry><title>PyHP and the art of dating girls</title><link href="http://pyvideo.org/europython-2011/pyhp-and-the-art-of-dating-girls.html" rel="alternate"></link><published>2011-07-18T00:00:00+00:00</published><updated>2011-07-18T00:00:00+00:00</updated><author><name>Fabio Rotondo</name></author><id>tag:pyvideo.org,2011-07-18:europython-2011/pyhp-and-the-art-of-dating-girls.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Fabio Rotondo - 21 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This will be both technical and light talk, introducing these important
+subjects:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;the new scripting language PyHP, a solution to create dynamic web
+pages using the Python scripting language server side, a-la PHP, but
+smarter.&lt;/li&gt;
+&lt;li&gt;the LiWE (Lightweight Web Environment) Web Framework, a new and
+robust web framework written in both JavaScript and Python that will
+help you creating amazing websites.&lt;/li&gt;
+&lt;li&gt;how this new amazing technologies can help you date girls (this will
+be the light and funny part of the talk)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Prerequisites:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Very basic knowledge of PHP&lt;/li&gt;
+&lt;li&gt;Basic Python&lt;/li&gt;
+&lt;li&gt;Basic / None JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="art"></category><category term="framework"></category><category term="javascript"></category><category term="web"></category></entry><entry><title>Fanstatic zum Einbinden statischer Ressourcen - Was es kann und was es können sollte.</title><link href="http://pyvideo.org/pycon-de-2012/fanstatic-zum-einbinden-statischer-ressourcen-w.html" rel="alternate"></link><published>2012-11-01T00:00:00+00:00</published><updated>2012-11-01T00:00:00+00:00</updated><author><name>Daniel Havlik</name></author><id>tag:pyvideo.org,2012-11-01:pycon-de-2012/fanstatic-zum-einbinden-statischer-ressourcen-w.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Fanstatic ist ein einfaches und doch mächtiges Werkzeug zum Einbinden
+statischer Ressourcen in Webanwendungen. In diesem Vortrag werden die
+Grenzen von Fanstatic aufgezeigt und Lösungen für diese vorgeschlagen.&lt;/p&gt;
+&lt;p&gt;Die Autoren setzen Fanstatic in fast jedem Projekt ein. Doch immer
+wieder stolpern wir über Probleme wie das Einbinden von Stylesheets für
+spezielle IE- Versionen (Conditional Stylesheets) oder die fehlenden
+Möglichkeit, Stylesheets für den Druck zu spezifizieren. Auch wäre eine
+Integration mit z.B. CoffeeScript wünschenswert.&lt;/p&gt;
+</summary><category term="css"></category><category term="fanstatic"></category><category term="javascript"></category></entry><entry><title>Echtzeit Browsergames</title><link href="http://pyvideo.org/pycon-de-2012/echtzeit-browsergames.html" rel="alternate"></link><published>2012-10-30T00:00:00+00:00</published><updated>2012-10-30T00:00:00+00:00</updated><author><name>Michael P. Jung</name></author><id>tag:pyvideo.org,2012-10-30:pycon-de-2012/echtzeit-browsergames.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Mit gevent und browserseitigem JavaScript können Mehrspieler
+Browsergames entwickelt werden, die Spielerinteraktionen in Echtzeit
+zulassen. Dieser Vortrag versucht Lust auf das Echtzeit Web zu machen
+und zeigt anhand eines konkreten Spieles (KODEX, &lt;a class="reference external" href="http://kodexgame.com/"&gt;http://kodexgame.com/&lt;/a&gt;)
+Lösungen für Entwicklung, Hosting und Vertrieb auf.&lt;/p&gt;
+&lt;p&gt;Der Vortrag beleuchtet neben den Implikationen des Realtime Web wie
+Caching, Scaling, Same-Origin-Policy und Cross-Origin-Resource-Sharing
+auch Strategien zur horizontalen Skalierbarkeit, oder: Wie löst man das
+&lt;a class="reference external" href="http://www.kegel.com/c10k.html"&gt;C10K&lt;/a&gt; Problem?&lt;/p&gt;
+&lt;p&gt;Während NodeJS oft als &lt;em&gt;die&lt;/em&gt; Lösung für Echtzeitanwendungen angepriesen
+wird, kommt hier auf der Serverseite gezielt Python mit gevent zum
+Einsatz.&lt;/p&gt;
+</summary><category term="django"></category><category term="echtzeit"></category><category term="game"></category><category term="gevent"></category><category term="javascript"></category><category term="python"></category><category term="rabbitmq"></category><category term="realtime"></category><category term="socketio"></category><category term="spiel"></category></entry><entry><title>Echtzeit Web-Apps mit Mushroom</title><link href="http://pyvideo.org/pycon-de-2013/echtzeit-web-apps-mit-mushroom.html" rel="alternate"></link><published>2013-10-15T00:00:00+00:00</published><updated>2013-10-15T00:00:00+00:00</updated><author><name>Michael P. Jung</name></author><id>tag:pyvideo.org,2013-10-15:pycon-de-2013/echtzeit-web-apps-mit-mushroom.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;&lt;a class="reference external" href="https://bitbucket.org/terreon/mushroom"&gt;Mushroom&lt;/a&gt; ist ein einfach zu
+verwendendes Echtzeit-Web-Messaging-Framework, welches neben
+Browser-Push-Nachrichten auch Funktionen für die
+Interprozesskommunikation zur Verfügung stellt.&lt;/p&gt;
+&lt;p&gt;Dieser Vortrag versucht, Lust auf das Echtzeit-Web zu machen und
+beantwortet grundlegende Fragen zu Themen wie Skalierbarkeit und
+Deployment.&lt;/p&gt;
+</summary><category term="echtzeit"></category><category term="gevent"></category><category term="http"></category><category term="ipc"></category><category term="javascript"></category><category term="long polling"></category><category term="messagin"></category><category term="mushroom"></category><category term="network"></category><category term="python"></category><category term="real-time"></category><category term="websocket"></category></entry><entry><title>Javascript for people who know Python</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--javascript-for-people-who-know-python.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Ian Bicking</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--javascript-for-people-who-know-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Javascript for people who know Python&lt;/p&gt;
+&lt;p&gt;Presented by Ian Bicking&lt;/p&gt;
+&lt;p&gt;Javascript as a diff on Python.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;You know Python. You should know Javascript. The two aren't so
+different, but this talk will explain exactly how they are different --
+lists, dicts, objects, functions, loops and all the other details of
+Javascript described in terms of Python.&lt;/p&gt;
+</summary><category term="javascript"></category><category term="pycon"></category><category term="pycon2011"></category></entry><entry><title>Saturday Afternoon Lightning Talks</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--saturday-afternoon-lightning-talks.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--saturday-afternoon-lightning-talks.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Saturday afternoon lightning talks&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Saturday Afternoon Lightning Talks&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;00:00 Eric Holscher - Read the Docs
+(&lt;a class="reference external" href="http://readthedocs.org/"&gt;readthedocs.org&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;05:25 Nate Aune - DjangoZoom
+(&lt;a class="reference external" href="http://djangozoom.com/"&gt;DjangoZoom&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;09:40 Paul Smith - Update on Japan&lt;/li&gt;
+&lt;li&gt;12:40 Phillip von Weitershausen - The English of Programming
+Languages (JavaScript)&lt;/li&gt;
+&lt;li&gt;18:15 Henrique Bastos - Community Bootstrap&lt;/li&gt;
+&lt;li&gt;24:00 Barry Warsaw - flufl.i18n library
+(&lt;a class="reference external" href="https://launchpad.net/flufl.i18n"&gt;https://launchpad.net/flufl.i18n&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;31:20 Aron Griffis - Window Manglement with PyWO
+(&lt;a class="reference external" href="http://code.google.com/p/pywo/"&gt;http://code.google.com/p/pywo/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;35:00 Josiah Carlson - Over-Engineering for Dummies&lt;/li&gt;
+&lt;li&gt;40:35 Grace Law - Get the job you want&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="djangozoom"></category><category term="engineering"></category><category term="flufl.i18n"></category><category term="interviewing"></category><category term="javascript"></category><category term="pycon"></category><category term="pycon2011"></category><category term="pywo"></category><category term="readthedocs"></category><category term="sphinx"></category></entry></feed>

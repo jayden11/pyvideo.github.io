@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_paul-everitt.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-21T00:00:00+00:00</updated><entry><title>Panel Discussion: Paul Everitt with Guido van Rossum and others</title><link href="http://pyvideo.org/pycon-us-2017/panel-discussion-paul-everitt-with-guido-van-rossum-and-others.html" rel="alternate"></link><published>2017-05-21T00:00:00+00:00</published><updated>2017-05-21T00:00:00+00:00</updated><author><name>Paul Everitt</name></author><id>tag:pyvideo.org,2017-05-21:pycon-us-2017/panel-discussion-paul-everitt-with-guido-van-rossum-and-others.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Paul Everitt, Guido van Rossum&lt;/p&gt;
+&lt;p&gt;Panel Discussion&lt;/p&gt;
+</summary></entry><entry><title>Keynote - How It Happened: Stories and Lessons from Inside Zope and Other Projects</title><link href="http://pyvideo.org/pycon-de-2011/keynote-how-it-happened-stories-and-lessons-fr.html" rel="alternate"></link><published>2011-10-06T00:00:00+00:00</published><updated>2011-10-06T00:00:00+00:00</updated><author><name>Paul Everitt</name></author><id>tag:pyvideo.org,2011-10-06:pycon-de-2011/keynote-how-it-happened-stories-and-lessons-fr.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Ever heard of Zope? Ever heard of it recently? Being a leader, then not,
+in a large open source project over a long period of time generates a
+lot of funny stories. And mistakes. And even, moments of wonder, not
+always intentionally. In this talk I'll cover a number of insider
+stories from the life of Zope and Plone, then analyze them from the
+safety of perspective. The long view can help show what makes a big
+project vary in success over time measured in decades. I will also
+include stories and lessons from long-running, successful leaders in
+other Python projects.&lt;/p&gt;
+</summary></entry><entry><title>Pyramid for Humans</title><link href="http://pyvideo.org/pycon-us-2013/pyramid-for-humans.html" rel="alternate"></link><published>2013-03-13T00:00:00+00:00</published><updated>2013-03-13T00:00:00+00:00</updated><author><name>Paul Everitt</name></author><id>tag:pyvideo.org,2013-03-13:pycon-us-2013/pyramid-for-humans.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Pyramid has emerged as a fast, modern, lightweight web framework. This
+lively, hands-on tutorial covers a little about a lot: practical
+introductions to the most common facilities. Fun, fast-paced, and most
+certainly not aimed at experts.&lt;/p&gt;
+</summary><category term="tutorial"></category></entry><entry><title>Python 3/2 Web Development with Pyramid</title><link href="http://pyvideo.org/pycon-us-2014/python-32-web-development-with-pyramid.html" rel="alternate"></link><published>2014-04-12T00:00:00+00:00</published><updated>2014-04-12T00:00:00+00:00</updated><author><name>Paul Everitt</name></author><id>tag:pyvideo.org,2014-04-12:pycon-us-2014/python-32-web-development-with-pyramid.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python 3 is upon us! This lively, hands-on tutorial covers a little
+about a lot, showing Python 3 (and 2) web development using Pyramid, a
+fast, modern, lightweight web framework. Fun, fast-paced, and most
+certainly not aimed at experts.&lt;/p&gt;
+</summary></entry></feed>

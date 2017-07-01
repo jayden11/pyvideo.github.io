@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 27 Aug 2016 00:00:00 +0000</lastBuildDate><item><title>Don't Live Patch Your CPython Interpreter</title><link>http://pyvideo.org/pydata-chicago-2016/dont-live-patch-your-cpython-interpreter.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Chicago 2016&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">James Powell</dc:creator><pubDate>Sat, 27 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-27:pydata-chicago-2016/dont-live-patch-your-cpython-interpreter.html</guid><category>CPython</category><category>interpreter</category></item><item><title>Life of a Python program</title><link>http://pyvideo.org/pycon-es-2015/life-of-a-python-program.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sometimes is good to know what's happening under the hood,
+this talk will explain how CPython works internally since
+we type &lt;cite&gt;python myprogram.py&lt;/cite&gt; until our code is finally executed
+explaining the process that CPython does to run our programs.&lt;/p&gt;
+&lt;p&gt;The goal of this talk is explain people how to explore the code
+of the interpreter itself using some common tools and let regular
+Python developers that aren't used to work with C lose the fear
+about looking under the hood.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Francisco Fernández Castaño</dc:creator><pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-02-02:pycon-es-2015/life-of-a-python-program.html</guid><category>Track Básico</category><category>CPython</category></item><item><title>Lightning Talks Day 2</title><link>http://pyvideo.org/djangocon-2009/djangocon-2009--lightning-talks-day-2.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks Day 2&lt;/p&gt;
+&lt;p&gt;(00:09) Dive into CPython Bytecode - Alex Gaynor&lt;/p&gt;
+&lt;p&gt;(05:10) Testing with pywatch - Chris Heisel&lt;/p&gt;
+&lt;p&gt;(07:08) Pluggable Django E-Commerce - Aaron Cuker and someone else&lt;/p&gt;
+&lt;p&gt;(12:13) Introduction to Surlex - Cody Soyland&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Gaynor</dc:creator><pubDate>Wed, 09 Sep 2009 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2009-09-09:djangocon-2009/djangocon-2009--lightning-talks-day-2.html</guid><category>bytecode</category><category>cpython</category><category>djangocon</category><category>djangocon2009</category><category>pywatch</category><category>surlex</category><category>testing</category></item><item><title>Emulating Stackless and greenlet with each other</title><link>http://pyvideo.org/europython-2011/emulating-stackless-and-greenlet-with-each-other.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Peter Szabo - 20 June 2011 in &amp;quot;Track Ravioli&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Stackless Python and the greenlet package for CPython are two different
+implementations of coroutine support for Python. (Coroutines are
+fundamental building blocks of I/O frameworks like gevent, Eventlet,
+Concurrence and Syncless to conveniently handle thousands of socket
+connections at a time without creating threads.) Stackless and greenlet
+implement a different interface. However, each is powerful enough so
+that it can be used to emulate the other one. In this talk we explore
+the differences and discuss design decisions and testing strategies of
+the emulations we have implemented.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://syncless.googlecode.com/svn/trunk/doc/slides_2011-06-20/pts_em%20u_coro_2011-06-20.html"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://syncless.googlecode.com/svn/trunk/doc/s%20lides_2010-11-29/pts_coro_2010-11-29.html"&gt;Slides for the bonus
+sub-talk&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Péter Szabó</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-21:europython-2011/emulating-stackless-and-greenlet-with-each-other.html</guid><category>concurrence</category><category>cpython</category><category>design</category><category>greenlet</category><category>stackless</category><category>testing</category></item><item><title>Exploring CPython's bytecode</title><link>http://pyvideo.org/europython-2011/exploring-cpythons-bytecode.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Floris Bruynooghe - 22 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The CPython interpreter always compiles your source code to bytecode,
+usually stored in .pyc files. This bytecode is then loaded and executed
+in the CPython virtual machine.&lt;/p&gt;
+&lt;p&gt;This talk will explore the bytecode from the outside in. Starting with
+how to read a .pyc file, following the steps the interpreter takes to
+arrive and a usable python module. It then dives into the structure of
+the bytecode itself and the principles of the virtual machine, detailing
+how the VM executes this bytecode to do useful work.&lt;/p&gt;
+&lt;p&gt;Having seen all these details you should have a good idea of the various
+innards of CPython and how to manipulate these to create weird,
+wonderful, dangerous and occasional useful hacks.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Floris Bruynooghe</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-21:europython-2011/exploring-cpythons-bytecode.html</guid><category>bytecode</category><category>cpython</category><category>vm</category></item><item><title>PyPy hands-on</title><link>http://pyvideo.org/europython-2011/pypy-hands-on.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Antonio Cuni,Armin Rigo - 21 June 2011 in &amp;quot;Training
+Pizza Margherita&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The session is divided into two parts, of roughly 2 hours each. People
+who are interested only in the first part, can leave the session after
+it. However, the first part is a prerequisite for the second one, thus
+people are not advised to join in the middle of the session.&lt;/p&gt;
+&lt;p&gt;The session is meant to be highly interactive. People are invited to
+bring their own laptop and try things by themselves.&lt;/p&gt;
+&lt;div class="section" id="part-1-run-your-application-under-pypy"&gt;
+&lt;h4&gt;Part 1: Run your application under PyPy&lt;/h4&gt;
+&lt;p&gt;This tutorial is targeted to Python users who want to run their favorite
+Python application under PyPy, and exploit the most of it. The following
+topics will be covered:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+- how to fix/avoid CPython implementation details (e.g., refcounting)
+
+- general overview of how the PyPy JIT works
+
+- how to optimize your program for the PyPy JIT
+
+- how to view and interpret the traces produced by the JIT
+
+- how to tweak the parameters of the JIT and the GC
+
+- how to use existing CPython C extensions on PyPy, and fix them if necessary
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="part-2-write-your-own-interpreter-with-pypy"&gt;
+&lt;h4&gt;Part 2: Write your own interpreter with PyPy&lt;/h4&gt;
+&lt;p&gt;PyPy is not only a Python interpreter, but also a toolchain to implement
+dynamic languages. This tutorial is targeted to people who want to
+implement their own programming languages, or who simply want to know
+more about how the PyPy JIT works internally.&lt;/p&gt;
+&lt;p&gt;The students will be given the source code for a toy language
+implemented in RPython. They will learn:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+- how to translate it to C using the PyPy translation toolchain
+
+- what are the &amp;quot;hints&amp;quot; needed by the JIT generator, and how to place them
+&lt;/pre&gt;
+&lt;p&gt;Then, they will be challenged to add the proper hints to the toy
+interpreter, to get the best result with the JIT.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;THINGS TO DO BEFORE THE TRAINING&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You are encouraged to bring your laptop to the training session.&lt;/p&gt;
+&lt;p&gt;Make sure that the following prerequisites are met:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Install PyPy 1.5:&lt;ul&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://pypy.org/download.html"&gt;http://pypy.org/download.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://doc.pypy.org/en/latest/getting-started.html#installing-pypy"&gt;http://doc.pypy.org/en/latest/getting-started.html#installing-pypy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Make sure that &lt;tt class="docutils literal"&gt;setuptools&lt;/tt&gt; or &lt;tt class="docutils literal"&gt;distribute&lt;/tt&gt; are installed (look
+at the URL above for instructions)&lt;/li&gt;
+&lt;li&gt;Clone the pypy repository, and update to the 1.5 version:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$ hg clone &lt;a class="reference external" href="http://bitbucket.org/pypy/pypy"&gt;http://bitbucket.org/pypy/pypy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$ cd pypy&lt;/p&gt;
+&lt;p&gt;$ hg up -r release-1.5&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Clone the jitviewer repository and install it on pypy:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;$ hg clone &lt;a class="reference external" href="http://bitbucket.org/pypy/jitviewer"&gt;http://bitbucket.org/pypy/jitviewer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;$ cd jitviewer&lt;/p&gt;
+&lt;p&gt;$ /path/to/pypy-1.5/bin/pypy setup.py develop&lt;/p&gt;
+&lt;p&gt;If you intend to follow also the second part (&amp;quot;Write your own
+interpreter with PyPy&amp;quot;), you need to make sure you have a working
+&lt;a class="reference external" href="http://doc.pypy.org/en/latest/getting-started-python.html%20#translating-the-pypy-python-interpreter"&gt;developing
+environment&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Cuni</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-21:europython-2011/pypy-hands-on.html</guid><category>cd</category><category>cpython</category><category>extensions</category><category>hg</category><category>jit</category><category>optimize</category><category>pypy</category><category>setup.py</category><category>tutorial</category></item><item><title>5 Years of Bad Ideas</title><link>http://pyvideo.org/europython-2011/5-years-of-bad-ideas.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Armin Ronacher - 20 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;What was my motivation for working with Python after two years of PHP?
+There is so much you can do. Functions are objects you can pass around,
+you can decompile functions to see how they work internally, you can
+alias a bound method to a global function and it will just work. You can
+change import semantics, override the method resolution order, you can
+write metaclasses, you can hook into the CPython interpreter API and
+much more.&lt;/p&gt;
+&lt;p&gt;Five years later I came to the conclusion that this is really not what
+Python is about and that a lot of what I did was interesting but not
+necessarily a good idea. This talk is a 45 minute recompilation of
+things I really shouldn't have done in the first place. Expect a bunch
+of neat and interesting hacks that showcase the possibilities of the
+language.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Armin Ronacher</dc:creator><pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-20:europython-2011/5-years-of-bad-ideas.html</guid><category>api</category><category>cpython</category></item><item><title>Debugging and profiling techniques</title><link>http://pyvideo.org/europython-2011/debugging-and-profiling-techniques.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Giovanni Bajo - 22 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will give on overview over some common problems related to
+profiling and debugging CPython applications (especially desktop-based
+ones).&lt;/p&gt;
+&lt;p&gt;The following subjects will be covered:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Debugging of memory/resource leaks (circular references, &lt;strong&gt;del&lt;/strong&gt;,
+weakref, garbage collector, etc.). We will show in details how the
+memory management of Python objects work and we will show a few
+tricks to track memory leaks&lt;/li&gt;
+&lt;li&gt;Python code profiling (profile/hotshots/cProfile, design of small
+tests, etc.). We will show how to measure, profile, and analyse an
+application to spot performance problems and solve them.&lt;/li&gt;
+&lt;li&gt;Post-mortem step-by-step debugging of C/C++ extension under Windows.
+We will show how to setup Visual Studio for debugging, how to see a
+traceback in case of an unexpected segfault, and how to further debug
+and solve the crash.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This talk is aimed at intermediate Python programmers, who have already
+developed non-trivial Python applications but have never &amp;quot;jumped
+through&amp;quot; the interpreter abstraction layer. If you feel a little lost
+when you see a segfault from a Python program or you don't have a clear
+idea how memory is collected in Python, this talk is perfect for you.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Giovanni Bajo</dc:creator><pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-20:europython-2011/debugging-and-profiling-techniques.html</guid><category>cpython</category><category>debugging</category><category>design</category><category>memory</category><category>performance</category><category>profiling</category><category>python,</category></item><item><title>Making CPython Fast Using Trace-based Optimisations</title><link>http://pyvideo.org/europython-2011/making-cpython-fast-using-trace-based-optimisatio.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Mark Shannon - 24 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;CPython can be made faster by implementing the sort of optimizations
+used in the PyPy VM, and in my HotPy VM. All the necessary changes can
+be made without modifying the language or the API.&lt;/p&gt;
+&lt;p&gt;The CPython VM can be modified to support optimizations by adding an
+effective garbage collector and by separating the virtual-machine state
+from the real- machine state (like Stackless).&lt;/p&gt;
+&lt;p&gt;Optimizations can be implemented incrementally. Since almost all of the
+optimizations are implemented in the interpreter, all hardware platforms
+can benefit. JIT compiler(s) can then be added for common platforms
+(intel, ARM, etc.).&lt;/p&gt;
+&lt;p&gt;For more information see &lt;a class="reference external" href="http://hotpy.blogspot.com/"&gt;http://hotpy.blogspot.com/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Shannon</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-13:europython-2011/making-cpython-fast-using-trace-based-optimisatio.html</guid><category>cpython</category><category>jit</category><category>pypy</category><category>vm</category></item><item><title>PyPy in production</title><link>http://pyvideo.org/europython-2011/pypy-in-production.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Antonio Cuni,Armin Rigo - 23 June 2011 in &amp;quot;Track
+Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The PyPy project has recently gathered a lot of attention for its
+progress in speeding up the Python language - it is the fastest Python
+interpreter, and the most compatible and most stable 'alternative´ one.
+No longer merely a research project, PyPy is now suitable for production
+use. We are working on improvements on calling into C libraries and
+generally integrating with the existing Python extensions ecosystem.&lt;/p&gt;
+&lt;p&gt;We will give an overview on how the tracing Just-in-Time compiler works
+in PyPy. From there, we will then focus on what the PyPy project has
+achieved, particularly in the past two years:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;most Python benchmarks run much faster than with CPython or Psyco&lt;/li&gt;
+&lt;li&gt;the real-world PyPy compiler toolchain itself (200 KLocs) runs twice
+as fast&lt;/li&gt;
+&lt;li&gt;already supports 32 and 64bit x86 and is in the process of supporting
+ARM&lt;/li&gt;
+&lt;li&gt;full compatibility with CPython (more than Jython/IronPython)&lt;/li&gt;
+&lt;li&gt;full (and JIT-ed) ctypes support to call C libraries from Python&lt;/li&gt;
+&lt;li&gt;supports Stackless Python (in-progress)&lt;/li&gt;
+&lt;li&gt;new &amp;quot;cpyext&amp;quot; layer which integrates existing CPython C extensions&lt;/li&gt;
+&lt;li&gt;an experimental super-fast JIT-compilation of calls to C++ libraries&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We want to reserve time for discussing potential future work like SWIG
+and/or Cython compatibility and other areas brought up by the audience.
+There are many interesting details that can be explored further; we will
+focus on the points the audience is most interested in.&lt;/p&gt;
+&lt;p&gt;For more info:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://pypy.org/"&gt;http://pypy.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Our blog: &lt;a class="reference external" href="http://morepypy.blogspot.com/"&gt;http://morepypy.blogspot.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Eureka program: &lt;a class="reference external" href="http://www.eurostars-eureka.eu/"&gt;http://www.eurostars-eureka.eu/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Eurostars Eureka is our funding source since 2009. It is a
+cross-European funding collaboration that targets small firms which
+produce research.&lt;/em&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Antonio Cuni</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-13:europython-2011/pypy-in-production.html</guid><category>cpython</category><category>ctypes</category><category>cython</category><category>extensions</category><category>pypy</category><category>stackless</category></item><item><title>Python MapReduce Programming with Pydoop</title><link>http://pyvideo.org/europython-2011/python-mapreduce-programming-with-pydoop.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Simone Leo - 24 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Hadoop is the leading open source implementation of MapReduce, Google's
+large scale distributed computing paradigm. Hadoop's native API is in
+Java, and its built-in options for Python programming - Streaming and
+Jython - have several drawbacks: the former allows to access only a
+small subset of Hadoop's features, while the latter carries with it all
+of the limitations of Jython with respect to CPython.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pydoop.sourceforge.net"&gt;Pydoop&lt;/a&gt; is an API for Hadoop that
+makes most of its features available to Python programmers while
+allowing CPython development. Its core consists of Boost.Python wrappers
+for Hadoop's C/C++ interface.&lt;/p&gt;
+&lt;p&gt;The talk consists of a MapReduce/Hadoop tutorial and a presentation of
+the Pydoop API, with the main goal of bridging the gap between the
+Hadoop and Python communities. A basic knowledge of distributed
+programming is helpful but not strictly required.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simone Leo</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-13:europython-2011/python-mapreduce-programming-with-pydoop.html</guid><category>api</category><category>cpython</category><category>distributed</category><category>hadoop</category><category>jython</category><category>mapreduce</category><category>tutorial</category></item><item><title>The development process of Python</title><link>http://pyvideo.org/europython-2011/the-development-process-of-python.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Ezio Melotti - 24 June 2011 in &amp;quot;Track Ravioli &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python is an open source language, where everyone can contribute, and
+thanks to Mercurial now it's even easier. With this talk I want to
+unveil what happens &amp;quot;behind the scenes&amp;quot; of CPython and how you can get
+involved and be part of the open source community that allows Python to
+be one of the most popular programming languages.&lt;/p&gt;
+&lt;p&gt;I will explain:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;what is the workflow of the CPython development;&lt;/li&gt;
+&lt;li&gt;how to get a clone of Python;&lt;/li&gt;
+&lt;li&gt;how to use Mercurial to do all the most common operations;&lt;/li&gt;
+&lt;li&gt;what is the structure of the main CPython repository;&lt;/li&gt;
+&lt;li&gt;what other are repositories are used;&lt;/li&gt;
+&lt;li&gt;how to use the bug tracker to report and find bugs;&lt;/li&gt;
+&lt;li&gt;how to use remote Mercurial repos to contribute code;&lt;/li&gt;
+&lt;li&gt;what tools are used;&lt;/li&gt;
+&lt;li&gt;how to get in touch with the core developers;&lt;/li&gt;
+&lt;li&gt;what are the plans for the future.&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ezio Melotti</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-13:europython-2011/the-development-process-of-python.html</guid><category>community</category><category>contribute</category><category>cpython</category><category>mercurial</category><category>workflow</category></item><item><title>How Python Evolves (and How You Can Help Make It Happen)</title><link>http://pyvideo.org/pycon-au-2011/how-python-evolves-and-how-you-can-help-make-it.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The CPython reference interpreter lies at the heart of a much wider
+Python ecosystem. The decisions that shape the future development of
+CPython ripple out and have a broad impact on the entire Python
+community. This talk covers the special place CPython occupies in the
+broader Python community, how the decisions that affect CPython's
+development are made, and how new developers can become involved in that
+process..&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Nick Coghlan</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-08-22:pycon-au-2011/how-python-evolves-and-how-you-can-help-make-it.html</guid><category>cpython</category></item><item><title>State of CPython and Python Ecosystem</title><link>http://pyvideo.org/pycon-au-2011/state-of-cpython-and-python-ecosystem.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This a high level overview of the State of CPython interpreter and other
+python interpreters. The talk will mention about the
+&amp;amp;nbsp_place_holder;changes in 3.2 release and changes coming up in 3.3
+release and status of Python2.7. It will also give the details of
+current state of PyPy Project, IronPython project and Jython Project..&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Senthil Kumaran</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-08-22:pycon-au-2011/state-of-cpython-and-python-ecosystem.html</guid><category>cpython</category><category>ironpython</category><category>jython</category><category>pypy</category></item><item><title>Keynote: State of CPython</title><link>http://pyvideo.org/pycon-us-2010/keynote-state-of-cpython.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Uses the Twitter feed for PyCon and a floor mic for a Q&amp;amp;A; session
+covering the state of CPython and what's in the future.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Guido van Rossum</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/keynote-state-of-cpython.html</guid><category>cpython</category><category>pycon</category><category>pycon2010</category></item><item><title>Optimizations And Micro-Optimizations In CPython (#38)</title><link>http://pyvideo.org/pycon-us-2010/pycon-2010--optimizations-and-micro-optimizations.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Optimizations and Micro-Optimizations in CPython&lt;/p&gt;
+&lt;p&gt;Presented by Mr. Larry Hastings&lt;/p&gt;
+&lt;p&gt;CPython mostly gets faster from one version to the next. And when
+CPython gets faster, your programs get faster. This talk is a survey of
+optimizations made to CPython, recent and historical, large and small.
+Audience doesn't need to be familiar with CPython internals, but should
+be familiar with Python and conversant in C.&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: Audio interference]&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Larry Hastings</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--optimizations-and-micro-optimizations.html</guid><category>cpython</category><category>optimization</category><category>pycon</category><category>pycon2010</category></item><item><title>Plenary: Friday Evening Lightning Talks</title><link>http://pyvideo.org/pycon-us-2010/pycon-2010--plenary--friday-evening-lightning-tal.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Plenary: Friday Evening Lightning Talks&lt;/p&gt;
+&lt;p&gt;(00:00) Jacob Kaplan-Moss - lightning talk about lightning talks&lt;/p&gt;
+&lt;p&gt;(03:50) Van Lindberg - What an Open Source Lawyer Actually Does&lt;/p&gt;
+&lt;p&gt;(09:40) Greg Wilson - The Next Big Programming Book and How You Can Make
+it Happen (&lt;a class="reference external" href="http://www.third-bit.com/"&gt;http://www.third-bit.com/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(14:25) Moshe Zadka - Don't Write Big Applications (more info
+&lt;a class="reference external" href="http://moshez.wordpress.com/2010/02/17/dont-write-big-applications-a%20-lightning-talk/"&gt;here&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(19:35) Ned Batchelder - What's new in coverage.py
+(&lt;a class="reference external" href="http://nedbatchelder.com/"&gt;http://nedbatchelder.com/&lt;/a&gt;,
+&lt;a class="reference external" href="http://nedbatchelder.com/code/coverage/"&gt;coverage.py&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(25:10) Mike Maccana - Python Docx
+(&lt;a class="reference external" href="http://github.com/mikemaccana/python-docx/"&gt;http://github.com/mikemaccana/python-
+docx/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(29:25) Trent Mick - ActiveState Code v3/Python Cookbook v3
+(&lt;a class="reference external" href="http://code.activestate.com/"&gt;http://code.activestate.com/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(34:40) Daniel Holth - Writing a SQLAlchemy Dialect&lt;/p&gt;
+&lt;p&gt;(37:30) Dave Malcolm - Better Ways of Debugging the CPython Runtime&lt;/p&gt;
+&lt;p&gt;(43:00) David Huggins-Daines - Recognizing Speech With Python
+(&lt;a class="reference external" href="http://cmusphinx.sourceforge.net/"&gt;http://cmusphinx.sourceforge.net/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(48:00) Lucio Torre - Ubuntu One and Windows&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--plenary--friday-evening-lightning-tal.html</guid><category>activestate</category><category>bigapps</category><category>cmusphinx</category><category>coverage.py</category><category>cpython</category><category>lawyers</category><category>lightningtalks</category><category>programmingbook</category><category>pycon</category><category>pycon2010</category><category>python-cookbook</category><category>sqlalchemy</category><category>ubuntuone</category></item><item><title>The Ring of Python (#189)</title><link>http://pyvideo.org/pycon-us-2010/the-ring-of-python-189.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Ring of Python&lt;/p&gt;
+&lt;p&gt;Presented by holger krekel (merlinux gmbh)&lt;/p&gt;
+&lt;p&gt;CPython 2.5/2.6/3.1, Jython, IronPython, PyPy, StacklessPython,
+UnladenSwallow, Cython ... what do we make of all these cool interpreter
+projects and versions? Where does competition help and where does it
+hamper?&lt;/p&gt;
+&lt;p&gt;In this interactive talk I'll highlight the main strengths of each of
+the Python interpreters. Furthermore, I'll discuss ways to leverage
+Python interpreters in a co-operative way, discuss challenges, projects
+and issues ahead and also briefly highlight 'execnet', one my own
+projects for bridging (Any) Python to (Any) Python. This is also the
+first time i am going to try out a new and funvisual presentation
+technique after several years of having done mostly text-based ones&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Holger Krekel</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/the-ring-of-python-189.html</guid><category>cpython</category><category>cython</category><category>ironpython</category><category>jython</category><category>pycon</category><category>pycon2010</category><category>pypy</category><category>stackless</category><category>unladenswallow</category></item><item><title>Panel: Python VMs</title><link>http://pyvideo.org/pycon-us-2011/panel-python-vms.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Panel: Python VMs&lt;/p&gt;
+&lt;p&gt;Presented by Jacob Kaplan-Moss, Brett Cannon, Maciej Fijalkowski, Frank
+Wierzbicki, Dino Viehland&lt;/p&gt;
+&lt;p&gt;Python is lucky enough to have a healthy ecosystem of virtual machines
+(VMs) exist. CPython, Jython, IronPython, and PyPy are all used
+extensively by people in real-world situations. This panel brings
+together a representative from each of the major VMs to discuss where
+they are now, going in the future, and to answer questions from the
+community.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;All four major Python VMs will be represented:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://python.org/"&gt;CPython&lt;/a&gt;: Brett Cannon&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.jython.org/"&gt;Jython&lt;/a&gt;: Frank Wierzbicki&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://ironpython.net/"&gt;IronPython&lt;/a&gt;: Dino Viehland&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://pypy.org/"&gt;PyPy&lt;/a&gt;: Maciej Fijalkowski Moderation will be
+handled by Jacob Kaplan-Moss of Django.&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brett Cannon</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/panel-python-vms.html</guid><category>cpython</category><category>ironpython</category><category>jython</category><category>pycon</category><category>pycon2011</category><category>pypy</category></item><item><title>"Dude, Where's My RAM?" - A deep dive into how Python uses memory</title><link>http://pyvideo.org/pycon-us-2011/pycon-2011---quot-dude--where--39-s-my-ram--quot-.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&amp;quot;Dude, Where's My RAM?&amp;quot; - A deep dive into how Python uses memory&lt;/p&gt;
+&lt;p&gt;Presented by Dave Malcolm&lt;/p&gt;
+&lt;p&gt;This talk will give a deep dive into how CPython uses memory. I'll be
+demonstrating a new tool I've written that analyses CPython's memory
+usage, and offer hints and tips on how you can reduce the memory
+footprint of your Python programs.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Is your Python program using too much memory? This talk will give a deep
+dive into how CPython uses memory - starting from objects in your Python
+code, down through the various implementations layers, eventually
+reaching actual hardware.&lt;/p&gt;
+&lt;p&gt;In particular, I'll be demonstrating a new tool I've written that can
+track CPython's memory usage down to the level of individual bytes, and
+offer hints and tips on how you can reduce the memory footprint of your
+Python programs.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dave Malcolm</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011---quot-dude--where--39-s-my-ram--quot-.html</guid><category>cpython</category><category>memory</category><category>pycon</category><category>pycon2011</category></item><item><title>API Design: Lessons Learned</title><link>http://pyvideo.org/pycon-us-2011/pycon-2011--api-design--lessons-learned.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;API lessons learned from a decade of core Python development.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Share the lessons learned from a decade of core Python development, what
+worked and what didn't. Look at the development process and thinking
+behind some of Python's successful APIs and ones that leave something to
+be desired. Learn general principles for designing a good API for public
+consumption.&lt;/p&gt;
+&lt;p&gt;Hear the story and principles behind the design of Python's &amp;quot;in&amp;quot;
+operator, the development of deques, and the evolution of the set API.&lt;/p&gt;
+&lt;p&gt;Examine the principles and story behind the development of the named
+tuple API. Learn about unforeseen use cases and a bug that made it to
+production.&lt;/p&gt;
+&lt;p&gt;Discuss the decimal module's API challenge -- adhering to a published
+standard. Talk about the Queue module's framework style and how the API
+was refactored.&lt;/p&gt;
+&lt;p&gt;Discuss what we've learned about naming functions and methods. Look at
+the i-naming convention in itertools, camelcase oddities, the proposed
+Italian name for enumerate, and vaguely named methods like
+assertItemsEqual.&lt;/p&gt;
+&lt;p&gt;Learn about Guido's ideas on when to add flags to method signatures.
+Recap his thoughts on the problems with the percent formatting operator.
+Then hear Raymond's advice on packaging, hierarchies, and nested name
+spaces.&lt;/p&gt;
+&lt;p&gt;See how to use documentation to mitigate API problems using examples
+from regular expressions, decimal, tokenize, sorting.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--api-design--lessons-learned.html</guid><category>api</category><category>apidesign</category><category>cpython</category><category>pycon</category><category>pycon2011</category></item><item><title>Friday Afternoon Lightning Talks</title><link>http://pyvideo.org/pycon-us-2011/pycon-2011--friday-afternoon-lightning-talks.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Friday afternoon lightning talks&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Friday afternoon lightning talks&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;00:00 Paul Smith - Raising money for Japan&lt;/li&gt;
+&lt;li&gt;02:24 Jeff Daily - The Global Arrays Parallel Programming Toolkit&lt;/li&gt;
+&lt;li&gt;08:30 Matt Harrison - My insecurity problem&lt;/li&gt;
+&lt;li&gt;13:10 Pete Fein - Hacking for Freedom&lt;/li&gt;
+&lt;li&gt;18:40 Robert Brewer - logging.statistics&lt;/li&gt;
+&lt;li&gt;27:30 Nathan Nichols - Lessons Learned Writing DSLs for Automated
+Content Generation&lt;/li&gt;
+&lt;li&gt;33:15 Giles Thomas - Why Resolver switched from IronPython to CPython
+japan, qtile, pyparsing, logging.statistics, resolver, cpython,
+ironpython&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--friday-afternoon-lightning-talks.html</guid><category>cpython</category><category>ironpython</category><category>japan</category><category>logging.statistics</category><category>pycon</category><category>pycon2011</category><category>pyparsing</category><category>qtile</category></item><item><title>The Development of Python and You</title><link>http://pyvideo.org/pycon-us-2011/pycon-2011--the-development-of-python-and-you.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Development of Python and You&lt;/p&gt;
+&lt;p&gt;Presented by Brian Curtin&lt;/p&gt;
+&lt;p&gt;Have an inside look at what it takes to work on CPython, from getting
+setup with the source and navigating the bug tracker, to the best
+practices for having your work accepted. We'll find, categorize, and fix
+an issue in Python to get you started. This talk is ideal for those who
+are new to open source projects or are interested in the Python
+development process.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;People from all backgrounds, users of all platforms, and developers of
+all levels are necessary in the development of Python. From writing code
+to documentation, it takes all kinds of people to make an impact. If
+you've used Python, we need you, and what better place to get involved
+than at PyCon?&lt;/p&gt;
+&lt;p&gt;2010 saw a rise in the number of contributors to CPython, and the PSF
+stepped in to support the efforts of those wanting to get involved. Are
+you up for the challenge? This talk dives right into what it takes to
+get involved, covering the who, what, where, when, and why of Python
+development, going through the whole process live.&lt;/p&gt;
+&lt;p&gt;After the conference is over, stick around with the CPython crew and
+hack away!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Brian Curtin</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--the-development-of-python-and-you.html</guid><category>coredev</category><category>cpython</category><category>development</category><category>gettinginvolved</category><category>pycon</category><category>pycon2011</category></item><item><title>The Python That Wasn't</title><link>http://pyvideo.org/pycon-us-2011/pycon-2011--the-python-that-wasn--39-t.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Python That Wasn't&lt;/p&gt;
+&lt;p&gt;Presented by Larry Hastings&lt;/p&gt;
+&lt;p&gt;One reason for Python's success is its restraint in adding new language
+features. Only the most essential changes make it--and for every change
+that gets accepted, many more are rejected. Come learn about proposed
+changes to the Python language that failed--what, how, and why.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Quick overview of the process&lt;ul&gt;
+&lt;li&gt;First ten years: send GvR a patch&lt;/li&gt;
+&lt;li&gt;The modern approach: python-ideas, write a PEP, produce a
+reference implementation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Discuss the &amp;quot;prickly&amp;quot; Python community&lt;ul&gt;
+&lt;li&gt;This is a good thing! Only the best ideas survive the python-dev
+gauntlet!&lt;/li&gt;
+&lt;li&gt;They do this not because they're mean, but because they care so
+much.&lt;/li&gt;
+&lt;li&gt;We must have eternal vigilance to prevent unnecessary changes!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A survey of some changes that didn't make it&lt;ul&gt;
+&lt;li&gt;The switch/case statement (PEP 3103)&lt;/li&gt;
+&lt;li&gt;The &amp;quot;freeze protocol&amp;quot; (PEP 351)&lt;/li&gt;
+&lt;li&gt;The &amp;quot;dynamic attribute access&amp;quot; proposal from python-dev, 2007/02&lt;/li&gt;
+&lt;li&gt;Many more possibilities await in the rejected PEPs!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;My message to the audience&lt;ul&gt;
+&lt;li&gt;Start with a post to python-ideas, please!&lt;/li&gt;
+&lt;li&gt;Don't be surprised if you get a negative reaction&lt;/li&gt;
+&lt;li&gt;Don't let your fear of a negative reaction stop you from trying,
+necessarily&lt;/li&gt;
+&lt;li&gt;Do your homework, and be your own worst critic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Larry Hastings</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--the-python-that-wasn--39-t.html</guid><category>coredev</category><category>cpython</category><category>makingsausage</category><category>pycon</category><category>pycon2011</category></item></channel></rss>

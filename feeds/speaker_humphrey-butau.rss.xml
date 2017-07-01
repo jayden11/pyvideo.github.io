@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 06 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>Introduction to Test Driven Development with Python</title><link>http://pyvideo.org/pycon-za-2016/introduction-to-test-driven-development-with-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Test driven development is a method of programming that has been talked
+about considerably over the past few years. It is a way of programming
+that aims to achieve good quality code, by specifying your problems
+through writing tests first.&lt;/p&gt;
+&lt;p&gt;In my tutorial i will introduce the core concepts of TDD through
+creating a simple web application using Python &amp;amp; Django. I will explain
+in detail the TDD workflow. Attendees to this tutorial will be
+introduced to functional testing with Selenium and to unit testing with
+the Python Standard Library`s unittest Module.&lt;/p&gt;
+&lt;p&gt;My tutorial is aimed at beginners to Test Driven Development. I expect
+attendees to have some familiarity with python and Django.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Humphrey Butau</dc:creator><pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-06:pycon-za-2016/introduction-to-test-driven-development-with-python.html</guid></item></channel></rss>

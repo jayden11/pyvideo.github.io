@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 21 Jul 2011 00:00:00 +0000</lastBuildDate><item><title>How to build complex web applications having fun?</title><link>http://pyvideo.org/europython-2011/how-to-build-complex-web-applications-having-fun.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Andrew Mleczko - 22 June 2011 in &amp;quot;Track Ravioli &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Web development is a complexity challenge nowadays. Growing number of
+functionalities results in customer expectations increase which makes
+project design more difficult. Using proper tools that suite your
+customer needs is essential.&lt;/p&gt;
+&lt;p&gt;In this talk I would like to present two successful stories using
+closely together Pyramid and Plone. Basing on these examples I wished to
+highlight the main reasons for using Plone as a CMS only and letting
+Pyramid do the rest (vertical application). Moreover, I will underscore
+good and bad practices during integration process and how to make
+farsighted architectural decisions in a right moment.&lt;/p&gt;
+&lt;p&gt;Prerequisites: be familiarized with common python web framework
+concepts.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andrew Mleczko</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-21:europython-2011/how-to-build-complex-web-applications-having-fun.html</guid><category>cms</category><category>design</category><category>framework</category><category>plone</category><category>pyramid</category><category>rest</category><category>web</category></item></channel></rss>

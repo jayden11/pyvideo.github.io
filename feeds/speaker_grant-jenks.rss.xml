@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Tue, 31 May 2016 00:00:00 +0000</lastBuildDate><item><title>Python Sorted Collections</title><link>http://pyvideo.org/pycon-us-2016/grant-jenks-python-sorted-collections-pycon-2016.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Grant Jenks&lt;/p&gt;
+&lt;p&gt;C++, Java, and .NET provide sorted collections types. Wish Python did too? Look around and you'll find Pandas DataFrame indexes, Sqlite in-memory databases, even redis-py sorted set commands. The SortedContainers module was designed to fill this gap with sorted list, dict and set implementations. It's written in pure-Python but generally faster than C-extension modules. Come see how it works.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Grant Jenks</dc:creator><pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-05-31:pycon-us-2016/grant-jenks-python-sorted-collections-pycon-2016.html</guid></item><item><title>Lightning Talks</title><link>http://pyvideo.org/djangocon-2015/djangocon-2015-lightning-talks.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Lightning Talks&lt;/p&gt;
+&lt;p&gt;Ricardo Ferraz Leal &amp;quot;Leveraging Neutron Sciences with Django&amp;quot;&lt;/p&gt;
+&lt;p&gt;Grant Jenks &amp;quot;Python Sorted Containers Module&amp;quot;&lt;/p&gt;
+&lt;p&gt;Tracy Osborn &amp;quot;Hello Web App Kickstarter Campaign&amp;quot;&lt;/p&gt;
+&lt;p&gt;Dan Dietz &amp;quot;Fabric Bolt&amp;quot;&lt;/p&gt;
+&lt;p&gt;Andrew Godwin &amp;quot;Channels Everywhere&amp;quot;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ricardo Ferraz Leal</dc:creator><pubDate>Fri, 18 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-18:djangocon-2015/djangocon-2015-lightning-talks.html</guid></item></channel></rss>

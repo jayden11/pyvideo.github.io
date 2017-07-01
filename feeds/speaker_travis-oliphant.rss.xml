@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Mon, 08 Aug 2016 00:00:00 +0000</lastBuildDate><item><title>Numba: Flexible analytics written in Python with machine code speeds and avoiding</title><link>http://pyvideo.org/pydata-seattle-2015/numba-flexible-analytics-written-in-python-with-machine-code-speeds-and-avoiding.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this talk we will discuss the current state of Numba and how it can be used to accelerate performance and build analytics in Python with machine-code speeds and on multiple threads. Numba has improved dramatically over the past year and we will discuss what it can do and features coming in the future.&lt;/p&gt;
+&lt;p&gt;Slides available here: &lt;a class="reference external" href="http://www.slideshare.net/PyData/numba-flexible-analytics-written-in-python-with-machinecode-speeds-and-avoiding-the-gil-travis-oliphant"&gt;http://www.slideshare.net/PyData/numba-flexible-analytics-written-in-python-with-machinecode-speeds-and-avoiding-the-gil-travis-oliphant&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Travis Oliphant</dc:creator><pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-07-26:pydata-seattle-2015/numba-flexible-analytics-written-in-python-with-machine-code-speeds-and-avoiding.html</guid></item><item><title>Keynotes: Scaling PyData Up and Out with Anaconda</title><link>http://pyvideo.org/pycon-israel-2016/keynotes-scaling-pydata-up-and-out-with-anaconda.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Slides available here: &lt;a class="reference external" href="http://il.pycon.org/2016/static/sessions/travis-oliphant.pdf"&gt;http://il.pycon.org/2016/static/sessions/travis-oliphant.pdf&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Travis Oliphant</dc:creator><pubDate>Mon, 08 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-08:pycon-israel-2016/keynotes-scaling-pydata-up-and-out-with-anaconda.html</guid></item><item><title>Scaling Out PyData</title><link>http://pyvideo.org/pydata-london-2016/travis-oliphant-keynote-scaling-out-pydata.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData London 2016&lt;/p&gt;
+&lt;p&gt;Slides available here: &lt;a class="reference external" href="http://www.slideshare.net/teoliphant/scaling-pydata-up-and-out"&gt;http://www.slideshare.net/teoliphant/scaling-pydata-up-and-out&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Travis Oliphant</dc:creator><pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-05-09:pydata-london-2016/travis-oliphant-keynote-scaling-out-pydata.html</guid><category>keynote</category></item><item><title>Python in Big Data with an overview of NumPy &amp; SciPy</title><link>http://pyvideo.org/pydata/python-in-big-data-with-an-overview-of-numpy-sc.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Travis Oliphant, CEO of Continuum Analytics, kicks off the PyData
+Workshop with a talk on Python in Big Data. Topics addressed include
+what Python has to offer the world of Big Data, specific use-cases, as
+well asking why Hadoop is considered the de-facto standard.&lt;/p&gt;
+&lt;p&gt;Additionally, Travis gives an overview of NumPy and SciPy.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Travis Oliphant</dc:creator><pubDate>Fri, 02 Mar 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-03-02:pydata/python-in-big-data-with-an-overview-of-numpy-sc.html</guid><category>hadoop</category><category>numpy</category><category>scipy</category></item><item><title>Building the PyData Community</title><link>http://pyvideo.org/pydata-berlin-2014/building-the-pydata-community.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Travis Oliphant</dc:creator><pubDate>Sun, 27 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-27:pydata-berlin-2014/building-the-pydata-community.html</guid></item><item><title>Packaging and Deployment</title><link>http://pyvideo.org/pydata-berlin-2014/packaging-and-deployment.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Travis Oliphant</dc:creator><pubDate>Sat, 26 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-26:pydata-berlin-2014/packaging-and-deployment.html</guid></item><item><title>Numba Python bytecode to LLVM translator</title><link>http://pyvideo.org/scipy-2012/numba-python-bytecode-to-llvm-translator.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Numba is a Python bytecode to LLVM translator that allows creation of
+fast, machine code from Python functions. The Low Level Virtual Machine
+(LLVM) project is rapidly becoming a hardware-industry standard for the
+intermediate representation (IR) of compiled codes. Numba's high-level
+translator to the LLVM IR provides Python the ability to take advantage
+of the machine code generated by the hardware manufacturers
+contributions to LLVM. Numba translates a Python function comprised of a
+subset of Python syntax to machine code using simple type inference and
+the creation of multiple machine-code versions. In this talk, I will
+describe the design of Numba, illustrate its applications to multiple
+domains and discuss the enhancements to NumPy and SciPy that can benefit
+from this tool.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jon Riehl</dc:creator><pubDate>Wed, 18 Jul 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-07-18:scipy-2012/numba-python-bytecode-to-llvm-translator.html</guid><category>hpc</category></item><item><title>Python's Role in Big Data Analytics: Past, Present, and...</title><link>http://pyvideo.org/europython-2014/pythons-role-in-big-data-analytics-past-presen.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python has had a long history in Scientific Computing which means it has
+had the fundamental building blocks necessary for doing Data Analysis
+for many years. As a result, Python has long played a role in scientific
+problems with the largest data sets. Lately, it has also grown in
+traction as a tool for doing rapid Data Analysis. As a result, Python is
+the center of an emerging trend that is unifying traditional High
+Performance Computing with &amp;quot;Big Data&amp;quot; applications. In this talk I will
+discuss the features of Python and its popular libraries that have
+promoted its use in data analytics. I will also discuss the features
+that are still missing to enable Python to remain competitive and useful
+for data scientists and other domain experts. Finally, will describe
+open source projects that are currently occupying my attention which can
+assist in keeping Python relevant and even essential in Data Analytics
+for many years to come.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Travis Oliphant</dc:creator><pubDate>Fri, 25 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-25:europython-2014/pythons-role-in-big-data-analytics-past-presen.html</guid></item><item><title>The Continuum Platform: Advanced Analytics and Web-based Interactive Visualization for Enterprises</title><link>http://pyvideo.org/europython-2014/the-continuum-platform-advanced-analytics-and-we.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The people at Continuum have been involved in the Python community for
+decades. As a company our mission is to empower domain experts inside
+enterprises with the best tools for producing software solutions that
+deal with large and quickly-changing data. The Continuum Platform brings
+the world of open source together into one complete, easy-to-manage
+analytics and visualization platform. In this talk, Dr. Oliphant will
+review the open source libraries that Continuum is building and
+contributing to the community as part of this effort, including Numba,
+Bokeh, Blaze, conda, llvmpy, PyParallel, and DyND, as well as describe
+the freely available components of the Continuum Platform that anyone
+can benefit from today: Anaconda, wakari.io, and binstar.org.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Travis Oliphant</dc:creator><pubDate>Thu, 24 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-24:europython-2014/the-continuum-platform-advanced-analytics-and-we.html</guid></item><item><title>High Performance Python II</title><link>http://pyvideo.org/pycon-us-2012/high-performance-python-ii.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In this tutorial, I will cover how to write very fast Python code for
+data analysis. I will briefly introduce NumPy and illustrate how fast
+code for Python is written in SciPy using tools like Fwrap / F2py and
+Cython. I will also describe interesting new approaches to creating fast
+code that is leading changes to NumPy on a fundamental level.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Travis Oliphant</dc:creator><pubDate>Thu, 08 Mar 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-03-08:pycon-us-2012/high-performance-python-ii.html</guid></item><item><title>Numba: A Dynamic Python compiler for Science</title><link>http://pyvideo.org/pycon-us-2013/numba-a-dynamic-python-compiler-for-science.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Numba is a compiler for Python syntax that uses the LLVM library and
+llvmpy to convert specifically decorated Python functions to machine
+code at run-time. It allows Python syntax to be used to do scientific
+and numerical computing that is blazing fast yet tightly integrated with
+the CPython run-time.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mark Florisson</dc:creator><pubDate>Sat, 16 Mar 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-03-16:pycon-us-2013/numba-a-dynamic-python-compiler-for-science.html</guid><category>talk</category></item><item><title>Python for Data Analysis</title><link>http://pyvideo.org/pycon-us-2013/python-for-data-analysis.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python has long played a role in analyzing large scale data. From
+tightly-knit super-computers running MPI-based applications to
+heterogeneous clusters woven together with scripts, Python has had a
+role to play in making it easier to processes data. This tutorial will
+cover the tried and true techniques as well as introduce new trends.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benjamin Zaitlen</dc:creator><pubDate>Thu, 14 Mar 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-03-14:pycon-us-2013/python-for-data-analysis.html</guid><category>tutorial</category></item><item><title>Python beyond the CPU</title><link>http://pyvideo.org/pycon-us-2013/python-beyond-the-cpu.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Accelerators are the hottest tool in high performance computing but
+applicable to all fields. We present how to use Python's amazing ability
+to abstract away the low-level boiler-plate code turning accelerators
+from an exotic curiosity to a daily tool.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Andy Terrel</dc:creator><pubDate>Wed, 13 Mar 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-03-13:pycon-us-2013/python-beyond-the-cpu.html</guid><category>tutorial</category></item></channel></rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 07 Aug 2015 00:00:00 +0000</lastBuildDate><item><title>Multibody Simulation using sympy, scipy and vpython</title><link>http://pyvideo.org/europython-2015/multibody-simulation-using-sympy-scipy-and-vpython.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Oliver Braun - Multibody Simulation using sympy, scipy and vpython
+[EuroPython 2015]
+[20 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;The talk is about the implementation of multibody simulation in the
+scientific python world on the way to a stage usefull for engineering
+and educational purposes.
+Multibody simulation (MBS) requires two major steps: first the
+formulation of the specific mechanical problem. Second step is the
+integration of the resulting equations.
+For the first step we use the package sympy which is on a very
+advanced level to perform symbolic calculation and which supports
+already Lagrange's and Kane's formalism. The extensions we made are
+such that a complex mechanical setup can be formulated easily with
+several lines of python code. The functionality is analogous to well
+known MBS-tools, with that you can assemble bodies, joints, forces and
+constraints. Also external forces even in a cosimulation model can be
+added on top. The second step, the integration is done via ode-
+integrators implemented in scipy.
+Finally for visual validation the results are visualized with the
+vpython package and for further analytics with matplotlib.&lt;/p&gt;
+&lt;p&gt;Conclusion: not only highly constrained pendulums with many rods and
+springs but also driving simulation of passenger cars an be performed
+with our new extension using python packages off the shelf.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Oliver Braun</dc:creator><pubDate>Fri, 07 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-07:europython-2015/multibody-simulation-using-sympy-scipy-and-vpython.html</guid></item></channel></rss>

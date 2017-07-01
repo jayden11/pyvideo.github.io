@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_andrej-mosat.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-03-11T00:00:00+00:00</updated><entry><title>MicroPython</title><link href="http://pyvideo.org/pycon-sk-2016/micropython.html" rel="alternate"></link><published>2016-03-11T00:00:00+00:00</published><updated>2016-03-11T00:00:00+00:00</updated><author><name>Andrej Mošať</name></author><id>tag:pyvideo.org,2016-03-11:pycon-sk-2016/micropython.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Micropython is a minimal implementation of Python 3 on embedded
+processors like ARM, x86. It allows developers to quickly and
+effectively write code directly for hardware without the need for
+compiling.&lt;/p&gt;
+&lt;p&gt;The advantage of an interpreted language is mainly in removing the
+compilation time. Errors appear when executing the program, the response
+is immediate. The disadvantages include an increased demand for memory
+and unscheduled pause due to the garbage collector. I will introduce
+development platforms running interpreted languages, their advantages
+and disadvantages.&lt;/p&gt;
+&lt;p&gt;The main part of the lecture will be devoted to basic hardware
+development using examples such as switches, LEDs, potentiometers and
+interruptions.&lt;/p&gt;
+</summary></entry></feed>

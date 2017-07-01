@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 15 Jul 2016 00:00:00 +0000</lastBuildDate><item><title>Introduction to NumPy</title><link>http://pyvideo.org/scipy-2015/introduction-to-numpy.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Jones</dc:creator><pubDate>Wed, 08 Jul 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-07-08:scipy-2015/introduction-to-numpy.html</guid><category>tutorial</category></item><item><title>Integrating Scripting into Commercial Applications</title><link>http://pyvideo.org/scipy-2016/integrating-scripting-into-commercial-applications-scipy-2016-eric-jones.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Jones</dc:creator><pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-15:scipy-2016/integrating-scripting-into-commercial-applications-scipy-2016-eric-jones.html</guid><category>SciPy 2016</category></item><item><title>Introduction to NumPy and Matplotlib</title><link>http://pyvideo.org/scipy-2012/introduction-to-numpy-and-matplotlib.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;NumPy is the most fundamental package for scientific computing with
+Python. It adds to the Python language a data structure (the NumPy
+array) that has access to a large library of mathematical functions and
+operations, providing a powerful framework for fast computations in
+multiple dimensions. NumPy is the basis for all SciPy packages which
+extends vastly the computational and algorithmic capabilities of Python
+as well as many visualization tools like Matplotlib, Chaco or Mayavi.&lt;/p&gt;
+&lt;p&gt;This tutorial will teach students the fundamentals of NumPy, including
+fast vector-based calculations on numpy arrays, the origin of its
+efficiency and a short introduction to the matplotlib plotting library.
+In the final section, more advanced concepts will be introduced
+including structured arrays, broadcasting and memory mapping.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Jones</dc:creator><pubDate>Mon, 16 Jul 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-07-16:scipy-2012/introduction-to-numpy-and-matplotlib.html</guid></item></channel></rss>

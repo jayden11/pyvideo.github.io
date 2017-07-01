@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 28 May 2015 00:00:00 +0000</lastBuildDate><item><title>Data science in Python: pandas, seaborn, scikit-learn</title><link>http://pyvideo.org/data-school/scikit-learn-06-data-science-pipeline.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this video, we'll cover the data science pipeline from data ingestion (with pandas) to data visualization (with seaborn) to machine learning (with scikit-learn). We'll learn how to train and interpret a linear regression model, and then compare three possible evaluation metrics for regression problems. Finally, we'll apply the train/test split procedure to decide which features to include in our model.&lt;/p&gt;
+&lt;p&gt;This is the sixth video in the series, &lt;a class="reference external" href="http://www.dataschool.io/machine-learning-with-scikit-learn/"&gt;Introduction to machine learning with scikit-learn&lt;/a&gt;. The notebook and resources shown in the video are available on &lt;a class="reference external" href="https://github.com/justmarkham/scikit-learn-videos"&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kevin Markham</dc:creator><pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-05-28:data-school/scikit-learn-06-data-science-pipeline.html</guid><category>machine learning</category><category>data science</category><category>scikit-learn</category><category>tutorial</category><category>Data School</category><category>pandas</category><category>seaborn</category><category>linear regression</category><category>model evaluation</category><category>feature selection</category><category>visualization</category></item><item><title>PyGotham 2011: Intro to Data Visualization</title><link>http://pyvideo.org/pygotham-2011/pygotham-2011--intro-to-data-visualization.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Have lots of data? Want to turn it into pictures to help you better
+understand it or explain it to others? This session will address best
+practices for encoding information through design, and will look at a
+few ways of doing this in Python.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Julie Steele</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pygotham-2011/pygotham-2011--intro-to-data-visualization.html</guid><category>data</category><category>pygotham</category><category>pygotham2011</category><category>visualization</category></item><item><title>Bokeh: An Extensible Implementation of the Grammar of Graphics for Python</title><link>http://pyvideo.org/scipy-2012/bokeh-an-extensible-implementation-of-the-gramma.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Bokeh is a new plotting framework for Python that natively understands
+the relationships in multidimensional datasets, uses a Protovis-like
+expression syntax scheme for creating novel visualizations, and is
+designed from the ground up to be used on the web.&lt;/p&gt;
+&lt;p&gt;Although it can be thought of as &amp;quot;ggplot for Python&amp;quot;, the goals of Bokeh
+are much more ambitious. The Grammar of Graphics primarily addresses the
+mapping of pre-built aeshetics and layouts to a particular data schema
+and tuples of measure variables. It has limited facility for expressing
+data interactivity, and its small set of graph types (aka &amp;quot;geoms&amp;quot; or
+glyphs) are somewhat limited in both their number and in the number of
+ways they can be combined with one another.&lt;/p&gt;
+&lt;p&gt;On the flip side, most existing Python plotting frameworks adopt a &amp;quot;tell
+me how&amp;quot; instead of a &amp;quot;tell me what&amp;quot; approach. Thus, user plotting code
+canfrequently become mired down in what amounts to details of the
+rendering system.&lt;/p&gt;
+&lt;p&gt;In our talk, we will show various features of Bokeh, and talk about
+future development. We will also go into some detail about how Bokeh
+unifies the tasks of describing data mapping, building data-driven
+layout, and composing novel visualizations using a single, multi-purpose
+scene and data graph.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Hugo Shi</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-07-19:scipy-2012/bokeh-an-extensible-implementation-of-the-gramma.html</guid><category>visualization</category></item><item><title>Enaml - A Framework for Building Declarative User Interfaces</title><link>http://pyvideo.org/scipy-2012/enaml-a-framework-for-building-declarative-user.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;div class="section" id="overview"&gt;
+&lt;h4&gt;Overview&lt;/h4&gt;
+&lt;p&gt;Enaml is a new domain specific declarative language for specifying user
+interfaces in Python applications. Its syntax, a strict superset of the
+Python language, provides a clean and compact representation of UI
+layout and styling, and uses dynamic expressions to bind a view's logic
+with an application's underlying computational model.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="design-goals"&gt;
+&lt;h4&gt;Design Goals&lt;/h4&gt;
+&lt;p&gt;A number of considerations were given during the design of Enaml with
+the ultimate goal being the creation of a dynamic UI framework that has
+a low barrier of entry and can scale in complexity and capability
+according to the needs of the developer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Influence&lt;/strong&gt; Enaml improves upon existing technologies and ideas for
+specifying user interfaces. Much of Enaml's inspiration comes from Qt's
+QML, a declarative UI language derived from ECMAScript and designed
+specifically for developing mobile applications with the Qt toolkit. In
+contrast, Enaml is designed for the development of scientific and
+enterprise level applications, and makes use of a Python derived syntax
+and standard desktop-style widget elements. For layout, Enaml raises the
+bar by providing a system based on symbolic constraints. The underyling
+technology is the same which powers the Cocoa Auto-Layout system in OSX
+10.7, however in Enaml, the constraints are exposed in a friendly
+Pythonic fashion.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Toolkit Independence&lt;/strong&gt; In large projects, the costs of changing
+infrastructure can be extremely high. Instead of forcing an application
+to be tied to a single underlying toolkit, Enaml is designed to be
+completely toolkit agnostic. This decoupling provides the benefit of
+being able to migrate an entire project from one gui library to another
+by changing only a single line of code or setting an environment
+variable. Enaml currently supports both Qt (via Pyside or PyQt4) and
+WxPython backends with plans for HTML 5 in the future. The authoring of
+new toolkit backends has been designed to be a simple affair. Adding new
+or custom widgets to an existing toolkit is trivial.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Extensibility&lt;/strong&gt; A good framework should be useable by a wide variety
+of audiences and should be able to adapt to work with technologies not
+yet invented. Enaml can provide the UI layer for any Python application,
+with few limitations placed on the architecture of the underlying
+computational model. While Enaml understands Enthought's Traits based
+models by default, it provides simple hooks that the developer can use
+to extend its functionality to any model architecture that provides some
+form of notification mechanism. Possibilities include, but are not
+limited to, models built upon databases, sockets, and pub-sub
+mechanisms.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Continuity&lt;/strong&gt; No matter how easy it is to get started with a new
+framework, it will not be adopted if the cost of switching is
+exceedingly high. Enaml is positioned to become the next generation of
+TraitsUI, the user interface layer of the Traits library. Enaml can both
+include existing TraitsUI views in an application as well as itself be
+embedded within a TraitsUI. Enaml also interacts seamlessly with the
+Chaco plotting library, allowing easy integration of interactive
+graphics. Enaml cleanly exposes the toolkit specific objects that it
+manages, allowing a user with a large amount of toolkit specific code to
+continue to use that code with little or no changes. This provides a
+path forward for both TraitsUI and non-TraitsUI applications.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">S. Chris Colbert</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-07-19:scipy-2012/enaml-a-framework-for-building-declarative-user.html</guid><category>visualization</category></item><item><title>Interactive Visualization Widgets Using Chaco and Enable</title><link>http://pyvideo.org/scipy-2012/interactive-visualization-widgets-using-chaco-and.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Interactivity is an important part of computer visualization of data,
+but all too often the user interfaces to control the visualization are
+far from optimal. This talk will show how you can use the Enable and the
+Chaco to build interactive visualization widgets which give much better
+user feedback than sliders or text fields.&lt;/p&gt;
+&lt;p&gt;Chaco is an open-source interactive 2D plotting library that is part of
+the Enthought tool-suite, which is in turn built upon the Enable
+interactive 2D drawing library that are compatible with PyQt, WxPython,
+Pyglet and VTK. These libraries are written in Python and are key tools
+that Enthought uses to deliver scientific applications to our clients.&lt;/p&gt;
+&lt;p&gt;This talk will show how to use these tools to build UI widgets that can
+be used to control visualizations interactively. Rather than building a
+complex, monolithic control, the approach that we will demonstrate
+builds the control our of many smaller interactions, each controlling a
+small piece of the overall state of a visualization, with a high level
+of reusability.&lt;/p&gt;
+&lt;p&gt;As a simple but useful case-study, we'll show how we built an
+interactive histogram widget that can be use to adjust the brightness,
+contrast, gamma and other attributes of an image in real-time. We'll
+also discuss some of the tricks we used to keep the user interactions
+responsive in the face of having to visualize larger images.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Corran Webster</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-07-19:scipy-2012/interactive-visualization-widgets-using-chaco-and.html</guid><category>visualization</category></item><item><title>luban: a minimalist UI 'language'</title><link>http://pyvideo.org/scipy-2012/luban-a-minimalist-ui-language.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Luban (&lt;a class="reference external" href="http://lubanui.org"&gt;http://lubanui.org&lt;/a&gt;) is a python package for building user
+interface. With luban, one can easily create dynamic, ajax-based web
+interfaces behaving like desktop UI using pure python: no knowledge of
+html and javascript is required.&lt;/p&gt;
+&lt;p&gt;Luban is different from any existing web frameworks in philosophy: it
+provides a generic specification &amp;quot;language&amp;quot; for describing user
+interface, and a luban specification of user interface can be
+automatically rendered into web or native user interfaces using
+media-specific languages.&lt;/p&gt;
+&lt;p&gt;Luban is focused on providing a simple, easy-to-understand syntax to
+describe user interfaces, and hence allows users to focus more on the
+business logic needed behind user interfaces.&lt;/p&gt;
+&lt;p&gt;In this talk I will discuss recent developments of luban and some of its
+applications.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jiao Lin</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-07-19:scipy-2012/luban-a-minimalist-ui-language.html</guid><category>visualization</category></item><item><title>Python's role in VisIt</title><link>http://pyvideo.org/scipy-2012/pythons-role-in-visit.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;VisIt is an open source, turnkey application for scientific data
+analysis and visualization that runs on a wide variety of platforms from
+desktops to petascale class supercomputers. This talk will provide an
+overview of Python’s role in VisIt with a focus on use cases of scripted
+rendering, data analysis, and custom application development.&lt;/p&gt;
+&lt;p&gt;Python is the foundation of VisIt’s primary scripting interface, which
+is available from both a standard python interpreter and a custom
+command line client. The interface provides access to all features
+available through VisIt’s GUI. It also includes support for macro
+recording of GUI actions to python snippets and full control of
+windowless batch processing.&lt;/p&gt;
+&lt;p&gt;While Python has always played an important scripting role in VisIt, two
+recent development efforts have greatly expanded VisIt’s python
+capabilities:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;We recently enhanced VisIt by embedding python interpreters into our
+data flow network pipelines. This provides fine grained access,
+allowing users to write custom algorithms in python that manipulate
+mesh data via VTK’s python wrappers and leverage packages such as
+numpy and scipy. Current support includes the ability to create
+derived mesh quantities and execute data summarization operations.&lt;/li&gt;
+&lt;li&gt;We now support custom GUI development using Qt via PySide. This
+allows users to embed VisIt’s visualization windows into their own
+python applications. This provides a path to extend VisIt’s existing
+GUI and for rapid development of streamlined GUIs for specific use
+cases.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The ultimate goal of this work is to evolve Python into a true peer to
+our core C++ plugin infrastructure.&lt;/p&gt;
+&lt;p&gt;This work performed under the auspices of the U.S. Department of Energy
+by Lawrence Livermore National Laboratory under Contract
+DE-AC52-07NA27344 (LLNL- ABS-552316).&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cyrus Harrison</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-07-19:scipy-2012/pythons-role-in-visit.html</guid><category>visualization</category></item><item><title>Surface Subdivision Schemes for Python</title><link>http://pyvideo.org/scipy-2012/surface-subdivision-schemes-for-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;There exist two very powerful geometric surface subdivision schemes that
+do not yet exist for python users: Catmul-Clark subdivision surfaces,
+and Nira Dyn's Butterfly subdivision surface scheme. These schemes are
+useful in creating C2-continuous (under ideal conditions) surfaces from
+a control mesh of points. The later scheme interpolates the control mesh
+points, which makes it useful for scientific applications.&lt;/p&gt;
+&lt;p&gt;We plan on providing some background on the schemes detailing usecases
+and visualizing the results. We also plan on discussing the various
+techniques we use to overcome performance bottlenecks
+(numpy/cython/etc.)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Stephen McQuay</dc:creator><pubDate>Thu, 19 Jul 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-07-19:scipy-2012/surface-subdivision-schemes-for-python.html</guid><category>visualization</category></item><item><title>Visualization and Analysis of Large Scale Datasets with Python</title><link>http://pyvideo.org/europython-2011/visualization-and-analysis-of-large-scale-dataset.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Christine Moran - 23 June 2011 in &amp;quot;Training Pizza
+Margherita &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this talk I will introduce ParaView, an open source application
+developed by researchers around the world for parallel visualization and
+analysis of large scale datasets, which in can be used to visualize and
+analyze terabytes of data in real time. ParaView’s core algorithms are
+implemented in C/C++ but all its major functionality can be scripted
+from python with ease. I’ll give a short introduction to AstroViz, a
+parallel visualization tool for astrophysical simulations implemented as
+an opensource plugin to ParaView, which I have been lead developer on
+since 2009. The focus of the talk will be on driving ParaView from
+within python however, both general out of the box use and customized
+extensions.&lt;/p&gt;
+&lt;p&gt;I also have access to several parallel supercomputers so if there’s a
+huge dataset we as a crowd would like to tackle visualizing during the
+course of the week that would be fun project. The end of the talk will
+be a short brainstorm of cool applications of analysis and visualization
+of large scale datasets.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.paraview.org/"&gt;http://www.paraview.org/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christine Moran</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-21:europython-2011/visualization-and-analysis-of-large-scale-dataset.html</guid><category>analysis</category><category>datasets</category><category>opensource</category><category>parallel</category><category>simulations</category><category>visualization</category></item><item><title>Continuum Data Analytics Stack</title><link>http://pyvideo.org/pycon-de-2013/continuum-data-analytics-stack.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Continuum Analytics bietet mit Anaconda Accelerate eine kommerzielle,
+skalierbare und unternehmenstaugliche Python-Distribution. Diese basiert
+auf der beliebten Open Source Distribution Anaconda.&lt;/p&gt;
+&lt;p&gt;Gegenüber der freien Distribution verfügt Accelerate über Bibliotheken
+wie NumbaPro oder IOPro, die eine nachhaltige Beschleunigung von
+typischen Data Analytics Aufgaben mit Python erlauben.&lt;/p&gt;
+&lt;p&gt;Bokeh, eine Open Source Bibliothek, etabliert einen neuen Standard für
+die interaktive, Web-basierte Visualisierung von großen Datenmengen.&lt;/p&gt;
+&lt;p&gt;Der Talk illustriert die Leistungsfähigkeit des &amp;quot;Continuum Data
+Analytics Stack&amp;quot; an Hand einer Reihe von praxisnahen Beispielen, z.B.
+aus dem Finanzumfeld, und gewährt auch einen Einblick in aktuelle sowie
+geplante Entwicklungen und Erweiterungen.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Dr. Yves J. Hilpisch</dc:creator><pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-17:pycon-de-2013/continuum-data-analytics-stack.html</guid><category>data analytics</category><category>financial analytics</category><category>python</category><category>visualization</category></item></channel></rss>

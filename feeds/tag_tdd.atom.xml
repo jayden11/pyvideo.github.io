@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_tdd.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-06-09T00:00:00+00:00</updated><entry><title>Outside-In TDD</title><link href="http://pyvideo.org/pycon-us-2016/harry-percival-outside-in-tdd-pycon-2016.html" rel="alternate"></link><published>2016-06-09T00:00:00+00:00</published><updated>2016-06-09T00:00:00+00:00</updated><author><name>Harry Percival</name></author><id>tag:pyvideo.org,2016-06-09:pycon-us-2016/harry-percival-outside-in-tdd-pycon-2016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Harry Percival&lt;/p&gt;
+&lt;p&gt;An intermediate-level Test-Driven-Development workshop, presented as a hands-on exploration of &amp;quot;&amp;quot;outside-in&amp;quot;&amp;quot; TDD, in the style of a code-dojo code kata.  Will include discussion of &amp;quot;&amp;quot;double-loop&amp;quot;&amp;quot; BDD/TDD, outside-in vs inside-out, a detailed discussion of the pros + cons of mocking, test isolation, letting the tests drive design, and what are tests for anyway?&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</summary><category term="testing"></category><category term="tdd"></category><category term="Django"></category><category term="bdd"></category></entry><entry><title>Michael Dunstan - Testing Demo</title><link href="http://pyvideo.org/kiwi-pycon-2009/michael-dunstan---testing-demo.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Michael Dunstan</name></author><id>tag:pyvideo.org,1990-01-01:kiwi-pycon-2009/michael-dunstan---testing-demo.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Testing Demo&lt;/p&gt;
+&lt;p&gt;Presented by Michael Dunstan&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Live demo of writing code and tests.&lt;/p&gt;
+&lt;p&gt;Outline&lt;/p&gt;
+&lt;p&gt;This live demo is intended for people that have not seen test driven
+development in action before. See what a failing test should look like.
+And then I'll attempt to write some code to make that test pass so that
+you can see what a successful test run looks like - I may need some help
+from the audience at that point. Along the way you'll see various
+features of the test framework 'nose' in action and even some doctests.
+This will be a second attempt of the stunt first performed:
+&lt;a class="reference external" href="http://nzpug.org/MeetingsAuckland/August2009"&gt;http://nzpug.org/MeetingsAuckland/Augus
+t2009.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Slides: &lt;a class="reference external" href="http://www.slideshare.net/michaeldunstan/testing-%20workshop-2455697"&gt;http://www.slideshare.net/michaeldunstan/testing-
+workshop-2455697&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]&lt;/p&gt;
+</summary><category term="doctests"></category><category term="kiwipycon"></category><category term="kiwipycon2009"></category><category term="tdd"></category><category term="testing"></category></entry><entry><title>Behaviour Driven Development</title><link href="http://pyvideo.org/pycon-au-2011/behaviour-driven-development.html" rel="alternate"></link><published>2011-08-22T00:00:00+00:00</published><updated>2011-08-22T00:00:00+00:00</updated><author><name>Malcolm Tredinnick</name></author><id>tag:pyvideo.org,2011-08-22:pycon-au-2011/behaviour-driven-development.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Writing software in an organisation or for ourselves, many people feel
+that they &amp;quot;should&amp;quot; somehow be doing Test Driven Development (TDD)
+because &amp;quot;everybody else&amp;quot; is and it's cool, somewhere between necessary
+and useful and they heard testing was good. When informed that must of
+TDD isn't about testing (despite the name!), confusion reigns. Behaviour
+Driven Development is a different way of approaching the &amp;quot;how to
+validate your code&amp;quot; problem.&lt;/p&gt;
+</summary><category term="tdd"></category><category term="testing"></category></entry><entry><title>Continuous deployment</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--continuous-deployment.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Laurens Van Houtven</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--continuous-deployment.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Continuous deployment&lt;/p&gt;
+&lt;p&gt;Presented by Laurens Van Houtven&lt;/p&gt;
+&lt;p&gt;This talk is about continuous deployment practices and tools, lessons
+learned from implementing it, and putting them into perspective. The
+goal is to give other people tips and pointers for applying these ideas
+themselves.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Continuous deployment is the practice of putting the latest revision of
+software into production use all the time, as opposed to working towards
+larger releases. The important difference is iteration time: whereas
+large software packages produce new software in timeframes of years or
+months, continuous deployment teams typically put new code into
+production in timeframes of hours or less.&lt;/p&gt;
+&lt;p&gt;The practice is slowly attracting a small but growing group of loyal
+followers, just like continuous integration over the past few years and
+test- driven development did before that. They can be explained in terms
+of being natural extensions of each other. Like TDD and CI, CD gets eyed
+somewhat suspiciously (and rightfully so: skeptical analysis is great),
+but the undersigned believes there's a legitimate advantage for many
+applications.&lt;/p&gt;
+&lt;p&gt;Many years ago, TTD and testing tools in general were mostly ad-hockery.
+Now, with many different production-quality testing tools, this has
+become unthinkable. Similarly, continuous integration was something
+other people did for a long time, but now we have tools such as Buildbot
+and Hudson. Continuous deployment is still somewhat in the early stage
+in terms of ready-to-use tools, but it's likely that we'll see a similar
+evolution.&lt;/p&gt;
+&lt;p&gt;Here's a rough outline of what I plan to cover:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;a short history of people developed software&lt;/li&gt;
+&lt;li&gt;from the recent models to CD (sort of a working definition of CD
+here)&lt;/li&gt;
+&lt;li&gt;when is it a good idea? pros/cons&lt;/li&gt;
+&lt;li&gt;requirements &amp;amp; battle plan for applying CD in an existing development
+environment (and possibly code base)&lt;/li&gt;
+&lt;li&gt;an overview of existing tools and how they work together&lt;/li&gt;
+&lt;li&gt;caveat emptors, known pitfalls (deployment and recovery strategies go
+here, since most implementations figure out they need them after
+stuff blows up)&lt;/li&gt;
+&lt;li&gt;questions! (hopefully lots of people who've tried or are thinking
+about implementing something similar -- like I said, there are a lot
+of people implementing it but not too many ideas being bounced
+around)&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="cd"></category><category term="ci"></category><category term="continuousdeployment"></category><category term="deployment"></category><category term="pycon"></category><category term="pycon2011"></category><category term="softwaredevelopment"></category><category term="tdd"></category><category term="workflow"></category></entry></feed>

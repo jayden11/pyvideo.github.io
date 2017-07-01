@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_andy-fundinger.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-09-16T00:00:00+00:00</updated><entry><title>Practical Approaches to Problems in the Financial Industry using Python</title><link href="http://pyvideo.org/pygotham-2014/practical-approaches-to-problems-in-the-financial.html" rel="alternate"></link><published>2014-09-16T00:00:00+00:00</published><updated>2014-09-16T00:00:00+00:00</updated><author><name>Andy Fundinger</name></author><id>tag:pyvideo.org,2014-09-16:pygotham-2014/practical-approaches-to-problems-in-the-financial.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this lecture we will show an applied case with Ipython notebook as a
+quant explores a typical financial problem with the help of various
+Python libraries and software engineering. The specific case is a small
+scale market risk platform using historical simulation to calculate
+value at risk.&lt;/p&gt;
+</summary></entry></feed>

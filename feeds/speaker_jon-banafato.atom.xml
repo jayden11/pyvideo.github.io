@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_jon-banafato.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-19T00:00:00+00:00</updated><entry><title>What's in your pip toolbox?</title><link href="http://pyvideo.org/pycon-us-2017/whats-in-your-pip-toolbox.html" rel="alternate"></link><published>2017-05-19T00:00:00+00:00</published><updated>2017-05-19T00:00:00+00:00</updated><author><name>Jon Banafato</name></author><id>tag:pyvideo.org,2017-05-19:pycon-us-2017/whats-in-your-pip-toolbox.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;&lt;tt class="docutils literal"&gt;pip&lt;/tt&gt; is a great tool, but dependency management doesn't stop there.
+I'll explore several tools that work with &lt;tt class="docutils literal"&gt;pip&lt;/tt&gt; to make managing your
+dependencies easier, faster, and safer. I'll cover generating
+dependencies a better way, maintaining your &lt;tt class="docutils literal"&gt;requirements.txt&lt;/tt&gt; for the
+long-term, and exploring existing Python environments. Afterward, you'll
+never want to &lt;tt class="docutils literal"&gt;pip freeze &amp;gt; requirements.txt&lt;/tt&gt; again.&lt;/p&gt;
+</summary></entry></feed>

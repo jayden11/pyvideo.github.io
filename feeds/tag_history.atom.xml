@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_history.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>1990-01-01T00:00:00+00:00</updated><entry><title>Fireside Chat with a BDFL</title><link href="http://pyvideo.org/djangocon-2011/djangocon-2011--fireside-chat-with-a-bdfl.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--fireside-chat-with-a-bdfl.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Fireside Chat with a BDFL&lt;/p&gt;
+&lt;p&gt;Jacob Kaplan-Moss&lt;/p&gt;
+&lt;p&gt;Question and answer format covering the history of django, why it's
+popular, their inspirations, ...&lt;/p&gt;
+</summary><category term="djangocon"></category><category term="djangocon2011"></category><category term="history"></category><category term="project"></category></entry></feed>

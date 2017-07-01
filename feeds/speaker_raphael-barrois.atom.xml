@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_raphael-barrois.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-05-13T00:00:00+00:00</updated><entry><title>Designing and maintaining distributed systems</title><link href="http://pyvideo.org/djangocon-europe-2014/designing-and-maintaining-distributed-systems.html" rel="alternate"></link><published>2014-05-13T00:00:00+00:00</published><updated>2014-05-13T00:00:00+00:00</updated><author><name>Raphaël Barrois</name></author><id>tag:pyvideo.org,2014-05-13:djangocon-europe-2014/designing-and-maintaining-distributed-systems.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;As projects grow, they tend to mutate into complex, monolithic
+applications ; that's where the team splits them into loosely coupled
+modules talking over the network (a.k.a a service-oriented
+architecture).&lt;/p&gt;
+&lt;p&gt;This talk will focus on a few key points for a successful &amp;quot;monolithic to
+distributed&amp;quot; transition:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Setting clean and logical boundaries between services&lt;/li&gt;
+&lt;li&gt;Providing a seamless integration to service users (SSO, merging
+views, ...)&lt;/li&gt;
+&lt;li&gt;Performing a smooth transition when a service turns remote&lt;/li&gt;
+&lt;li&gt;Choosing suitable protocols for communications (spoiler alert: avoid
+SOAP/XML :p)&lt;/li&gt;
+&lt;li&gt;Stubbing versus integration testing, tips and tricks&lt;/li&gt;
+&lt;/ul&gt;
+</summary></entry></feed>

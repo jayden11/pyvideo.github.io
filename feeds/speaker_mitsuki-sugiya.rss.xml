@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 21 Sep 2016 00:00:00 +0000</lastBuildDate><item><title>Pythonistaよ、Pythonistaを知っているか 〜こんなの欲しかった！ iOSアプリ開発環境Pythonista〜</title><link>http://pyvideo.org/pycon-japan-2016/pythonistayo-pythonistawozhi-tsuteiruka-konnanoyu-shikatsuta-iosapurikai-fa-huan-jing-pythonista.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Pythonista はPythonでiOS開発・実行する環境を備えたアプリです。 このtalkでは、実際にPythonistaで作成したアプリをもとに、Pythonistaの基本的な使い方や特徴などを説明していきます。&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;「自分が求める iOSアプリが欲しい、開発してみたい！でも他の言語を一から学んで作るのはちょっとしんどいかも...」&lt;/p&gt;
+&lt;p&gt;そんなあなたに朗報です。&lt;/p&gt;
+&lt;p&gt;「Pythonista」なら慣れ親しんだPythonでiOSアプリを開発できちゃいます。&lt;/p&gt;
+&lt;p&gt;PythonistaはPythonでiOS開発・実行する環境を備えたアプリです。 iPhoneにインストールするだけで、エディタ、ローカル実行環境が使えるようになっています。また、他アプリとの連携はもちろん、豊富なUIキット、pipが使用できる等々、アプリ開発をするにあたっての幅広いサポート機能が備わっています。&lt;/p&gt;
+&lt;p&gt;本talkでは、私が実際に作成したiOSアプリの制作の流れをもとに、Pythonistaの基本的な使い方や特徴などを説明していきます。&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mitsuki Sugiya</dc:creator><pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-21:pycon-japan-2016/pythonistayo-pythonistawozhi-tsuteiruka-konnanoyu-shikatsuta-iosapurikai-fa-huan-jing-pythonista.html</guid></item></channel></rss>

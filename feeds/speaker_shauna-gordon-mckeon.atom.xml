@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_shauna-gordon-mckeon.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-04-11T00:00:00+00:00</updated><entry><title>Open Source for Newcomers and the People Who Want to Welcome Them</title><link href="http://pyvideo.org/pycon-us-2015/open-source-for-newcomers-and-the-people-who-want.html" rel="alternate"></link><published>2015-04-11T00:00:00+00:00</published><updated>2015-04-11T00:00:00+00:00</updated><author><name>Shauna Gordon-McKeon</name></author><id>tag:pyvideo.org,2015-04-11:pycon-us-2015/open-source-for-newcomers-and-the-people-who-want.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Open source can be fun and rewarding, but it can also be intimidating.
+This talk addresses some of the biggest technical and psychological
+barriers to contributing, from the perspective of both the newcomers who
+want to overcome them and the maintainers who want to remove them.&lt;/p&gt;
+</summary></entry></feed>

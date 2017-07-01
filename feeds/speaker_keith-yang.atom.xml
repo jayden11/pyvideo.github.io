@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_keith-yang.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-06-27T00:00:00+00:00</updated><entry><title>How PyCon APAC 2014 Web is built</title><link href="http://pyvideo.org/pycon-apac-2014/how-pycon-apac-2014-web-is-built-pycon-apac-2014.html" rel="alternate"></link><published>2014-06-27T00:00:00+00:00</published><updated>2014-06-27T00:00:00+00:00</updated><author><name>Keith Yang</name></author><id>tag:pyvideo.org,2014-06-27:pycon-apac-2014/how-pycon-apac-2014-web-is-built-pycon-apac-2014.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sitting on Web Chair of PyCon APAC 2014, I'm still new to Django and
+we're even new to Mezzanine. How we make it happen? It might be related
+to these keywords from the perspective of a Pyramid user:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Mezzanine Rich Text Page &amp;amp; html content&lt;/li&gt;
+&lt;li&gt;Mezzanine style&lt;/li&gt;
+&lt;li&gt;Multihost middleware&lt;/li&gt;
+&lt;li&gt;Django user, admin, and doc&lt;/li&gt;
+&lt;li&gt;Django Workshop in Taipei.py&lt;/li&gt;
+&lt;li&gt;django-bootstrap&lt;/li&gt;
+&lt;li&gt;django-celery-email&lt;/li&gt;
+&lt;li&gt;django-compress&lt;/li&gt;
+&lt;li&gt;AngularJS&lt;/li&gt;
+&lt;li&gt;Stylus&lt;/li&gt;
+&lt;li&gt;Fabric&lt;/li&gt;
+&lt;li&gt;Transifex&lt;/li&gt;
+&lt;li&gt;Bitbucket &amp;amp; Github&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;About the speaker&lt;/p&gt;
+&lt;p&gt;An artisan and ranger chief of web development.&lt;/p&gt;
+&lt;p&gt;Sitting on Web Chair in PyCon APAC 2014, he's also an organizer for
+Taipei.py - Taipei Python User Group, working on PyClab branch,
+forwarding to CS education quest. He uses Python every day in biideal, a
+local startup in Taiwan.&lt;/p&gt;
+</summary></entry></feed>

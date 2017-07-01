@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Mon, 22 Aug 2011 00:00:00 +0000</lastBuildDate><item><title>The NCSS Challenge: teaching programming via automated testing</title><link>http://pyvideo.org/pycon-au-2011/the-ncss-challenge-teaching-programming-via-auto.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The NCSS Challenge (&lt;a class="reference external" href="http://challenge.ncss.edu.au/"&gt;http://challenge.ncss.edu.au/&lt;/a&gt;) is an online
+programming competition for Australian high school students. There are
+four different courses being run during 2011: Introductory Python,
+Intermediate Python, Advanced Python, and Embedded Systems (using the
+Arduino). In 2010 we had over 1700 students participate in the
+Challenge. There are a number of interesting technical challenges which
+had to be overcome in order to facilitate such a system.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tim Dawborn</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-08-22:pycon-au-2011/the-ncss-challenge-teaching-programming-via-auto.html</guid><category>embedded</category><category>teaching</category><category>testing</category></item></channel></rss>

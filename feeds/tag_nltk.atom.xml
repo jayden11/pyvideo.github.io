@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_nltk.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-03-26T00:00:00+00:00</updated><entry><title>Data driven literary analysis</title><link href="http://pyvideo.org/pydata-amsterdam-2016/data-driven-literary-analysis.html" rel="alternate"></link><published>2016-03-26T00:00:00+00:00</published><updated>2016-03-26T00:00:00+00:00</updated><author><name>Serena Peruzzo</name></author><id>tag:pyvideo.org,2016-03-26:pydata-amsterdam-2016/data-driven-literary-analysis.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Amsterdam 2016&lt;/p&gt;
+&lt;p&gt;Can unsupervised learning mimic a literary critic? This talk will give an overview of unsupervised document classification techniques and apply them to the analysis and classification of Shakespeare’s plays.&lt;/p&gt;
+&lt;p&gt;Unsupervised document classification addresses the problem of assigning categories to documents without the use of a training set or predefined categories. This is useful to enhance information retrieval, the basic assumption being that similar contents are also relevant to the same query. A similar assumption is made in literature to define literary genres and sub-genres, where works which share specific conventions in terms of form and content are described by the same genre.&lt;/p&gt;
+&lt;p&gt;The talk gives an overview of document clustering and its challenges, with a focus on dimensionality reduction and how to address it with topic modelling techniques like LDA (Latent Dirichlet Allocation). Using Shakespeare’s body of work as a case study, the talk describes how to use nltk, sklearn and gensim to process and analyse theatrical works with the final goal of testing whether document clustering yields to the same classification given by literature experts.&lt;/p&gt;
+&lt;p&gt;Slides available here: &lt;a class="reference external" href="https://speakerdeck.com/sereprz/data-driven-literary-analysis-an-unsupervised-approach-to-text-analysis-and-classification"&gt;https://speakerdeck.com/sereprz/data-driven-literary-analysis-an-unsupervised-approach-to-text-analysis-and-classification&lt;/a&gt;&lt;/p&gt;
+</summary><category term="nltk"></category><category term="sklearn"></category><category term="gensim"></category></entry><entry><title>Do Angry People Have Poor Grammar?</title><link href="http://pyvideo.org/pydata-amsterdam-2016/do-angry-people-have-poor-grammar.html" rel="alternate"></link><published>2016-03-26T00:00:00+00:00</published><updated>2016-03-26T00:00:00+00:00</updated><author><name>Ben Fields</name></author><id>tag:pyvideo.org,2016-03-26:pydata-amsterdam-2016/do-angry-people-have-poor-grammar.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Amsterdam 2016&lt;/p&gt;
+&lt;p&gt;This talk is about two things: natural language processing (NLP) and statistical dependance. We will walk through the ins and outs of sentiment analysis in Python (mostly using NLTK) and a swift introduction to the statistics of dependence. We'll put these techniques to use on a dataset of every reddit public comment, perhaps the best data source for exploring the behavior of shouty Web comments.&lt;/p&gt;
+&lt;p&gt;This talk is about two things: natural language processing (NLP) and statistical dependence. We will embark on a data science workflow using various python scientific computing tools to better understand the behavior of commenters on Reddit. To do this we'll go through an introduction to sentiment analysis in Python (mostly using NLTK) and a swift explanation of the statistics of variable dependence.&lt;/p&gt;
+&lt;p&gt;We'll couple these freshly learned methods with an excellent dataset for this domain: every public reddit comment. We'll talk a bit about handling and preprocessing data of this size and character. Then we'll compile scores for both sentiment and spelling/grammar. In the end we may just discover if angry comment are also grammatically poor comments. And the audience will walk away a few more tools in scientific computing toolbelt.&lt;/p&gt;
+&lt;p&gt;Slides available here:  &lt;a class="reference external" href="https://speakerdeck.com/bfields/do-angry-people-have-poor-grammar-an-exploration-of-language-processing-and-statistics-in-python"&gt;https://speakerdeck.com/bfields/do-angry-people-have-poor-grammar-an-exploration-of-language-processing-and-statistics-in-python&lt;/a&gt;&lt;/p&gt;
+</summary><category term="nltk"></category></entry><entry><title>Procesamiento del lenguaje natural en python</title><link href="http://pyvideo.org/pycon-es-2014/procesamiento-del-lenguaje-natural-en-python.html" rel="alternate"></link><published>2015-04-06T00:00:00+00:00</published><updated>2015-04-06T00:00:00+00:00</updated><author><name>Iván Compañy</name></author><id>tag:pyvideo.org,2015-04-06:pycon-es-2014/procesamiento-del-lenguaje-natural-en-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Cubre algunos aspectos del procesamiento de lenguaje natural con NLTK (Natural Language ToolKit), explicando por encima en qué consiste, pasos para poder procesar un lenguaje, identificar patrones en un lenguaje y casos de uso útiles para aplicar.&lt;/p&gt;
+</summary><category term="nltk"></category><category term="natural language processing"></category></entry><entry><title>Beginner's Guide to Machine Learning Competitions</title><link href="http://pyvideo.org/pytexas-2015/beginners-guide-to-machine-learning-competitions.html" rel="alternate"></link><published>2015-10-09T00:00:00+00:00</published><updated>2015-10-09T00:00:00+00:00</updated><author><name>Christine Doig</name></author><id>tag:pyvideo.org,2015-10-09:pytexas-2015/beginners-guide-to-machine-learning-competitions.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This tutorial will offer a hands-on introduction to machine learning and
+the process of applying these concepts in a Kaggle competition. We will
+introduce attendees to machine learning concepts, examples and flows,
+while building up their skills to solve an actual problem. At the end of
+the tutorial attendees will be familiar with a real data science flow:
+feature preparation, modeling, optimization and validation.&lt;/p&gt;
+&lt;p&gt;Packages used in the tutorial will include: IPython notebook,
+scikit-learn, pandas and NLTK. We’ll use IPython notebook for
+interactive exploration and visualization, in order to gain a basic
+understanding of what’s in the data. From there, we’ll extract features
+and train a model using scikit-learn. This will bring us to our first
+submission. We’ll then learn how to structure the problem for offline
+evaluation and use scikit-learn’s clean model API to train many models
+simultaneously and perform feature selection and hyperparameter
+optimization.&lt;/p&gt;
+&lt;p&gt;At the end of session, attendees will have time to work on their own to
+improve their models and make multiple submissions to get to the top of
+the leaderboard, just like in a real competition. Hopefully attendees
+will not only leave the tutorial having learned the core data science
+concepts and flow, but also having had a great time doing it.&lt;/p&gt;
+</summary><category term="tutorial"></category><category term="machine learning"></category><category term="nltk"></category><category term="pandas"></category><category term="scikit-learn"></category><category term="ipython"></category></entry><entry><title>PyConAU 2010: Using Python for Natural Language Generation and Analysis</title><link href="http://pyvideo.org/pycon-au-2010/pyconau-2010--using-python-for-natural-language-g.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Tennessee J Leeuwenburg</name></author><id>tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--using-python-for-natural-language-g.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Using Python for Natural Language Generation and Analysis&lt;/p&gt;
+&lt;p&gt;Presented by Tennessee J Leeuwenburg (Australian Government Bureau of
+Meteorology)&lt;/p&gt;
+&lt;p&gt;Python is used within the Bureau of Meteorology to automatically
+generate weather forecast text based on numerical data. In addition, the
+development team has also used Python to introspect the forecast
+language and statistics used in the past. NTLK is an open-source
+language processing toolkit which can be used for visualising language
+patterns. This presentation will talk about some of the techniques used
+for automatically describing datasets and also how NTLK can be used to
+discover information about language uses and requirements in an
+organisation.&lt;/p&gt;
+</summary><category term="language"></category><category term="nltk"></category><category term="parsing"></category><category term="pyconau"></category><category term="pyconau2010"></category></entry><entry><title>Human as a Second Language: Succeeding with the Natural Language Toolkit</title><link href="http://pyvideo.org/pycon-au-2012/human-as-a-second-language-succeeding-with-the-n.html" rel="alternate"></link><published>2012-08-21T00:00:00+00:00</published><updated>2012-08-21T00:00:00+00:00</updated><author><name>Elyse Maria Glina</name></author><id>tag:pyvideo.org,2012-08-21:pycon-au-2012/human-as-a-second-language-succeeding-with-the-n.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The Natural Language Toolkit (NLTK) suite offers powerful tools for
+natural language processing and analysis. Like many other code
+libraries, it enables programmers to achieve results when working with
+data they may not be an expert&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Natural Language Toolkit (NLTK) suite offers powerful tools for
+natural language processing and analysis. Like many other code
+libraries, it enables programmers to achieve results when working with
+data they may not be an expert in the handling of - in this case, human
+language. The NLTK is particularly valuable as human language skills are
+in general something programmers can get along without, and therefore
+they are likely to be ill- equipped with the tools to most effectively
+work with language data. However, while NLTK provides programmers with a
+way to work with all the relevant parts of language without needing to
+rely on their own grammar skills, there are many concepts in the field
+of natural language processing that require basic comprehension of
+natural language operation, which may make knowing where to start
+working with the NLTK difficult for the average programmer.&lt;/p&gt;
+&lt;p&gt;This presentation will demonstrate some of the NLTK's powerful and
+impressive features, while covering the concepts that will enable any
+programmer to work cool tricks on natural language. The application of
+the NLTK to a very basic artificial intelligence will be shown.&lt;/p&gt;
+</summary><category term="nltk"></category></entry><entry><title>The Python and the Elephant: Large Scale Natural Language Processing with NLTK and Dumbo (#120)</title><link href="http://pyvideo.org/pycon-us-2010/pycon-2010--the-python-and-the-elephant--large-sc.html" rel="alternate"></link><published>2010-02-19T00:00:00+00:00</published><updated>2010-02-19T00:00:00+00:00</updated><author><name>Dr. Jimmy J Lin</name></author><id>tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--the-python-and-the-elephant--large-sc.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Python and the Elephant: Large Scale Natural Language Processing
+with NLTK and Dumbo&lt;/p&gt;
+&lt;p&gt;Presented by Nitin Madnani (University of Maryland, College Park); Dr.
+Jimmy J Lin (University of Maryland)&lt;/p&gt;
+&lt;p&gt;A practical look at NLTK and Dumbo, python-powered and open-source
+toolkits and APIs for processing natural language on a large scale.&lt;/p&gt;
+&lt;p&gt;For people like us who make a living trying to make a computer
+&amp;quot;understand&amp;quot; human language, Python is a very powerful language, given
+its rapid prototyping abilities, native unicode support and a stellar
+standard library. This relationship has been strengthened further by an
+open-source, python- based Natural Language ToolKit
+(&lt;a class="reference external" href="http://www.nltk.org/"&gt;www.nltk.org&lt;/a&gt;) which is being widely used in
+the community for both teaching and research purposes and gaining
+traction in the general Python community as well
+(&lt;a class="reference external" href="http://www.nltk.org/book"&gt;www.nltk.org/book&lt;/a&gt;). Recently, the Python
+community has seen the release of Dumbo
+(&lt;a class="reference external" href="http://wiki.github.com/klbostee/dumbo"&gt;http://wiki.github.com/klbostee/dumb
+o&lt;/a&gt;), an open-source,
+python-based cloud-computing API (based on Hadoop) via the hands of
+Klaas Bosteels.&lt;/p&gt;
+&lt;p&gt;In this talk, we show how the amalgamation of Python, NLTK and Dumbo can
+allow for very large-scale natural language processing efficiently and
+elegantly.&lt;/p&gt;
+</summary><category term="dumbo"></category><category term="nltk"></category><category term="pycon"></category><category term="pycon2010"></category></entry><entry><title>Linguistics of Twitter</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--linguistics-of-twitter.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Michael D. Healy</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--linguistics-of-twitter.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Dialectical changes in America are influencing expression online. This
+talk will discuss a current project which is using the Natural Language
+Toolkit to develop up to date reference materials to measure and monitor
+online natural language.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Contrary to expectations, the prevalence of television did not cause
+every American to speak in a common standard dialect. Rather, smaller
+sub-regional dialects are merging into stronger regional dialects with
+the largest change in spoken English since the 1750's taking place in
+the Northern Cities Vowel Shift.&lt;/p&gt;
+&lt;p&gt;Social Media is widely considered a conversational media, users often
+leaning on their dialect which to express themselves.&lt;/p&gt;
+&lt;p&gt;Taking a recent tweet for example:&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+'_andBeautyKills: – after tonight, don’t leave your boy roun’ me, umma #true playa fareal.'
+&lt;/pre&gt;
+&lt;p&gt;This tweet presents a problem for traditional natural language
+processing paradigm:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Do they build out an extensive reg ex to solve this?&lt;/li&gt;
+&lt;li&gt;Even Worse, do they reject it because of non-Standard English?&lt;/li&gt;
+&lt;li&gt;How do they respond such that communication is effective?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Currently under development with Python using the Natural Language
+Toolkit are the tools and methodologies to process, understand and
+respond to communication that falls outside Standard American English.
+This talk will focus on the status of existing tools, where development
+stands, challenges for traditional tools and potential opportunities for
+exploration.&lt;/p&gt;
+&lt;p&gt;While limited to American English, any participant who is studying
+natural language processing of any language is welcome and sure to
+learn. The techniques could be applied to languages around the world for
+which the motivated programmer is knowledgeable about.&lt;/p&gt;
+</summary><category term="nltk"></category><category term="pycon"></category><category term="pycon2011"></category><category term="twitter"></category></entry><entry><title>Statistical machine learning for text classification with scikit-learn</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--statistical-machine-learning-for-text.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Olivier Grisel</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--statistical-machine-learning-for-text.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Statistical machine learning for text classification with scikit-learn&lt;/p&gt;
+&lt;p&gt;Presented by Olivier Grisel&lt;/p&gt;
+&lt;p&gt;The goal of this talk is to give a state-of-the-art overview of machine
+learning algorithms applied to text classification tasks ranging from
+language and topic detection in tweets and web pages to sentiment
+analysis in consumer products reviews.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Unstructured or semi-structured text data is ubiquitous thanks to the
+read- write nature of the web. However human authors are often lazy and
+don't fill- in structured metadata forms in web applications. It is
+however possible to automate some structured knowledge extraction with
+simple and scalable statistical learning tools implemented in python.
+For instance:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;guessing the language and topic of tweets and web pages&lt;/li&gt;
+&lt;li&gt;analyze the sentiment (positive or negative) in consumer products
+reviews in blogs or customer emails&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This talk will introduce the main operational steps of supervised
+learning:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;extracting the relevant features from text documents&lt;/li&gt;
+&lt;li&gt;selecting the right machine learning algorithm to train a model for
+the task at hand&lt;/li&gt;
+&lt;li&gt;using the trained model on previously unseen documents&lt;/li&gt;
+&lt;li&gt;evaluating the predictive accuracy of the trained model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We will also demonstrate the results obtained for above tasks using the
+&lt;a class="reference external" href="http://scikit-learn.sourceforge.net/"&gt;scikit-learn&lt;/a&gt; package and
+compare it to other implementations such as &lt;a class="reference external" href="http://nltk.org/"&gt;nltk&lt;/a&gt;
+and the &lt;a class="reference external" href="http://code.google.com/apis/predict/"&gt;Google Prediction
+API&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="googlepredictionapi"></category><category term="machine learning"></category><category term="nltk"></category><category term="pycon"></category><category term="pycon2011"></category><category term="scikit-learn"></category></entry></feed>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_greg-back.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-01T00:00:00+00:00</updated><entry><title>Best Practices for Python Scripting</title><link href="http://pyvideo.org/pyohio-2015/best-practices-for-python-scripting.html" rel="alternate"></link><published>2015-08-01T00:00:00+00:00</published><updated>2015-08-01T00:00:00+00:00</updated><author><name>Greg Back</name></author><id>tag:pyvideo.org,2015-08-01:pyohio-2015/best-practices-for-python-scripting.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Python REPL is an amazing tool for exploring a problem and quickly
+finding an answer. But how do you turn that &amp;quot;quick and dirty&amp;quot; snippet
+into an elegant, reusable module? In this talk, you'll learn how to
+isolate input, output, configuration options and more from your core
+logic to transform that block of code into a package and script that
+behave well in command line environments.&lt;/p&gt;
+</summary><category term="talk"></category></entry></feed>

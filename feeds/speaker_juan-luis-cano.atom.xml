@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_juan-luis-cano.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-09T00:00:00+00:00</updated><entry><title>Per Shaolin ad Astra</title><link href="http://pyvideo.org/pycon-es-2016/per-shaolin-ad-astra.html" rel="alternate"></link><published>2016-10-09T00:00:00+00:00</published><updated>2016-10-09T00:00:00+00:00</updated><author><name>Guillem Durán</name></author><id>tag:pyvideo.org,2016-10-09:pycon-es-2016/per-shaolin-ad-astra.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this talk we will show how it is possible to build an interactive 3D model of the solar system using the python packages shaolin and poliastro.&lt;/p&gt;
+&lt;p&gt;At EuroPython Juan Luis Cano asked for a 3D visualization module for poliastro, and now we are finally presenting the first version of the poliastro 3D models build using plotly and vpython.&lt;/p&gt;
+&lt;p&gt;We will review the data presented at EuroPython 2016 with an interactive model of the solar system for representing planets and its orbits.&lt;/p&gt;
+&lt;p&gt;Materials available at &lt;a class="reference external" href="https://github.com/Guillem-db/PyconEs-2016"&gt;https://github.com/Guillem-db/PyconEs-2016&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://2016.es.pycon.org/"&gt;http://2016.es.pycon.org/&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Empaquetar es fácil, si sabes cómo</title><link href="http://pyvideo.org/pycon-es-2013/empaquetar-es-facil-si-sabes-como.html" rel="alternate"></link><published>2013-12-31T00:00:00+00:00</published><updated>2013-12-31T00:00:00+00:00</updated><author><name>Juan Luis Cano</name></author><id>tag:pyvideo.org,2013-12-31:pycon-es-2013/empaquetar-es-facil-si-sabes-como.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Autor: Juan Luis Cano&lt;/p&gt;
+&lt;p&gt;Track: Produban (Básico)&lt;/p&gt;
+&lt;p&gt;Empaquetar una biblioteca en Python puede ser un proceso confuso lleno de incertidumbres y propenso a tomar decisiones equivocadas, pero va mejorando. En esta charla vamos a diferenciar claramente lo que está obsoleto de lo que no, explicando el presente y mirando al futuro.&lt;/p&gt;
+</summary></entry><entry><title>Python + Ciencia = \o/</title><link href="http://pyvideo.org/pycon-es-2013/python-ciencia-o.html" rel="alternate"></link><published>2013-12-27T00:00:00+00:00</published><updated>2013-12-27T00:00:00+00:00</updated><author><name>Juan Luis Cano</name></author><id>tag:pyvideo.org,2013-12-27:pycon-es-2013/python-ciencia-o.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Autor: Juan Luis Cano&lt;/p&gt;
+&lt;p&gt;Track: BityVip (Científico)&lt;/p&gt;
+&lt;p&gt;Python como lenguaje mola mucho más que MATLAB y no digo ya FORTRAN 77. Python engancha, sobre todo si te dedicas a la ciencia y la ingeniería: vamos a dar un breve repaso a las posibilidades que ofrece en este campo, y por qué seguirá creciendo en los próximos años.&lt;/p&gt;
+</summary></entry><entry><title>Per Python ad Astra</title><link href="http://pyvideo.org/europython-2016/per-python-ad-astra.html" rel="alternate"></link><published>2016-08-01T00:00:00+00:00</published><updated>2016-08-01T00:00:00+00:00</updated><author><name>Juan Luis Cano</name></author><id>tag:pyvideo.org,2016-08-01:europython-2016/per-python-ad-astra.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Juan Luis Cano - Per Python ad Astra
+[EuroPython 2016]
+[20 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/per-python-ad-astra"&gt;https://ep2016.europython.eu//conference/talks/per-python-ad-astra&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;In the intersection of mechanics, mathematics and &amp;quot;cool stuff that
+travels through space&amp;quot; lies Astrodynamics, a beautiful branch of
+physics that studies the motion of spacecraft. In this talk we will
+describe poliastro, a pure Python library we can use to compute
+orbital maneuvers, plot trajectories and much more. The role of JIT
+compiling (using numba) to drop the previously used FORTRAN algorithms
+will also be discussed, as well as the importance of open source in
+scientific discoveries.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;In the intersection of mechanics, mathematics and &amp;quot;cool stuff that
+travels through space&amp;quot; lies Astrodynamics, a beautiful branch of
+physics that studies the motion of spacecraft. Rocket launches have
+never been so popular thanks to companies like Space X, more and more
+investors pay attention to aerospace startups and amazing missions
+explore our planet and our Solar System every day. In this talk we
+will describe poliastro, a pure Python library we can use to compute
+orbital maneuvers, plot trajectories and much more. The role of JIT
+compiling (using numba) to drop the previously used FORTRAN algorithms
+will also be discussed, as well as the importance of open source in
+scientific discoveries.&lt;/p&gt;
+</summary></entry><entry><title>IPython: How a notebook is changing science</title><link href="http://pyvideo.org/pycon-se-2015/ipython-how-a-notebook-is-changing-science.html" rel="alternate"></link><published>2015-05-25T00:00:00+00:00</published><updated>2015-05-25T00:00:00+00:00</updated><author><name>Juan Luis Cano</name></author><id>tag:pyvideo.org,2015-05-25:pycon-se-2015/ipython-how-a-notebook-is-changing-science.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;IPython was born as an Interactive Python shell on steroids 14 years
+ago, but its notebook tool is shaping the way scientists, developers and
+even journalists communicate and explore science. Let us examine
+IPython's importance in Open Science now that Nature highlighted one of
+its awesome features!&lt;/p&gt;
+</summary></entry></feed>

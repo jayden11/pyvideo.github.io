@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 15 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>10 ans d'astuce et d'abus, Mercurial jongle avec Python</title><link>http://pyvideo.org/pycon-fr-2015/10-ans-dastuce-et-dabus-mercurial-jongle-avec-python.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Depuis 10 ans, le logiciel Mercurial utilise, profite et abuse du
+language Python. Nous vous proposons une rétrospective des piégés dans
+lequel nous sommes tombé, des petits trucs pour améliorer nos
+performance et de toute les astuces pythonesques qui nous ont donner
+plus de flexibilité.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Depuis 2005, les développeurs de Mercurial profitent et abusent de
+Python. Cela laisse largement assez de temps pour explorer différent
+aspect du langage et découvrir de nombreuse blagues. Certaine des idées
+ont été de francs succès, au point d'être intégrées aux futures versions
+du langages, d'autre ont été d'affreuses erreurs que nous essayons
+encore d'éradiquer aujourd'hui.&lt;/p&gt;
+&lt;p&gt;Cette présentation se concentrera sur deux aspects de la relation entre
+Python et Mercurial. Nous traiterons d'abord des pièges et astuces à
+propos des performances de Python. Puis nous étudierons les avantages et
+inconvénients du language en termes de flexibilité (introspection,
+monkey-patching, syntaxe, etc) dans le contexte de Mercurial.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pierre-Yves David</dc:creator><pubDate>Sun, 18 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-18:pycon-fr-2015/10-ans-dastuce-et-dabus-mercurial-jongle-avec-python.html</guid></item><item><title>Import et Compagnie</title><link>http://pyvideo.org/pycon-fr-2016/import-et-compagnie.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;et hop, &amp;quot;import antigravity&amp;quot;, la magie de Python résumée en deux mots. mais au fait, comment ça marche ? non, pas l'anti-gravité -ça tout le monde l'apprend à l'école. Comment fonctionnent les imports en Python&amp;nbsp;?
+Plongeons ensemble dans les entrailles de la bête pour découvrir les bases de cette mécanique indispensable. Une fois que nous serons un peu plus familliers avec les forces et les faiblesses du système, nous verrons comment nous usons et abusons de sa flexibilité dans le gestionnaire de version Mercurial. Qui n'a jamais rêvé d'importer son code Python 2 directement avec Python 3 ?&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pierre-Yves David</dc:creator><pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-15:pycon-fr-2016/import-et-compagnie.html</guid></item><item><title>Python for command line tools: the ups and downs of Mercurial's language choice</title><link>http://pyvideo.org/pycon-ca-2015/python-for-command-line-tools-the-ups-and-downs-of.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In 2005, Matt Mackall picked Python to implement a new version control system: Mercurial. Ten years later, the project is a success! Thanks to python? Lets see what shinning advantages met us and what issues we, developers, had to work around. We'll also take a detour to the place were python outcrop to the users, the extensions system.&lt;/p&gt;
+&lt;p&gt;In 2005, Matt Mackall picked Python to implement a new version control system: Mercurial. Ten years later, the project is a success! Thanks to python?&lt;/p&gt;
+&lt;p&gt;In this Talk, we'll go over on the advantages of Python that helped the project both in its early life when so much feature needs to be implemented, but also nowaday when major companies like Facebook bet on Mercurial for scaling. We'll also point at the drawback of choosing python and how some work-arounds had to be found. Finally, we'll look at how the choice of python have an impact on the user too with a demonstration of the extensions system.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Pierre-Yves David</dc:creator><pubDate>Sun, 08 Nov 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-11-08:pycon-ca-2015/python-for-command-line-tools-the-ups-and-downs-of.html</guid></item><item><title>Mercurial, avec des vrais morceaux de python</title><link>http://pyvideo.org/pycon-fr-2013/mercurial-avec-des-vrais-morceaux-de-python.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Mercurial, avec des vrais morceaux de python dedans&lt;/p&gt;
+&lt;p&gt;En 2005 Matt Mackall choisissait Python pour écrire un gestionnaire de
+version. 8 ans plus tard Mercurial est un projet reussi. Grâce à Python
+? Voyons ensemble ce que python apporte aux developeurs mais aussi, à
+travers son système d'extensions, aux utilisateurs.&lt;/p&gt;
+&lt;p&gt;En 2005 Matt Mackall choisissait Python pour écrire un gestionnaire de
+version. 8 ans plus tard Mercurial est un projet reussi. Grâce à Python
+? Dans cette présentation, nous aborderons d'abord les atouts de Python
+pour les developpeurs de Mercurial.&lt;/p&gt;
+&lt;p&gt;Nous prendrons ensuite le point de vue de l'utilisateur en montrant
+comment le systéme d'extensions tire parti du language. Certaines
+limitations de l'interpréteur python posent parfois problème. Nous
+presenterons comment celles-cis peuvent être contournées grace à des
+extension écrites en C ou des algorithmes adaptés.&lt;/p&gt;
+&lt;p&gt;Pour finir nous detaillerons des cas d'utilisation avancés que seul
+python à rendu possible.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexis Métaireau</dc:creator><pubDate>Sat, 30 Nov 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-11-30:pycon-fr-2013/mercurial-avec-des-vrais-morceaux-de-python.html</guid></item></channel></rss>

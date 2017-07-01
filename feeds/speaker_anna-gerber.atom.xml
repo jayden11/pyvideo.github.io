@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_anna-gerber.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-08-09T00:00:00+00:00</updated><entry><title>PyBots! or how to learn to stop worrying and love coding by Anna Gerber</title><link href="http://pyvideo.org/pycon-au-2014/pybots-or-how-to-learn-to-stop-worrying-and-love.html" rel="alternate"></link><published>2014-08-09T00:00:00+00:00</published><updated>2014-08-09T00:00:00+00:00</updated><author><name>Anna Gerber</name></author><id>tag:pyvideo.org,2014-08-09:pycon-au-2014/pybots-or-how-to-learn-to-stop-worrying-and-love.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this talk, Anna will argue how physical computing — building
+interactive systems such as robots that sense and act upon, or respond
+to the physical world — provides an ideal application space for teaching
+and learning programming concepts and problem solving; that appeals to a
+diverse audience; and that can provide a positive introduction to the
+world of open source software and hardware.&lt;/p&gt;
+&lt;p&gt;Drawing on her experiences teaching introductory programming with
+Arduino-based robots, Anna will step through a tutorial demonstrating
+how to develop a mobile PyBot - a robot programmed using Python and the
+Firmata protocol, and will provide tips to help you or the apprentice
+coders in your life to take the first steps towards a lifetime of loving
+to code.&lt;/p&gt;
+</summary></entry></feed>

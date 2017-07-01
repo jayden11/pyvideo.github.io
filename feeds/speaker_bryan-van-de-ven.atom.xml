@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_bryan-van-de-ven.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-24T00:00:00+00:00</updated><entry><title>Beautiful Interactive Visualizations in the Browser with Bokeh</title><link href="http://pyvideo.org/pydata-seattle-2015/beautiful-interactive-visualizations-in-the-browser-with-bokeh.html" rel="alternate"></link><published>2015-07-24T00:00:00+00:00</published><updated>2015-07-24T00:00:00+00:00</updated><author><name>Bryan Van de Ven</name></author><id>tag:pyvideo.org,2015-07-24:pydata-seattle-2015/beautiful-interactive-visualizations-in-the-browser-with-bokeh.html</id><summary type="html"></summary></entry><entry><title>Interactive Data Visualization Applications for the Browser w/ Bokeh</title><link href="http://pyvideo.org/pybay-2016/interactive-data-visualization-applications-for-the-browser-w-bokeh.html" rel="alternate"></link><published>2016-08-20T00:00:00+00:00</published><updated>2016-08-20T00:00:00+00:00</updated><author><name>Bryan Van de Ven</name></author><id>tag:pyvideo.org,2016-08-20:pybay-2016/interactive-data-visualization-applications-for-the-browser-w-bokeh.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Bokeh (&lt;a class="reference external" href="http://bokeh.pydata.org/en/latest"&gt;http://bokeh.pydata.org/en/latest&lt;/a&gt;) provides a compelling open-source platform for creating interactive data visualization applications in the browser. This talk will demonstrate Bokeh's newest capabilities: the second generation Bokeh server, APIs for streaming data, new hooks for user-extensibility (e.g. to easily leverage JavaScript 3D plot libraries), new features for GIS, and more.
+​
+Abstract
+With support from the DARPA XDATA Initiative, commercial engagements, and contributions from over 150 community members, the Bokeh visualization library (&lt;a class="reference external" href="http://bokeh.pydata.org"&gt;http://bokeh.pydata.org&lt;/a&gt;) has grown into a large, successful open source project with heavy interest and following on GitHub (&lt;a class="reference external" href="https://github.com/bokeh/bokeh"&gt;https://github.com/bokeh/bokeh&lt;/a&gt;). The principal goals of Bokeh are to provide capability to developers and domain experts: easily create and share interactive, versatile, and powerful visualizations that extract insight from data sets that may be remote, large, or streaming. Bokeh provides a platform for anyone to create interactive data and visualization applications in the browser for themselves, their colleagues, or for a wider audience.&lt;/p&gt;
+&lt;p&gt;This talk will give a quick overview of recent developments, and demonstrate some of the newest capabilities of Bokeh including:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Bokeh applications and the second generation Bokeh server (that is more performant, better documented, and much simpler to use and deploy)&lt;/li&gt;
+&lt;li&gt;APIs for streaming data (both in the notebook and Bokeh applications)&lt;/li&gt;
+&lt;li&gt;The ability to extend Bokeh with your own custom functionality (for example to create 3D plots or network graphs)&lt;/li&gt;
+&lt;li&gt;Recent GIS features such as support for GeoJSON and tiled map data sources&lt;/li&gt;
+&lt;li&gt;The new Datashader library that can be used together with Bokeh to visualize billions of data points.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally the talk will discuss near-term plans for the project, it's governance, and community development.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://speakerdeck.com/pybay2016/bryan-van-de-ven-interactive-data-visualization-applications-for-the-browser-with-bokeh"&gt;https://speakerdeck.com/pybay2016/bryan-van-de-ven-interactive-data-visualization-applications-for-the-browser-with-bokeh&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Data Applications with Bokeh</title><link href="http://pyvideo.org/pydata-san-francisco-2016/data-applications-with-bokeh.html" rel="alternate"></link><published>2016-08-24T00:00:00+00:00</published><updated>2016-08-24T00:00:00+00:00</updated><author><name>Bryan Van De Ven</name></author><id>tag:pyvideo.org,2016-08-24:pydata-san-francisco-2016/data-applications-with-bokeh.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData SF 2016&lt;/p&gt;
+&lt;p&gt;Data Applications with Bokeh&lt;/p&gt;
+</summary></entry><entry><title>Interactive Data Visualization in the Browser with Bokeh</title><link href="http://pyvideo.org/scipyla-2016/interactive-data-visualization-in-the-browser-with-bokeh.html" rel="alternate"></link><published>2016-06-24T00:00:00+00:00</published><updated>2016-06-24T00:00:00+00:00</updated><author><name>Bryan Van de Ven</name></author><id>tag:pyvideo.org,2016-06-24:scipyla-2016/interactive-data-visualization-in-the-browser-with-bokeh.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Palestrante: Bryan Van de Ven&lt;/p&gt;
+&lt;p&gt;Resumo:&lt;/p&gt;
+&lt;p&gt;With support from the DARPA XDATA Initiative, commercial engagements, and contributions from over 150 community members, the Bokeh visualization library (&lt;a class="reference external" href="http://bokeh.pydata.org"&gt;http://bokeh.pydata.org&lt;/a&gt;) has grown into a large, successful open source project with heavy interest and following on GitHub (&lt;a class="reference external" href="https://github.com/bokeh/bokeh"&gt;https://github.com/bokeh/bokeh&lt;/a&gt;). The principal goals of Bokeh are to provide capability to developers and domain experts: easily create and share interactive, versatile, and powerful visualizations that extract insight from data sets that may be remote, large, or streaming. Bokeh provides a compelling open-source visualization platform for scientists who want to create interactive data applications in the browser for themselves, their colleagues, or for a wider audience, recently evidenced by the first instances of interactive Bokeh visualizations appearing in published journal articles.&lt;/p&gt;
+&lt;p&gt;This talk will give a quick overview of recent developments, and demonstrate some of the newest capabilities of Bokeh including:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Bokeh applications and the second generation Bokeh server (that is more performant, better documented, and much simpler to use and deploy)&lt;/li&gt;
+&lt;li&gt;APIs for streaming data (both in the notebook and Bokeh applications)&lt;/li&gt;
+&lt;li&gt;The ability to extend Bokeh with your own custom functionality (for example to create 3D plots or network graphs)&lt;/li&gt;
+&lt;li&gt;Recent GIS features such as support for GeoJSON and tiled map data sources&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally the session will conclude with a brief demonstration using the new Datashader library can be used together with Bokeh to visualize billions of data points.&lt;/p&gt;
+</summary></entry><entry><title>Lightning Talks 19/05/2016</title><link href="http://pyvideo.org/scipyla-2016/lightning-talks-19052016.html" rel="alternate"></link><published>2016-06-23T00:00:00+00:00</published><updated>2016-06-23T00:00:00+00:00</updated><author><name>Bryan Van de Ven</name></author><id>tag:pyvideo.org,2016-06-23:scipyla-2016/lightning-talks-19052016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Bryan Van de Ven - OSS &amp;#64; Continuum&lt;/li&gt;
+&lt;li&gt;Wesley Ramos - Teoria de Resposta ao Item&lt;/li&gt;
+&lt;li&gt;Raul Lopez Briega - Github Pages&lt;/li&gt;
+&lt;li&gt;Nahuel Defossé - Pilas Engine&lt;/li&gt;
+&lt;li&gt;David Ochoa - VisPy&lt;/li&gt;
+&lt;li&gt;Filpe Fernandes - Catalog Driven Workflow: SECOORA Model Skill Assessment&lt;/li&gt;
+&lt;li&gt;Nahuel Defossé: Divy&lt;/li&gt;
+&lt;/ol&gt;
+</summary></entry><entry><title>Story Time with Bokeh</title><link href="http://pyvideo.org/scipy-2015/story-time-with-bokeh.html" rel="alternate"></link><published>2015-07-08T00:00:00+00:00</published><updated>2015-07-08T00:00:00+00:00</updated><author><name>Bryan Van de Ven</name></author><id>tag:pyvideo.org,2015-07-08:scipy-2015/story-time-with-bokeh.html</id><summary type="html"></summary></entry><entry><title>Bokeh for Data Storytelling</title><link href="http://pyvideo.org/euroscipy-2015/bokeh-for-data-storytelling.html" rel="alternate"></link><published>2015-10-05T00:00:00+00:00</published><updated>2015-10-05T00:00:00+00:00</updated><author><name>Bryan Van de Ven</name></author><id>tag:pyvideo.org,2015-10-05:euroscipy-2015/bokeh-for-data-storytelling.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The Bokeh visualization library (&lt;a class="reference external" href="http://bokeh.pydata.org"&gt;http://bokeh.pydata.org&lt;/a&gt;) has grown into a large, successful open source project. This talk will describe Bokeh and show how it can enable domain experts to easily create novel and powerful visualizations that extract insight from remote, possibly large data sets, to be published to the web for others to explore and interact with.&lt;/p&gt;
+</summary><category term="bokeh"></category></entry><entry><title>Tutorial | Basic Bokeh</title><link href="http://pyvideo.org/euroscipy-2015/tutorial-basic-bokeh.html" rel="alternate"></link><published>2015-10-05T00:00:00+00:00</published><updated>2015-10-05T00:00:00+00:00</updated><author><name>Bryan Van de Ven</name></author><id>tag:pyvideo.org,2015-10-05:euroscipy-2015/tutorial-basic-bokeh.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;How to use Bokeh to create interactive visualizations and data applications.&lt;/p&gt;
+</summary></entry><entry><title>Bokeh for Data Applications and Visualization</title><link href="http://pyvideo.org/pydata-london-2016/bryan-van-de-ven-bokeh-for-data-applications-and-visualization.html" rel="alternate"></link><published>2016-05-12T00:00:00+00:00</published><updated>2016-05-12T00:00:00+00:00</updated><author><name>Bryan Van de Ven</name></author><id>tag:pyvideo.org,2016-05-12:pydata-london-2016/bryan-van-de-ven-bokeh-for-data-applications-and-visualization.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData London 2016&lt;/p&gt;
+&lt;p&gt;Bokeh is an Interactive visualization library that targets modern web browsers for presentation. It provides elegant, concise construction of basic exploratory and advanced custom graphics, but can also be used to develop sophisticated dashboards and data applications.&lt;/p&gt;
+&lt;p&gt;0:00
+- 0:05 Introduction and Setup
+0:05
+- 0:20 Review and Practice with Bokeh Basics
+0:20
+- 0:40 Widgets, Interactions and Streaming in the Notebook
+0:40
+- 1:05 Handling Larger Data Sets with Bokeh and Datashader
+1:05
+- 1:30 Building Bokeh Applications&lt;/p&gt;
+</summary></entry><entry><title>Keynote - Learning == Creating (We're All in it Together)</title><link href="http://pyvideo.org/python-brasil-2015/keynote-bryan-van-de-ven-learning-creating-were-all-in-it-together.html" rel="alternate"></link><published>2015-11-09T00:00:00+00:00</published><updated>2015-11-09T00:00:00+00:00</updated><author><name>Bryan Van de Ven</name></author><id>tag:pyvideo.org,2015-11-09:python-brasil-2015/keynote-bryan-van-de-ven-learning-creating-were-all-in-it-together.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Keynote da Conferência Python Brasil 11 [2015] - São José dos Campos&lt;/p&gt;
+&lt;p&gt;A conferência Python Brasil aconteceu dos dias 09 e 10 de Novembro de 2015, no Novotel, em São José dos Campos.&lt;/p&gt;
+&lt;p&gt;Keynote do Bryan Van de Ven, sobre Learning == Creating (We're All in it Together)&lt;/p&gt;
+&lt;p&gt;Mais informações:&lt;/p&gt;
+&lt;p&gt;Site: &lt;a class="reference external" href="http://pythonbrasil.github.io/pythonb"&gt;http://pythonbrasil.github.io/pythonb&lt;/a&gt;...
+Twitter: &amp;#64;pythonbrasil
+Facebook: &lt;a class="reference external" href="http://www.facebook.com/pythonbrasil"&gt;http://www.facebook.com/pythonbrasil&lt;/a&gt;
+Manual do Big Kahuna: &lt;a class="reference external" href="https://manual-do-big-kahuna.readthed"&gt;https://manual-do-big-kahuna.readthed&lt;/a&gt;...&lt;/p&gt;
+</summary></entry><entry><title>Bokeh: Interactive Visualizations in the Browser</title><link href="http://pyvideo.org/scipy-2014/bokeh-interactive-visualizations-in-the-browser.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Bryan Van de Ven</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/bokeh-interactive-visualizations-in-the-browser.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Bokeh is a Python visualization library for large datasets that natively
+uses the latest web technologies. Its goal is to provide concise
+construction of novel graphics, while delivering high-performance
+interactivity over large data to thin clients. This talk will cover the
+motivation and architecture behind Bokeh, demonstrate interesting uses
+and capability, and discuss future plans.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;With support from the DARPA XDATA Initiative, and contributions from
+community members, the Bokeh visualization library
+(&lt;a class="reference external" href="http://bokeh.pydata.org"&gt;http://bokeh.pydata.org&lt;/a&gt;) has grown into a large, successful open source
+project with heavy interest and following on GitHub
+(&lt;a class="reference external" href="https://github.com/ContinuumIO/bokeh"&gt;https://github.com/ContinuumIO/bokeh&lt;/a&gt;). The principal goals of Bokeh are
+to provide capability to developers and domain experts:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;easily create novel and powerful visualizations&lt;/li&gt;
+&lt;li&gt;that extract insight from remote, possibly large data sets&lt;/li&gt;
+&lt;li&gt;published to the web for others to explore and interact&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This talk will describe how the architecture of Bokeh enables these
+goals, and demonstrate how it can be leveraged by anyone using python
+for analysis to visualize and present their work. We will talk about
+current development and future plans, including a brief discussion of
+Joseph Cottam's exciting academic work on abstract rendering for large
+data sets that is going into Bokeh
+(&lt;a class="reference external" href="https://github.com/JosephCottam/AbstractRendering"&gt;https://github.com/JosephCottam/AbstractRendering&lt;/a&gt;).&lt;/p&gt;
+</summary><category term="bokeh"></category><category term="vis"></category></entry></feed>

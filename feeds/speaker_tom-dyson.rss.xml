@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Mon, 21 Sep 2015 00:00:00 +0000</lastBuildDate><item><title>CMS Panel</title><link>http://pyvideo.org/djangocon-europe-2015/iacopo-spalletti-tom-dyson-daniele-procida-cms-at.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Iacopo Spalletti</dc:creator><pubDate>Fri, 31 Jul 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-07-31:djangocon-europe-2015/iacopo-spalletti-tom-dyson-daniele-procida-cms-at.html</guid></item><item><title>Wagtail - Yet Another Django CMS</title><link>http://pyvideo.org/djangocon-2015/wagtail-yet-another-django-cms-by-tom-dyson.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Wagtail - Yet Another Django CMS by Tom Dyson&lt;/p&gt;
+&lt;p&gt;Wagtail was launched in February 2014, shortly after its first
+implementation for the Royal College of Art. It has been
+enthusiastically received by Django developers around the world, and now
+powers sites for small businesses, UN agencies, and global brands in
+tech, political and entertainment sectors. Tom will explain why his
+agency decided to build a new CMS, share some lessons learned in running
+a growing open source project, and outline Wagtail's roadmap to version
+2 and beyond.&lt;/p&gt;
+&lt;p&gt;Help us caption &amp;amp; translate this video!&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://amara.org/v/HH7a/"&gt;http://amara.org/v/HH7a/&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom Dyson</dc:creator><pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-21:djangocon-2015/wagtail-yet-another-django-cms-by-tom-dyson.html</guid></item></channel></rss>

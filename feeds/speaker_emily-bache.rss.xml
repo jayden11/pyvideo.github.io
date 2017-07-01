@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Tue, 22 Jul 2014 00:00:00 +0000</lastBuildDate><item><title>Will I still be able to get a job in 2024 if I don't do TDD</title><link>http://pyvideo.org/europython-2014/will-i-still-be-able-to-get-a-job-in-2024-if-i-do.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Geoffrey Moores's book &amp;quot;Crossing the chasm&amp;quot; outlines the difficulties
+faced by a new, disruptive technology, when adoption moves from
+innovators and visionaries into the mainstream. Test Driven Development
+is clearly a disruptive technology, that changes the way you approach
+software design and testing.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;TDD hasn't yet been embraced by everyone, but is it just a matter of
+time? Ten years from now, will a non-TDD practicing developer experience
+the horror of being labelled a technology adoption 'laggard', and be
+left working exclusively on dreadfully boring legacy systems?&lt;/p&gt;
+&lt;p&gt;It could be a smart move to get down to your nearest Coding Dojo and
+practice TDD on some Code Katas. On the other hand, the thing with
+disruptive technologies is that even they can become disrupted when
+something better comes along. What about Property-Based Testing?
+Approval Testing? Outside-In Development?&lt;/p&gt;
+&lt;p&gt;In this talk, I'd like to look at the chasm-crossing potential of TDD
+and some related technologies. My aim is that both you and I will still
+be able to get a good job in 2024.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Emily Bache</dc:creator><pubDate>Tue, 22 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-22:europython-2014/will-i-still-be-able-to-get-a-job-in-2024-if-i-do.html</guid></item></channel></rss>

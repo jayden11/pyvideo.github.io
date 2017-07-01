@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 10 Mar 2017 00:00:00 +0000</lastBuildDate><item><title>Mashing up py.test, coverage.py and ast.py to take TDD to a new level</title><link>http://pyvideo.org/pycon-sk-2016/mashing-up-pytest-coveragepy-and-astpy-to-take-tdd-to-a-new-level.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Users and especially developers hate waiting. Computing has adapted and
+we almost never wait for the computer for more than 10 seconds. One big
+exception is running a test suite, which takes MINUTES on many projects.
+That is incredibly distracting, frustrating and dragging the whole
+concept of automated tests down.&lt;/p&gt;
+&lt;p&gt;I will present a technique and a tool (py.test plugin called “testmon&amp;quot;),
+which automatically selects only tests affected by recent changes. Does
+it sound too good to be true? Python developers rightfully have a
+suspecting attitude towards any tool, which tries to be too clever about
+their source code. Code completion and symbol searching doesn’t need to
+be 100% reliable but messing with the test suite execution? I will show
+that we can significantly reduce the test suite execution time without
+losing its reliability.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tibor Arpáš</dc:creator><pubDate>Fri, 11 Mar 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-03-11:pycon-sk-2016/mashing-up-pytest-coveragepy-and-astpy-to-take-tdd-to-a-new-level.html</guid></item><item><title>Alternatívne spôsoby ako spúšťať testy a vyhodnocovať ich výsledky</title><link>http://pyvideo.org/pycon-sk-2017/alternativne-sposoby-ako-spustat-testy-a-vyhodnocovat-ich-vysledky.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Konceptuálne zamyslenie sa nad tým ako používať sadu testov a ako interpretovať jej výsledky. Čo je pri tom problematické a ako z nej získať čo najväčšiu hodnotu.&lt;/p&gt;
+&lt;p&gt;Najpoužívanejším úžívateľským rozhraním na spúštanie testov sú pravdepodobne command line, PyCharm a CI Servre. Ukážem ich výhody a limity. Predvediem alpha verziu nového nástroja na pohodlné výhľadávanie, spúštanie testov, uchovávanie výsledkov a ich prehľadné zobrazenie. Ukážem ako sa vyhnúť kilobajtom neštruktúrovaného textového výpisu.&lt;/p&gt;
+&lt;p&gt;Predvediem koncept zobrazenia stack trace inline v editore zdrojového kódu a pohodlnú navigáciu hore-dole po ňom.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tibor Arpáš</dc:creator><pubDate>Fri, 10 Mar 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-03-10:pycon-sk-2017/alternativne-sposoby-ako-spustat-testy-a-vyhodnocovat-ich-vysledky.html</guid></item><item><title>Mashing up py.test, coverage.py and ast.py to take TDD to a new level</title><link>http://pyvideo.org/europython-2015/mashing-up-pytest-coveragepy-and-astpy-to-take-tdd-to-a-new-level.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Tibor Arpas - Mashing up py.test, coverage.py and ast.py to take TDD to a new level
+[EuroPython 2015]
+[21 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;Users and developers especially, hate waiting. Computing has adapted
+and we almost never wait for the computer for more then 10 seconds.
+One big exception is runnig a test suite which takes MINUTES on many
+projects. That is incredibly distracting, frustrating and dragging the
+whole concept of automated tests down.&lt;/p&gt;
+&lt;p&gt;I present a technique and a tool (py.test plugin called &amp;quot;testmon&amp;quot;)
+which automatically selects only tests affected by recent changes.
+Does it sound too good to be true? Python developers rightfully have a
+suspecting attitude towards any tool which tries to be too clever
+about their source code. Code completion and symbol searching doesn't
+need to be 100% reliable but messing with the test suite execution? I
+show that we can cut test suite execution time significantly but
+maintain it's reliability.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tibor Arpas</dc:creator><pubDate>Thu, 06 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-06:europython-2015/mashing-up-pytest-coveragepy-and-astpy-to-take-tdd-to-a-new-level.html</guid></item></channel></rss>

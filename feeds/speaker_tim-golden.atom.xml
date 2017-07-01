@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_tim-golden.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-09-19T00:00:00+00:00</updated><entry><title>Teaching youngsters to code with pgzero on Raspberry Pi</title><link href="http://pyvideo.org/pycon-uk-2015/teaching-youngsters-to-code-with-pgzero-on-raspberry-pi.html" rel="alternate"></link><published>2015-09-19T00:00:00+00:00</published><updated>2015-09-19T00:00:00+00:00</updated><author><name>Tim Golden</name></author><id>tag:pyvideo.org,2015-09-19:pycon-uk-2015/teaching-youngsters-to-code-with-pgzero-on-raspberry-pi.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;I've set up a short series of workshops to help a small group of
+13-15-year- old boys to learn how to code with a small element of
+physical computing thrown in. This talk will describe the reasons for
+the setup and approach I used, and will discuss the outcomes: what
+worked; what didn't; and what I might do differently.&lt;/p&gt;
+</summary></entry></feed>

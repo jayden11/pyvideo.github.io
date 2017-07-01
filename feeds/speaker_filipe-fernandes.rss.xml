@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 23 Jun 2016 00:00:00 +0000</lastBuildDate><item><title>CondaForge and the Future of Scientific Python packaging</title><link>http://pyvideo.org/scipyla-2016/condaforge-and-the-future-of-scientific-python-packaging.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Palestrante: Filipe Fernandes&lt;/p&gt;
+&lt;p&gt;Resumo:&lt;/p&gt;
+&lt;p&gt;Conda is an open-source packaging system developed for, and used by, the scientific software community.&lt;/p&gt;
+&lt;p&gt;The conda-forge project aims to bring a community supported collection of packages to end users using conda.&lt;/p&gt;
+&lt;p&gt;While developed to meet the unique needs of scientific software developers, it is a system that brings features and utilities for the broader developer community.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Filipe Fernandes</dc:creator><pubDate>Thu, 23 Jun 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-06-23:scipyla-2016/condaforge-and-the-future-of-scientific-python-packaging.html</guid><category>conda</category></item></channel></rss>

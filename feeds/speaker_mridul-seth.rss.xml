@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 17 May 2017 00:00:00 +0000</lastBuildDate><item><title>Network Analysis Made Simple</title><link>http://pyvideo.org/pycon-us-2017/network-analysis-made-simple.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever wondered about how those data scientists at Facebook and
+LinkedIn make friend recommendations? Or how epidemiologists track down
+patient zero in an outbreak? If so, then this tutorial is for you. In
+this tutorial, we will use a variety of datasets to help you understand
+the fundamentals of network thinking, with a particular focus on
+constructing, summarizing, and visualizing complex networks.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric J. Ma</dc:creator><pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-17:pycon-us-2017/network-analysis-made-simple.html</guid></item></channel></rss>

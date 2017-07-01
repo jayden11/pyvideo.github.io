@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_programming.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-10-16T00:00:00+00:00</updated><entry><title>PyOhio 2011: Procedures, Objects, Reusability: "httplib", "urllib2", and Their Discontents</title><link href="http://pyvideo.org/pyohio-2011/pyohio-2011-procedures-objects-reusability-q.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Brandon Rhodes</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2011/pyohio-2011-procedures-objects-reusability-q.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Procedures, Objects, Reusability: httplib, urllib2 and their discontents&lt;/p&gt;
+&lt;p&gt;Presented by Brandon Craig Rhodes&lt;/p&gt;
+&lt;p&gt;Python supports two major programming paradigms: procedures, and object
+orientation. This talk will claim that, when it comes to code re-use,
+these two paradigms are NOT created equal: because object-oriented
+programming encourages the programmer to write methods that consider
+everything else inside of &amp;quot;self&amp;quot; to be fair game, it encourages highly
+coupled code that proves brittle when extended.&lt;/p&gt;
+</summary><category term="codereuse"></category><category term="httplib"></category><category term="oop"></category><category term="programming"></category><category term="pyohio"></category><category term="pyohio2011"></category><category term="reuse"></category><category term="self"></category><category term="urllib2"></category></entry><entry><title>Learning a new codebase</title><link href="http://pyvideo.org/djangocon-2010/djangocon-2010--learning-a-new-codebase.html" rel="alternate"></link><published>2010-09-09T00:00:00+00:00</published><updated>2010-09-09T00:00:00+00:00</updated><author><name>Justin Lilly</name></author><id>tag:pyvideo.org,2010-09-09:djangocon-2010/djangocon-2010--learning-a-new-codebase.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will be on methods of reading code for comprehension. While
+the project will be walking through various third-party Django apps, the
+experiences and conclusions are drawn from joining a large, existing
+Django project which lacked documentation.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;In the broadest sense, this talk is on how to read code. More than this,
+it is a series of methods and practices which one can follow to get up
+to speed on a new codebase. The subject of this talk will be
+open-sourced Django projects, but many of the experiences which fuel
+this talk will be based on joining a new team. It will cover tracing
+execution paths, finding the more interesting portions of a codebase, as
+well as how to address any issues you may have found in it.&lt;/p&gt;
+</summary><category term="djangocon"></category><category term="djangocon2010"></category><category term="programming"></category></entry><entry><title>SCons - Software bauen in Python</title><link href="http://pyvideo.org/pycon-de-2013/scons-software-bauen-in-python.html" rel="alternate"></link><published>2013-10-16T00:00:00+00:00</published><updated>2013-10-16T00:00:00+00:00</updated><author><name>Dirk Bächle</name></author><id>tag:pyvideo.org,2013-10-16:pycon-de-2013/scons-software-bauen-in-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Dieser Vortrag stellt SCons (www.scons.org) und seine Benutzung vor. Er
+richtet sich in erster Linie an Softwareentwickler oder Betreuer von
+großen Buildumgebungen, die nach Alternativen zu herkömmlichen Tools,
+wie CMake oder autotools, suchen.&lt;/p&gt;
+&lt;p&gt;SCons ist ein Buildsystem das vollständig in Python programmiert wird.
+Die Eingabedateien zur Definition der einzelnen Buildschritte werden
+ebenfalls als Pythonskripte ausgeführt. Durch diese Kombination einer
+DSL (Domain Specific Language) mit der Allzwecksprache Python, lassen
+sich auch komplizierte Softwareprojekte einfach spezifizieren und bauen.&lt;/p&gt;
+&lt;p&gt;Das Framework das sich hinter dem Startskript verbirgt, ist auf einfache
+Erweiterbarkeit und hohe Flexibilität ausgelegt.&lt;/p&gt;
+&lt;p&gt;Während des Vortrags soll gezeigt werden wie man ein Projekt richtig
+anfängt und make-typische Denkweisen vermeidet. Die Vorteile von SCons
+und Standardfragen, z.B. zur Erweiterung des Systems für neue
+Buildschritte, werden diskutiert.&lt;/p&gt;
+&lt;p&gt;Am Ende soll der Zuhörer einen Eindruck von der Arbeitsweise des
+Programms erhalten haben, und entscheiden können ob sich der Einsatz von
+SCons für sein Softwareprojekt lohnen würde.&lt;/p&gt;
+</summary><category term="building"></category><category term="build system"></category><category term="framework"></category><category term="programming"></category><category term="software"></category></entry></feed>

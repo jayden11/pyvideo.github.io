@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 05 Sep 2015 00:00:00 +0000</lastBuildDate><item><title>Integrating Python Apps with Centralised Identity Management Systems</title><link>http://pyvideo.org/kiwi-pycon-2015/integrating-python-apps-with-centralised-identity.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Most Python web developers are familiar with authentication and
+authorisation on the open web, but the requirements and technologies
+used inside companies and large organisations are different:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Identities and groups are probably stored in an external identity
+management system's directory rather than in an application's
+database tables.&lt;/li&gt;
+&lt;li&gt;Authorisation decisions will be based on group membership and
+policies that are defined outside the application.&lt;/li&gt;
+&lt;li&gt;Users may be expected or required to use a &lt;em&gt;single sign-on&lt;/em&gt;
+technology such as Kerberos or SAML to authenticate to applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This talk will familiarise the audience with these technologies and
+demonstrate how Python web applications can be integrated with an
+identity management system to meet business requirements while providing
+a positive user experience. Particular technologies covered will
+include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.freeipa.org"&gt;FreeIPA&lt;/a&gt;: an open-source identity
+management solution, for defining users, groups and authorisation
+policies&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://github.com/modauthgssapi/mod_auth_gssapi"&gt;mod_auth_gssapi&lt;/a&gt;
+/ mod_auth_kerb: Apache modules for Kerberos authentication&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.adelton.com/apache/mod_lookup_identity/"&gt;mod_lookup_identity&lt;/a&gt;:
+Apache module to retrieve user information from a directory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The talk will conclude with discussion about upcoming Kerberos features,
+techniques for dealing with multiple authentication methods, and
+progress in making identity management integration easier for Python
+(and in particular, Django) developers.&lt;/p&gt;
+&lt;p&gt;People developing or deploying Python web applications in business
+environments or for large open source projects with centralised identity
+management will get the most out of this talk.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fraser Tweedale</dc:creator><pubDate>Sat, 05 Sep 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-09-05:kiwi-pycon-2015/integrating-python-apps-with-centralised-identity.html</guid></item><item><title>Descriptors: attribute access redefined by Fraser Tweedale</title><link>http://pyvideo.org/pycon-au-2014/descriptors-attribute-access-redefined-by-fraser.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Descriptors are a powerful feature of Python that can be used to augment
+or replace traditional attribute access with arbitrary behaviours. Such
+versatility makes the descriptor protocol a valuable tool for any Python
+programmer, yet although most of us have used descriptors, fewer have
+implemented one.&lt;/p&gt;
+&lt;p&gt;This presentation will explain the use cases that motivate descriptors
+and how other features in Python fall short. We will then look at some
+of the descriptors that the audience may already have used (even if they
+didn't know they were using descriptors!) This will be followed with an
+explanation of the descriptor protocol and some implementation and usage
+examples.&lt;/p&gt;
+&lt;p&gt;I will discuss some of the finer details of descriptor implementation
+and will conclude with a look at Elk - a declarative object system
+authored by the presenter and inspired by Perl's Moose - and the
+descriptors that power it.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fraser Tweedale</dc:creator><pubDate>Thu, 07 Aug 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-08-07:pycon-au-2014/descriptors-attribute-access-redefined-by-fraser.html</guid></item><item><title>Cooking with Cryptography</title><link>http://pyvideo.org/pycon-au-2015/cooking-with-cryptography.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The &lt;tt class="docutils literal"&gt;cryptography&lt;/tt&gt; library emerged in 2014 with the goal of becoming
+Python's &amp;quot;cryptographic standard library&amp;quot;. It is designed to be easy to
+use but flexible, exposing a &lt;em&gt;recipes&lt;/em&gt; layer for common use cases, and a
+&lt;em&gt;hazmat&lt;/em&gt; layer that provides crypto primitives but demands users know
+what they're doing in order to use them properly.&lt;/p&gt;
+&lt;p&gt;This talk will explain the motivations and goals of the &lt;tt class="docutils literal"&gt;cryptography&lt;/tt&gt;
+library, take a tour of its features and discuss its implementation.
+&lt;tt class="docutils literal"&gt;cryptography&lt;/tt&gt; will be compared to some other popular and emerging
+crypto libraries. Finally, we will examine some real-world use of the
+library.&lt;/p&gt;
+&lt;p&gt;Audience members should have a passing familiarity with cryptography
+(e.g. know the differences between hashing and encryption, or public key
+and private key crypto) to get the most out of this talk.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fraser Tweedale</dc:creator><pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-17:pycon-au-2015/cooking-with-cryptography.html</guid></item><item><title>Integrating Django with Identity Management Systems</title><link>http://pyvideo.org/pycon-au-2015/integrating-django-with-identity-management-syste.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Most Django developers are familiar with authentication and
+authorisation on the open web, but the requirements and technologies
+used inside companies and large organisations are different:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Identities and groups are probably stored in an external identity
+management system's directory rather than in an application's
+database tables.&lt;/li&gt;
+&lt;li&gt;Authorisation decisions will be based on group membership and
+policies that are defined outside the application.&lt;/li&gt;
+&lt;li&gt;Users may be expected or required to use a &lt;em&gt;single sign-on&lt;/em&gt;
+technology such as Kerberos or SAML to authenticate to applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This talk will familiarise the audience with these technologies and
+demonstrate how Django applications can be integrated with an identity
+management system to meet business requirements while providing a
+positive user experience. Particular technologies covered will include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;FreeIPA: an open-source identity management solution, for defining
+users, groups and authorisation policies&lt;/li&gt;
+&lt;li&gt;mod_auth_gssapi / mod_auth_kerb: Apache modules for Kerberos
+authentication&lt;/li&gt;
+&lt;li&gt;mod_lookup_identity: Apache module to retrieve user information
+from a directory&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The talk will conclude with discussion about upcoming Kerberos features,
+techniques for dealing with multiple authentication methods, and
+progress in making identity management integration easier for Django
+developers.&lt;/p&gt;
+&lt;p&gt;People developing or deploying Django applications in business
+environments or for large open source projects with centralised identity
+management will get the most out of this talk.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fraser Tweedale</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-04:pycon-au-2015/integrating-django-with-identity-management-syste.html</guid></item></channel></rss>

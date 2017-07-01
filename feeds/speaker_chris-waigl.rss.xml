@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 11 Apr 2015 00:00:00 +0000</lastBuildDate><item><title>Satellite mapping for everyone</title><link>http://pyvideo.org/pycon-us-2015/satellite-mapping-for-everyone.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Concerned about urban sprawl, landscape change or ecosystem recovery?
+Wildfire, drought or flooding? A vast amount of satellite data,
+collected since the 1970s, is freely available for your next mapping
+project. I will demonstrate how Python helps to make sense of odd
+scientific data and metadata formats and produce beautiful visualization
+and map products.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Chris Waigl</dc:creator><pubDate>Sat, 11 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-11:pycon-us-2015/satellite-mapping-for-everyone.html</guid></item></channel></rss>

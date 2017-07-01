@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 06 Nov 2016 00:00:00 +0000</lastBuildDate><item><title>Type Hints for Static and Runtime Type Checking</title><link>http://pyvideo.org/pycon-ireland-2016/type-hints-for-static-and-runtime-type-checking.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The main objective of this talk is introducing type hints and the new
+&amp;quot;typing&amp;quot; module that appeared in Python 3.5, along with the static
+analysis tools that support them. As a part of this talk, we will also
+discuss how to build a runtime type checker on top of the type hints
+mechanics.&lt;/p&gt;
+&lt;p&gt;Syllabus:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Function annotations&lt;/li&gt;
+&lt;li&gt;Brief introduction to mypy&lt;/li&gt;
+&lt;li&gt;Type hints, typing module&lt;/li&gt;
+&lt;li&gt;Runtime type checking&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan Smirnov</dc:creator><pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-11-06:pycon-ireland-2016/type-hints-for-static-and-runtime-type-checking.html</guid></item></channel></rss>

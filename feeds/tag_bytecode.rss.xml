@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 16 Jul 2016 00:00:00 +0000</lastBuildDate><item><title>Playing with Python Bytecode</title><link>http://pyvideo.org/pygotham-2016/playing-with-python-bytecode.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Ever wondered what Python is actually doing when it executes your code? Want to learn to hand-craft artisanal Python bytecode? In this talk, we explain CPython's internal code representation, and we demonstrate techniques for modifying code objects for fun and profit.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Scott Sanderson</dc:creator><pubDate>Sat, 16 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-16:pygotham-2016/playing-with-python-bytecode.html</guid><category>bytecode</category></item><item><title>Lightning Talks Day 2</title><link>http://pyvideo.org/djangocon-2009/djangocon-2009--lightning-talks-day-2.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning Talks Day 2&lt;/p&gt;
+&lt;p&gt;(00:09) Dive into CPython Bytecode - Alex Gaynor&lt;/p&gt;
+&lt;p&gt;(05:10) Testing with pywatch - Chris Heisel&lt;/p&gt;
+&lt;p&gt;(07:08) Pluggable Django E-Commerce - Aaron Cuker and someone else&lt;/p&gt;
+&lt;p&gt;(12:13) Introduction to Surlex - Cody Soyland&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alex Gaynor</dc:creator><pubDate>Wed, 09 Sep 2009 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2009-09-09:djangocon-2009/djangocon-2009--lightning-talks-day-2.html</guid><category>bytecode</category><category>cpython</category><category>djangocon</category><category>djangocon2009</category><category>pywatch</category><category>surlex</category><category>testing</category></item><item><title>Exploring CPython's bytecode</title><link>http://pyvideo.org/europython-2011/exploring-cpythons-bytecode.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Floris Bruynooghe - 22 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The CPython interpreter always compiles your source code to bytecode,
+usually stored in .pyc files. This bytecode is then loaded and executed
+in the CPython virtual machine.&lt;/p&gt;
+&lt;p&gt;This talk will explore the bytecode from the outside in. Starting with
+how to read a .pyc file, following the steps the interpreter takes to
+arrive and a usable python module. It then dives into the structure of
+the bytecode itself and the principles of the virtual machine, detailing
+how the VM executes this bytecode to do useful work.&lt;/p&gt;
+&lt;p&gt;Having seen all these details you should have a good idea of the various
+innards of CPython and how to manipulate these to create weird,
+wonderful, dangerous and occasional useful hacks.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Floris Bruynooghe</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-21:europython-2011/exploring-cpythons-bytecode.html</guid><category>bytecode</category><category>cpython</category><category>vm</category></item><item><title>Bytecode: What, Why, and How to Hack it</title><link>http://pyvideo.org/pycon-au-2011/bytecode-what-why-and-how-to-hack-it.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;What's python really doing when it runs your scripts, and what's with
+all these .pyc files? Get inside the head of python.exe, learn how it
+sees your code, and then twist it to your own evil ends. This talk will
+discuss the basics of python's bytecode format, why and how it is used,
+and how you can dive into the bytecode of your running program - either
+to better understand its behaviour, or to make it do things to was never
+supposed to do....&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ryan F Kelly</dc:creator><pubDate>Mon, 22 Aug 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-08-22:pycon-au-2011/bytecode-what-why-and-how-to-hack-it.html</guid><category>bytecode</category></item></channel></rss>

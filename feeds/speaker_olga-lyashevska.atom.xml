@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_olga-lyashevska.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-05T00:00:00+00:00</updated><entry><title>How can machine learning help to predict changes in size of Atlantic herring ?</title><link href="http://pyvideo.org/europython-2016/how-can-machine-learning-help-to-predict-changes-in-size-of-atlantic-herring.html" rel="alternate"></link><published>2016-08-05T00:00:00+00:00</published><updated>2016-08-05T00:00:00+00:00</updated><author><name>Olga Lyashevska</name></author><id>tag:pyvideo.org,2016-08-05:europython-2016/how-can-machine-learning-help-to-predict-changes-in-size-of-atlantic-herring.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Olga Lyashevska - How can machine learning help to predict changes in size of Atlantic herring ?
+[EuroPython 2016]
+[22 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/how-can-machine-learning-help-to-predict-changes-in-size-of-atlantic-herring"&gt;https://ep2016.europython.eu//conference/talks/how-can-machine-learning-help-to-predict-changes-in-size-of-atlantic-herring&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;This talk is a case-study of how Python (Pandas, NumPy, SciKit-learn)
+can be implemented to identify the influence of the potential drivers
+of a decline in size of Atlantic herring populations using Gradient
+Boosting Regression Trees.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;A decline in size and weight of Atlantic herring  in the Celtic Sea
+has been observed since the mid-1980’s.  The cause of the decline
+remains largely unexplained but is likely to be driven by the
+interactive effect of various endogenous and exogenous factors. The
+goal of this study is to interrogate a long time-series of biological
+data obtained from commercial fisheries from 1959 to 2012.  We use
+gradient boosting regression trees to identify important variables
+underlying changes in growth from various potential drivers, such as:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Atlantic multidecadal oscillation.&lt;/li&gt;
+&lt;li&gt;Sea surface temperature.&lt;/li&gt;
+&lt;li&gt;Salinity.&lt;/li&gt;
+&lt;li&gt;Wind.&lt;/li&gt;
+&lt;li&gt;Zooplankton abundance.&lt;/li&gt;
+&lt;li&gt;Fishing pressure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This learning algorithm allows to quantify the influence of the
+potential drivers of change with the test error lower when compared to
+other supervised learning techniques. The predictor variables
+importance spectrum (feature importance) helps to identify the
+underlying patterns and potential tipping points while resolving the
+external mechanisms underlying observed changes in size and weight of
+herring.  This analysis is a useful case-study of how Python can be
+implemented in academia.  The outputs of the analysis are of relevance
+to conservation efforts and sustainable fisheries management which
+promotes species resistance and resilience.&lt;/p&gt;
+</summary></entry></feed>

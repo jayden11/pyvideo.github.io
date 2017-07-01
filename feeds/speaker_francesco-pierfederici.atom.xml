@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_francesco-pierfederici.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2010-02-19T00:00:00+00:00</updated><entry><title>Python for Large Astronomical Data Reduction and Analysis Systems (#107)</title><link href="http://pyvideo.org/pycon-us-2010/pycon-2010--python-for-large-astronomical-data-re.html" rel="alternate"></link><published>2010-02-19T00:00:00+00:00</published><updated>2010-02-19T00:00:00+00:00</updated><author><name>Francesco Pierfederici</name></author><id>tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--python-for-large-astronomical-data-re.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python for Large Astronomical Data Reduction and Analysis Systems&lt;/p&gt;
+&lt;p&gt;Presented by Francesco Pierfederici (Harvard-Smithsonian Center for
+Astrophysics)&lt;/p&gt;
+&lt;p&gt;We describe how Python is used in a large astronomy project to
+automatically process data from several telescopes in both the
+hemispheres. We introduce the general problem and discuss challenges and
+lessons learned.&lt;/p&gt;
+</summary><category term="astronomy"></category><category term="casestudy"></category><category term="concurrency"></category><category term="pycon"></category><category term="pycon2010"></category></entry></feed>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_lacey-williams-henschel.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-03-31T00:00:00+00:00</updated><entry><title>PyDX 2015: A Newcomer's Guide to Open Source Contribution</title><link href="http://pyvideo.org/pydx-2015/pydx-2015-a-newcomers-guide-to-open-source-contribution.html" rel="alternate"></link><published>2015-10-10T00:00:00+00:00</published><updated>2015-10-10T00:00:00+00:00</updated><author><name>Lacey Williams Henschel</name></author><id>tag:pyvideo.org,2015-10-10:pydx-2015/pydx-2015-a-newcomers-guide-to-open-source-contribution.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyDX 2015 talk by Lacey Williams Henschel&lt;/p&gt;
+</summary></entry><entry><title>Hermione Granger and the Wizard Information System</title><link href="http://pyvideo.org/djangocon-europe-2016/hermione-granger-and-the-wizard-information-system.html" rel="alternate"></link><published>2016-03-31T00:00:00+00:00</published><updated>2016-03-31T00:00:00+00:00</updated><author><name>Lacey Williams Henschel</name></author><id>tag:pyvideo.org,2016-03-31:djangocon-europe-2016/hermione-granger-and-the-wizard-information-system.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;You can find more about this talk on &lt;a class="reference external" href="https://2016.djangocon.eu/speakers/6"&gt;djangocon.eu&lt;/a&gt;. This video is hosted by &lt;a class="reference external" href="http://opbeat.com/community/posts/hermione-granger-and-the-wizard-information-system-by-lacey-williams-henschel/"&gt;opbeat.com&lt;/a&gt;.&lt;/p&gt;
+</summary><category term="django"></category></entry><entry><title>A More Accessible Django Girls</title><link href="http://pyvideo.org/django-birthday/a-more-accessible-django-girls.html" rel="alternate"></link><published>2015-07-11T00:00:00+00:00</published><updated>2015-07-11T00:00:00+00:00</updated><author><name>Lacey Williams Henschel</name></author><id>tag:pyvideo.org,2015-07-11:django-birthday/a-more-accessible-django-girls.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Appropriate planning and accommodations make Django Girls workshops and
+other tech events more open to many groups, including people with
+disabilities, Deaf attendees, attendees with mental illnesses, and more.
+You'll leave this talk with some concrete things you can do to make your
+next meetup, workshop, or conference more inclusive of people with
+disabilities, including how to advertise your accommodations, what to
+look for in a venue, and some free tools to help your website be more
+accessible.&lt;/p&gt;
+</summary></entry><entry><title>Jane Austen on PEP8: Tips from an English Major on Writing Better Code</title><link href="http://pyvideo.org/djangocon-2015/jane-austen-on-pep8-by-lacey-williams-henschel.html" rel="alternate"></link><published>2015-09-24T00:00:00+00:00</published><updated>2015-09-24T00:00:00+00:00</updated><author><name>Lacey Williams Henschel</name></author><id>tag:pyvideo.org,2015-09-24:djangocon-2015/jane-austen-on-pep8-by-lacey-williams-henschel.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Jane Austen on PEP8: Tips from an English Major on Writing Better Code&lt;/p&gt;
+&lt;p&gt;I have two English degrees, and I’ve identified some concrete ways this
+makes me a better developer. This talk will discuss how we can take
+lessons from literature to write more readable code, make better tests,
+and create more usable websites.&lt;/p&gt;
+&lt;p&gt;I’ll compare Two Scoops of Django to Strunk and White’s The Elements of
+Style, that familiar freshman comp text, to explore how they are more
+alike than they are different. We’ll discuss the importance of
+readability, creating a “story arc” in your tests through good user
+stories, how variables names have characterization, and the importance
+of whitespace and good formatting to everyone. I’ll also compare PEP8 to
+the MLA Handbook; there’s a reason both disciplines have a style guide!&lt;/p&gt;
+</summary></entry></feed>

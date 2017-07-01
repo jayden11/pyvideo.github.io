@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_ed-singleton.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-09-29T00:00:00+00:00</updated><entry><title>Form Follows Functions</title><link href="http://pyvideo.org/pycon-uk-2016/form-follows-functions.html" rel="alternate"></link><published>2016-09-29T00:00:00+00:00</published><updated>2016-09-29T00:00:00+00:00</updated><author><name>Ed Singleton</name></author><id>tag:pyvideo.org,2016-09-29:pycon-uk-2016/form-follows-functions.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Ed Singleton&lt;/p&gt;
+&lt;p&gt;A revolution in materials lead to a revolution in architecture, and a complete rethink of how we design buildings.&lt;/p&gt;
+&lt;p&gt;The lessons learned in this process are still lessons we need to remember today, and they can be used to change the way we argue with each other over styles and patterns.&lt;/p&gt;
+&lt;p&gt;We'll be looking at the history of what happened, and then trying to apply &amp;quot;form follows function&amp;quot; to some controversial areas to see if it helps us resolve them.&lt;/p&gt;
+</summary></entry></feed>

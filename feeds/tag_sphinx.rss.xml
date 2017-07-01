@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 21 Feb 2016 00:00:00 +0000</lastBuildDate><item><title>Sphinx autodoc: automated API documentation</title><link>http://pyvideo.org/pycon-korea-2015/sphinx-autodoc-automated-api-documentation.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Sphinx can extract paragraphs from sphinx document and store them into
+gettext format translation catalog files.&lt;/p&gt;
+&lt;p&gt;Gettext format translation catalog is easy to translate from one
+language to other languages.&lt;/p&gt;
+&lt;p&gt;Also Sphinx support internationalization by using such catalog files.&lt;/p&gt;
+&lt;p&gt;You can use your favorite editors or services to translate your sphinx
+docs.&lt;/p&gt;
+&lt;p&gt;In this session, I'll explain 3 things; (1) entire process to translate
+sphinx docs. (2) automation mechanism for the process. (3) tips, tricks
+and traps for writing docs and translating.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Takayuki Shimizukawa</dc:creator><pubDate>Sat, 29 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-29:pycon-korea-2015/sphinx-autodoc-automated-api-documentation.html</guid><category>sphinx</category></item><item><title>Read the docs</title><link>http://pyvideo.org/pycaribbean-2016/eric-holscher-read-the-docs.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Holscher</dc:creator><pubDate>Sun, 21 Feb 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-02-21:pycaribbean-2016/eric-holscher-read-the-docs.html</guid><category>keynote</category><category>read the docs</category><category>documentation</category><category>sphinx</category></item><item><title>Browse and print problems and solutions</title><link>http://pyvideo.org/europython-2011/browse-and-print-problems-and-solutions.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Jonathan Fine - 21 June 2011 in &amp;quot;Track Tagliatelle&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;With the growth of the web, how we publish is changing. Paper alone is
+not enough, web pages are also required. And for many web pages it is
+not enough to rely on the browser’s print capabilities. Sphinx, used
+since 2008 for Python’s documentation, is a creative response to this
+tension.&lt;/p&gt;
+&lt;p&gt;This talk will take a broader view of the problem. For example, many
+browsers support web fonts for display but not for printing. Mathematics
+on web pages is still difficult, but SVG holds out much promise not only
+for mathematics but for tables and other complex typeset material.
+Achieving accessibility remains difficult.&lt;/p&gt;
+&lt;p&gt;Based on over 15 year’s experience in print and electronic publishing,
+this talk will survey problems and emerging solutions. Software and
+sites covered include LaTeX, PDF, SVG, MathJax, web-fonts, PediaPress,
+Sphinx and arXiv.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jonathan Fine</dc:creator><pubDate>Mon, 27 Feb 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-02-27:europython-2011/browse-and-print-problems-and-solutions.html</guid><category>accessibility</category><category>sphinx</category><category>web</category></item><item><title>Sphinx i18n</title><link>http://pyvideo.org/pycon-de-2013/sphinx-i18n.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Sphinx hat schon rudimentäre Unterstützung für die Internationalisierung
+von Dokumentationen mit Hilfe von gettext. Dieser Vortrag berichtet über
+die eigenen Erfahrungen und diskutiert weitergehende Lösungsansätze.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Markus Zapke-Gründemann</dc:creator><pubDate>Tue, 15 Oct 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-10-15:pycon-de-2013/sphinx-i18n.html</guid><category>dokumentation</category><category>gettext</category><category>i18n</category><category>internationalisierung</category><category>sphinx</category><category>transifex</category></item><item><title>Sunday Afternoon Lightning Talks</title><link>http://pyvideo.org/pycon-us-2010/pycon-2010--sunday-afternoon-lightning-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Plenary: Afternoon Lightning Talks&lt;/p&gt;
+&lt;p&gt;(02:20) Steve Holden - Lightning talk about lightning talks&lt;/p&gt;
+&lt;p&gt;(02:55) Michael Foord - Little Bit of Python podcast, upcoming unittest
+stuff, mock&lt;/p&gt;
+&lt;p&gt;(08:00) Harald Armin Massa - The real harm of functional programming&lt;/p&gt;
+&lt;p&gt;(11:41) Karl ? - FreeBSD certiciation&lt;/p&gt;
+&lt;p&gt;(13:50) Peter Fein - Please Pirate&lt;/p&gt;
+&lt;p&gt;(19;15) Chris McDonough - writing books with Sphinx
+(&lt;a class="reference external" href="http://bfg.repoze.org/book"&gt;repoze.bfg&lt;/a&gt;);
+&lt;a class="reference external" href="https://www.createspace.com/"&gt;createspace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(22:05) Chris Petrilli - celery, distributed task queue&lt;/p&gt;
+&lt;p&gt;(26:30) Godefroid Chapelle - vim and pdb&lt;/p&gt;
+&lt;p&gt;(29:20) ? - fork() vs. threads&lt;/p&gt;
+&lt;p&gt;(33:40) - doing pyweek game with a large number of contributors&lt;/p&gt;
+&lt;p&gt;(38:05) Jason Huggins - Orbison&lt;/p&gt;
+&lt;p&gt;(43:20) Noufal Brahim - State of Python community in India&lt;/p&gt;
+&lt;p&gt;(47:40) Mike Müller - EuroSciPy 2010&lt;/p&gt;
+&lt;p&gt;(49:50) David gives away stuff, sprint intros, ...&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--sunday-afternoon-lightning-talks.html</guid><category>celery</category><category>euroscipy</category><category>euroscipy2010</category><category>fork</category><category>freebsd</category><category>functionalprogramming</category><category>india</category><category>orbison</category><category>pdb</category><category>pycon</category><category>pycon2010</category><category>pyweek</category><category>sphinx</category><category>threads</category><category>unittest</category><category>vim</category></item><item><title>Saturday Afternoon Lightning Talks</title><link>http://pyvideo.org/pycon-us-2011/pycon-2011--saturday-afternoon-lightning-talks.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Saturday afternoon lightning talks&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Saturday Afternoon Lightning Talks&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;00:00 Eric Holscher - Read the Docs
+(&lt;a class="reference external" href="http://readthedocs.org/"&gt;readthedocs.org&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;05:25 Nate Aune - DjangoZoom
+(&lt;a class="reference external" href="http://djangozoom.com/"&gt;DjangoZoom&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;09:40 Paul Smith - Update on Japan&lt;/li&gt;
+&lt;li&gt;12:40 Phillip von Weitershausen - The English of Programming
+Languages (JavaScript)&lt;/li&gt;
+&lt;li&gt;18:15 Henrique Bastos - Community Bootstrap&lt;/li&gt;
+&lt;li&gt;24:00 Barry Warsaw - flufl.i18n library
+(&lt;a class="reference external" href="https://launchpad.net/flufl.i18n"&gt;https://launchpad.net/flufl.i18n&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;31:20 Aron Griffis - Window Manglement with PyWO
+(&lt;a class="reference external" href="http://code.google.com/p/pywo/"&gt;http://code.google.com/p/pywo/&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;35:00 Josiah Carlson - Over-Engineering for Dummies&lt;/li&gt;
+&lt;li&gt;40:35 Grace Law - Get the job you want&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--saturday-afternoon-lightning-talks.html</guid><category>djangozoom</category><category>engineering</category><category>flufl.i18n</category><category>interviewing</category><category>javascript</category><category>pycon</category><category>pycon2011</category><category>pywo</category><category>readthedocs</category><category>sphinx</category></item><item><title>Writing great documentation</title><link>http://pyvideo.org/pycon-us-2011/pycon-2011--writing-great-documentation.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Writing great documentation&lt;/p&gt;
+&lt;p&gt;Presented by Jacob Kaplan-Moss&lt;/p&gt;
+&lt;p&gt;Django’s among the best documented open source projects; I'm intensely
+proud of that accomplishment. If any part of Django endures, I hope
+it’ll be a “documentation culture” — an ethos that values great,
+well-written documentation. To that end, this talk looks at the tools,
+tips, and techniques I’ve learned over the years. I hope it helps you
+write great documentation, too.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;This talk looks at tips, tools, and techniques you can use to produce
+great technical documentation.&lt;/p&gt;
+&lt;p&gt;It's split roughly into two parts:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Part 1: technique. We'll look at the structural elements that make
+documentation useful: tutorials, high-level overviews, topical
+guides, reference material, FAQs, and more. We'll cover some tips on
+how to get documentation done, and community processes for handling
+documentation in teams (open or not). We'll also talk about what I'm
+calling &amp;quot;Documentation Driven Development&amp;quot; - a technique riffing off
+Test Driven Development that calls for writing documentation before
+code.&lt;/li&gt;
+&lt;li&gt;Part 2: tools. Over the last couple of years a few fantastic tools
+have sprung up that ease the technical aspects of writing
+documentation. We'll talk about which tools are suitable for which
+uses, and look at a handful of cool tools including
+&lt;a class="reference external" href="http://sphinx.pocoo.org/"&gt;Sphinx&lt;/a&gt;,
+&lt;a class="reference external" href="http://epydoc.sourceforge.net/"&gt;Epydoc&lt;/a&gt;, and
+&lt;a class="reference external" href="http://fitzgen.github.com/pycco/"&gt;http://fitzgen.github.com/pycco/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This talk is mostly targeted towards those documenting libraries or
+frameworks intended for use by other developers, but much of it probably
+applies to any sort of technical documentation.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Jacob Kaplan-Moss</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--writing-great-documentation.html</guid><category>docs</category><category>documentation</category><category>epydoc</category><category>faqs</category><category>pycco</category><category>pycon</category><category>pycon2011</category><category>sphinx</category></item></channel></rss>

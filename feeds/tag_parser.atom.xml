@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_parser.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2011-07-13T00:00:00+00:00</updated><entry><title>PyOhio 2011: Python, Parsing and You</title><link href="http://pyvideo.org/pyohio-2011/pyohio-2011--python--parsing-and-you.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Tim Henderson</name></author><id>tag:pyvideo.org,1990-01-01:pyohio-2011/pyohio-2011--python--parsing-and-you.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python, Parsing, and You&lt;/p&gt;
+&lt;p&gt;Presented by Tim Henderson&lt;/p&gt;
+&lt;p&gt;Tim Henderson Python is a fantastic language to write text processing
+tools in, including full fledged parsers. In this tutorial I will
+briefly cover Recursive Descent, Top Down Predictive and LALR Parsing.
+The tools used will include PLY and a Top Down Predictive Parsing
+framework of my own construction. I will expect the audience to be
+familiar with the following concepts: Context Free Grammars, Regular
+Expressions, ...&lt;/p&gt;
+</summary><category term="lalr"></category><category term="parser"></category><category term="ply"></category><category term="pyohio"></category><category term="pyohio2011"></category></entry><entry><title>plac: more than just another command-line arguments parser</title><link href="http://pyvideo.org/europython-2011/plac-more-than-just-another-command-line-argumen.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Michele Simionato</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/plac-more-than-just-another-command-line-argumen.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Michele Simionato - 21 June 2011 in &amp;quot;Track Ravioli&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;plac is general purpose tool than can be used to define command-oriented
+domain specific languages (DSLs). In its simplest form it can be used as
+a command-line arguments parser with an easier-to-use API than argparse.
+It can also be used to replace the cmd module in the standard library.
+Moreover it can be used to automatize functional tests and for much
+more. The talk will touch upon many use cases where plac can make your
+life as a developer simpler and better. Technically Plac is a wrapper
+over argparse and works in all versions of Python starting from Python
+2.3 up to Python 3.2. In Python 3.X it takes advantage of function
+annotations to define the parser in a declarative way, instead of the
+imperative way of argparse. In Python 2.X it uses decorators instead, to
+reach the same goal. The talk is a hands-on interactive demonstration of
+plac capabilities.&lt;/p&gt;
+</summary><category term="api"></category><category term="argparse"></category><category term="cmd"></category><category term="decorators"></category><category term="parser"></category></entry></feed>

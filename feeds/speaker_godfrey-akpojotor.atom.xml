@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_godfrey-akpojotor.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-10-03T00:00:00+00:00</updated><entry><title>Challenges and Prospects of the Python African Computational Science and Engineering Tour Project</title><link href="http://pyvideo.org/pycon-za-2014/challenges-and-prospects-of-the-python-african-co.html" rel="alternate"></link><published>2014-10-03T00:00:00+00:00</published><updated>2014-10-03T00:00:00+00:00</updated><author><name>Godfrey Akpojotor</name></author><id>tag:pyvideo.org,2014-10-03:pycon-za-2014/challenges-and-prospects-of-the-python-african-co.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Computer and computer based activities have pervaded our
+teaching/learning process as well as research so much so that the 21st
+century academic activities in science and engineering (S &amp;amp; E) cannot be
+fully engaged without some level of computation. An important choice of
+a programming language especially in a developing country is the ease to
+learn it and its accessibility. Python's unique features and the
+possibility that any user connected to the internet can download the
+entire packages into any platform, install it and immediately begin to
+use it makes it a preferred environment for introducing students and new
+beginners to elegant and all purpose programming. Therefore in Africa,
+the Python African Tour project has been launched and I am coordinating
+its use in computational Science and Engineering (S &amp;amp; E) code-named
+Python African Computational Science and Engineering Tour (PACSET).&lt;/p&gt;
+</summary><category term="pyconza"></category><category term="pyconza2014"></category></entry></feed>

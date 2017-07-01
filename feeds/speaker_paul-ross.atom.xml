@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_paul-ross.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-05-30T00:00:00+00:00</updated><entry><title>Here be Dragons - Writing Safe C Extensions</title><link href="http://pyvideo.org/pycon-uk-2015/here-be-dragons-writing-safe-c-extensions.html" rel="alternate"></link><published>2015-09-20T00:00:00+00:00</published><updated>2015-09-20T00:00:00+00:00</updated><author><name>Paul Ross</name></author><id>tag:pyvideo.org,2015-09-20:pycon-uk-2015/here-be-dragons-writing-safe-c-extensions.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Writing Python C Extensions can be daunting; you have to embrace not
+just C but Python's C API, which is huge. Not only do you have to worry
+about just your standard malloc() and free() but now you also have to
+contend with how CPython manages its memory.&lt;/p&gt;
+&lt;p&gt;This talk describes what you need to know to write fast ,reliable Python
+extensions in 'C'. It demonstrates some of the pitfalls you can
+encounter and some simple and robust coding patterns that you can use to
+avoid them. After this talk you will be able to write Python extensions
+with confidence.&lt;/p&gt;
+&lt;p&gt;This talk is largely based on &lt;a class="reference external" href="https://github.com/paulross/PythonExtensionPatterns"&gt;this
+material&lt;/a&gt; and
+some hard won industrial experience.&lt;/p&gt;
+</summary></entry><entry><title>Here be Dragons - Writing Safe C Extensions</title><link href="http://pyvideo.org/pycon-us-2016/paul-ross-here-be-dragons-writing-safe-c-extensions-pycon-2016.html" rel="alternate"></link><published>2016-05-30T00:00:00+00:00</published><updated>2016-05-30T00:00:00+00:00</updated><author><name>Paul Ross</name></author><id>tag:pyvideo.org,2016-05-30:pycon-us-2016/paul-ross-here-be-dragons-writing-safe-c-extensions-pycon-2016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Paul Ross&lt;/p&gt;
+&lt;p&gt;Writing Python Extensions can be daunting. This talk de-mystifies what you need to know to write reliable and blazingly fast Pythonic C code.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</summary></entry></feed>

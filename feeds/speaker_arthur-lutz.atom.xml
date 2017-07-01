@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_arthur-lutz.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-10-18T00:00:00+00:00</updated><entry><title>Marre de faire du C++ sur une Arduino ? Faites du Python avec MicroPython sur une PyBoard</title><link href="http://pyvideo.org/pycon-fr-2015/marre-de-faire-du-c-sur-une-arduino-faites-du-python-avec-micropython-sur-une-pyboard.html" rel="alternate"></link><published>2015-10-18T00:00:00+00:00</published><updated>2015-10-18T00:00:00+00:00</updated><author><name>Arthur Lutz</name></author><id>tag:pyvideo.org,2015-10-18:pycon-fr-2015/marre-de-faire-du-c-sur-une-arduino-faites-du-python-avec-micropython-sur-une-pyboard.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Introduction et démo de MicroPython sur une PyBoard.&lt;/p&gt;
+&lt;p&gt;MicroPython est une implémentation de Python3.4 pour microcontrôleurs
+(principalement la PyBoard carte en OpenHardware).&lt;/p&gt;
+&lt;p&gt;Venez faire clignoter des LEDs et bouger des moteurs directement depuis
+le prompt python !&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Présentation de l'historique du projet&lt;/p&gt;
+&lt;p&gt;Détails de l'architecture matérielle&lt;/p&gt;
+&lt;p&gt;Démonstrations sur une carte&lt;/p&gt;
+</summary></entry></feed>

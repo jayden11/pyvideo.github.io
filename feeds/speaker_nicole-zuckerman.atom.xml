@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_nicole-zuckerman.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-19T00:00:00+00:00</updated><entry><title>The Glory of pdb's set_trace</title><link href="http://pyvideo.org/pycon-us-2017/the-glory-of-pdbs-set_trace.html" rel="alternate"></link><published>2017-05-19T00:00:00+00:00</published><updated>2017-05-19T00:00:00+00:00</updated><author><name>Nicole Zuckerman</name></author><id>tag:pyvideo.org,2017-05-19:pycon-us-2017/the-glory-of-pdbs-set_trace.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Everyone needs to debug code, and it can take up a non-trivial portion
+of our time to wait for code to complete execution and write print
+messages to stdout. There’s one function in particular in the python
+debugger (pdb) library that can give you a much clearer understanding of
+what’s going on in your code, much more quickly; pdb.set_ trace(). In
+this talk, we’ll identify the most useful things you can do when you use
+set trace, that can make debugging exponentially more efficient and
+enjoyable.&lt;/p&gt;
+</summary><category term="debugging"></category><category term="tools"></category></entry><entry><title>Technical on-boarding, training, and mentoring.</title><link href="http://pyvideo.org/pycon-us-2014/technical-on-boarding-training-and-mentoring.html" rel="alternate"></link><published>2014-04-13T00:00:00+00:00</published><updated>2014-04-13T00:00:00+00:00</updated><author><name>Kate Heddleston</name></author><id>tag:pyvideo.org,2014-04-13:pycon-us-2014/technical-on-boarding-training-and-mentoring.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This is a talk about how to make junior and new engineers into
+independent and productive members of your engineering team faster and
+cheaper. We will focus on python specific resources and libraries that
+will help you create a simple but effective on boarding program, and
+talk about case studies of companies that have had success using these
+techniques.&lt;/p&gt;
+</summary></entry><entry><title>Getting comfortable with web security: A hands-on session</title><link href="http://pyvideo.org/pycon-us-2015/getting-comfortable-with-web-security-a-hands-on.html" rel="alternate"></link><published>2015-04-10T00:00:00+00:00</published><updated>2015-04-10T00:00:00+00:00</updated><author><name>Asheesh Laroia</name></author><id>tag:pyvideo.org,2015-04-10:pycon-us-2015/getting-comfortable-with-web-security-a-hands-on.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Web application security can be an intimidating discipline, yet it can
+be of supreme importance for the people who use the things we build.&lt;/p&gt;
+&lt;p&gt;In this tutorial, you'll learn about essential topics in web security,
+and you will gain hands-on practice identifying and leveraging
+vulnerabilities in a Python-based web app. For each issue, we will cover
+how your code can stay on the side of safety.&lt;/p&gt;
+</summary></entry></feed>

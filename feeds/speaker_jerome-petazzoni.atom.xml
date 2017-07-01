@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_jerome-petazzoni.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-18T00:00:00+00:00</updated><entry><title>Deploy and scale containers with Docker native, open source orchestration</title><link href="http://pyvideo.org/pycon-us-2017/deploy-and-scale-containers-with-docker-native-open-source-orchestration.html" rel="alternate"></link><published>2017-05-18T00:00:00+00:00</published><updated>2017-05-18T00:00:00+00:00</updated><author><name>Jerome Petazzoni</name></author><id>tag:pyvideo.org,2017-05-18:pycon-us-2017/deploy-and-scale-containers-with-docker-native-open-source-orchestration.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Deploy your own cluster! Use it to &amp;quot;build, ship, and run&amp;quot; containerized
+applications! Learn how to implement logging, metrics, stateful
+services, and more! Learn the True Way of DevOps! Alright, we can't
+promise anything about the True Way of DevOps, but everything else will
+definitely be in this tutorial.&lt;/p&gt;
+&lt;p&gt;We will run a demo app featuring Python components and see some best
+practices to &amp;quot;Dockerize&amp;quot; Python code and Flask in particular; but the
+tutorial also includes other languages and frameworks.&lt;/p&gt;
+&lt;p&gt;Come with your laptop! You don't need to install anything before the
+workshop, as long as you have a web browser and a SSH client. Each
+student will have their own private cluster during the tutorial, to get
+immediately applicable first-hand experience.&lt;/p&gt;
+</summary></entry><entry><title>Deploying and scaling applications with Docker, Swarm, and a tiny bit of Python magic</title><link href="http://pyvideo.org/pycon-us-2016/deploying-and-scaling-applications-with-docker-swarm-and-a-tiny-bit-of-python-magic-pycon-2016.html" rel="alternate"></link><published>2016-05-30T00:00:00+00:00</published><updated>2016-05-30T00:00:00+00:00</updated><author><name>Jérôme Petazzoni</name></author><id>tag:pyvideo.org,2016-05-30:pycon-us-2016/deploying-and-scaling-applications-with-docker-swarm-and-a-tiny-bit-of-python-magic-pycon-2016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Jérôme Petazzoni&lt;/p&gt;
+&lt;p&gt;Docker is an open platform to build, ship, and run any application, anywhere. In this hands-on tutorial, you will learn advanced Docker concepts, and see how to deploy and scale applications using Docker Swarm clustering abilities and reusable, customizable Python tooling.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Introduction to Docker and containers</title><link href="http://pyvideo.org/pycon-us-2016/jerome-petazzoni-introduction-to-docker-and-containers-pycon-2016.html" rel="alternate"></link><published>2016-05-30T00:00:00+00:00</published><updated>2016-05-30T00:00:00+00:00</updated><author><name>Jérôme Petazzoni</name></author><id>tag:pyvideo.org,2016-05-30:pycon-us-2016/jerome-petazzoni-introduction-to-docker-and-containers-pycon-2016.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Jérôme Petazzoni&lt;/p&gt;
+&lt;p&gt;Docker is an open platform to build, ship, and run any application, anywhere. It can be used in many ways: providing clean, isolated development environments; quickly spinning up test instances for CI purposes; ensuring coherence between development and production platform; and much more.&lt;/p&gt;
+&lt;p&gt;In this hands-on tutorial, you will learn basic Docker concepts, and use it to run Python applications.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Build reliable, traceable, distributed systems with ZeroMQ</title><link href="http://pyvideo.org/pycon-us-2012/build-reliable-traceable-distributed-systems-wi.html" rel="alternate"></link><published>2012-03-09T00:00:00+00:00</published><updated>2012-03-09T00:00:00+00:00</updated><author><name>Jérôme Petazzoni</name></author><id>tag:pyvideo.org,2012-03-09:pycon-us-2012/build-reliable-traceable-distributed-systems-wi.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;We will show how to build simple yet powerful RPC code with ZeroMQ, with
+very few (if any!) modification to existing code. We will build fan-in
+and fan-out topologies with ZeroMQ special socket types to implement
+PUB/SUB patterns and scale up job-processing tasks. Thanks to
+introspection, the resulting services will be self-documented. Finally,
+we will show how to implement distributed tracing.&lt;/p&gt;
+</summary></entry></feed>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_bioinformatics.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-07-09T00:00:00+00:00</updated><entry><title>Scikit bio: A Bioinformatics Library for Data Scientists, Students, and Developers</title><link href="http://pyvideo.org/scipy-2015/scikit-bio-a-bioinformatics-library-for-data-scientists-students-and-developers.html" rel="alternate"></link><published>2015-07-09T00:00:00+00:00</published><updated>2015-07-09T00:00:00+00:00</updated><author><name>Jai Ram Rideout</name></author><id>tag:pyvideo.org,2015-07-09:scipy-2015/scikit-bio-a-bioinformatics-library-for-data-scientists-students-and-developers.html</id><summary type="html"></summary><category term="scikit-bio"></category><category term="bioinformatics"></category></entry><entry><title>All-by-all learning of protein complexes from mass spectrometry data</title><link href="http://pyvideo.org/scipy-2013/all-by-all-learning-of-protein-complexes-from-mas-.html" rel="alternate"></link><published>2013-07-01T00:00:00+00:00</published><updated>2013-07-01T00:00:00+00:00</updated><author><name>Blake Borgeson</name></author><id>tag:pyvideo.org,2013-07-01:scipy-2013/all-by-all-learning-of-protein-complexes-from-mas-.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Authors: Blake Borgeson, Center for Systems and Synthetic Biology,
+University of Texas at Austin; Cuihong Wa&lt;/p&gt;
+&lt;p&gt;Track: Bioinformatics&lt;/p&gt;
+&lt;p&gt;Despite our knowledge that the vast majority of life's processes at a
+cellular level are carried out by complexes of multiple proteins,
+knowledge of all the complexes formed in a cell and their members is a
+distant goal. By using a new approach first applied to human cell lines
+by collaborators Havugimana and Hart, et al, consisting of 1) subjecting
+biological samples to many levels of many types of fractionations, 2)
+using mass spectrometry to quantify protein levels in each fraction, and
+3) processing the data through a machine learning pipeline, we are able
+to seek complexes using a high-throughput all-by-all approach. By
+incorporating additional functional genomic information into our
+learning process, we are able to reconstruct maps of complexes that
+rival in quality and far surpass in coverage those generated with
+previously-used, much more labor-intensive methods such as affinity
+purification followed by mass spectrometry, or AP-MS. Here, using 6,000
+mass spectrometry experiments from more than 60 fractionated biological
+samples from human, mouse, sea urchin, fly and worm, we predict with
+high confidence hundreds (~500) of expected and putative novel conserved
+complexes. IPython, SciPy, and scikit-learn are the foundational tools
+used to handle data integration and machine learning, and an integrated
+python environment for this work has been critical to the speed of
+progress.&lt;/p&gt;
+</summary><category term="bioinformatics"></category><category term="machine learning"></category></entry><entry><title>Detection and characterization of interactions of genetic risk factors</title><link href="http://pyvideo.org/scipy-2013/detection-and-characterization-of-interactions-of-.html" rel="alternate"></link><published>2013-07-01T00:00:00+00:00</published><updated>2013-07-01T00:00:00+00:00</updated><author><name>Lin Wang</name></author><id>tag:pyvideo.org,2013-07-01:scipy-2013/detection-and-characterization-of-interactions-of-.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Much attention has been focused on the application of machine learning
+approaches to detection of gene interactions. Our method is based upon
+training a supervised learning algorithm to detect disease, and then
+quantifying the effect on prediction accuracy when alleles of two or
+more genes are perturbed to unmutated in patterns so as to reveal and
+characterize gene interactions.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Detection and characterization of interactions of genetic risk factors
+in disease&lt;/p&gt;
+&lt;p&gt;Authors: Francis-Lyon, Patricia, University of San Francisco; Belvadi,
+Shashank, University of San Francisco; Wang, Lin, University of San
+Francisco&lt;/p&gt;
+&lt;p&gt;Track: Bioinformatics&lt;/p&gt;
+&lt;p&gt;It is well known that two or more genes can interact so as to enhance or
+suppress incidence of disease, such that the observed phenotype differs
+from when the genes act independently. The effect of a gene allele at
+one locus can mask or modify the effect of alleles at one or more other
+loci. Discovery and characterization of such gene interactions is
+pursued as a valuable aid in early diagnosis and treatment of disease.
+Also it is hoped that the characterization of such interactions will
+shed light on biological and biochemical pathways that are involved in a
+specific disease, leading to new therapeutic treatments.&lt;/p&gt;
+&lt;p&gt;Much attention has been focused on the application of machine learning
+approaches to detection of gene interactions. Our method is based upon
+training a supervised learning algorithm to detect disease, and then
+quantifying the effect on prediction accuracy when alleles of two or
+more genes are perturbed to unmutated in patterns so as to reveal and
+characterize gene interactions. We utilize this approach with both a
+neural network and a support vector machine.&lt;/p&gt;
+&lt;p&gt;We test the versatility of our approach using seven disease models, some
+of which model gene interactions and some of which model biological
+independence. In every disease model we correctly detect the presence or
+absence of 2-way and 3-way gene interactions using our method with both
+neural network and support vector machine. We also correctly
+characterize all of the interactions as to the epistatic effect of gene
+alleles in both 2-way and 3-way gene interactions. We conclude that
+machine learning approaches can be used to successfully detect and also
+characterize gene interactions in disease.&lt;/p&gt;
+</summary><category term="bioinformatics"></category><category term="machine learning"></category></entry><entry><title>MIST: Micro-Simulation Tool to Support Disease Modeling</title><link href="http://pyvideo.org/scipy-2013/mist-micro-simulation-tool-to-support-disease-mo-0.html" rel="alternate"></link><published>2013-07-01T00:00:00+00:00</published><updated>2013-07-01T00:00:00+00:00</updated><author><name>Jacob Barhak</name></author><id>tag:pyvideo.org,2013-07-01:scipy-2013/mist-micro-simulation-tool-to-support-disease-mo-0.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;MIST stands for Misco-Simulation Tool. It is a modeling and simulation
+framework that supports computational Chronic Disease Modeling
+activities.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Authors: Jacob Barhak&lt;/p&gt;
+&lt;p&gt;Track: Bioinformatics&lt;/p&gt;
+&lt;p&gt;MIST stands for Misco-Simulation Tool. It is a modeling and simulation
+framework that supports computational Chronic Disease Modeling
+activities. It is a fork from the IEST = Indirect Estimation and
+Simulation Tool GPL modeling framework.&lt;/p&gt;
+&lt;p&gt;MIST removes complexity associated with the estimation engine, with
+parameter definitions, and with rule restrictions. This significantly
+simplifies the system and allows its development in the Micro-simulation
+path less encumbered.&lt;/p&gt;
+&lt;p&gt;The incentive to split MIST was to adapt the code to use newer compiler
+technology to speed up simulations. There is wrong skepticism in the
+medical disease modeling community towards using Interpreters for
+simulations due to performance issues. The use of advanced compiler
+technology with Python may remedy this misconception and provide
+optimized python based simulations. MIST is a first step in this
+direction.&lt;/p&gt;
+&lt;p&gt;MIST takes care of a few documented and known issues. It also moves to
+use new scientific Python stacks such as Anaconda and PythonXY as its
+platform. This improves its accessibility to less sophisticated users
+that can now benefit from easier installation.&lt;/p&gt;
+&lt;p&gt;The Reference Model for disease progression intends to use MIST as its
+main platform. Yet MIST is equipped with a Micro-simulation compiler
+designed to accommodate Monte Carlo simulations for other purposes.&lt;/p&gt;
+</summary><category term="bioinformatics"></category></entry><entry><title>The KBase Narrative Bioinformatics for the 99%</title><link href="http://pyvideo.org/scipy-2014/the-kbase-narrative-bioinformatics-for-the-99.html" rel="alternate"></link><published>2014-07-14T00:00:00+00:00</published><updated>2014-07-14T00:00:00+00:00</updated><author><name>Bill Rihl</name></author><id>tag:pyvideo.org,2014-07-14:scipy-2014/the-kbase-narrative-bioinformatics-for-the-99.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;The KBase Narrative builds on the IPython Notebook to provide a
+multi-user, virtualized Bioinformatics Laboratory Notebook that brings
+Experimental/Wetlab Biologists, students and the bio-curious into the
+world of Computational Biology. Tools for genome annotation,
+visualization, metabolic modeling and more are made available in a
+collaborative and educational web interface.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Computional Biology and Experimental Biology are two specialities that
+would deeply benefit from more interaction - computationalists need
+access to data, biologists in wetlabs need computational tools. The
+KBase Narrative is a computerized laboratory notebook that puts the
+power of the KBase predictive biology platform into the hands of
+experimentalists and students. KBase provides cluster computation,
+analysis and modeling pipelines, large public datasets and a &amp;quot;pluggable&amp;quot;
+architecture for future services. The Narrative is an interface enabling
+the sharing of data, approaches and workflows on KBase. It also serves
+as a teaching tool and publishing platform, allowing other scientists
+and students to observe and reproduce the processes that led to the
+published result.&lt;/p&gt;
+&lt;p&gt;The KBase Narrative is based on the IPython Notebook, extended in the
+following ways:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Notebooks are stored in a remote object store that enables
+versioning, provenance and sharing&lt;/li&gt;
+&lt;li&gt;Support for multiple users has been added, based on OAuth
+authentication against a &amp;quot;cloud&amp;quot; authentication service (Globus
+Online)&lt;/li&gt;
+&lt;li&gt;A framework for dynamically building form inputs for services using
+Python introspection and the IPython Traitlets package (a version of
+Traits) and displaying the output in JS visualization widgets&lt;/li&gt;
+&lt;li&gt;A Docker based provisioning system that builds and tears down
+sandboxed IPython Notebook servers on demand, providing a scalable,
+reasonable safe and easy to use environment for running hosted
+IPython notebooks with much smaller overhead than VM's&lt;/li&gt;
+&lt;li&gt;A heavily modified user interface that has been designed to support
+computational biology workflows&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The current KBase Narrative was developed over the span of roughly 6
+months by a small team of developers and user interface experts - the
+short time scale was possible due to the huge amount of functionality
+already provided by the IPython Notebook, and taking advantage of the
+productivity and power of the Python language.&lt;/p&gt;
+</summary><category term="bioinformatics"></category></entry><entry><title>SociaLite: Python intergrated query Language for Data Analysis</title><link href="http://pyvideo.org/scipy-2014/socialite-python-intergrated-query-language-for.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Jiwon Seo</name></author><id>tag:pyvideo.org,2014-07-09:scipy-2014/socialite-python-intergrated-query-language-for.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;SociaLite is a Python-integrated query language for data analysis. It
+makes scientific data analysis simple, yet achieves fast performance
+with its compiler optimizations. We support relational tables and
+operations in SociaLite as well as Python integration, which makes it
+easy to implement various analysis algorithms, including Blast algorithm
+and genome assembly algorithm in bioinformatics.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;SociaLite is a Python-integrated query language for distributed data
+analysis.
+It makes scientific data analysis simple, yet achieves fast
+performance with its compiler optimizations. The performance of
+SociaLite is often more than three orders of magnitude faster than
+Hadoop programs, and close to optimized C programs. For example,
+PageRank algorithm can be implemented in just 2 lines of SociaLite
+query, which runs nearly as fast as an optimal parallelized C code.&lt;/p&gt;
+&lt;p&gt;SociaLite supports well-known high-level concepts to make data analysis
+easy for non-expert programmers. We support relational tables for
+storing data, and relational operations, such as join, selection, and
+projection, for processing the data. Moreover, SociaLite queries are
+fully integrated with Python, so both SociaLite and Python code can be
+used to implement data analysis logic. For the integration with Python,
+we support embedding and extending SociaLite, where embedding supports
+using SociaLite queries directly in Python code, and extending supports
+using Python functions in SociaLite queries.&lt;/p&gt;
+&lt;p&gt;The Python integration makes it easy to implement various analysis
+algorithms in SociaLite and Python. For example, the BLAST algorithm in
+bioinformatics can be implemented in just a few lines of SociaLite
+queries and Python code. Also genome assembly algorithm -- generating a
+De Bruijn graph and applying Eulerian cycle algorithm -- can be simply
+implemented. In the talk, I will demonstrate these algorithms in
+SociaLite as well as more general algorithms such as K-means clustering
+and logistic regression.&lt;/p&gt;
+&lt;p&gt;The SociaLite queries are compiled to highly optimized
+parallel/distributed code; we apply optimizations such as pipelined
+evaluation and prioritization. The runtime system also speeds up the
+performance; for example, the customized memory allocator reduces memory
+allocation time and footprint. In short, SociaLite makes
+high-performance data analysis easy with its high-level abstractions and
+compiler/runtime optimizations.&lt;/p&gt;
+</summary><category term="bioinformatics"></category><category term="blast"></category><category term="data analysis"></category></entry></feed>

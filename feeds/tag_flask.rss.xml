@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 16 Jul 2016 00:00:00 +0000</lastBuildDate><item><title>It's Raining, It's Pouring? A web and SMS application in Flask and Twilio to call Farmers.</title><link>http://pyvideo.org/pygotham-2016/its-raining-its-pouring-a-web-and-sms-application-in-flask-and-twilio-to-call-farmers.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk is about the use of python in building a web application with which we call farmers in less developed countries to capture rainfall occurrence. These data are used to complement lower resolution satellite data, and to potentially update climate models. The application is built in Flask and uses Twilio's API to deliver voicemails to farmers in less developed countries. Twilio's API records farmers' touch tone responses regarding the occurrence of rainfall.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Katya Vasilaky</dc:creator><pubDate>Sat, 16 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-16:pygotham-2016/its-raining-its-pouring-a-web-and-sms-application-in-flask-and-twilio-to-call-farmers.html</guid><category>flask</category></item><item><title>Fifty shades of docker</title><link>http://pyvideo.org/pycon-es-2014/fifty-shades-of-docker.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;El workshop intentara explicar como montar una application hecha en Flask que usa un cluster de Cassandra (o mongo o redis... la base de datos da un poco igual) como backend y tiene servicios anyadidos como podria ser un buscador (ES)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ivan Pedrazas</dc:creator><pubDate>Mon, 06 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-06:pycon-es-2014/fifty-shades-of-docker.html</guid><category>workshop</category><category>flask</category><category>cassandra</category></item><item><title>PyOhio 2011: Django and Google App Engine: Why I'm using Flask and Amazon EC2</title><link>http://pyvideo.org/pyohio-2011/pyohio-2011--django-and-google-app-engine--why-i-.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django and Google App Engine: Why I'm Using Flask and Amazon EC2&lt;/p&gt;
+&lt;p&gt;Presented by Ben Rousch&lt;/p&gt;
+&lt;p&gt;I'm a lazy coder, but not the good kind of lazy. I dove into Django so I
+could have one web framework that would work on many kind of hosting
+setups and for any kind of web project. With some modifications, I could
+even use the laziest application host, Google App Engine. Some of these
+decisions didn't work out, so I'll share some of the lessons I've
+learned the past year or so.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ben Rousch</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pyohio-2011/pyohio-2011--django-and-google-app-engine--why-i-.html</guid><category>ec2</category><category>flask</category><category>gae</category><category>googleappengine</category><category>pyohio</category><category>pyohio2011</category></item><item><title>Flasky Goodness (or Why Django Sucks?)</title><link>http://pyvideo.org/djangocon-2012/flasky-goodness-or-why-django-sucks.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This talk dives into the specifics of why Django isn't always the best
+tool for the job, general frustrations with the framework, and potential
+fixes. It will balance out with many Django praises too, of course.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk dives into the specifics of why Django isn't always the best
+tool for the job, general frustrations with the framework, and potential
+fixes.&lt;/p&gt;
+&lt;p&gt;It will balance out with many Django praises too, of course.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kenneth Reitz</dc:creator><pubDate>Wed, 05 Sep 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-09-05:djangocon-2012/flasky-goodness-or-why-django-sucks.html</guid><category>flask</category></item><item><title>An iPhone-Python love affair: Building APIs for mobile</title><link>http://pyvideo.org/europython-2011/an-iphone-python-love-affair-building-apis-for-m.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Anna Callahan,Nate Aune - 24 June 2011 in &amp;quot;Track
+Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Mobile apps are the hot item of the day - and the best mobile apps are
+backed by a great website. Python web developer Nate Aune and iPhone
+developer Anna Callahan will show you how we built a simple music web
+app in Django with a native iPhone app that communicates with it.
+Attendees of this talk will see a concrete case study of building an
+application that exposes an API for mobile devices.&lt;/p&gt;
+&lt;p&gt;Our web app exposes a JSON API for sending and receiving data from the
+mobile device. We’ll talk about why we chose Django and the TastyPie API
+package, and discuss other Python-based frameworks that could be used to
+build the API such as Pyramid, Flask and Bottle. We’ll also compare REST
+and custom APIs to understand best practices for building APIs designed
+for mobile devices.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anna Callahan</dc:creator><pubDate>Thu, 07 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-07:europython-2011/an-iphone-python-love-affair-building-apis-for-m.html</guid><category>api</category><category>django</category><category>flask</category><category>json</category><category>mobile</category><category>rest</category><category>tastypie</category><category>web</category></item><item><title>Opening the Flask</title><link>http://pyvideo.org/pycon-us-2011/pycon-2011--opening-the-flask.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Opening the Flask&lt;/p&gt;
+&lt;p&gt;Presented by Armin Ronacher&lt;/p&gt;
+&lt;p&gt;After a year of the Flask microframework it's time to draw some
+conclusions, see things that went right and things that should be
+improved. The talk gives both an introduction into Flask itself as well
+as well as the ecosystem that evolved around it.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Flask is a microframework that was born out of an April's fool joke that
+quickly became more than that. Based on the powerful foundation of
+Werkzeug and Jinja2 it's one of the most popular frameworks for Python
+now.&lt;/p&gt;
+&lt;p&gt;The talk starts with a very quick introduction into Flask, where it all
+started and why I think people like it. We will look into the design of
+Flask and why it works the way it works.&lt;/p&gt;
+&lt;p&gt;Furthermore we will look into the Flask ecosystem and how extensions
+work and have a brief look in what is planned for the future, especially
+regarding Python 3.&lt;/p&gt;
+&lt;p&gt;The talk assumes basic knowledge of web applications.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Armin Ronacher</dc:creator><pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--opening-the-flask.html</guid><category>flask</category><category>pycon</category><category>pycon2011</category></item></channel></rss>

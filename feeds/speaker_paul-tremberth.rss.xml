@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 17 Oct 2015 00:00:00 +0000</lastBuildDate><item><title>XPath for web scraping</title><link>http://pyvideo.org/pycon-fr-2015/xpath-for-web-scraping.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;All you need to know about XPath 1.0 in a web scraping project: the
+different axes, attribute matching, string functions, EXSLT extensions
+plus a few other handy patterns like CSS selectors and Javascript
+parsing.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;When you need to extract data from web pages, you usually parse HTML
+documents into a DOM tree and then use libraries like BeautifulSoup or
+the ElementTree API to extract data from it. Some libraries also support
+XPath expressions which can express more complex traversal and search
+patterns.&lt;/p&gt;
+&lt;p&gt;Everything about XPath 1.0 is defined in W3C lengthly specification but
+it can be obscure to read at first. The basics are quite simple to grasp
+though, and this talk will go over the most useful syntax patterns you
+need to get started.&lt;/p&gt;
+&lt;p&gt;What we'll cover: - axes and how to look for specific tags, parent
+element, children or siblings nodes - predicates and selecting nodes
+based on attribute or content values - built-in string functions that
+you should know about - EXSLT extensions supported by lxml and how they
+can solve tricky lookups&lt;/p&gt;
+&lt;p&gt;We'll end the talk with a few handy tips: - how to use CSS selectors to
+do some of the above - how to parse Javascript code with XPath&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Paul Tremberth</dc:creator><pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-10-17:pycon-fr-2015/xpath-for-web-scraping.html</guid></item></channel></rss>

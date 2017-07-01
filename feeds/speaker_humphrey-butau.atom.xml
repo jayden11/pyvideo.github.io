@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_humphrey-butau.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-06T00:00:00+00:00</updated><entry><title>Introduction to Test Driven Development with Python</title><link href="http://pyvideo.org/pycon-za-2016/introduction-to-test-driven-development-with-python.html" rel="alternate"></link><published>2016-10-06T00:00:00+00:00</published><updated>2016-10-06T00:00:00+00:00</updated><author><name>Humphrey Butau</name></author><id>tag:pyvideo.org,2016-10-06:pycon-za-2016/introduction-to-test-driven-development-with-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Test driven development is a method of programming that has been talked
+about considerably over the past few years. It is a way of programming
+that aims to achieve good quality code, by specifying your problems
+through writing tests first.&lt;/p&gt;
+&lt;p&gt;In my tutorial i will introduce the core concepts of TDD through
+creating a simple web application using Python &amp;amp; Django. I will explain
+in detail the TDD workflow. Attendees to this tutorial will be
+introduced to functional testing with Selenium and to unit testing with
+the Python Standard Library`s unittest Module.&lt;/p&gt;
+&lt;p&gt;My tutorial is aimed at beginners to Test Driven Development. I expect
+attendees to have some familiarity with python and Django.&lt;/p&gt;
+</summary></entry></feed>

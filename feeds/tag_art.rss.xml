@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 23 Sep 2016 00:00:00 +0000</lastBuildDate><item><title>Evolutionary Algorithms Perfecting the Art of "Good Enough"</title><link>http://pyvideo.org/pydata-chicago-2016/evolutionary-algorithms-perfecting-the-art-of-good-enough.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Chicago 2016&lt;/p&gt;
+&lt;p&gt;Slides: &lt;a class="reference external" href="http://www.slideshare.net/secret/dvt9zZBUVz7b7X"&gt;http://www.slideshare.net/secret/dvt9zZBUVz7b7X&lt;/a&gt;
+Github: &lt;a class="reference external" href="https://github.com/esander91"&gt;https://github.com/esander91&lt;/a&gt;
+Code: &lt;a class="reference external" href="https://github.com/esander91/GoodEnoughAlgs"&gt;https://github.com/esander91/GoodEnoughAlgs&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Evolutionary algorithms let us tackle all kinds of impossible problems. Want to design a short delivery route, but there are more possible solutions than atoms in the universe? Well, evolutionary algorithms can't promise to find the optimal solution, but can guarantee finding a pretty great one. I'll give an overview of these algorithms, and how you can use them for your own impossible problems.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Liz Sander</dc:creator><pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-23:pydata-chicago-2016/evolutionary-algorithms-perfecting-the-art-of-good-enough.html</guid><category>art</category></item><item><title>PyGotham 2011: Art, Cultural Concern, and Computer Code</title><link>http://pyvideo.org/pygotham-2011/pygotham-2011--art--cultural-concern--and-compute.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;I will talk about software as art and software and politics using some
+of my own art+tech projects. This will be followed by an audience
+participation segment.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Annina Rüst</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pygotham-2011/pygotham-2011--art--cultural-concern--and-compute.html</guid><category>art</category><category>pygotham</category><category>pygotham2011</category><category>software</category></item><item><title>PyHP and the art of dating girls</title><link>http://pyvideo.org/europython-2011/pyhp-and-the-art-of-dating-girls.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Fabio Rotondo - 21 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This will be both technical and light talk, introducing these important
+subjects:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;the new scripting language PyHP, a solution to create dynamic web
+pages using the Python scripting language server side, a-la PHP, but
+smarter.&lt;/li&gt;
+&lt;li&gt;the LiWE (Lightweight Web Environment) Web Framework, a new and
+robust web framework written in both JavaScript and Python that will
+help you creating amazing websites.&lt;/li&gt;
+&lt;li&gt;how this new amazing technologies can help you date girls (this will
+be the light and funny part of the talk)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Prerequisites:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Very basic knowledge of PHP&lt;/li&gt;
+&lt;li&gt;Basic Python&lt;/li&gt;
+&lt;li&gt;Basic / None JavaScript&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fabio Rotondo</dc:creator><pubDate>Mon, 18 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-18:europython-2011/pyhp-and-the-art-of-dating-girls.html</guid><category>art</category><category>framework</category><category>javascript</category><category>web</category></item><item><title>The Art of Subclassing</title><link>http://pyvideo.org/europython-2011/the-art-of-subclassing-0.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Raymond Hettinger - 24 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;All problems have simple, easy-to-understand, logical wrong answers.
+Subclassing in Python is no exception. Avoid the common pitfalls and
+learn everything you need to know about how subclass in Python.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Overriding and extending&lt;/li&gt;
+&lt;li&gt;Calling your parents&lt;/li&gt;
+&lt;li&gt;The ellipse / circle problem - what does a subclass mean?&lt;/li&gt;
+&lt;li&gt;Liskov Substitution Principle&lt;/li&gt;
+&lt;li&gt;Open Closed Principle&lt;/li&gt;
+&lt;li&gt;The facts of life when subclassing builtin types&lt;/li&gt;
+&lt;li&gt;How to Implement Cooperative Multiple Inheritance&lt;/li&gt;
+&lt;li&gt;A example of perfect and simple python diamond&lt;/li&gt;
+&lt;li&gt;Beware the Concrete C API&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Raymond Hettinger</dc:creator><pubDate>Wed, 13 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-13:europython-2011/the-art-of-subclassing-0.html</guid><category>art</category></item></channel></rss>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_davide-poggiali.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-11-05T00:00:00+00:00</updated><entry><title>Data Analysis in MRI and PET/MRI Neuroimaging</title><link href="http://pyvideo.org/pycon-ireland-2016/data-analysis-in-mri-and-petmri-neuroimaging.html" rel="alternate"></link><published>2016-11-05T00:00:00+00:00</published><updated>2016-11-05T00:00:00+00:00</updated><author><name>Davide Poggiali</name></author><id>tag:pyvideo.org,2016-11-05:pycon-ireland-2016/data-analysis-in-mri-and-petmri-neuroimaging.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Since the introduction of new hybrid systems as PET/MRI and due to the
+constant increase of MRI sequences, neuroimaging datasets are growing
+constantly. Nowadays a Neurological research study has to be considered
+a big data problem. In this talk I will introduce from scratch some of
+the most common algorithms for computing neuroimaging biomarkers and
+give some ideas about efficiency increasing. Some examples in python
+will be given.&lt;/p&gt;
+</summary></entry></feed>

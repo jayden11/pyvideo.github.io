@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_en-zyme.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-11-12T00:00:00+00:00</updated><entry><title>How to make ** less expensive and more expressive</title><link href="http://pyvideo.org/pycon-ca-2016/how-to-make-less-expensive-and-more-expressive.html" rel="alternate"></link><published>2016-11-12T00:00:00+00:00</published><updated>2016-11-12T00:00:00+00:00</updated><author><name>en zyme</name></author><id>tag:pyvideo.org,2016-11-12:pycon-ca-2016/how-to-make-less-expensive-and-more-expressive.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Exponentiation is the gotcha of math operators. Be it square or square
+root, exp, log, tanh, or the complex roots of unity, ** has it's work
+cut out. Ints, floats, fractions, and zero don't play nice with **.
+Precision, accuracy, and performance aspects of Python can be revealed
+by following ** thru the interpreter down to the metal. SciPy, SymPy,
+and Machine Learners care, shouldn't you?&lt;/p&gt;
+&lt;div class="section" id="en-zyme-bio"&gt;
+&lt;h4&gt;en zyme Bio&lt;/h4&gt;
+&lt;p&gt;en zyme has been a coder scientist for decades, traversing meteorology,
+telecom, biotech, and was into data before it was big.&lt;/p&gt;
+&lt;p&gt;en zyme is the founder of Ad, Hock &amp;amp; Nimble [ a data consultancy] and of
+40th Parallel Python. en zyme can be reached at
+&lt;a class="reference external" href="mailto:en.zyme&amp;#64;40thparallelpython.com"&gt;en.zyme&amp;#64;40thparallelpython.com&lt;/a&gt; or &lt;a class="reference external" href="mailto:enzyme&amp;#64;bu.edu"&gt;enzyme&amp;#64;bu.edu&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>What the FORTRAN is **Doing in Python?</title><link href="http://pyvideo.org/scipy-2015/what-the-fortran-is-doing-in-python-scipy-2015-en-zyme.html" rel="alternate"></link><published>2015-07-10T00:00:00+00:00</published><updated>2015-07-10T00:00:00+00:00</updated><author><name>En Zyme</name></author><id>tag:pyvideo.org,2015-07-10:scipy-2015/what-the-fortran-is-doing-in-python-scipy-2015-en-zyme.html</id><summary type="html"></summary></entry><entry><title>What the FORTRAN is ** Doing in Python ?</title><link href="http://pyvideo.org/pygotham-2015/what-the-fortran-is-doing-in-python.html" rel="alternate"></link><published>2015-08-16T00:00:00+00:00</published><updated>2015-08-16T00:00:00+00:00</updated><author><name>en zyme</name></author><id>tag:pyvideo.org,2015-08-16:pygotham-2015/what-the-fortran-is-doing-in-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Exponentiation is just extended multiplication, or is it? Only up to a
+point. In reality, Real numbers don't really exist, there are only a
+finite number of Integers, negative zero is not always the same as
+positive zero, and Complex numbers really are. All of which make
+exponentiation both subtle and computationally expensive. A
+retrospective and prospective of the intricacies of reification of
+'number' and the occasional futility of mathematical operations in
+particular, **.&lt;/p&gt;
+</summary></entry><entry><title>Pythons are Deaf, So are Some Pythonistas</title><link href="http://pyvideo.org/pycon-us-2015/pythons-are-deaf-so-are-some-pythonistas.html" rel="alternate"></link><published>2015-04-12T00:00:00+00:00</published><updated>2015-04-12T00:00:00+00:00</updated><author><name>en zyme</name></author><id>tag:pyvideo.org,2015-04-12:pycon-us-2015/pythons-are-deaf-so-are-some-pythonistas.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;ASL, like Python, is a language which is both fun and powerful. We have
+used Python to build a tool, ASL-CLeaR (American Sign Language Concept
+Learning Resource) for the DHH community which will teach STEM
+terminology using ASL exclusively. We are also building a summer program
+to teach Python in English/ASL to DHH students.&lt;/p&gt;
+</summary></entry></feed>

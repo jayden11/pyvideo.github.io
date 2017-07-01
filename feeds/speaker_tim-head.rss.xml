@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 21 May 2017 00:00:00 +0000</lastBuildDate><item><title>Look mum no hands! From blinking LEDs to a bike speedometer with MicroPython</title><link>http://pyvideo.org/pycon-us-2017/look-mum-no-hands-from-blinking-leds-to-a-bike-speedometer-with-micropython.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this talk I will show you how to use a micro-controller to build a
+wifi enabled speedometer for your bike, using MicroPython. And some
+hardware. And a bike (maybe). I will introduce you to the world of
+MicroPython: a python distribution that runs on micro-controllers.
+Micro-controllers are small computers that are all around us: in cars,
+TVs, and your internet connected fridge. We will start with making LEDs
+blink, then serve webpages, build an interrupt handler and finally put
+it all together to make a wifi enabled speedometer for a bike.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tim Head</dc:creator><pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-05-21:pycon-us-2017/look-mum-no-hands-from-blinking-leds-to-a-bike-speedometer-with-micropython.html</guid></item></channel></rss>

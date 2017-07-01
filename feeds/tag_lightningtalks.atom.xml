@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_lightningtalks.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-05-09T00:00:00+00:00</updated><entry><title>Lightning Talks and Closing Address</title><link href="http://pyvideo.org/pydata-london-2016/pydata-london-2016-lightning-talks-and-closing-address.html" rel="alternate"></link><published>2016-05-09T00:00:00+00:00</published><updated>2016-05-09T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,2016-05-09:pydata-london-2016/pydata-london-2016-lightning-talks-and-closing-address.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;www.pydata.org&lt;/p&gt;
+&lt;p&gt;PyData is a gathering of users and developers of data analysis tools in Python. The goals are to provide Python enthusiasts a place to share ideas and learn from each other about how best to apply our language and tools to ever-evolving challenges in the vast realm of data management, processing, analytics, and visualization.&lt;/p&gt;
+&lt;p&gt;We aim to be an accessible, community-driven conference, with tutorials for novices, advanced topical workshops for practitioners, and opportunities for package developers and users to meet in person.&lt;/p&gt;
+</summary><category term="lightningtalks"></category></entry><entry><title>Plenary: Friday Evening Lightning Talks</title><link href="http://pyvideo.org/pycon-us-2010/pycon-2010--plenary--friday-evening-lightning-tal.html" rel="alternate"></link><published>2010-02-19T00:00:00+00:00</published><updated>2010-02-19T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--plenary--friday-evening-lightning-tal.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Plenary: Friday Evening Lightning Talks&lt;/p&gt;
+&lt;p&gt;(00:00) Jacob Kaplan-Moss - lightning talk about lightning talks&lt;/p&gt;
+&lt;p&gt;(03:50) Van Lindberg - What an Open Source Lawyer Actually Does&lt;/p&gt;
+&lt;p&gt;(09:40) Greg Wilson - The Next Big Programming Book and How You Can Make
+it Happen (&lt;a class="reference external" href="http://www.third-bit.com/"&gt;http://www.third-bit.com/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(14:25) Moshe Zadka - Don't Write Big Applications (more info
+&lt;a class="reference external" href="http://moshez.wordpress.com/2010/02/17/dont-write-big-applications-a%20-lightning-talk/"&gt;here&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(19:35) Ned Batchelder - What's new in coverage.py
+(&lt;a class="reference external" href="http://nedbatchelder.com/"&gt;http://nedbatchelder.com/&lt;/a&gt;,
+&lt;a class="reference external" href="http://nedbatchelder.com/code/coverage/"&gt;coverage.py&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(25:10) Mike Maccana - Python Docx
+(&lt;a class="reference external" href="http://github.com/mikemaccana/python-docx/"&gt;http://github.com/mikemaccana/python-
+docx/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(29:25) Trent Mick - ActiveState Code v3/Python Cookbook v3
+(&lt;a class="reference external" href="http://code.activestate.com/"&gt;http://code.activestate.com/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(34:40) Daniel Holth - Writing a SQLAlchemy Dialect&lt;/p&gt;
+&lt;p&gt;(37:30) Dave Malcolm - Better Ways of Debugging the CPython Runtime&lt;/p&gt;
+&lt;p&gt;(43:00) David Huggins-Daines - Recognizing Speech With Python
+(&lt;a class="reference external" href="http://cmusphinx.sourceforge.net/"&gt;http://cmusphinx.sourceforge.net/&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;(48:00) Lucio Torre - Ubuntu One and Windows&lt;/p&gt;
+</summary><category term="activestate"></category><category term="bigapps"></category><category term="cmusphinx"></category><category term="coverage.py"></category><category term="cpython"></category><category term="lawyers"></category><category term="lightningtalks"></category><category term="programmingbook"></category><category term="pycon"></category><category term="pycon2010"></category><category term="python-cookbook"></category><category term="sqlalchemy"></category><category term="ubuntuone"></category></entry><entry><title>Lightning Talks - Sunday evening</title><link href="http://pyvideo.org/pycon-us-2013/sunday-evening-lightning-talks.html" rel="alternate"></link><published>2013-03-17T00:00:00+00:00</published><updated>2013-03-17T00:00:00+00:00</updated><author><name>Jeffrey Armstrong</name></author><id>tag:pyvideo.org,2013-03-17:pycon-us-2013/sunday-evening-lightning-talks.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Sunday evening lightning talks&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=OL3De8BAhME#t=0m"&gt;00:00&lt;/a&gt; - Python 3 on your Atari Desktop - Jeffrey
+Armstrong&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=OL3De8BAhME#t=4m58s"&gt;04:58&lt;/a&gt; - Armstrong, Open Source News Platform - Joshua
+Bonnett&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=OL3De8BAhME#t=9m34s"&gt;09:34&lt;/a&gt; - Metrics should be basic: xUnit for metrics -
+Jeremy Dunck&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=OL3De8BAhME#t=15m14s"&gt;15:14&lt;/a&gt; - The Answers - Luke Gotszling&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=OL3De8BAhME#t=20m20s"&gt;20:20&lt;/a&gt; - Core Python: the next generation - Wesley
+Chun&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=OL3De8BAhME#t=25m15s"&gt;25:15&lt;/a&gt; - q.q - Ka-Ping Yee&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=OL3De8BAhME#t=31m13s"&gt;31:10&lt;/a&gt; - Neckbeard: Because cloud deployment sucks -
+Wes Winham&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=OL3De8BAhME#t=36m54s"&gt;36:54&lt;/a&gt; - Abolishing the Traditional 9th to 12th Grade
+Structure of High Schools - Eric Matthes&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=OL3De8BAhME#t=41m43s"&gt;41:43&lt;/a&gt; - Python Anywhere - Henry Percival&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=OL3De8BAhME#t=46m35s"&gt;46:35&lt;/a&gt; - RapydScript: Translating Python to JavaScript
+- Charles Law&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=OL3De8BAhME#t=52m47s"&gt;52:47&lt;/a&gt; - PyCon Australia 2013 - Christopher Neugebauer&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=OL3De8BAhME#t=53m44s"&gt;53:44&lt;/a&gt; - (py) Fore! - Christopher Neugebauer&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="sprints"></category><category term="lightningtalks"></category></entry><entry><title>Lightning Talks - Sunday morning</title><link href="http://pyvideo.org/pycon-us-2013/sunday-morning-lightning-talks-0.html" rel="alternate"></link><published>2013-03-17T00:00:00+00:00</published><updated>2013-03-17T00:00:00+00:00</updated><author><name>John Montgomery</name></author><id>tag:pyvideo.org,2013-03-17:pycon-us-2013/sunday-morning-lightning-talks-0.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Sunday morning lightning talks&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=6wcP1aMl7wQ#t=0m"&gt;00:00&lt;/a&gt; - Your brain on Python - John Montgomery&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=6wcP1aMl7wQ#t=4m45s"&gt;04:45&lt;/a&gt; - PyWorks: Making the dot asynchronous - Rene
+Nejsum&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=6wcP1aMl7wQ#t=10m48s"&gt;10:48&lt;/a&gt; - TUF: The update framework - Mohamed Othman&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=6wcP1aMl7wQ#t=15m42s"&gt;15:42&lt;/a&gt; - PyCon PL - Filip Kłębczyk&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=6wcP1aMl7wQ#t=19m27s"&gt;19:27&lt;/a&gt; - gpodder.net - Filip Kłębczyk&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=6wcP1aMl7wQ#t=22m2s"&gt;22:02&lt;/a&gt; - A Python-Powered Hack Day - Mike Pirnat&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="lightningtalks"></category></entry><entry><title>Lightning Talks - Saturday evening</title><link href="http://pyvideo.org/pycon-us-2013/saturday-evening-lightning-talks.html" rel="alternate"></link><published>2013-03-16T00:00:00+00:00</published><updated>2013-03-16T00:00:00+00:00</updated><author><name>Katie Cunningham and Barbara Shaurette</name></author><id>tag:pyvideo.org,2013-03-16:pycon-us-2013/saturday-evening-lightning-talks.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Lightning talks from Saturday evening.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=0m"&gt;00:00&lt;/a&gt; - Young Coders at PyCon 2013 - Katie Cunningham and
+Barbara Shaurette&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=5m53s"&gt;05:53&lt;/a&gt; - Raspberry Pi connected to sensors - Jack
+Minardi&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=8m23s"&gt;08:23&lt;/a&gt; - Python &amp;amp; ArcGIS for Transit Data Analysers -
+Amy Smith&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=13m58s"&gt;13:58&lt;/a&gt; - Software Version Management - Quinn Weaver&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=19m48s"&gt;19:48&lt;/a&gt; - Parts and Scons - Jason Kenny&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=25m13s"&gt;25:13&lt;/a&gt; - Debugging Python on Linux with Visual Studio
+- Steve Dower&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=37m35s"&gt;37:35&lt;/a&gt; - Titan Files for App Engine - Mike Fotinakis&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=Ft6-r_vksDI#t=43m40s"&gt;43:40&lt;/a&gt; - Using git as a mercurial client - Dusty
+Phillips&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="lightningtalks"></category></entry><entry><title>Lightning Talks - Saturday morning</title><link href="http://pyvideo.org/pycon-us-2013/saturday-morning-lightning-talks-0.html" rel="alternate"></link><published>2013-03-16T00:00:00+00:00</published><updated>2013-03-16T00:00:00+00:00</updated><author><name>Jesse Jiryu Davis</name></author><id>tag:pyvideo.org,2013-03-16:pycon-us-2013/saturday-morning-lightning-talks-0.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Lightning talks from Saturday morning.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=0s"&gt;00:00&lt;/a&gt; - ToRo (Tornado Coroutines) - Jesse Jiryu Davis&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=4m45s"&gt;04:45&lt;/a&gt; - Retask: Queue for Humans - Kushal Das&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=9m15s"&gt;09:15&lt;/a&gt; - Pythonic Andragogy: Python for Adults - Kirby
+Urner&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=16m"&gt;16:00&lt;/a&gt; - How and why a Java expert switched to Python -
+Ron Cox&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=22m10s"&gt;22:10&lt;/a&gt; - Coding across America - Andrew&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=25m9s"&gt;25:05&lt;/a&gt; - gitstreams.com - Justin Abrahms&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=26m58s"&gt;26:58&lt;/a&gt; - Jesse Noller interlude&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=30m30s"&gt;30:30&lt;/a&gt; - PyCharm - Dmitry Jemerov&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=36m10s"&gt;36:10&lt;/a&gt; - NASperry Pi - Mark Ransom&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=41m30s"&gt;41:30&lt;/a&gt; - NES, JavaScript and a Browser - Guto Maia&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=46m5s"&gt;46:05&lt;/a&gt; - EuroSciPy 2013: Come to our conference! - Mike
+Müller&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=48m7s"&gt;48:07&lt;/a&gt; - PyWeek: Join our week and write a game! -
+Richard Jones&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=51m13s"&gt;51:13&lt;/a&gt; - Don't make people watch what you type -
+Stuart Williams&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=54m"&gt;54:00&lt;/a&gt; - Job Security (in Python) - Christopher
+Neugebauer&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=pYZNLOKEE5I#t=59m9s"&gt;59:09&lt;/a&gt; - Using Python to make universal education truly
+universal: KA Lite - Jamie Alexandre&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="lightningtalks"></category></entry><entry><title>Lightning Talks - Friday evening</title><link href="http://pyvideo.org/pycon-us-2013/friday-evening-lightning-talks.html" rel="alternate"></link><published>2013-03-15T00:00:00+00:00</published><updated>2013-03-15T00:00:00+00:00</updated><author><name>MC Larry Hasting</name></author><id>tag:pyvideo.org,2013-03-15:pycon-us-2013/friday-evening-lightning-talks.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Lightning talks from Friday evening.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=1vui-LupKJI#t=0m"&gt;00:00&lt;/a&gt; - Intro to Lightning Talks - MC Larry Hasting&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=1vui-LupKJI#t=1m56s"&gt;01:56&lt;/a&gt; - Instrumental - Matthew J Desmarais&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=1vui-LupKJI#t=7m14s"&gt;07:14&lt;/a&gt; - Statvent - Christian Wyglendowski&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=1vui-LupKJI#t=12m4s"&gt;12:04&lt;/a&gt; - Switchboard - Kyle Adams&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=1vui-LupKJI#t=16m14s"&gt;16:14&lt;/a&gt; - hy: a lisp variant - Paul Tag&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=1vui-LupKJI#t=20m40s"&gt;20:40&lt;/a&gt; - 5 packages you need to know - Łukasz Langa&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=1vui-LupKJI#t=26m24s"&gt;26:24&lt;/a&gt; - The future of Linux containers - Solomon
+Hykes&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=1vui-LupKJI#t=32m8s"&gt;32:08&lt;/a&gt; - SciPy 2013 - Andy Terrel, Anthony Scopatz&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=1vui-LupKJI#t=35m39s"&gt;35:39&lt;/a&gt; - BirdFish - Preston Holmes&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=1vui-LupKJI#t=41m20s"&gt;41:20&lt;/a&gt; - Julython - Robert Myers&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=1vui-LupKJI#t=44m20s"&gt;44:20&lt;/a&gt; - CLDR: Common locale data repository - Martin
+von Löwis&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://www.youtube.com/watch?v=1vui-LupKJI#t=48m49s"&gt;48:49&lt;/a&gt; - Spine demo and Python port of runtime - Terry
+Simons&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="lightningtalks"></category></entry></feed>

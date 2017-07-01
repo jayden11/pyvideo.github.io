@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_emmanuel-leblond.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-10-15T00:00:00+00:00</updated><entry><title>À la découverte du bytecode CPython !</title><link href="http://pyvideo.org/pycon-fr-2016/a-la-decouverte-du-bytecode-cpython.html" rel="alternate"></link><published>2016-10-15T00:00:00+00:00</published><updated>2016-10-15T00:00:00+00:00</updated><author><name>Emmanuel Leblond</name></author><id>tag:pyvideo.org,2016-10-15:pycon-fr-2016/a-la-decouverte-du-bytecode-cpython.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Le bytecode est au cœur de l'interpréteur CPython. Toutefois du point du vu de l'utilisateur il se limite à l'apparition (horripilante ?) de fichiers &amp;quot;.pyc&amp;quot; une fois un code exécuté.
+Dans cette présentation, nous partirons à l'aventure au cœur de la machine virtuelle CPython
+pour découvrir ce qui l'anime tout en répondant à des questions existentielles comme&amp;nbsp;:
+- d'où viennent et à quoi servent les fameux fichiers .pyc
+- à quoi ressemble le bytecode et quels sont ses instructions les plus courantes
+- comment le désassembler grâce au module &lt;cite&gt;dis&lt;/cite&gt;
+- comment tout cela fonctionne-t-il au sein du système de piles et de frames de la machine virtuelle CPython
+- et bien sûr à quoi tout cela peut-il bien servir dans la vrai vie ;-)&lt;/p&gt;
+</summary></entry></feed>

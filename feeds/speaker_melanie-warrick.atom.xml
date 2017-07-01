@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_melanie-warrick.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-04-11T00:00:00+00:00</updated><entry><title>How to Get Started with Machine Learning</title><link href="http://pyvideo.org/pycon-us-2014/how-to-get-started-with-machine-learning.html" rel="alternate"></link><published>2014-04-12T00:00:00+00:00</published><updated>2014-04-12T00:00:00+00:00</updated><author><name>Melanie Warrick</name></author><id>tag:pyvideo.org,2014-04-12:pycon-us-2014/how-to-get-started-with-machine-learning.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Provide an introduction to machine learning to clarify what it is, what
+it's not and how it fits into this picture of all the hot topics around
+data analytics and big data.&lt;/p&gt;
+</summary></entry><entry><title>Neural Nets for Newbies</title><link href="http://pyvideo.org/pycon-us-2015/neural-nets-for-newbies.html" rel="alternate"></link><published>2015-04-11T00:00:00+00:00</published><updated>2015-04-11T00:00:00+00:00</updated><author><name>Melanie Warrick</name></author><id>tag:pyvideo.org,2015-04-11:pycon-us-2015/neural-nets-for-newbies.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Neural networks have regained popularity in the last decade, but they
+get dismissed as being too complicated to understand and implement. This
+talk breaks down the neural net structure as simply as possible, so you
+have a framework on which to grow your knowledge in the space. I will
+put neural nets in the context of real-world applications and share
+Python packages and code where you can get started building your own.
+Coming out this talk you won't know everything about neural nets, but
+you will walk away with a solid foundation and some resources on where
+to go next to learn more.&lt;/p&gt;
+</summary></entry></feed>

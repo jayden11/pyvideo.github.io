@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_mock.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2011-03-11T00:00:00+00:00</updated><entry><title>Testing with mock</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--testing-with-mock.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Michael Foord</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--testing-with-mock.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Testing with mock&lt;/p&gt;
+&lt;p&gt;Presented by Michael Foord&lt;/p&gt;
+&lt;p&gt;mock is a Python testing library. It has the goal of making mocking in
+tests brain dead simple! mock provides the Mock class and the patch
+decorator for safely patching out the objects you are mocking in your
+tests. This talk will cover standard mocking patterns. We'll also look
+at some of the newer features in the latest release, including support
+for mocking magic methods.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;mock provides a core Mock class that removes the need to create a host
+of trivial stubs throughout your test suite. After performing an action,
+you can make assertions about which methods / attributes were used and
+arguments they were called with. You can also specify return values and
+set specific attributes in the normal way.&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://www.voidspace.org.uk/python/mock/"&gt;http://www.voidspace.org.uk/python/mock/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://pypi.python.org/pypi/mock/"&gt;http://pypi.python.org/pypi/mock/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The mock module also provides a patch() decorator that handles safely
+patching out the things you are mocking during your test.&lt;/p&gt;
+&lt;p&gt;We'll cover standard mocking patterns, and how mock makes them easy.
+We'll also be looking at some of the newer features in the latest
+release, including the magic method support that can be used (for
+example) for mocking out objects used as context managers.&lt;/p&gt;
+&lt;p&gt;mock is designed for &amp;quot;unit test style&amp;quot; testing, but is used with Python
+testing libraries like nose and py.test.&lt;/p&gt;
+&lt;p&gt;There will be some emphasis on how &lt;em&gt;not&lt;/em&gt; to use mocking in testing, and
+why 'over mocking' is bad (and makes for brittle tests).&lt;/p&gt;
+</summary><category term="mock"></category><category term="pycon"></category><category term="pycon2011"></category><category term="testing"></category></entry></feed>

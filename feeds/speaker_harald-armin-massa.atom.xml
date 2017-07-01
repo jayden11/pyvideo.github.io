@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_harald-armin-massa.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-11-05T00:00:00+00:00</updated><entry><title>Recruit Session</title><link href="http://pyvideo.org/pycon-ireland-2016/recruit-session.html" rel="alternate"></link><published>2016-11-05T00:00:00+00:00</published><updated>2016-11-05T00:00:00+00:00</updated><author><name>Harald Armin Massa</name></author><id>tag:pyvideo.org,2016-11-05:pycon-ireland-2016/recruit-session.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;</summary></entry><entry><title>Getting ready for PostgreSQL 9.1</title><link href="http://pyvideo.org/europython-2011/getting-ready-for-postgresql-91.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Gabriele Bartolini</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/getting-ready-for-postgresql-91.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Gabriele Bartolini,Harald Armin Massa,Marco Nenciarini
+- 22 June 2011 in &amp;quot;Training Pizza Napoli &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PostgreSQL is an advanced, versatile open-source database management
+system that integrates perfectly with Python. It is developed by a very
+active international community and is distributed under the BSD-like
+PostgreSQL License.&lt;/p&gt;
+&lt;p&gt;Enterprise-class features (including SQL standard compliance, ACID
+transactions, disaster recovery, high availability, replication,
+partitioning and general extensibility) make PostgreSQL suitable for
+business critical environments seeking to reduce the TCO of their
+database solutions without altering their functional needs. PostgreSQL
+9.0, released in September 2010, was the first version of PostgreSQL
+with Hot Standby, a built-in master/slave replication mechanism.
+Asynchronous replication through the standard and consolidated log
+shipping technique (previously used with Warm Standby for high
+availability) has been enhanced with streaming replication.&lt;/p&gt;
+&lt;p&gt;Version 9.1, expected to be out later in 2011, will add synchronous
+replication to PostgreSQL, making it the first DBMS that allows
+developers and users to control the replication strategy at
+transactional granularity. Come to the talk and discover all the major
+new features of PostgreSQL 9.1, including extensions management,
+writable common table expressions (WCTE), etc.&lt;/p&gt;
+</summary><category term="asynchronous"></category><category term="business"></category><category term="community"></category><category term="database"></category><category term="distributed"></category><category term="extensions"></category><category term="partitioning"></category><category term="postgresql"></category><category term="replication"></category></entry><entry><title>PostgreSQL - the database-sister of Python</title><link href="http://pyvideo.org/europython-2011/postgresql-the-database-sister-of-python.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Harald Armin Massa</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/postgresql-the-database-sister-of-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Harald Armin Massa - 21 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk is the updated and especially enhanced of the &amp;quot;Python and
+PostgreSQL - a match made in heaven&amp;quot; talk of EP 2006, CERN, Switzerland.
+PostgreSQL and Python share more then the first letter: their
+communities have great similiarities; their development processes are
+really comparable; their licenses and their openness to academics AND
+business (on a technical and communitie perspective) are big pluses. We
+will have a look at those similiarities and learn why PostgreSQL is
+really the database sister to Python. There will be an overview of
+PostgreSQL, information of how to connect PostgreSQL and Python; how
+PostgreSQL streaming replication works and what it can do for you, how
+PL/Python helps to have Web 2.5 JSON storage and handling right inside
+PostgreSQL. We will show that YESQL is also a valid answer to many data
+storage qeuestions.&lt;/p&gt;
+</summary><category term="business"></category><category term="database"></category><category term="json"></category><category term="postgresql"></category><category term="replication"></category><category term="web"></category></entry><entry><title>PostgreSQL - Pythons Datenbankschwester</title><link href="http://pyvideo.org/pycon-de-2011/postgresql-pythons-datenbankschwester.html" rel="alternate"></link><published>2011-10-07T00:00:00+00:00</published><updated>2011-10-07T00:00:00+00:00</updated><author><name>Harald Armin Massa</name></author><id>tag:pyvideo.org,2011-10-07:pycon-de-2011/postgresql-pythons-datenbankschwester.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;PostgreSQL und Python haben mehr gemeinsam als den ersten Buchstaben:
+Die Communities haben große Ähnlichkeiten; die jeweiligen
+Entwicklungsprozesse sind vergleichbar, beide haben große Offenheit zu
+Wirtschaft und Wissenschaft als große Vorzüge. Wir schauen auf die
+Ähnlichkeiten und Unterschiede und lernen dabei PostgreSQL kennen.&lt;/p&gt;
+</summary></entry></feed>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 31 Oct 2012 00:00:00 +0000</lastBuildDate><item><title>Monkeying Around with Python at New Relic</title><link>http://pyvideo.org/djangocon-2011/djangocon-2011--monkeying-around-with-python-at-n.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Monkeying around with Python at New Relic&lt;/p&gt;
+&lt;p&gt;Presented by Graham Dumpleton&lt;/p&gt;
+&lt;p&gt;This session will cover the challenges of creating a production
+application performance monitoring system for Python. It includes an
+overview of the architecture of the system, as well as how it hooks into
+Django and captures details about web transactions, database
+transactions, memcache requests, exceptions and much more.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Graham Dumpleton</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:djangocon-2011/djangocon-2011--monkeying-around-with-python-at-n.html</guid><category>djangocon</category><category>djangocon2011</category><category>exceptions</category><category>memcache</category><category>monitoring</category><category>performance</category><category>requests</category><category>transactions</category></item><item><title>Python at Cloudkick</title><link>http://pyvideo.org/europython-2011/python-at-cloudkick.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Tomaž Muraus - 22 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Cloudkick is a server management and monitoring software as a service
+used by thousands of different companies all across the globe.&lt;/p&gt;
+&lt;p&gt;The service is built in and powered by many different programming
+languages and technologies, but the web application and majority of the
+backend services are written in Python.&lt;/p&gt;
+&lt;p&gt;In this talk I will present how and where we use Python (Django,
+Twisted, txamqp, Piston, …), different problems we have encountered
+while building our service and how we worked around them, good practices
+and real-world advices on building effective Twisted services and much
+more.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tomaž Muraus</dc:creator><pubDate>Thu, 21 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-21:europython-2011/python-at-cloudkick.html</guid><category>monitoring</category><category>twisted</category><category>web</category></item><item><title>Challenges in developing a large Django site</title><link>http://pyvideo.org/europython-2011/challenges-in-developing-a-large-django-site.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Simon Willison - 22 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Django makes it easy to build web sites and applications on tight
+deadlines - but how does it deal with sites that scale up in both
+traffic and complexity? Using Lanyrd.com as a case study, this talk will
+explore tricks and techniques for taking advantage of what Django has to
+offer while coping with the unexpected challenges raised by a highly
+dynamic social web application.&lt;/p&gt;
+&lt;p&gt;Topics covered will include performance monitoring and optimisation,
+advanced caching tricks, denormalisation with Solr and Redis and finding
+the right balance between technical elegance and pragmatism.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Simon Willison</dc:creator><pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2011-07-20:europython-2011/challenges-in-developing-a-large-django-site.html</guid><category>django</category><category>monitoring</category><category>performance</category><category>redis</category><category>web</category></item><item><title>nagiosplugin - eine Python-Bibliothek für Monitoring-Plugins</title><link>http://pyvideo.org/pycon-de-2012/nagiosplugin-eine-python-bibliothek-fur-monitor.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Auch wenn in der letzten Zeit sehr viel Bewegung in die Monitoring-Szene
+gekommen ist (#monitoringsucks etc.), werden die Platzhirsche
+Nagios/Icinga und ihre Standards auf absehbare Zeit nicht verschwinden.
+Das Nagios-Plugin- API stellt eine sehr weit verbreitete Schnittstelle
+zur Anbindung einzelner Checks an Monitoring-Systeme dar. Obwohl das API
+in den Grundzügen sehr einfach ist, ist der Programmieraufwand für
+vollständig konforme Plugins erstaunlich hoch.&lt;/p&gt;
+&lt;p&gt;Die
+&lt;a class="reference external" href="http://pypi.python.org/pypi/nagiosplugin/"&gt;*nagiosplugin*-Bibliothek&lt;/a&gt;
+nimmt dem Entwickler viele Details ab, so dass er sich auf den Inhalt
+seiner Checks konzentrieren kann. Der Vortrag führt in das Schreiben von
+Nagios- kompatiblen Plugins ein, zeigt den typischen Aufbau von
+Nagios-Plugins und das Grundprinzip eigener Plugins. Die Konfiguration
+und der Betrieb von Monitoring-Systemen im Großen sollen nicht
+thematisiert werden.&lt;/p&gt;
+&lt;p&gt;Eine Einführung stellt die notwendigen Elemente wie Klassengerüst,
+Messwerterhebung, Ranges, Statusausgabe und Performancedaten sukzessive
+in aufeinander aufbauenden Beispielen vor, so dass am Ende ein
+einfacher, aber praktisch einsetzbarer Check entsteht.&lt;/p&gt;
+&lt;p&gt;Der Teil über fortgeschrittene Aspekte und Stolperfallen reißt
+Einzelbeispiele zu Themen wie mehrere Datenquellen, Timeouts, Auswertung
+wachsender Logfiles und Checks mit &amp;quot;Gedächtnis&amp;quot; an und zeigt typischen
+Fehlerquellen auf.&lt;/p&gt;
+&lt;p&gt;Den Abschluss bildet ein kurzer Ausblick auf die weitere Entwicklung der
+&lt;em&gt;nagiosplugin&lt;/em&gt;-Bibliothek.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christian Kauhaus</dc:creator><pubDate>Wed, 31 Oct 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-10-31:pycon-de-2012/nagiosplugin-eine-python-bibliothek-fur-monitor.html</guid><category>icinga</category><category>monitoring</category><category>nagios</category><category>plugin</category></item></channel></rss>

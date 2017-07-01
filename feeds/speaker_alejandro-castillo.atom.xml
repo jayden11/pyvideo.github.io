@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_alejandro-castillo.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-08-06T00:00:00+00:00</updated><entry><title>Deja de pegarte con tus servicios; import lymph</title><link href="http://pyvideo.org/europython-2015/deja-de-pegarte-con-tus-servicios-import-lymph.html" rel="alternate"></link><published>2015-08-06T00:00:00+00:00</published><updated>2015-08-06T00:00:00+00:00</updated><author><name>Alejandro Castillo</name></author><id>tag:pyvideo.org,2015-08-06:europython-2015/deja-de-pegarte-con-tus-servicios-import-lymph.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Alejandro Castillo - Deja de pegarte con tus servicios; import lymph
+[EuroPython 2015]
+[22 July 2015]
+[Bilbao, Euskadi, Spain]
+[En Español]&lt;/p&gt;
+&lt;p&gt;¿Y si pudieras centrarte en la funcionalidad de tus
+servicios en lugar de programar la integración entre ellos?&lt;/p&gt;
+&lt;p&gt;lymph es un framework con personalidad propia para escribir
+servicios en Python que te permite hacer justo eso. Incluye
+descubrimiento de servicios extensible,  comunicación vía
+petición-respuesta, comunicación vía publicación-subscripción
+extensible y gestión de procesos.&lt;/p&gt;
+&lt;p&gt;A medida que crecen nuestros equipos de desarrollo, nos alejamos
+cada vez más de una arquitectura monolítica. Queremos empezar a
+escribir servicios sin tener que preocuparnos de los requisitos de
+infraestructura. Queremos desarrollar de forma rápida, centrándonos
+en nuestro trabajo.&lt;/p&gt;
+&lt;p&gt;En esta charla os enseñaremos lo fácil que es desarrollar y
+ejecutar servicios con lymph.&lt;/p&gt;
+&lt;p&gt;Echad un ojo a &lt;a class="reference external" href="http://lymph.io"&gt;http://lymph.io&lt;/a&gt;. Esperamos vuestros pull requests.&lt;/p&gt;
+</summary></entry></feed>

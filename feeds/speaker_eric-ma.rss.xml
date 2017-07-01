@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Thu, 09 Apr 2015 00:00:00 +0000</lastBuildDate><item><title>How to formulate a (science) problem and analyze it using Python code</title><link>http://pyvideo.org/pycon-us-2014/how-to-formulate-a-science-problem-and-analyze.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Are you interested in doing analysis but don't know where to start? This
+tutorial is for you. Python packages &amp;amp; tools (IPython, scikit-learn,
+NetworkX) are powerful for performing data analysis. However, little is
+said about formulating the questions and tying these tools together to
+provide a holistic view of the data. This tutorial will provide you with
+an introduction on how this can be done.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Ma</dc:creator><pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-04-11:pycon-us-2014/how-to-formulate-a-science-problem-and-analyze.html</guid></item><item><title>Practical Graph/Network Analysis Made Simple</title><link>http://pyvideo.org/pycon-us-2015/practical-graphnetwork-analysis-made-simple.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Have you ever wondered about how those data scientists at Facebook and
+LinkedIn make friend recommendations? Or how epidemiologists track down
+patient zero in an outbreak? If so, then this tutorial is for you. Here,
+we will explore a bike sharing data set as a way to understand the kinds
+of problems that can be solved using graph analytics.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Eric Ma</dc:creator><pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-04-09:pycon-us-2015/practical-graphnetwork-analysis-made-simple.html</guid></item></channel></rss>

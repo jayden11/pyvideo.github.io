@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_python.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-10-17T00:00:00+00:00</updated><entry><title>A Python Takeover</title><link href="http://pyvideo.org/europython-2011/a-python-takeover.html" rel="alternate"></link><published>2011-07-24T00:00:00+00:00</published><updated>2011-07-24T00:00:00+00:00</updated><author><name>Mark Ramm-Christensen</name></author><id>tag:pyvideo.org,2011-07-24:europython-2011/a-python-takeover.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Mark Ramm-Christensen - 23 June 2011 in &amp;quot;Track
+Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Two years ago I started working on SourceForge with a couple of python
+developers. Back then the site was written in PHP and was in some ways
+buried in technical debt. Everything is different today, we have a
+complete set of tools for Ticket tracking, Wiki documents, Git,
+Mercurial, Subversion, and IRC - all written in Python, and now released
+as open source software.&lt;/p&gt;
+&lt;p&gt;This is the story of how the amazing libraries, tools, and talent in the
+Python web community has radically changed an established company, and
+allowed us to reinvent sourceforge.net.&lt;/p&gt;
+&lt;p&gt;This talk will go over our tech stack, talk about the libraries we used,
+the way we solved scalability, internationalization, and performance
+issues issues. Ultimately we know that without python, we could not have
+built a flexible plugin based system, and gotten permission from
+management to open source it.&lt;/p&gt;
+</summary><category term="community"></category><category term="performance"></category><category term="python,"></category><category term="sourceforge"></category><category term="web"></category></entry><entry><title>Django productivity tips and tricks</title><link href="http://pyvideo.org/europython-2011/django-productivity-tips-and-tricks.html" rel="alternate"></link><published>2011-07-24T00:00:00+00:00</published><updated>2011-07-24T00:00:00+00:00</updated><author><name>Simone Federici</name></author><id>tag:pyvideo.org,2011-07-24:europython-2011/django-productivity-tips-and-tricks.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Simone Federici - 23 June 2011 in &amp;quot;Track Ravioli&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;I will show in this talk some tips, tricks and best practices for some
+recurring patterns in the django application development.&lt;/p&gt;
+&lt;p&gt;This is not a list of tools and applications, but rather a homemade
+summary of code snippets and design best practices. All in all, the goal
+is: no mistakes and go faster.&lt;/p&gt;
+&lt;p&gt;Topics include: python, users, forms, jquery, virtualenv, distribute,
+buildbot, etc. …&lt;/p&gt;
+</summary><category term="design"></category><category term="django"></category><category term="patterns"></category><category term="python,"></category></entry><entry><title>Snakes on a cloud: the OpenStack project</title><link href="http://pyvideo.org/europython-2011/snakes-on-a-cloud-the-openstack-project.html" rel="alternate"></link><published>2011-07-24T00:00:00+00:00</published><updated>2011-07-24T00:00:00+00:00</updated><author><name>Thierry Carrez</name></author><id>tag:pyvideo.org,2011-07-24:europython-2011/snakes-on-a-cloud-the-openstack-project.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Thierry Carrez - 23 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;OpenStack is an innovative open source project written in Python, backed
+by Rackspace Hosting and NASA, building a massively-scalable and
+reliable cloud computing platform.&lt;/p&gt;
+&lt;p&gt;The first part of this talk will clarify the place of OpenStack in the
+general &amp;quot;cloud&amp;quot; landscape and explain why a fully open cloud
+infrastructure stack is necessary to avoid vendor lock-in. We'll then
+focus on the OpenStack project goals, its developer community, its open
+design and release processes, and the developer tools it chose.&lt;/p&gt;
+&lt;p&gt;The second part of the talk will present into more technical details the
+different components of OpenStack: Nova (compute) and Swift (storage),
+including the Python libraries that are used (libvirt, SQLAlchemy,
+eventlet…). A Q&amp;amp;A session at the end of the talk will give the audience
+a chance to clear any remaining dark area.&lt;/p&gt;
+</summary><category term="cloud"></category><category term="design"></category><category term="hosting"></category><category term="infrastructure"></category><category term="openstack"></category><category term="python,"></category></entry><entry><title>Sqlkit: empowering database access</title><link href="http://pyvideo.org/europython-2011/sqlkit-empowering-database-access.html" rel="alternate"></link><published>2011-07-24T00:00:00+00:00</published><updated>2011-07-24T00:00:00+00:00</updated><author><name>Alessandro Dentella</name></author><id>tag:pyvideo.org,2011-07-24:europython-2011/sqlkit-empowering-database-access.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Alessandro Dentella - 23 June 2011 in &amp;quot;Track
+Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;It's very easy to access databases with Python, and there are many ORMs
+allowing a high level of abstraction. Still, it's a long road from there
+to interactive handling of data, even for very simple tasks.&lt;/p&gt;
+&lt;p&gt;Sqlkit tries to act as a bridge, offering some mega-widgets that allow
+you to build GUI applications or directly access data using the
+'sqledit' application, shipped with sqlkit; sqlkit is built with PyGTK
+and SQLAlchemy.&lt;/p&gt;
+&lt;p&gt;This presentation covers some of the most powerful features of sqlkit,
+and shows how easy it is to build small programs for personal use, as
+well as rich and complex applications. It primarily focuses on two
+points: how easy it is to create data forms (eventually with one2many or
+many2many, thanks to a original definition of layouts), and the template
+system based on OpenOffice which allows easy report creation.&lt;/p&gt;
+&lt;p&gt;This presentation shows how sqlkit can be used both as application
+development framework and as a tool to help us while developing other
+applications (e.g.: Django, OpenERP,… ).&lt;/p&gt;
+&lt;p&gt;To deliver a gradual presentation, we'll use the configuration system of
+sqledit, starting from a minimal configuration (a single URL) we'll add
+elements to that until we'll have a full application.&lt;/p&gt;
+</summary><category term="database"></category><category term="forms"></category><category term="framework"></category><category term="gui"></category><category term="openoffice"></category><category term="python,"></category></entry><entry><title>Exploit your GPU power with PyCUDA (and friends)</title><link href="http://pyvideo.org/europython-2011/exploit-your-gpu-power-with-pycuda-and-friends.html" rel="alternate"></link><published>2011-07-21T00:00:00+00:00</published><updated>2011-07-21T00:00:00+00:00</updated><author><name>Stefano Brilli</name></author><id>tag:pyvideo.org,2011-07-21:europython-2011/exploit-your-gpu-power-with-pycuda-and-friends.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Stefano Brilli - 22 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;CUDA technology permits to exploit the power of modern NVIDIA GPUs. In
+this talk, after a brief introduction to GPU architecture, we will focus
+on how CUDA got inside Python through libraries like PyCUDA and others…&lt;/p&gt;
+&lt;p&gt;By some examples we will show the main concepts and techniques for good
+GPU programming.&lt;/p&gt;
+&lt;p&gt;This talk targets anyone who wants to know how to exploit this
+technology from Python, the suitable use cases, the using techniques and
+the do-not-using techniques to get the best from his own GPU&lt;/p&gt;
+</summary><category term="gpu"></category><category term="nvidia"></category><category term="pycuda"></category><category term="python,"></category><category term="technology"></category></entry><entry><title>Debugging and profiling techniques</title><link href="http://pyvideo.org/europython-2011/debugging-and-profiling-techniques.html" rel="alternate"></link><published>2011-07-20T00:00:00+00:00</published><updated>2011-07-20T00:00:00+00:00</updated><author><name>Giovanni Bajo</name></author><id>tag:pyvideo.org,2011-07-20:europython-2011/debugging-and-profiling-techniques.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Giovanni Bajo - 22 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will give on overview over some common problems related to
+profiling and debugging CPython applications (especially desktop-based
+ones).&lt;/p&gt;
+&lt;p&gt;The following subjects will be covered:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Debugging of memory/resource leaks (circular references, &lt;strong&gt;del&lt;/strong&gt;,
+weakref, garbage collector, etc.). We will show in details how the
+memory management of Python objects work and we will show a few
+tricks to track memory leaks&lt;/li&gt;
+&lt;li&gt;Python code profiling (profile/hotshots/cProfile, design of small
+tests, etc.). We will show how to measure, profile, and analyse an
+application to spot performance problems and solve them.&lt;/li&gt;
+&lt;li&gt;Post-mortem step-by-step debugging of C/C++ extension under Windows.
+We will show how to setup Visual Studio for debugging, how to see a
+traceback in case of an unexpected segfault, and how to further debug
+and solve the crash.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This talk is aimed at intermediate Python programmers, who have already
+developed non-trivial Python applications but have never &amp;quot;jumped
+through&amp;quot; the interpreter abstraction layer. If you feel a little lost
+when you see a segfault from a Python program or you don't have a clear
+idea how memory is collected in Python, this talk is perfect for you.&lt;/p&gt;
+</summary><category term="cpython"></category><category term="debugging"></category><category term="design"></category><category term="memory"></category><category term="performance"></category><category term="profiling"></category><category term="python,"></category></entry><entry><title>Django: trucchi per migliorare la produttività</title><link href="http://pyvideo.org/europython-2011/django-trucchi-per-migliorare-la-produttivita.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Simone Federici</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/django-trucchi-per-migliorare-la-produttivita.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Simone Federici - 22 June 2011 in &amp;quot;Track Italiana Big
+Mac &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Proverò ad illustrare in questi 60 minuti alcuni consigli e best
+practices, da utilizzare nello sviluppo di applicazioni django based.&lt;/p&gt;
+&lt;p&gt;Non è un mero elenco di tools e/o applicazioni, bensì un bignami di
+snippets e tips architetturali. Tutto sommato l’obbiettivo è non
+sbagliare e andare più veloci.&lt;/p&gt;
+&lt;p&gt;Argomenti trattati: python, users, forms, jquery, virtualenv,
+distribute, buildbot, ecc…&lt;/p&gt;
+</summary><category term="django"></category><category term="python,"></category></entry><entry><title>Meteorology, Climate and Python: desperately trying to forget technical details</title><link href="http://pyvideo.org/europython-2011/meteorology-climate-and-python-desperately-tryi.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Claude Gibert</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/meteorology-climate-and-python-desperately-tryi.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Claude Gibert - 24 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;div class="section" id="contents"&gt;
+&lt;h4&gt;Contents&lt;/h4&gt;
+&lt;p&gt;Python is a great language for writing programming frameworks. Python
+frameworks are normally addressed to software developers who are Python
+professionals. I developed a software package in a scientific
+institution, designed to be used by non-programmers, but also designed
+to enable customisation through programming by some users. I finally
+designed a three level package:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;A Python programming framework, addressed whoever wanted to invest in
+Python and had plans to develop applications;&lt;/li&gt;
+&lt;li&gt;An application built on that framework with an interface designed for
+non-programmers;&lt;/li&gt;
+&lt;li&gt;Ways of customising the behaviour of the application by providing
+some basic Python functions or more elaborated code.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;One of the challenges was to offer an application with an easy to use
+interface, not graphical, not web-based and not requiring Python
+programming. This interface was necessary for batch processing.&lt;/p&gt;
+&lt;p&gt;This talk addresses how this project was carried out, the technical
+solutions adopted and how Python was introduced in an operational
+scientific institution (&lt;a class="reference external" href="http://www.ecmwf.int"&gt;http://www.ecmwf.int&lt;/a&gt;) where most users were
+Fortran programmers. Python was introduced as early as 2004 and it was a
+challenge to gain acceptance. I will also make a parallel with a project
+I am currently working on for NASA (&lt;a class="reference external" href="http://gmao.gsfc.nasa.gov/"&gt;http://gmao.gsfc.nasa.gov/&lt;/a&gt;).
+&lt;em&gt;Desperately trying to forget technical details&lt;/em&gt; summarises how I tried,
+using Python, to help Meteorology scientists to focus on their domain of
+expertise instead of constantly solving technical problems.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="background"&gt;
+&lt;h4&gt;Background:&lt;/h4&gt;
+&lt;p&gt;The disciplines of Meteorology and Climate involve numerical modelling
+of physical phenomena. The amount of data going in and out of the model
+is considerable. The organisation and the storage of data is
+complicated, their post-processing is a challenge. Scientists need to
+access and process input and output data to monitor the trends of the
+input data and to evaluate the performance of their models. Those
+statistics, diagnostics, plots and verifications are crucial to the
+improvement of the quality of the models. Finding the right data,
+decoding it, transforming it to be ready for use are necessary steps to
+initiate the pre-processing. All these actions are fundamentally the
+same between different prediction centres, but the data organisation and
+file formats can differ.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="framework"></category><category term="nasa"></category><category term="parallel"></category><category term="performance"></category><category term="python,"></category><category term="scientific"></category></entry><entry><title>Programmazione MapReduce in Python con Pydoop</title><link href="http://pyvideo.org/europython-2011/programmazione-mapreduce-in-python-con-pydoop.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Simone Leo</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/programmazione-mapreduce-in-python-con-pydoop.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Simone Leo - 23 June 2011 in &amp;quot;Track Italiana Big Mac &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Hadoop è la principale implementazione open source di MapReduce, il
+paradigma di calcolo distribuito su larga scala di Google. L'API nativa
+di Hadoop è in Java e le opzioni built-in per la programmazione in
+Python - Streaming e Jython - presentano diversi inconvenienti: la prima
+consente di accedere solo a un piccolo sottoinsieme delle funzionalità
+di Hadoop, mentre la seconda ha tutte le limitazioni di Jython rispetto
+a CPython.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://pydoop.sourceforge.net"&gt;Pydoop&lt;/a&gt; è un'API per Hadoop che rende
+disponibile buona parte delle funzionalità di Hadoop al programmatore
+Python, consentendo lo sviluppo in CPython. I suoi moduli di base sono
+wrapper Boost.Python per l'interfaccia C/C++ di Hadoop.&lt;/p&gt;
+&lt;p&gt;Il talk consiste in un tutorial su MapReduce/Hadoop e in una
+presentazione dell'API Pydoop, con l'obiettivo principale di avvicinare
+le community di Hadoop e Python. Può essere utile, anche se non
+strettamente necessaria, una conoscenza di base della programmazione
+distribuita.&lt;/p&gt;
+</summary><category term="community"></category><category term="hadoop"></category><category term="java"></category><category term="jython"></category><category term="mapreduce"></category><category term="python,"></category><category term="tutorial"></category></entry><entry><title>Python 3: the Next Generation (is here already)</title><link href="http://pyvideo.org/europython-2011/python-3-the-next-generation-is-here-already-0.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Wesley J. Chun</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/python-3-the-next-generation-is-here-already-0.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] wesley chun - 21 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python is currently at a crossroads: Python 2 has taken it from a quiet
+word- of-mouth language to primetime, with many companies around the
+world using it and an ever-increasing global marketshare of the
+programming world. But now comes Python 3, the first version of the
+language that is not backwards compatible with previous releases.&lt;/p&gt;
+&lt;p&gt;What does this mean? Are all my Python programs going to break? Will I
+have to rewrite everything? How much time do I have? When is Python 2
+going to be EOL'd? Is the language undergoing a complete rewrite and
+will I even recognize it? What are the changes between Python 2 and 3
+anyway? Also, the next generation is already here, as Python 3 is over
+two years old now. What has been ported so far, and what is its current
+status? Are migration plans or transition tools available? If I want to
+start learning Python, should I do Python 2 or Python 3? Are all Python
+2 books obsolete?&lt;/p&gt;
+&lt;p&gt;We will attempt to answer all of these questions and more. Join us!&lt;/p&gt;
+&lt;p&gt;OUTLINE/TOPICS&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Python 2 vs. Python 3&lt;/li&gt;
+&lt;li&gt;Introduction to Python 3&lt;/li&gt;
+&lt;li&gt;Backwards Compatibility&lt;/li&gt;
+&lt;li&gt;Generational Changes&lt;/li&gt;
+&lt;li&gt;Key Differences&lt;/li&gt;
+&lt;li&gt;Role of Remaining Python 2.x releases&lt;/li&gt;
+&lt;li&gt;Transition &amp;amp; Migration Plans &amp;amp; Tools&lt;/li&gt;
+&lt;li&gt;Futures&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="learning"></category><category term="migration"></category><category term="python,"></category></entry><entry><title>Python for High Performance and Scientific Computing</title><link href="http://pyvideo.org/europython-2011/python-for-high-performance-and-scientific-comput.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Andreas Schreiber</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/python-for-high-performance-and-scientific-comput.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Andreas Schreiber - 23 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python is an accepted high-level scripting language with a growing
+community in academia and industry. It is used in a lot of scientific
+applications in many different scientific fields and in more and more
+industries, for example, in engineering or life science). In all fields,
+the use of Python for high- performance and parallel computing is
+increasing. Several organizations and companies are providing tools or
+support for Python development. This includes libraries for scientific
+computing, parallel computing, and MPI. Python is also used on many core
+architectures and GPUs, for which specific Python interpreters are being
+developed. A related topic is the performance of the various interpreter
+and compiler implementations for Python. The talk gives an overview of
+Python’s use in HPC and Scientific Computing and gives information on
+many topics, such as Python on massively parallel systems, GPU
+programming with Python, scientific libraries in Python, and Python
+interpreter performance issues. The talk will include examples for
+scientific codes and applications from many domains.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://bit.ly/k94rC4"&gt;Slides&lt;/a&gt;&lt;/p&gt;
+</summary><category term="community"></category><category term="engineering"></category><category term="gpu"></category><category term="hpc"></category><category term="interpreters"></category><category term="parallel"></category><category term="performance"></category><category term="python,"></category><category term="scientific"></category></entry><entry><title>Python(x,y): diving into scientific Python</title><link href="http://pyvideo.org/europython-2011/pythonxy-diving-into-scientific-python.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Vincent Noel</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/pythonxy-diving-into-scientific-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Vincent Noel - 22 June 2011 in &amp;quot;Training Pizza
+Margherita &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This training session will introduce the Python scientific stack to
+beginner or intermediate-level Python programmers. The basics of
+scientific programming with Python will be presented:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;creation of arrays and structured arrays using numpy&lt;/li&gt;
+&lt;li&gt;fast, loopless manipulation of numpy arrays through fancy indexing
+and vectorized functions&lt;/li&gt;
+&lt;li&gt;convenient saving/loading of array variables using numpy&lt;/li&gt;
+&lt;li&gt;improved interactive use through ipython&lt;/li&gt;
+&lt;li&gt;data analysis using various scipy modules (signal analysis, image
+classification, etc)&lt;/li&gt;
+&lt;li&gt;plotting large time series, histograms, scatterplots, images etc.
+using matplotlib&lt;/li&gt;
+&lt;li&gt;saving/loading large datasets in structured scientific formats such
+as netCDF, HDF (depending on interest)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These concepts will be used in coding exercises, in the programming
+environnement provided by the Python(x,y) distribution, which is freely
+downloadable and includes recent versions of Python, numpy and
+matplotlib. The Python(x,y) distribution runs on Windows, which will be
+the OS of choice for this session. You should still be able to follow
+the examples in other Python distributions, e.g. EPD.&lt;/p&gt;
+&lt;p&gt;The entire talk (PDF), code samples and data files can be downloaded
+from the following
+&lt;a class="reference external" href="http://www.lmd.polytechnique.fr/~noel/EP2011/DivingIntoSci%20entificPython.zip"&gt;archive&lt;/a&gt;&lt;/p&gt;
+</summary><category term="analysis"></category><category term="datasets"></category><category term="image"></category><category term="numpy"></category><category term="python,"></category><category term="scientific"></category><category term="scipy"></category></entry><entry><title>Sfrutta la potenza della GPU con PyCUDA (e compagni)</title><link href="http://pyvideo.org/europython-2011/sfrutta-la-potenza-della-gpu-con-pycuda-e-compag.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Stefano Brilli</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/sfrutta-la-potenza-della-gpu-con-pycuda-e-compag.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Stefano Brilli - 22 June 2011 in &amp;quot;Track Italiana Big
+Mac &amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;CUDA è una tecnologia che permette di sfruttare la potenza di calcolo
+delle moderne schede video prodotte da NVIDIA. In questo talk, dopo una
+breve introduzione all'architettura della GPU, si vedrà come CUDA entra
+all'interno di Python attraverso librerie come PyCUDA e non solo…&lt;/p&gt;
+&lt;p&gt;Mediante alcuni esempi si metteranno in luce i concetti e le pratiche
+fondamentali per una buona programmazione della GPU.&lt;/p&gt;
+&lt;p&gt;Il talk è rivolto a chiunque voglia conoscere come sfruttare questa
+tecnologia all'interno di Python, i casi in cui è conveniente
+utilizzarla, le pratiche da adottare e le pratiche da non adottare per
+trarre il massimo dalla propria GPU.&lt;/p&gt;
+</summary><category term="gpu"></category><category term="pycuda"></category><category term="python,"></category></entry><entry><title>Spotify and Python: love at first sight</title><link href="http://pyvideo.org/europython-2011/spotify-and-python-love-at-first-sight.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Jon Åslund</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/spotify-and-python-love-at-first-sight.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Jon Åslund - 20 June 2011 in &amp;quot;Track Spaghetti&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This is a story about how Spotify started, how we evolved, where we are
+today and how Python has always been a big part of our success. Where do
+we use it? Where do we not use it? Learn about the Unix way and the
+Debian way of maintaining a healthy love for Python, while two-timing
+with other languages such as Java and C++.&lt;/p&gt;
+</summary><category term="java"></category><category term="python,"></category></entry><entry><title>Creare videogames con Panda3D</title><link href="http://pyvideo.org/europython-2011/creare-videogames-con-panda3d.html" rel="alternate"></link><published>2011-07-07T00:00:00+00:00</published><updated>2011-07-07T00:00:00+00:00</updated><author><name>Claudio Desideri</name></author><id>tag:pyvideo.org,2011-07-07:europython-2011/creare-videogames-con-panda3d.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Claudio Desideri - 21 June 2011 in &amp;quot;Track Italiana Big
+Mac&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In questo talk spiegherò quali opportunità ci offre il game-engine
+Panda3D nel momento in cui vogliamo creare un videogioco da zero.
+Spiegherò com'è strutturato al suo interno e i concetti di base per
+capire come funziona, ma mostrerò anche prove pratiche e pezzi di
+codice.&lt;/p&gt;
+&lt;p&gt;Può partecipare chiunque abbia una conoscenza di base di Python, anche
+se non ha mai lavorato con applicazioni realtime 3D. L'obiettivo è
+mostrare come creare un semplice videogioco che risponda agli input
+immessi dall'utente e come utilizzare al meglio questo potente engine.&lt;/p&gt;
+</summary><category term="ci"></category><category term="panda3d"></category><category term="python,"></category><category term="realtime"></category></entry><entry><title>Beziehungen? Nein danke! - Agile Datenbankentwicklung mit schemafreien Datenbanken und Python</title><link href="http://pyvideo.org/pycon-de-2012/beziehungen-nein-danke-agiledatenbankentwickl.html" rel="alternate"></link><published>2012-11-01T00:00:00+00:00</published><updated>2012-11-01T00:00:00+00:00</updated><author><name>Martin Schönert</name></author><id>tag:pyvideo.org,2012-11-01:pycon-de-2012/beziehungen-nein-danke-agiledatenbankentwickl.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python-Projekte haben immer häufiger alternative Datenbanken aus der
+nosql /newsql-Familie in ihrem Stack, seien es Graphendatenbanken wie
+Neo4j, Key- Value-Stores wie Redis oder dokumentenorientierte
+Datenbanken wie MongoDB.&lt;/p&gt;
+&lt;p&gt;So verschiedenartig diese Datenbanken auch sind, gemeinsam ist ihnen,
+dass sie nicht das relationale Datenmodell implementieren, Daten nicht
+in miteinander in Beziehung stehenden Entitäten ablegen. Während
+Nicht-Normalisirung bei relationalen Datenbanken meist als Anti-Pattern
+angesehen wird, ist es bei schemafreien Datenbanken Prinzip, das
+schnelles und agiles Entwickeln und Deployen fördert.&lt;/p&gt;
+&lt;p&gt;Dieser Talk zeigt an Hand eines konkreten Use-Cases, welche Auswirkungen
+die Verwendung einer nicht-relationalen Datenbank auf den
+Entwicklungsprozess hat, zeigt wie Daten modelliert werden können und
+auch, wie Veränderungen am Datenbankmodell implementiert werden können,
+wenn es kein &amp;quot;Alter table&amp;quot; mehr gibt.&lt;/p&gt;
+&lt;p&gt;Diskutiert werden sollen dabei auch die Pros und Kontras der
+verschiedenen Datenmodelle hinsichtlich ihrer Query-Möglichkeiten, der
+Query-Performance, Anforderungen an Plattenplatz und Auswirkungen auf
+die Client/Anwendungsseite.&lt;/p&gt;
+</summary><category term="agile softwareentwicklung"></category><category term="datenbank"></category><category term="datenmodellierung"></category><category term="nosql"></category><category term="orm"></category><category term="python"></category></entry><entry><title>Flugplanung, Datenverwaltung, Visualisierung mit einem Wiki zur Unterstützung von Meßkampagnen</title><link href="http://pyvideo.org/pycon-de-2012/flugplanung-datenverwaltung-visualisierung-mit.html" rel="alternate"></link><published>2012-11-01T00:00:00+00:00</published><updated>2012-11-01T00:00:00+00:00</updated><author><name>Reimar Bauer</name></author><id>tag:pyvideo.org,2012-11-01:pycon-de-2012/flugplanung-datenverwaltung-visualisierung-mit.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Dieser Vortrag zeigt auf, wie man ein MoinMoin Wiki verwenden kann, um
+meteorologische Daten für Flugplanungen mit einem Forschungsflugzeug
+bereitzustellen. Die Werkzeuge, die bei einer Messkampagne eine
+Plattform für den Austausch von Daten sowie Beschreibungen bilden,
+werden vorgestellt.&lt;/p&gt;
+&lt;p&gt;Im Vortrag werden einige Werkzeuge und deren API vorgestellt. Z.B.
+arnica, ein MoinMoin Wiki Plugin, das u.a. für die Darstellung von
+Vorhersage Modell Daten für die Flugplanung von Forschungsmissionen
+Verwendung findet.&lt;/p&gt;
+&lt;p&gt;Andere Werkzeuge dienen dem Organisieren von Informationen auf Wiki
+Seiten und deren Darstellung. Es wird z.B. gezeigt wie Seiteninhalte in
+Tabellen abgebildet werden können.&lt;/p&gt;
+&lt;p&gt;Die Beispiele können auch für die Entwicklung eigener Plugins
+herangezogen werden.&lt;/p&gt;
+</summary><category term="moinmoin"></category><category term="plugin"></category><category term="python"></category><category term="wiki"></category><category term="wissenschaft"></category></entry><entry><title>Mercurial - ein verteiltes Versionskontrollsystem</title><link href="http://pyvideo.org/pycon-de-2012/mercurial-ein-verteiltes-versionskontrollsystem.html" rel="alternate"></link><published>2012-11-01T00:00:00+00:00</published><updated>2012-11-01T00:00:00+00:00</updated><author><name>Markus Zapke-Gründemann</name></author><id>tag:pyvideo.org,2012-11-01:pycon-de-2012/mercurial-ein-verteiltes-versionskontrollsystem.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Dieser Vortrag stellt Mercurial vor, zeigt aber auch optimale
+Vorgehensweisen für den Entwicklungsalltag sowie die Grundlagen der
+Entwicklung von Mercurial Extensions.&lt;/p&gt;
+&lt;p&gt;Mercurial ist ein verteiltes Versionskontrollsystem. Die Befehle und
+Funktionen sind einfach zu lernen.&lt;/p&gt;
+&lt;p&gt;Da es unabhängig vom einem Server arbeitet kann jeder lokal und auch
+ohne Internetverbindung Dokumente oder Quellcode damit verwalten.
+Trotzdem kann man mit Mercurial die Repositories untereinander
+austauschen und so auch über weite Entfernungen zusammen arbeiten.&lt;/p&gt;
+&lt;p&gt;Mercurial ist komplett in Python geschrieben und lässt sich deshalb
+einfach erweitern.&lt;/p&gt;
+&lt;p&gt;Viele bekannte Open Source Projekte und Firmen setzen Mercurial ein. So
+zum Beispiel Atlassian, Dovecot, Gajim, Google, Facebook, Mozilla,
+OpenOffice, OpenSolaris, Python, PyPy, RabbitMQ, Unity, Vim oder Xen.&lt;/p&gt;
+</summary><category term="dvcs"></category><category term="mercurial"></category><category term="python"></category><category term="softwareentwicklung"></category></entry><entry><title>Schneller ohne C++</title><link href="http://pyvideo.org/pycon-de-2012/schneller-ohne-c.html" rel="alternate"></link><published>2012-11-01T00:00:00+00:00</published><updated>2012-11-01T00:00:00+00:00</updated><author><name>Stefan Behnel</name></author><id>tag:pyvideo.org,2012-11-01:pycon-de-2012/schneller-ohne-c.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Die Sichtbarkeit von C++ in der Software-Entwicklung ist auch in ihrem
+33. Jahr noch enorm. In vielen Bereichen, z.B. im Ingenieursumfeld und
+im Embedded-Bereich wird schon aus Tradition mit C und C++ entwickelt,
+oft ohne den Blick auf Alternativen. Eingespielte Entwicklerteams und
+große, über lange Zeit gewachsene Code-Basen lassen einen Umstieg
+unmöglich erscheinen.&lt;/p&gt;
+&lt;p&gt;In diesem Vortrag werde ich die Frage stellen, warum C und C++ so große
+Verbreitung besitzen, trotz der hohen Anforderungen an
+Entwicklererfahrung und der aufwändigen und fehleranfälligen Entwicklung
+mit diesen Sprachen. Dabei zeigt sich Python als ganz natürliche
+Ergänzungssprache, die sich leicht mit bestehenden Code integriert und
+in vielen Bereichen die Entwicklung dank des Paretoprinzips merklich
+beschleunigt.&lt;/p&gt;
+&lt;p&gt;Python erlaubt sowohl eine schnelle prototypische Umsetzung neuer
+Anforderungen als auch die Integration anspruchsvoller Features durch
+die breite Funktionalität in der Standardbibliothek und den nahezu
+allumfassenden Fundus an Bibliotheken. Das Spektrum geht dabei von
+einfachen Skripten über Test-Unterstützung und Web-Frontends bis hin zu
+Finanzanwendungen, Bildverarbeitung und zur performancekritischen
+Analyse gigantischer Datenmengen aus Tiefseesensoren und
+Radioteleskopen.&lt;/p&gt;
+</summary><category term="c++"></category><category term="entwicklungskosten"></category><category term="python"></category><category term="sprachintegration"></category></entry><entry><title>"The pythonic way" für IT Projekte</title><link href="http://pyvideo.org/pycon-de-2012/the-pythonic-way-fur-it-projekte.html" rel="alternate"></link><published>2012-11-01T00:00:00+00:00</published><updated>2012-11-01T00:00:00+00:00</updated><author><name>Lutz Mende</name></author><id>tag:pyvideo.org,2012-11-01:pycon-de-2012/the-pythonic-way-fur-it-projekte.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;&amp;quot;Potentially shippable increment of product in 30 days&amp;quot; -- dies ist die
+Vision von Scrum bzw. das grundsätzliche Ziel von agiler
+Softwareentwicklung bzw. Vorgehen in IT - Projekten.&lt;/p&gt;
+&lt;p&gt;Dieses Ziel fordert, dass innerhalb eines Sprints , entworfen,
+implementiert,&lt;/p&gt;
+&lt;p&gt;getestet, freigegeben und eine Distribution erstellt und installiert
+wird.&lt;/p&gt;
+&lt;div class="section" id="im-rahmen-des-vortrags-wird-behandelt-wie-durch-den-einsatz-einfacher-python"&gt;
+&lt;h4&gt;Im Rahmen des Vortrags wird behandelt, wie durch den Einsatz einfacher Python&lt;/h4&gt;
+&lt;p&gt;Macros innerhalb des Projekt- und Issue-Trackingsystems TRAC methodisch
+gute&lt;/p&gt;
+&lt;p&gt;(für Entwickler und Kunden verständliche) Userstories, Usecases und
+Testcases&lt;/p&gt;
+&lt;p&gt;entstehen. Es wird gezeigt, wie diese erzeugt, verwaltet, angewandt und
+durchgeführt&lt;/p&gt;
+&lt;p&gt;werden und damit allen Projektbeteiligten ermöglicht wird, agile&lt;/p&gt;
+&lt;p&gt;Paradigmen und Vorgehensweisen einfach und effizient anzuwenden.&lt;/p&gt;
+&lt;p&gt;Die vorgestellten Vorgehensweisen wurden von den Autoren, mehrfach
+erfolgreich&lt;/p&gt;
+&lt;p&gt;in großen Industrieprojekten als auch in kleinen internen
+Softwareprojekten&lt;/p&gt;
+&lt;p&gt;angewendet.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="agil"></category><category term="python"></category><category term="scrum"></category><category term="testcase"></category><category term="trac"></category><category term="usecase"></category></entry><entry><title>Die Infrastruktur für Erweiterungen der Wiki-Software MoinMoin (moin2).</title><link href="http://pyvideo.org/pycon-de-2012/die-infrastruktur-fur-erweiterungen-der-wiki-soft.html" rel="alternate"></link><published>2012-10-31T00:00:00+00:00</published><updated>2012-10-31T00:00:00+00:00</updated><author><name>Reimar Bauer</name></author><id>tag:pyvideo.org,2012-10-31:pycon-de-2012/die-infrastruktur-fur-erweiterungen-der-wiki-soft.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Die Wiki Software moin2 kann mehr als nur ein Wiki betreiben.&lt;/p&gt;
+&lt;p&gt;U.a. kann man moin2 für einen Pastebin, Blog und ein Ticket-System
+verwenden.&lt;/p&gt;
+&lt;p&gt;Der Vortrag gibt Einblick in Erweiterungen und den Stand der
+Entwicklung.&lt;/p&gt;
+&lt;p&gt;moin2 ist ein Redesign der Wiki-Software von moin1.&lt;/p&gt;
+&lt;p&gt;Es hat viele Merkmale mit einigen anderen Webanwendungen gemeinsam.&lt;/p&gt;
+&lt;p&gt;Durch die offene Architektur und die vorhandenen Sicherheitsmechanismen
+gegen Spam ist es z.B. möglich einen pastebin analog zu lodgeit zu
+integrieren.&lt;/p&gt;
+&lt;p&gt;Blog Posts unterscheiden sich auch nicht wesentlich von Wiki Items. Mit
+einem Ticket-System lassen sich Arbeitsabläufe optimieren.&lt;/p&gt;
+&lt;p&gt;Der Vortrag zeigt, wie in moin2 solche Erweiterungen integriert werden
+und zeigt den Stand der aktuellen Entwicklung.&lt;/p&gt;
+&lt;p&gt;Für Eigenentwicklungen wird ein Einblick&lt;/p&gt;
+&lt;p&gt;auf das neue Plugin Konzept gegeben.&lt;/p&gt;
+</summary><category term="moinmoin"></category><category term="plugins"></category><category term="python"></category><category term="wiki"></category></entry><entry><title>eGenix PyRun - Python Laufzeitumgebung in einer Datei</title><link href="http://pyvideo.org/pycon-de-2012/egenix-pyrun-python-laufzeitumgebung-in-einer.html" rel="alternate"></link><published>2012-10-31T00:00:00+00:00</published><updated>2012-10-31T00:00:00+00:00</updated><author><name>Marc-André Lemburg</name></author><id>tag:pyvideo.org,2012-10-31:pycon-de-2012/egenix-pyrun-python-laufzeitumgebung-in-einer.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;eGenix PyRun kondensiert eine komplette Python Laufzeitumgebung mit
+Interpreter und Standardbibliothek in eine einzige sehr kompakte
+ausführbare pyrun Programmdatei.&lt;/p&gt;
+&lt;p&gt;Da PyRun keine Installation benötigt und unabhängig von einer Python
+System Installation arbeitet, bietet es sich damit als portable Lösung
+für Skripte, Applikationen und in der Entwicklung als virtualenv Ersatz
+an.&lt;/p&gt;
+&lt;p&gt;PyRun ist nur 12-13MB groß, enthält aber den größten Teil einer
+üblicherweise ca. 100MB großen Python Installation. Die Größe kann per
+gzexe oder upx auf unter 4MB reduziert werden.&lt;/p&gt;
+&lt;p&gt;Es bietet damit eine ganze Reihe von Vorteilen gegenüber einer regulären
+Python Installation. Hier die wichtigsten Aspekte:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Sehr kompakt&lt;/li&gt;
+&lt;li&gt;Keine Installation oder Root Rechte notwendig&lt;/li&gt;
+&lt;li&gt;Kann unabhängig von einer System Python Installation verwendet werden&lt;/li&gt;
+&lt;li&gt;Bessere Startzeit als reguläres Python&lt;/li&gt;
+&lt;li&gt;Kompatibel mit distutils/setuptools/pip/etc.&lt;/li&gt;
+&lt;li&gt;virtualenv Ersatz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Derzeit unterstützte Systeme sind Linux, Mac OS X und FreeBSD. Es sollte
+aber auch auf anderen Unix Systemen verwendbar sein. PyRun wird von
+eGenix unter einer Open Source Lizenz verfügbar gemacht.&lt;/p&gt;
+&lt;p&gt;Der Vortrag wird das Projekt vorstellen, eine Anwendungsdemo zeigen und
+je nach verfügbarer Zeit auch die Übersetzung demonstrieren.&lt;/p&gt;
+</summary><category term="interpreter"></category><category term="kompakt"></category><category term="laufzeitumgebung"></category><category term="open-source"></category><category term="python"></category><category term="virtualenv"></category></entry><entry><title>Practical DevOps</title><link href="http://pyvideo.org/pycon-de-2012/practical-devops.html" rel="alternate"></link><published>2012-10-31T00:00:00+00:00</published><updated>2012-10-31T00:00:00+00:00</updated><author><name>Schlomo Schapiro</name></author><id>tag:pyvideo.org,2012-10-31:pycon-de-2012/practical-devops.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;DevOps ist eine aktuelle Bewegung in der IT, die sich zur Aufgabe macht,
+ein Umdenken in den klassischen Lagern Entwicklung und Betrieb
+einzuleiten. Der Vortrag wirft einen Blick auf die noch junge Bewegung
+und zeigt mit Geschichten aus dem wahren Leben, wie sich die agile
+Denkweise fortschreiben lässt, die mit SCRUM ins allgemeine Bewusstsein
+getreten ist.&lt;/p&gt;
+&lt;p&gt;Schlomo gibt einen Überblick über das Thema und berichtet über die
+DevOps Erfolge bei der
+&lt;a class="reference external" href="http://www.immobilienscout24.de"&gt;ImmobilienScout24&lt;/a&gt;. Nach 2 Jahren
+agilem Umdenken in der Entwicklung zeigte sich, dass die klassische
+Gewaltenteilung Plan - Build - Run einfach nicht mehr gut funktioniert
+weil sich die Anforderungen und Erwartungen sowohl in der Entwicklung
+als auch im Betrieb ändern und daher auch eine neue Form der
+Zusammenarbeit nahe legen.&lt;/p&gt;
+&lt;p&gt;Die Ideen aus der DevOps Bewegung lassen sich fast überall einsetzen, wo
+bisher ein &amp;quot;über den Zaun werfen&amp;quot; gespielt wird und haben das primäre
+Ziel, alle Beteiligten gemeinsam an einem Strang ziehen zu lassen. Mit
+den Ideen und Erfahrungen aus dem Vortrag lassen sich sicher die ersten
+Schritte in die richtige Richtung einleiten.&lt;/p&gt;
+</summary><category term="agile"></category><category term="devops"></category><category term="kanban"></category><category term="open source"></category><category term="python"></category><category term="scrum"></category><category term="web"></category></entry><entry><title>pytest - rapid and simple testing with pytest</title><link href="http://pyvideo.org/pycon-de-2012/pytest-rapid-and-simple-testing-with-pytest.html" rel="alternate"></link><published>2012-10-31T00:00:00+00:00</published><updated>2012-10-31T00:00:00+00:00</updated><author><name>Holger Krekel</name></author><id>tag:pyvideo.org,2012-10-31:pycon-de-2012/pytest-rapid-and-simple-testing-with-pytest.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Das Werkzeug py.test erlaubt es schnell und einfach Test für
+Python-Programme zu schreiben. Dieser Vortrag stellt die grundlegende
+Nutzung von py.test und wichtige Terminologie dazu vor. Zusätzlich zeigt
+die Präsentation wie py.test Unit- und funktionale Test mit besonderen
+Mechanismen wie &amp;quot;perfected assertions&amp;quot; und &amp;quot;dependency injection&amp;quot;
+unterstützt.&lt;/p&gt;
+&lt;p&gt;Der Vortrag führt in die Prinzipien der Unit- und funktionalen Tests
+kurz ein und geht auf die Vorteile von py.test gegenüber dem in der
+Standardbibliothek enthalten Paket unittest ein. So kann py.test Tests,
+die über verschiedene Python-Versionen und- Implementierungen
+hinweggehen, ausführen. Der Schreibsstil der Tests ist &amp;quot;pythonic&amp;quot; und
+die Plugins lassen sich für verschiedene Projekte nutzen.&lt;/p&gt;
+&lt;p&gt;Nach einem einfachen Test-Beispiel, das die Grundprinzipen umfasst,
+folgen Beispiel zu &amp;quot;dependency injection&amp;quot;. Die Nutzung von py.test im
+Mozilla Projekt webqa und die Möglichkeiten des &amp;quot;mocking&amp;quot; und
+&amp;quot;monkeypatching&amp;quot; schließen den Vortrag ab.&lt;/p&gt;
+</summary><category term="python"></category><category term="testen"></category></entry><entry><title>Python 3.3</title><link href="http://pyvideo.org/pycon-de-2012/python-3-3.html" rel="alternate"></link><published>2012-10-31T00:00:00+00:00</published><updated>2012-10-31T00:00:00+00:00</updated><author><name>Martin v. Löwis</name></author><id>tag:pyvideo.org,2012-10-31:pycon-de-2012/python-3-3.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Am 29.9.2012 wurde nach 19-monatiger Entwicklungszeit Python 3.3&lt;/p&gt;
+&lt;p&gt;fertiggestellt. Es ist die größte Erweiterung von Python seit Version&lt;/p&gt;
+&lt;p&gt;3.0; Änderungen gab es in allen Bereichen der Implementierung (Syntax,&lt;/p&gt;
+&lt;p&gt;Standardbibliothek, Paketierung, interne Strukturen). In dem Vortrag&lt;/p&gt;
+&lt;p&gt;werden die wesentlichen Änderungen umrissen, sowohl aus Anwendersicht&lt;/p&gt;
+&lt;p&gt;wie auch aus Sicht eines core committers.&lt;/p&gt;
+</summary><category term="python"></category><category term="python3"></category></entry><entry><title>Echtzeit Browsergames</title><link href="http://pyvideo.org/pycon-de-2012/echtzeit-browsergames.html" rel="alternate"></link><published>2012-10-30T00:00:00+00:00</published><updated>2012-10-30T00:00:00+00:00</updated><author><name>Michael P. Jung</name></author><id>tag:pyvideo.org,2012-10-30:pycon-de-2012/echtzeit-browsergames.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Mit gevent und browserseitigem JavaScript können Mehrspieler
+Browsergames entwickelt werden, die Spielerinteraktionen in Echtzeit
+zulassen. Dieser Vortrag versucht Lust auf das Echtzeit Web zu machen
+und zeigt anhand eines konkreten Spieles (KODEX, &lt;a class="reference external" href="http://kodexgame.com/"&gt;http://kodexgame.com/&lt;/a&gt;)
+Lösungen für Entwicklung, Hosting und Vertrieb auf.&lt;/p&gt;
+&lt;p&gt;Der Vortrag beleuchtet neben den Implikationen des Realtime Web wie
+Caching, Scaling, Same-Origin-Policy und Cross-Origin-Resource-Sharing
+auch Strategien zur horizontalen Skalierbarkeit, oder: Wie löst man das
+&lt;a class="reference external" href="http://www.kegel.com/c10k.html"&gt;C10K&lt;/a&gt; Problem?&lt;/p&gt;
+&lt;p&gt;Während NodeJS oft als &lt;em&gt;die&lt;/em&gt; Lösung für Echtzeitanwendungen angepriesen
+wird, kommt hier auf der Serverseite gezielt Python mit gevent zum
+Einsatz.&lt;/p&gt;
+</summary><category term="django"></category><category term="echtzeit"></category><category term="game"></category><category term="gevent"></category><category term="javascript"></category><category term="python"></category><category term="rabbitmq"></category><category term="realtime"></category><category term="socketio"></category><category term="spiel"></category></entry><entry><title>Continuous building with Pybuilder</title><link href="http://pyvideo.org/pycon-de-2013/continuous-building-with-pybuilder.html" rel="alternate"></link><published>2013-10-17T00:00:00+00:00</published><updated>2013-10-17T00:00:00+00:00</updated><author><name>YADT Project</name></author><id>tag:pyvideo.org,2013-10-17:pycon-de-2013/continuous-building-with-pybuilder.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Pybuilder ist ein erweiterbares und benutzerfreundliches &lt;em&gt;continuous
+Build Tool&lt;/em&gt; für Python, welches die Arbeit mit fremden (und eigenen)
+Python-Projekten angenehmer macht. Damit lassen sich diverse Buildtools
+wie coverage, unittest, pip oder auch setuptools zentral
+instrumentieren. Und das Beste zum Schluß : 100% open source!&lt;/p&gt;
+</summary><category term="automation"></category><category term="build"></category><category term="buildtool"></category><category term="lifecycle"></category><category term="maven"></category><category term="pybuilder"></category><category term="python"></category></entry><entry><title>Continuum Data Analytics Stack</title><link href="http://pyvideo.org/pycon-de-2013/continuum-data-analytics-stack.html" rel="alternate"></link><published>2013-10-17T00:00:00+00:00</published><updated>2013-10-17T00:00:00+00:00</updated><author><name>Dr. Yves J. Hilpisch</name></author><id>tag:pyvideo.org,2013-10-17:pycon-de-2013/continuum-data-analytics-stack.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Continuum Analytics bietet mit Anaconda Accelerate eine kommerzielle,
+skalierbare und unternehmenstaugliche Python-Distribution. Diese basiert
+auf der beliebten Open Source Distribution Anaconda.&lt;/p&gt;
+&lt;p&gt;Gegenüber der freien Distribution verfügt Accelerate über Bibliotheken
+wie NumbaPro oder IOPro, die eine nachhaltige Beschleunigung von
+typischen Data Analytics Aufgaben mit Python erlauben.&lt;/p&gt;
+&lt;p&gt;Bokeh, eine Open Source Bibliothek, etabliert einen neuen Standard für
+die interaktive, Web-basierte Visualisierung von großen Datenmengen.&lt;/p&gt;
+&lt;p&gt;Der Talk illustriert die Leistungsfähigkeit des &amp;quot;Continuum Data
+Analytics Stack&amp;quot; an Hand einer Reihe von praxisnahen Beispielen, z.B.
+aus dem Finanzumfeld, und gewährt auch einen Einblick in aktuelle sowie
+geplante Entwicklungen und Erweiterungen.&lt;/p&gt;
+</summary><category term="data analytics"></category><category term="financial analytics"></category><category term="python"></category><category term="visualization"></category></entry><entry><title>Was Sie schon immer über „Visualisierung mit Python“ wissen wollten</title><link href="http://pyvideo.org/pycon-de-2013/was-sie-schon-immer-uber-visualisierung-mit-pyth.html" rel="alternate"></link><published>2013-10-17T00:00:00+00:00</published><updated>2013-10-17T00:00:00+00:00</updated><author><name>Josef Heinen</name></author><id>tag:pyvideo.org,2013-10-17:pycon-de-2013/was-sie-schon-immer-uber-visualisierung-mit-pyth.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Schon lange hat sich Python in den Software-Entwicklungsabteilungen von
+Forschung und Industrie etabliert, nicht zuletzt wegen der Verbreitung
+von Bibliotheken wie SciPy oder Matplotlib. Bei der Verarbeitung großer
+Datenmengen oder im Zusammenspiel mit GUI-Toolkits stößt man aber leicht
+an die Grenzen der interpretativen Programmierung.&lt;/p&gt;
+&lt;p&gt;Der Vortrag zeigt auf, wie solche Anforderung auf der Basis des &lt;em&gt;GR
+Frameworks&lt;/em&gt;, einer &amp;quot;Lightweight&amp;quot;-Alternative zu Matplotlib, umgesetzt
+werden können. Im Einzelnen wird beschrieben wie man mit aktuellen
+Software-Technologien Echtzeit-Anwendungen oder rechenintensive
+Simulationen in Python realisieren kann. So lässt sich zum Beispiel
+durch die Verwendung von Just-In-Time Kompilierung mit Numba(Pro) eine
+enorme Performance-Steigerung erzielen. An konkreten Beispielen werden
+die Vorzüge des &lt;em&gt;GR Frameworks&lt;/em&gt; im Zusammenspiel mit JIT-Compilern,
+graphischen Benutzeroberflächen (GUIs) sowie OpenGL, aber auch vor dem
+Hintergrund einer stetig ansteigenden Paketflut beschrieben.&lt;/p&gt;
+</summary><category term="accelerate"></category><category term="anaconda"></category><category term="numba"></category><category term="numpy"></category><category term="opengl"></category><category term="pyqt"></category><category term="python"></category><category term="visualisierung"></category></entry><entry><title>ABGESAGT: IronPython - ein Hochzeitskuss zwischen C# und Python</title><link href="http://pyvideo.org/pycon-de-2013/abgesagt-ironpython-ein-hochzeitskuss-zwischen.html" rel="alternate"></link><published>2013-10-16T00:00:00+00:00</published><updated>2013-10-16T00:00:00+00:00</updated><author><name>Mathias Mielitz</name></author><id>tag:pyvideo.org,2013-10-16:pycon-de-2013/abgesagt-ironpython-ein-hochzeitskuss-zwischen.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Achtung:&lt;/strong&gt; &lt;em&gt;Dieser Vortrag wurde abgesagt und fällt aus!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Wir erweitern die Funktionalität eines .NET-Programmes (C#) mit Hilfe
+mehrerer Plugins, die wir gemeinsam in IronPython schreiben. Dabei
+lernen wir mehr über das Zusammenspiel beider Sprachen kennen und werden
+Trauzeugen einer Hochzeit zweier ungleicher Ehepartner.&lt;/p&gt;
+</summary><category term="c#"></category><category term="erweitern"></category><category term="ironpython"></category><category term="plugins"></category><category term="python"></category></entry><entry><title>Introduction to django CMS</title><link href="http://pyvideo.org/pycon-de-2013/introduction-to-django-cms.html" rel="alternate"></link><published>2013-10-16T00:00:00+00:00</published><updated>2013-10-16T00:00:00+00:00</updated><author><name>Benjamin Wohlwend</name></author><id>tag:pyvideo.org,2013-10-16:pycon-de-2013/introduction-to-django-cms.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Wir werden das Open Source Content Management System «django CMS»
+vorstellen. Einerseits zeigen wir das Backend, aber auch das Frontend,
+geben Erfahrungen von Developern weiter und von CMS-Verwendern. Patrick
+Lauber, als Senior Web Developer geht in die Tiefe, Stefanie Weilenmann
+wir das CMS anhand einer kurzen Schulung zeigen.&lt;/p&gt;
+</summary><category term="django"></category><category term="django cms"></category><category term="open source"></category><category term="python"></category><category term="website"></category></entry><entry><title>Wiki-Restauration aus dem Web Cache</title><link href="http://pyvideo.org/pycon-de-2013/wiki-restauration-aus-dem-web-cache.html" rel="alternate"></link><published>2013-10-16T00:00:00+00:00</published><updated>2013-10-16T00:00:00+00:00</updated><author><name>Reimar Bauer</name></author><id>tag:pyvideo.org,2013-10-16:pycon-de-2013/wiki-restauration-aus-dem-web-cache.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Nach einem Totalschaden ist bei Webanwendungen nicht unbedingt alles
+verloren. Die Inhalte sind in der Regel auf eine begrenzte Zeit in
+Suchmaschinen wieder zu finden.&lt;/p&gt;
+&lt;p&gt;Der Vortrag beschreibt ein Verfahren das Anfang des Jahres zum Einsatz
+kam um Wiki-Seiten aus dem HTML Webcache zurück in Wiki-Seiten Markup zu
+übersetzen.&lt;/p&gt;
+</summary><category term="adapter pattern"></category><category term="html"></category><category term="markup"></category><category term="moinmoin"></category><category term="python"></category></entry><entry><title>Wissenschaftliches Publizieren mit Python</title><link href="http://pyvideo.org/pycon-de-2013/wissenschaftliches-publizieren-mit-python.html" rel="alternate"></link><published>2013-10-16T00:00:00+00:00</published><updated>2013-10-16T00:00:00+00:00</updated><author><name>Dr. Yves J. Hilpisch</name></author><id>tag:pyvideo.org,2013-10-16:pycon-de-2013/wissenschaftliches-publizieren-mit-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python hat sich als eine der bedeutendsten Programmiersprachen in vielen
+Bereichen der Wissenschaft etabliert. Jüngere Entwicklungen im Bereich
+des Publizierens machen die Nutzung von Python noch attraktiver. So ist
+es heute recht einfach möglich ausführbaren Python-Code in
+Dokument-Sourcen zu integrieren und die Ergebnisse dieses Codes direkt
+in das Dokument zu importieren (z.B. Formeln, Berechnungen,
+Abbildungen).&lt;/p&gt;
+&lt;p&gt;Der Vortrag skizziert Tools wie IPython Notebook, Sphinx (inkl. IPython
+Extension) oder auch PythonTEX. Er zeigt auch, wie einfach Open Research
+mit Hilfe dieser Tools zu realisieren ist.&lt;/p&gt;
+</summary><category term="latex"></category><category term="publizieren"></category><category term="python"></category><category term="wissenschaft"></category></entry><entry><title>Echtzeit Web-Apps mit Mushroom</title><link href="http://pyvideo.org/pycon-de-2013/echtzeit-web-apps-mit-mushroom.html" rel="alternate"></link><published>2013-10-15T00:00:00+00:00</published><updated>2013-10-15T00:00:00+00:00</updated><author><name>Michael P. Jung</name></author><id>tag:pyvideo.org,2013-10-15:pycon-de-2013/echtzeit-web-apps-mit-mushroom.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;&lt;a class="reference external" href="https://bitbucket.org/terreon/mushroom"&gt;Mushroom&lt;/a&gt; ist ein einfach zu
+verwendendes Echtzeit-Web-Messaging-Framework, welches neben
+Browser-Push-Nachrichten auch Funktionen für die
+Interprozesskommunikation zur Verfügung stellt.&lt;/p&gt;
+&lt;p&gt;Dieser Vortrag versucht, Lust auf das Echtzeit-Web zu machen und
+beantwortet grundlegende Fragen zu Themen wie Skalierbarkeit und
+Deployment.&lt;/p&gt;
+</summary><category term="echtzeit"></category><category term="gevent"></category><category term="http"></category><category term="ipc"></category><category term="javascript"></category><category term="long polling"></category><category term="messagin"></category><category term="mushroom"></category><category term="network"></category><category term="python"></category><category term="real-time"></category><category term="websocket"></category></entry><entry><title>Entwicklung wissenschaftlicher Applikationen mit Python</title><link href="http://pyvideo.org/pycon-de-2013/entwicklung-wissenschaftlicher-applikationen-mit.html" rel="alternate"></link><published>2013-10-15T00:00:00+00:00</published><updated>2013-10-15T00:00:00+00:00</updated><author><name>Florian Rhiem</name></author><id>tag:pyvideo.org,2013-10-15:pycon-de-2013/entwicklung-wissenschaftlicher-applikationen-mit.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Durch Experimente und Simulationen werden im wissenschaftlichen Bereich
+große Mengen an Daten erzeugt. Diese müssen geeignet aufbereitet werden,
+um sie in eine für die Wissenschaftler verständliche Form zu überführen.
+Ein Beispiel dafür ist die Untersuchung von Phasenwechselmaterialien,
+welche in wiederbeschreibbaren optischen Medien eingesetzt werden. Der
+beim Löschen und Beschreiben eintretende Wechsel zwischen kristallinem
+und amorphen Zustand wird auf Großrechnern simuliert und die
+resultierende molekulare Struktur auf Hohlstellen hin untersucht, da
+diese Rückschlüsse auf das Verhalten des Materials zulassen. Den Kern
+der Präsentation nimmt die Entwicklung der Anwendung &lt;em&gt;pyMolDyn&lt;/em&gt; ein,
+welche die Analyse und Visualisierung der Moleküle und Hohlstellen
+übernimmt.&lt;/p&gt;
+&lt;p&gt;Dieser Vortrag gibt einen Einblick in die Erfahrungen, die während der
+mehrjährigen Entwicklung dieser Software gesammelt wurden. Zum einen
+wird dabei die rechenintensive Analyse der Daten betrachtet und wie
+diese durch Verwendung von NumPy und (py)OpenCL vereinfacht und
+beschleunigt werden kann. Zum anderen werden die grafischen
+Anwendungskomponenten beschrieben, welche mithilfe von wxPython,
+(py)OpenGL und einem gezielten Zusammenspiel dieser beiden Pakete
+umgesetzt werden konnten. Neben Performance und Einfachheit der
+Programmierung werden auch die gewonnenen Eindrücke zu
+Plattformunabhängigkeit und Interversionskompatibilität vorgestellt.
+Weiterhin werden Eigenheiten der Anwendungsentwicklung im Bereich der
+Forschung erläutert und es wird darauf eingegangen, welche Stärken und
+Schwächen Python in diesem Zusammenhang bietet. Abschließend folgt ein
+Überblick darüber, wie sich die weitere Entwicklung von &lt;em&gt;pyMolDyn&lt;/em&gt;
+gestalten wird und welche Konsequenzen die gesammelten Erfahrungen in
+Zukunft für das Projekt haben werden.&lt;/p&gt;
+</summary><category term="anwendungsentwicklung"></category><category term="numpy"></category><category term="opencl"></category><category term="opengl"></category><category term="python"></category><category term="visualisierung"></category><category term="wxpython"></category></entry><entry><title>PyCon 2009: Pylons on Jython (#96)</title><link href="http://pyvideo.org/pycon-us-2009/pycon-2009--pylons-on-jython---96.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Philip Jenvey</name></author><id>tag:pyvideo.org,1990-01-01:pycon-us-2009/pycon-2009--pylons-on-jython---96.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Pylons on Jython&lt;/p&gt;
+&lt;p&gt;Presented by Philip Jenvey&lt;/p&gt;
+&lt;p&gt;Jython is back, and better than ever.&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: house audio]&lt;/p&gt;
+</summary><category term="chicago"></category><category term="chicago,"></category><category term="conference"></category><category term="conference,"></category><category term="pycon"></category><category term="pycon,"></category><category term="python"></category><category term="python,"></category></entry><entry><title>PyCon 2009: Pylons on Jython (#96)</title><link href="http://pyvideo.org/pycon-us-2009/pycon-2009--pylons-on-jython---96.html" rel="alternate"></link><published>1990-01-01T00:00:00+00:00</published><updated>1990-01-01T00:00:00+00:00</updated><author><name>Philip Jenvey</name></author><id>tag:pyvideo.org,1990-01-01:pycon-us-2009/pycon-2009--pylons-on-jython---96.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Pylons on Jython&lt;/p&gt;
+&lt;p&gt;Presented by Philip Jenvey&lt;/p&gt;
+&lt;p&gt;Jython is back, and better than ever.&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: house audio]&lt;/p&gt;
+</summary><category term="chicago"></category><category term="chicago,"></category><category term="conference"></category><category term="conference,"></category><category term="pycon"></category><category term="pycon,"></category><category term="python"></category><category term="python,"></category></entry><entry><title>PyConZA 2012: Our hybrid programming journey with Python and C++</title><link href="http://pyvideo.org/pycon-za-2012/pyconza-2012-our-hybrid-programming-journey-with.html" rel="alternate"></link><published>2012-10-05T00:00:00+00:00</published><updated>2012-10-05T00:00:00+00:00</updated><author><name>James Saunders</name></author><id>tag:pyvideo.org,2012-10-05:pycon-za-2012/pyconza-2012-our-hybrid-programming-journey-with.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Our hybrid programming journey with Python and C++: James Saunders's
+talk at PyConZA 2012&lt;/p&gt;
+</summary><category term="pyconza"></category><category term="pyconza2012"></category><category term="python"></category></entry><entry><title>PyConZA 2012: PyConZA by the Numbers</title><link href="http://pyvideo.org/pycon-za-2012/pyconza-2012-pyconza-by-the-numbers.html" rel="alternate"></link><published>2012-10-04T00:00:00+00:00</published><updated>2012-10-04T00:00:00+00:00</updated><author><name>Gustav Praekelt</name></author><id>tag:pyvideo.org,2012-10-04:pycon-za-2012/pyconza-2012-pyconza-by-the-numbers.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;PyConZA by the Numbers: Gustav Praekelt's lightning talk at the opening
+of PyConZA 2012.&lt;/p&gt;
+</summary><category term="pyconza"></category><category term="pyconza2012"></category><category term="python"></category></entry></feed>

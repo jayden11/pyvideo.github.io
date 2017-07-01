@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 07 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>MicroPython: Python for microcontrollers and constrained environments</title><link>http://pyvideo.org/pycon-za-2016/micropython-python-for-microcontrollers-and-constrained-environments.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;MicroPython has risen from a kickstarter campaign to a feature rich
+implementation of Python 3 on microcontrollers. The project is
+summarized in the following statement: &amp;quot;MicroPython is a lean and
+efficient implementation of the Python 3 programming language that
+includes a small subset of the Python standard library and is optimised
+to run on microcontrollers and in constrained environments&amp;quot;
+(&lt;a class="reference external" href="http://micropython.org/"&gt;http://micropython.org/&lt;/a&gt;). With IOT gaining more momentum daily and
+devices such as the ESP8266 (&lt;a class="reference external" href="https://www.sparkfun.com/products/13678"&gt;https://www.sparkfun.com/products/13678&lt;/a&gt;)
+now able to serve web pages, MicroPython is a viable candidate for fast
+prototyping and simple embedded devices.&lt;/p&gt;
+&lt;p&gt;This talk will focus mainly on the ESP8266 &amp;amp; Unix implementation of
+MicroPython. The ESP8266 is an amazing device, considering it is the
+size of a R5 coin and can run an implementation of Python. The talk will
+cover features, limitations and some simple ideas to get going. A demo
+of a simple Home Automation/IOT application with MicroPython &amp;amp; the
+ESP8266 will also be included.&lt;/p&gt;
+&lt;p&gt;This talk aims to bring the familiarity of Python 3 to developers, with
+the hope of encouraging hack-a-day type projects without extensive
+embedded device knowledge.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Christo Goosen</dc:creator><pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-07:pycon-za-2016/micropython-python-for-microcontrollers-and-constrained-environments.html</guid><category>MicroPython</category></item></channel></rss>

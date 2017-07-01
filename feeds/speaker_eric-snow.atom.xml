@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_eric-snow.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2013-03-17T00:00:00+00:00</updated><entry><title>Getting the Most Out of Python Imports</title><link href="http://pyvideo.org/pycon-us-2012/getting-the-most-out-of-python-imports.html" rel="alternate"></link><published>2012-03-10T00:00:00+00:00</published><updated>2012-03-10T00:00:00+00:00</updated><author><name>Eric Snow</name></author><id>tag:pyvideo.org,2012-03-10:pycon-us-2012/getting-the-most-out-of-python-imports.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;To really take advantage of Python you must understand how imports work
+and how to use them effectively. In this talk we'll discuss both of
+these. After a short introduction to imports, we'll dive right in and
+look at how customizing import behavior can make all your wildest dreams
+come true.&lt;/p&gt;
+</summary></entry><entry><title>Interfaces and Python</title><link href="http://pyvideo.org/pycon-us-2012/interfaces-and-python.html" rel="alternate"></link><published>2012-03-09T00:00:00+00:00</published><updated>2012-03-09T00:00:00+00:00</updated><author><name>Eric Snow</name></author><id>tag:pyvideo.org,2012-03-09:pycon-us-2012/interfaces-and-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In 2.6, Python introduced the Abstract Base Classes. Before that we had
+&amp;quot;protocols&amp;quot; (and we still do). In this talk we'll look at how the
+general concept of interfaces fits into today's Python. We'll also look
+at some of the alternate proposals of the past, some of the
+controversies around ABCs, and the direction interfaces might go in the
+future.&lt;/p&gt;
+</summary></entry><entry><title>Namespaces in Python</title><link href="http://pyvideo.org/pycon-us-2013/namespaces-in-python.html" rel="alternate"></link><published>2013-03-17T00:00:00+00:00</published><updated>2013-03-17T00:00:00+00:00</updated><author><name>Eric Snow</name></author><id>tag:pyvideo.org,2013-03-17:pycon-us-2013/namespaces-in-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;In the infamous words of Tim Peters, &amp;quot;Namespaces are one honking great
+idea -- let's do more of those!&amp;quot; (PEP 20) Python's type system is built
+on the basis of well-bounded namespaces. Come look behind the curtain
+and you'll see Python in a whole new light. We'll also talk about how to
+put this knowledge to use whenever you write modules, classes, and
+functions.&lt;/p&gt;
+</summary><category term="talk"></category></entry></feed>

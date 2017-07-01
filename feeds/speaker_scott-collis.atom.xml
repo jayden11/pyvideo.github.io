@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_scott-collis.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2015-07-10T00:00:00+00:00</updated><entry><title>From Zero to Hero in Two Years, Open Collaborative Radar Software and the Secret to our Success</title><link href="http://pyvideo.org/scipy-2015/from-zero-to-hero-in-two-years-open-collaborative-radar-software-and-the-secret-to-our-success.html" rel="alternate"></link><published>2015-07-10T00:00:00+00:00</published><updated>2015-07-10T00:00:00+00:00</updated><author><name>Scott Collis</name></author><id>tag:pyvideo.org,2015-07-10:scipy-2015/from-zero-to-hero-in-two-years-open-collaborative-radar-software-and-the-secret-to-our-success.html</id><summary type="html"></summary></entry><entry><title>Py-ART: Python for remote sensing science</title><link href="http://pyvideo.org/scipy-2012/py-art-python-for-remote-sensing-science.html" rel="alternate"></link><published>2012-07-19T00:00:00+00:00</published><updated>2012-07-19T00:00:00+00:00</updated><author><name>Scott Collis</name></author><id>tag:pyvideo.org,2012-07-19:scipy-2012/py-art-python-for-remote-sensing-science.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The drive to publish often leaves scientists working with old,
+inflexible, poorly documented dead end software. Even operational
+systems can end up being a mash of legacy systems cobbled together. As
+the Atmospheric Radiation Measurement (ARM) Climate Facility brings its
+30+ cloud and precipitation sensitive radars into operation a concerted
+effort to modernize, modularize and adapt existing code and write new
+code to retrieve geophysical parameters from the remotely sensed
+signals. Due to the open nature, active development community and lack
+of licensing issues Python is a natural development environment choice.
+This presentation will outline the challenges involved in retrieving
+model comparable geophysical parameters from scanning weather radars,
+introduce the framework behind the Python ARM Radar Toolkit (Py-ART) and
+discuss the challenges involved in building high performance code while
+maintaining portability, readability and ease of use.&lt;/p&gt;
+</summary><category term="Meteorology Mini-Symposia"></category></entry><entry><title>Measuring Rainshafts: Bringing Python to Bear on Remote Sensing Data</title><link href="http://pyvideo.org/scipy-2014/measuring-rainshafts-bringing-python-to-bear-on.html" rel="alternate"></link><published>2014-07-13T00:00:00+00:00</published><updated>2014-07-13T00:00:00+00:00</updated><author><name>Scott Collis</name></author><id>tag:pyvideo.org,2014-07-13:scipy-2014/measuring-rainshafts-bringing-python-to-bear-on.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This presentation details how Python is being used to extract
+geophysical insight from active remote sensing data, namely Radars. By
+using a common data model our work bridges the gap between the domains
+of radar engineering and image analysis.&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Remote sensing data is complicated, very complicated! It is not only
+geospatially tricky but also indirect as the sensor measures the
+interaction of the media with the probing radiation, not the geophysics.
+However the problem is made tractable by the large number of algorithms
+available in the Scientific Python community, what is needed is a common
+data model for active remote sensing data that can act as a layer
+between highly specialized file formats and the cloud of scientific
+software in Python. This presentation motivates this work by asking: How
+big is a rainshaft? What is the natural dimensionality of rainfall
+patterns and how well is this represented in fine scale atmospheric
+models. Rather than being specific to the domain of meteorology we will
+break down how we approach this problem in terms what tools across
+numerous packages we used to read, correct, map and reduce the data to
+forms able to answer our science questions. This is a &amp;quot;how&amp;quot;
+presentation, covering signal processing using linear programming
+methods, mapping using KD Trees, and image analysis using ndimage and,
+of course graphics using Matplotlib.&lt;/p&gt;
+</summary></entry></feed>

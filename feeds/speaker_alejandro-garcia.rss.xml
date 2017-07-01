@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 02 Aug 2015 00:00:00 +0000</lastBuildDate><item><title>Python Gamedev MLG</title><link>http://pyvideo.org/europython-2015/python-gamedev-mlg.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Alejandro Garcia - Python Gamedev MLG
+[EuroPython 2015]
+[22 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;An overview of the currently available Python game development
+libraries and frameworks and how is Python currently being used in the
+videogame industry.&lt;/p&gt;
+&lt;p&gt;Presentation of Kobra, a modern open source Python game development
+framework with ECS (Entity Component System) architecture and C++
+bindings.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alejandro Garcia</dc:creator><pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-02:europython-2015/python-gamedev-mlg.html</guid></item></channel></rss>

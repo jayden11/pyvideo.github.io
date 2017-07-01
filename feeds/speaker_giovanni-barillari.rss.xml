@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Fri, 29 May 2015 00:00:00 +0000</lastBuildDate><item><title>pyDAL: a pure python Database Abstraction Layer</title><link>http://pyvideo.org/depy-2015/pydal-a-pure-python-database-abstraction-layer.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will provide an overview and quick demonstration of the
+features and the APIs of pyDAL, the python Database Abstraction Layer.
+It dynamically generates the SQL in real time using the specified
+dialect for the database back end, so that you do not have to write SQL
+code or learn different SQL dialects (the term SQL is used generically),
+and your code will be portable among different types of databases. pyDAL
+comes from the original web2py's DAL, with the aim of being
+wide-compatible. pyDAL doesn't require web2py and can be used in any
+Python context.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Giovanni Barillari</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-05-29:depy-2015/pydal-a-pure-python-database-abstraction-layer.html</guid></item></channel></rss>

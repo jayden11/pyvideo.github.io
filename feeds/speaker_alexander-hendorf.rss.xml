@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 29 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>Introduction to Time Series Analysis with Pandas</title><link>http://pyvideo.org/pycon-de-2016/introduction-to-time-series-analysis-with-pandas.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Most data is allocated to a period or to some point in time. We can gain a lot of insight by analysing what happened when. The better the quality and accuracy of our data, the better our predictions can become.
+Unfortunately the data we have to deal with is often aggregated for example on a monthly basis, but not all months are the same, they may have 28 days, 31 days, have four or five weekends,… It’s made fit to our calendar that was made fit to deal with the earth surrounding the sun, not to please Data Scientists.
+Dealing with periodical data can be a challenge.
+Pandas is a powerful framework for working with time series data and can make your life a lot easier.
+This talks will feature:
+how to analyse periodical data with pandasread and write data in various formatshow to mangle, reshape and pivotgain insights with statsmodels (e.g. seasonality)caveats when working with timed datavisualize your data on the fly&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexander Hendorf</dc:creator><pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-29:pycon-de-2016/introduction-to-time-series-analysis-with-pandas.html</guid></item><item><title>Data Mangling with mongoDB the right way</title><link>http://pyvideo.org/pycon-italia-2016/data-mangling-with-mongodb-the-right-way.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexander Hendorf</dc:creator><pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-06-20:pycon-italia-2016/data-mangling-with-mongodb-the-right-way.html</guid></item><item><title>Time Travel and Time Series</title><link>http://pyvideo.org/pycon-italia-2016/time-travel-and-time-series.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexander Hendorf</dc:creator><pubDate>Mon, 20 Jun 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-06-20:pycon-italia-2016/time-travel-and-time-series.html</guid></item><item><title>Data Analysis and Map-Reduce with mongoDB and pymongo</title><link>http://pyvideo.org/europython-2015/data-analysis-and-map-reduce-with-mongodb-and-pymongo.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Alexander Hendorf - Data Analysis and Map-Reduce with mongoDB and pymongo
+[EuroPython 2015]
+[22 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;The MongoDB aggregation framework provides a means to calculate
+aggregated values without having to use map-reduce. While map-reduce
+is powerful, it is often more difficult than necessary for many simple
+aggregation tasks, such as totaling or averaging field values.&lt;/p&gt;
+&lt;p&gt;See how to use the build-in data-aggregation-pipelines for averages,
+summation, grouping, reshaping. See how to work with documents, sub-
+documents, grouping by year, month, day, etc.&lt;/p&gt;
+&lt;p&gt;This talk will give many (live) examples how to make the most of your
+data with pymongo with a few lines of code.&lt;/p&gt;
+&lt;p&gt;added 28/07/15:
+iPython notebook &amp;amp; sample data can be found in [this git][1]&lt;/p&gt;
+&lt;p&gt;[1]: &lt;a class="reference external" href="https://bitbucket.org/alanderex/ep2015-dataanalysis-with-mongodb"&gt;https://bitbucket.org/alanderex/ep2015-dataanalysis-with-mongodb&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexander Hendorf</dc:creator><pubDate>Tue, 04 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-04:europython-2015/data-analysis-and-map-reduce-with-mongodb-and-pymongo.html</guid></item><item><title>Game Theory to the Rescue When Hard Decisions Are to Be Made</title><link>http://pyvideo.org/europython-2016/game-theory-to-the-rescue-when-hard-decisions-are-to-be-made.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Alexander Hendorf - Game Theory to the Rescue When Hard Decisions Are to Be Made
+[EuroPython 2016]
+[20 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/game-theory-to-the-rescue-when-hard-decisions-are-to-be-made"&gt;https://ep2016.europython.eu//conference/talks/game-theory-to-the-rescue-when-hard-decisions-are-to-be-made&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Sometimes it's hard to decide when a something is really done or
+cannot be improved further.
+&lt;strong&gt;Game theory&lt;/strong&gt; can help you to make complicated decisions whenever
+you encounter flow problems.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Game theory is &amp;quot;the study of mathematical models of conflict and
+cooperation between intelligent rational decision-makers.&amp;quot;&lt;/p&gt;
+&lt;p&gt;In our use case we had to match data  for accounting.  The data was
+not always clean but we had some extra tools at hand and a complex
+system to make good guesses. Nevertheless it was hard to decide when
+to give up, some records were just not processable.
+Finally we used Game theory to make the decision.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://en.wikipedia.org/wiki/Game_theory"&gt;https://en.wikipedia.org/wiki/Game_theory&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Alexander Hendorf</dc:creator><pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-01:europython-2016/game-theory-to-the-rescue-when-hard-decisions-are-to-be-made.html</guid></item></channel></rss>

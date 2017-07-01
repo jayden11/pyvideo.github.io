@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Wed, 22 Aug 2012 00:00:00 +0000</lastBuildDate><item><title>PyConAU 2010: Don't Break It: Continuous Integration &amp; Deployment</title><link>http://pyvideo.org/pycon-au-2010/pyconau-2010--don--39-t-break-it--continuous-inte.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Don't Break It: Continuous Integration &amp;amp; Deployment&lt;/p&gt;
+&lt;p&gt;Presented by Benno Rice&lt;/p&gt;
+&lt;p&gt;So you've developed your application, it appears to work and you may
+even have some tests to back that up. Now what?&lt;/p&gt;
+&lt;p&gt;One part of software development that tends to receive not nearly enough
+attention is the process of deploying, supporting and maintaining your
+code in production. This demonstration will give an overview of using
+tools such as Hudson, nose, stdeb and freshen to automate the testing,
+packaging, deployment and verification of production software.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benno Rice</dc:creator><pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,1990-01-01:pycon-au-2010/pyconau-2010--don--39-t-break-it--continuous-inte.html</guid><category>agile</category><category>architecture</category><category>packaging</category><category>pyconau</category><category>pyconau2010</category><category>testing</category></item><item><title>Making Your Application Behave</title><link>http://pyvideo.org/pycon-au-2012/making-your-application-behave.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Behave is a tool for behaviour-driven development inspired by the
+Cucumber tool for Ruby. It allows developers and stakeholders to agree
+on how a particular piece of software should behave using an
+English-like Given-When- Then syntax and f&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Behave is a tool for behaviour-driven development inspired by the
+Cucumber tool for Ruby. It allows developers and stakeholders to agree
+on how a particular piece of software should behave using an
+English-like Given-When- Then syntax and for that behaviour for then to
+be easily tested in whatever manner is appropriate.&lt;/p&gt;
+&lt;p&gt;This presentation will provide an introduction to behaviour-driven
+development, behaviour testing in general and the behave tool along with
+its advantages over alternatives such as lettuce and freshen.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Benno Rice</dc:creator><pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-08-22:pycon-au-2012/making-your-application-behave.html</guid><category>bdd</category><category>behave</category></item></channel></rss>

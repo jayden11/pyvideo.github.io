@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 09 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>H2O Deep Water with Python early sneek</title><link>http://pyvideo.org/pydata-dc-2016/h2o-deep-water-with-python-early-sneek.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData 2016&lt;/p&gt;
+&lt;p&gt;Python as a language for DeepLearning. Python is emerging as the facto language to specify Deep Learning Networks. In this talk we will explore some of the popular libraries like Tensorflow and Keras to see the semantics used to describe such networks and look a bit more under the hood at what is the python layer actually doing for these well known deep learning libraries.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Fabrizio Milo</dc:creator><pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-09:pydata-dc-2016/h2o-deep-water-with-python-early-sneek.html</guid><category>deep learning</category><category>tensorflow</category><category>keras</category></item><item><title>Implementing distributed grid search for deep learning using scikit learn and joblib</title><link>http://pyvideo.org/pydata-chicago-2016/implementing-distributed-grid-search-for-deep-learning-using-scikit-learn-and-joblib.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Chicago 2016&lt;/p&gt;
+&lt;p&gt;Slides: &lt;a class="reference external" href="https://mheilman.github.io/pydata_chicago_2016/#/"&gt;https://mheilman.github.io/pydata_chicago_2016/#/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Grid search over hyperparameters is an important but computationally expensive process in machine learning, particularly for deep learning and tree ensembles. In this talk, I will describe how one can use joblib's recently added custom backend functionality to do distributed grid search on Amazon EC2 for a TensorFlow deep text classifier that follows the scikit-learn estimator API.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Mike Heilman</dc:creator><pubDate>Sun, 28 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-28:pydata-chicago-2016/implementing-distributed-grid-search-for-deep-learning-using-scikit-learn-and-joblib.html</guid><category>deep learning</category><category>distributed</category><category>learning</category><category>scikit</category><category>search</category></item><item><title>Make sense of Deep Neural Networks using TensorBoard</title><link>http://pyvideo.org/pybay-2016/make-sense-of-deep-neural-networks-using-tensorboard.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;In this talk we look at some ways in which the TensorBoard utility can be used to better understand the structure of Deep Neural Networks and how they function. Best practices on how to use the TensorFlow Python API to make your models and results more interpretable are discussed.
+​
+Abstract
+Deep Neural Networks are fast becoming the face of modern Machine Learning. But understanding how they work can be a real challenge, especially while you are trying to build a model. Google's recently published library, TensorFlow, includes a lesser-used utility called TensorBoard that can be used to visualize the structure of your neural network model and inspect how data flows through it. This talk will demonstrate some techniques which will help you use TensorBoard more effectively, and better understand how TensorFlow computations work. Code walkthroughs will be done in iPython notebooks, which will be made available to attendees.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bio:&lt;/strong&gt;
+Arpan likes to find computing solutions to everyday problems. He is interested in human-computer interaction, robotics and cognitive science. He obtained his PhD from North Carolina State University, focusing on biologically-inspired computer vision. ​Working at Udacity, he develops content for artificial intelligence and machine learning courses.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://speakerdeck.com/pybay2016/arpan-chakraborty-make-sense-of-deep-neural-networks-using-tensorboard"&gt;https://speakerdeck.com/pybay2016/arpan-chakraborty-make-sense-of-deep-neural-networks-using-tensorboard&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Arpan Chakraborty</dc:creator><pubDate>Sun, 21 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-21:pybay-2016/make-sense-of-deep-neural-networks-using-tensorboard.html</guid><category>deep learning</category><category>tensorflow</category></item><item><title>Deep Learning with Python &amp; TensorFlow</title><link>http://pyvideo.org/pycon-japan-2016/deep-learning-with-python-tensorflow.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;TensorFlow is a new Open Source framework created at Google for building Deep Learning applications. I will discuss how it compares to other Python machine learning libraries like Theano or Chainer. Finally, I will discuss how trained TensorFlow models could be deployed into a production system using TensorFlow Serve.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;Python has lots of scientific, data analysis, and machine learning libraries. But there are many problems. Which do you use? How do they compare to each other? How can you use a model that has been trained in your production application?&lt;/p&gt;
+&lt;p&gt;TensorFlow is a new Open Source framework created at Google for building Deep Learning applications. Tensorflow allows you to construct easy to understand data flow graphs which form a mathematical and logical pipeline. Creating data flow graphs allow easier visualization of complicated algorithms as well as running the training operations over multiple hardware GPUs.&lt;/p&gt;
+&lt;p&gt;Tensorflow data flow graphs and operations are written in Python. In this talk I will discuss how you can use TensorFlow to create Deep Learning applications. I will discuss how it compares to other Python machine learning libraries like Theano or Chainer. Finally, I will discuss how trained TensorFlow models could be deployed into a production system using TensorFlow Serve.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ian Lewis</dc:creator><pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-21:pycon-japan-2016/deep-learning-with-python-tensorflow.html</guid><category>tensorflow</category><category>deep learning</category></item><item><title>数学的基礎から学ぶ Deep Learning</title><link>http://pyvideo.org/pycon-japan-2016/shu-xue-de-ji-chu-karaxue-bu-deep-learning.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;みんな大好き state of art の deep learning。そんな 技術を使ってみたい僕らのために沢山ライブラリも出てきたよね。チュートリアルはできた。でも、結局何やってんのかわかんない。 よし、高校生程度の数学の知識から始めて deep learning を行うプログラムを、主に Numpy を用いてスクラッチから作ってみよう！&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;本講演は、Deep learning のライブラリを使ってみたい or 使ってみたけど、何が起こっているのかわからない。何が起こってるのかわからないものから結果がでてきても、気持ち悪くて使えない。&lt;/p&gt;
+&lt;p&gt;そんな方向けに、Deep learning を支える数学の基礎的な部分を知り、スクラッチから deep learning を行い、学習過程を確認できるプログラムを自ら作ってみることができるようになるためのエッセンスを、数学とプログラムコードの両面から紹介します。&lt;/p&gt;
+&lt;p&gt;今回は Caltech 101 をサンプルとして用いた Deep Convolutional Neural Network (Deep CNN) による一般物体認識を取り上げます。&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Junya Kaneko</dc:creator><pubDate>Tue, 20 Sep 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-09-20:pycon-japan-2016/shu-xue-de-ji-chu-karaxue-bu-deep-learning.html</guid><category>deep learning</category></item><item><title>Deep Learning with Python &amp; TensorFlow</title><link>http://pyvideo.org/pycon-apac-2016/deep-learning-with-python-tensorflow.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;발표자: Ian Lewis / ianlewis
+슬라이드: &lt;a class="reference external" href="https://github.com/pythonkr/pyconapac-2016-files/raw/master/20160813-103-17-IanLewis.pdf"&gt;https://github.com/pythonkr/pyconapac-2016-files/raw/master/20160813-103-17-IanLewis.pdf&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ian Lewis</dc:creator><pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-26:pycon-apac-2016/deep-learning-with-python-tensorflow.html</guid><category>deep learning</category><category>tensorflow</category></item><item><title>Introduction to deep learning for machine vision tasks using Keras</title><link>http://pyvideo.org/pycon-apac-2016/introduction-to-deep-learning-for-machine-vision-tasks-using-keras.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker : Michael Amy / cocoade
+Slide : &lt;a class="reference external" href="https://github.com/pythonkr/pyconapac-2016-files/raw/master/20160813-105-25-MichaelAmy.pdf"&gt;https://github.com/pythonkr/pyconapac-2016-files/raw/master/20160813-105-25-MichaelAmy.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Description :
+&amp;quot;Neural networks&amp;quot; is the name of a machine learning technique that takes inspiration from biological brain cells.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Deep learning&amp;quot; is a term used to describe various 'deep' (many layered) networks that are capable of more sophisticated processing than the classic three-layer perceptrons.&lt;/p&gt;
+&lt;p&gt;Recent advances in deep learning, especially the use of convolutional networks and the use of GPUs to process them instead of CPUs, have led to breakthroughs in performance on machine vision, natural language processing, and other tasks.&lt;/p&gt;
+&lt;p&gt;Various frameworks have been introduced that facilitate easy experimentation with deep learning networks, amongst others, there are examples such as: Caffe, Theano, and recently Google's Tensorflow.&lt;/p&gt;
+&lt;p&gt;Keras is a Python framework that uses Theano or Tensorflow as a backend.  It makes the building and testing of such networks much easier, as this session will demonstrate.&lt;/p&gt;
+&lt;p&gt;This session will explain the concepts involved and go through some examples that will enable an intermediate-level python programmer to develop, train and validate their own deep learning networks to perform visual recognition tasks using deep convolutional networks.&lt;/p&gt;
+&lt;p&gt;It will describe how to plan the basic network topology and will also highlight some common pitfalls and steps that can be taken to avoid them.&lt;/p&gt;
+&lt;p&gt;Note: It will not explain how to set up a machine for these tasks, which is a job in itself. Nor will it explain detailed aspects of neural networks such as specifics of activation functions, optimizers or back propagation. There is just not enough time in the session. I will try to provide some useful links instead.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Michael Amy</dc:creator><pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-26:pycon-apac-2016/introduction-to-deep-learning-for-machine-vision-tasks-using-keras.html</guid><category>deep learning</category></item><item><title>What's new in Deep Learning?</title><link>http://pyvideo.org/pydata-berlin-2016/whats-new-in-deep-learning.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;PyData Berlin 2016&lt;/p&gt;
+&lt;p&gt;&amp;#64;karpathy's recent tweet &amp;quot;BatchNorm, STN, DCGAN, DRAW, soft/hard attention, char-rnn, DeepDream, NeuralStyle, TensorFlow, ResNet, AlphaGo.. a lot happened over 1 year&amp;quot; sums up the many new aspects of Deep Learning research.&lt;/p&gt;
+&lt;p&gt;In this talk I will review some of the highlights of deep learning in the context of Python deep learning frameworks.&lt;/p&gt;
+&lt;p&gt;Slides: &lt;a class="reference external" href="https://www.dropbox.com/s/b6lgvq6ijlutii4/new-deep-learning.pdf?dl=0"&gt;https://www.dropbox.com/s/b6lgvq6ijlutii4/new-deep-learning.pdf?dl=0&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kashif Rasul</dc:creator><pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-05-31:pydata-berlin-2016/whats-new-in-deep-learning.html</guid><category>deep learning</category></item><item><title>An Introduction to Deep Learning</title><link>http://pyvideo.org/europython-2016/an-introduction-to-deep-learning.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Geoff French - An Introduction to Deep Learning
+[EuroPython 2016]
+[22 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/an-introduction-to-deep-learning"&gt;https://ep2016.europython.eu//conference/talks/an-introduction-to-deep-learning&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Deep learning: how it works, how to train a deep neural network, the
+theory behind deep learning, recent developments and applications.
+(length: 60 mins)&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;(length: 60 mins)    In the last few years, deep neural networks have
+been used to generate state of the art results in image
+classification, segmentation and object detection. They have also
+successfully been used for speech recognition and textual analysis. In
+this talk, I will give an introduction to deep neural networks. I will
+cover how they work, how they are trained, and a little bit on how to
+get going. I will briefly discuss some of the recent exciting and
+amusing applications of deep learning. The talk will primarily focus
+on image processing.&lt;/p&gt;
+&lt;p&gt;If you completely new to deep learning, please attend T. Rashid's talk
+'A Gentle Introduction to Neural Networks (with Python)'. His talk is
+in the same room immediately before mine and his material is really
+good and will give you a good grounding in what I will present to you.
+:)
+You may also want to attend I' Lewis' talk 'Deep Learning with Python
+&amp;amp; TensorFlow' after Lunch in the PyCharm room to round it all off! :)&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Geoff French</dc:creator><pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-05:europython-2016/an-introduction-to-deep-learning.html</guid><category>deep learning</category></item><item><title>Deep Learning with Python &amp; TensorFlow</title><link>http://pyvideo.org/europython-2016/deep-learning-with-python-tensorflow.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Ian Lewis - Deep Learning with Python &amp;amp; TensorFlow
+[EuroPython 2016]
+[22 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/deep-learning-with-python-tensorflow"&gt;https://ep2016.europython.eu//conference/talks/deep-learning-with-python-tensorflow&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;Python has lots of scientific, data analysis, and machine learning
+libraries. But there are many problems when starting out on a machine
+learning project. Which library do you use? How do they compare to
+each other? How can you use a model that has been trained in your
+production app? In this talk I will discuss how you can use TensorFlow
+to create Deep Learning applications. I will discuss how it compares
+to other Python machine learning libraries, and how to deploy into
+production.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;Python has lots of scientific, data analysis, and machine learning
+libraries. But there are many problems when starting out on a machine
+learning project. Which library do you use? How do they compare to
+each other? How can you use a model that has been trained in your
+production application?&lt;/p&gt;
+&lt;p&gt;TensorFlow is a new Open-Source framework created at Google for
+building Deep Learning applications. Tensorflow allows you to
+construct easy to understand data flow graphs in Python which form a
+mathematical and logical pipeline. Creating data flow graphs allow
+easier visualization of complicated algorithms as well as running the
+training operations over multiple hardware GPUs in parallel.&lt;/p&gt;
+&lt;p&gt;In this talk I will discuss how you can use TensorFlow to create Deep
+Learning applications. I will discuss how it compares to other Python
+machine learning libraries like Theano or Chainer. Finally, I will
+discuss how trained TensorFlow models could be deployed into a
+production system using TensorFlow Serve.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ian Lewis</dc:creator><pubDate>Fri, 05 Aug 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-08-05:europython-2016/deep-learning-with-python-tensorflow.html</guid><category>tensorflow</category><category>deep learning</category></item><item><title>Deep Learning in Python</title><link>http://pyvideo.org/pycon-za-2016/deep-learning-in-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk will give an introduction to Neural Networks and Deep Learning
+in Python. We will cover some of the history of Neural Networks and
+obstacles that were encountered in the 1990s. This will then lead onto
+the developments in 2006 and 2012 that lead to the resurgence of
+interest in Neural Networks and the rebranding of the field as Deep
+Learning. These developments will be illustrated by means of an extended
+example of building a classifier of hand written digits on the MNIST
+dataset. We will start with a simple Multi-Layer Perceptron and then
+build this up into a Stacked Denoising Autoencoder. All code will be
+developed using the Keras framework and TensorFlow and can be run on a
+simple laptop.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tobias Brandt</dc:creator><pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-07:pycon-za-2016/deep-learning-in-python.html</guid><category>deep learning</category><category>keras</category><category>tensorflow</category></item></channel></rss>

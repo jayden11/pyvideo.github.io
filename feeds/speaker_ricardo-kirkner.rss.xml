@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 10 Mar 2012 00:00:00 +0000</lastBuildDate><item><title>Using fabric to standardize the development process</title><link>http://pyvideo.org/pycon-us-2012/using-fabric-to-standardize-the-development-proce.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;By ensuring consistency and repeatability in setting up the development
+environments of a team of developers, errors can be avoided (by
+automating repetitive tasks). It also helps by lowering the entry
+barrier for new developers, and letting existing developers focus on
+development tasks without having to worry about infrastructure or
+process issues.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ricardo Kirkner</dc:creator><pubDate>Sat, 10 Mar 2012 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2012-03-10:pycon-us-2012/using-fabric-to-standardize-the-development-proce.html</guid></item></channel></rss>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 27 Jul 2013 00:00:00 +0000</lastBuildDate><item><title>Playing with PyEphem</title><link>http://pyvideo.org/pyohio-2013/playing-with-pyephem.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;PyEphem is a powerful astronomy library. This talk covers some simple
+things you can do with PyEphem that relate to your everyday life, such
+as matching your sleep cycle to the sunrise and seeing what the moon is
+up to tonight. This will also include plotting data about the sky using
+matplotlib.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ann Elliott</dc:creator><pubDate>Sat, 27 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-27:pyohio-2013/playing-with-pyephem.html</guid><category>talk</category></item></channel></rss>

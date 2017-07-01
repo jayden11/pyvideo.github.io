@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_alessandro-amici.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-08-05T00:00:00+00:00</updated><entry><title>Solving the web most popular code shortening competition in Python.</title><link href="http://pyvideo.org/europython-2015/solving-the-web-most-popular-code-shortening-competition-in-python.html" rel="alternate"></link><published>2015-08-06T00:00:00+00:00</published><updated>2015-08-06T00:00:00+00:00</updated><author><name>Alessandro Amici</name></author><id>tag:pyvideo.org,2015-08-06:europython-2015/solving-the-web-most-popular-code-shortening-competition-in-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Alessandro Amici - Solving the web most popular code shortening competition in Python.
+[EuroPython 2015]
+[24 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;“Code shortening” is the “sport” where participants strive to achieve
+the shortest possible source code that solves a programming problem by
+exploiting all the tricks and quirks of the language.&lt;/p&gt;
+&lt;p&gt;The [SIZECON on SPOJ][1] is one of the oldest and most popular code
+shortening problems on the web with a bizarre twist, only character
+above ASCII value 32 are counted for the penalty. During the talk we
+will take a journey into some frightening depths of the Python
+language in order to write shorter and shorter solutions to SIZECON
+until, exploiting a number of truly mind-blowing tricks, we will reach
+the current record solution of 28 characters (above ASCII 32!).&lt;/p&gt;
+&lt;p&gt;I promise I’ll show you the most obfuscated, contrived and sick python
+code you have ever seen and (hopefully!) will ever see. I invite
+participants to give [SIZECON][1] a try and check their score against
+the [Python2][2] and [Python3][3] SPOJ rankings.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Slides:&lt;/em&gt; [&lt;a class="reference external" href="http://slides.com/alessandroamici/solving-the-web-most"&gt;http://slides.com/alessandroamici/solving-the-web-most&lt;/a&gt;-
+popular-shortening-contest-with-python][4]&lt;/p&gt;
+&lt;p&gt;[1]: &lt;a class="reference external" href="http://www.spoj.com/problems/SIZECON/"&gt;http://www.spoj.com/problems/SIZECON/&lt;/a&gt;
+[2]: &lt;a class="reference external" href="http://www.spoj.com/ranks/SIZECON/lang=PYTH%202.7"&gt;http://www.spoj.com/ranks/SIZECON/lang=PYTH%202.7&lt;/a&gt;
+[3]: &lt;a class="reference external" href="http://www.spoj.com/ranks/SIZECON/lang=PYTH%203.2.3"&gt;http://www.spoj.com/ranks/SIZECON/lang=PYTH%203.2.3&lt;/a&gt;
+[4]: &lt;a class="reference external" href="http://slides.com/alessandroamici/solving-the-web-most-popular-shortening-contest-with-python"&gt;http://slides.com/alessandroamici/solving-the-web-most-popular-shortening-contest-with-python&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Test-driven code search and reuse coming to Python with pytest-nodev</title><link href="http://pyvideo.org/europython-2016/test-driven-code-search-and-reuse-coming-to-python-with-pytest-nodev.html" rel="alternate"></link><published>2016-08-05T00:00:00+00:00</published><updated>2016-08-05T00:00:00+00:00</updated><author><name>Alessandro Amici</name></author><id>tag:pyvideo.org,2016-08-05:europython-2016/test-driven-code-search-and-reuse-coming-to-python-with-pytest-nodev.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Alessandro Amici - Test-driven code search and reuse coming to Python with pytest-nodev
+[EuroPython 2016]
+[22 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/test-driven-source-code-search-for-python-with-pytest-nodev"&gt;https://ep2016.europython.eu//conference/talks/test-driven-source-code-search-for-python-with-pytest-nodev&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;We will present the test-driven reuse (TDR) development strategy, a
+natural extension of test-driven development (TDD), and how to execute
+it with &lt;a class="reference external" href="http://pytest-nodev.readthedocs.io/en/stable/quickstart.html"&gt;pytest-nodev&lt;/a&gt; a test-driven search engine for Python code.&lt;/p&gt;
+&lt;p&gt;Pytest-nodev and the other nodev tools that helps implement TDR for
+Python are rather new, in spite of that we will present several
+successful applications of the technique to more and more complex
+examples.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;We will present the test-driven reuse (TDR) development strategy, a
+natural extension of test-driven development (TDD), and how to execute
+it with &lt;a class="reference external" href="http://pytest-nodev.readthedocs.io/en/stable/quickstart.html"&gt;pytest-nodev&lt;/a&gt; an Open Source test-driven search engine for Python code.&lt;/p&gt;
+&lt;p&gt;When developing new functionalities developers spend significant
+efforts searching for code to reuse, mainly via keyword-based
+searches, e.g. on StackOverflow and Google. Keyword-based search is
+effective in finding code that is explicitly designed and documented
+to be reused, e.g. libraries and frameworks, but typically fails to
+identify reusable functions and classes in the large corpus of
+auxiliary code of software projects.&lt;/p&gt;
+&lt;p&gt;TDR aims to address the limits of keyword-based search with test-
+driven code search that focuses instead on code behaviour and
+semantics. Developing a new feature in TDR starts with the developer
+writing the tests that will validate candidate implementations of the
+desired functionality. Before writing any functional code the tests
+are run against all functions and classes of available projects. Any
+code passing the tests is presented to the developer as a candidate
+implementation for the target feature.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="https://github.com/nodev-io/pytest-nodev"&gt;Pytest-nodev (github)&lt;/a&gt; and other nodev tools that help implement TDR for Python are newer than the JAVA counterparts, in spite of that we will present several applications of the technique to more and more complex examples.&lt;/p&gt;
+</summary></entry><entry><title>Come "liberare" i dati catastali in formato CXF con GDAL/OGR e Proj4</title><link href="http://pyvideo.org/europython-2012/come-liberare-i-dati-catastali-in-formato-cxf-c.html" rel="alternate"></link><published>2012-07-04T00:00:00+00:00</published><updated>2012-07-04T00:00:00+00:00</updated><author><name>Alessandro Amici</name></author><id>tag:pyvideo.org,2012-07-04:europython-2012/come-liberare-i-dati-catastali-in-formato-cxf-c.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2012] Alessandro Amici - 4 JULY 2012 in &amp;quot;Track Big Mac&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;La buona notizia è che l’Agenzia del Territorio è in grado di fornire i
+dati cartografici e catastali ufficiali su tutta Italia in formato
+elettronico. La cattiva notizia è che tali dati sono distribuiti in vari
+formati proprietari scarsamente e malamente supportati dai software GIS
+di largo uso. In questa presentazione mostriamo come leggere, validare,
+correggere e tradurre in formati standard (ad esempio shapefile) i dati
+del catasto terreni e fabbricati in formato CXF usando il potente stack
+di geoprocessing e format translation in Python. L’intero processo e
+numerosi dei singoli passaggi sono completamente generici e possono
+essere applicati alla lettura e traduzione di qualsiasi formato
+geografico proprietario. B-Open ha recentemente rilasciato con licenza
+Open Source bgeo.catasto, una parte della propria libreria di parser e
+traduttori dai formati dell’Agenzia del Territorio. bgeo.catasto al
+momento supporta la lettura e traduzione dei dati catastali in formato
+CXF e dei dati censuari nei formati TER e FAB.&lt;/p&gt;
+</summary></entry></feed>

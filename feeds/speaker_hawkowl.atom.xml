@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_hawkowl.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2014-08-11T00:00:00+00:00</updated><entry><title>Building Better Web APIs by HawkOwl</title><link href="http://pyvideo.org/pycon-au-2014/building-better-web-apis-by-hawkowl.html" rel="alternate"></link><published>2014-08-11T00:00:00+00:00</published><updated>2014-08-11T00:00:00+00:00</updated><author><name>HawkOwl</name></author><id>tag:pyvideo.org,2014-08-11:pycon-au-2014/building-better-web-apis-by-hawkowl.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Web APIs are how much of the modern web speaks - services speaking HTTP
+and JSON are ubiquitous, and nearly everything from your phone to your
+TV interacts with one of them. We'll go over how APIs are structured and
+versioned, why you should validate your data, and why you should have
+them in the first place -- and what other best practices are when
+creating them.&lt;/p&gt;
+</summary></entry></feed>

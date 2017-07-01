@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 31 Jul 2016 00:00:00 +0000</lastBuildDate><item><title>APIs and Microservices With Go</title><link>http://pyvideo.org/europython-2016/apis-and-microservices-with-go.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Vinicius Pacheco - APIs and Microservices With Go
+[EuroPython 2016]
+[19 July 2016]
+[Bilbao, Euskadi, Spain]
+(&lt;a class="reference external" href="https://ep2016.europython.eu//conference/talks/apis-and-microservices-with-go"&gt;https://ep2016.europython.eu//conference/talks/apis-and-microservices-with-go&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;In this talk we show how the Go language helped us get a high
+performance in a concise and simple API. Everything will be
+exemplified using the backdrop of a real case of Globo.com: API
+registrations. We will see how we went from 200 to 19,000 records per
+second to the impacts of this rapid growth and the consequences of Go
+of use. We also show how our microservices architecture was used in
+the project.&lt;/p&gt;
+&lt;hr class="docutils" /&gt;
+&lt;p&gt;This talk is about Go, software architecture and parallelism. How we
+went from legacy, complex and slow software to new, speed, resilient
+and maintainable software.
+I'll start the talk showing the problemas and the challenges that my
+team had received. After that, I'll show the tests, tests of
+performance and the options that we did considering technologies and
+strategies of development. The difficulties and problems also will be
+show. Also I talk about:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Goroutines&lt;/li&gt;
+&lt;li&gt;Resilient patterns&lt;/li&gt;
+&lt;li&gt;Go tools&lt;/li&gt;
+&lt;li&gt;Architecture&lt;/li&gt;
+&lt;li&gt;Web performance&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;How we leave of the Java ecosystem to new free ecosystem with
+microservices and how Go help us.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Vinicius Pacheco</dc:creator><pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-07-31:europython-2016/apis-and-microservices-with-go.html</guid></item></channel></rss>

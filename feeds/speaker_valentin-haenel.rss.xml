@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 27 Jul 2014 00:00:00 +0000</lastBuildDate><item><title>Fast Serialization of Numpy Arrays with Bloscpack</title><link>http://pyvideo.org/pydata-berlin-2014/fast-serialization-of-numpy-arrays-with-bloscpack.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Bloscpack [1] is a reference implementation and file-format for fast
+serialization of numerical data. It features lightweight, chunked and
+compressed storage, based on the extremely fast Blosc [2] metacodec and
+supports serialization of Numpy arrays out-of-the-box. Recently, Blosc
+-- being the metacodec that it is -- has received support for using the
+popular and widely used Snappy [3], LZ4 [4], and ZLib [5] codecs, and
+so, now Bloscpack supports serializing Numpy arrays easily with those
+codecs! In this talk I will present recent benchmarks of Bloscpack
+performance on a variety of artificial and real-world datasets with a
+special focus on the newly available codecs. In these benchmarks I will
+compare Bloscpack, both performance and usability wise, to alternatives
+such as Numpy's native offerings (NPZ and NPY), HDF5/PyTables [6], and
+if time permits, to novel bleeding edge solutions. Lastly I will argue
+that compressed and chunked storage format such as Bloscpack can be and
+somewhat already is a useful substrate on which to build more powerful
+applications such as online analytical processing engines and
+distributed computing frameworks. [1]:
+&lt;a class="reference external" href="https://github.com/Blosc/bloscpack"&gt;https://github.com/Blosc/bloscpack&lt;/a&gt; [2]:
+&lt;a class="reference external" href="https://github.com/Blosc/c-blosc/"&gt;https://github.com/Blosc/c-blosc/&lt;/a&gt; [3]: &lt;a class="reference external" href="http://code.google.com/p/snappy/"&gt;http://code.google.com/p/snappy/&lt;/a&gt;
+[4]: &lt;a class="reference external" href="http://code.google.com/p/lz4/"&gt;http://code.google.com/p/lz4/&lt;/a&gt; [5]: &lt;a class="reference external" href="http://www.zlib.net/"&gt;http://www.zlib.net/&lt;/a&gt; [6]:
+&lt;a class="reference external" href="http://www.pytables.org/moin"&gt;http://www.pytables.org/moin&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Valentin Haenel</dc:creator><pubDate>Sun, 27 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-27:pydata-berlin-2014/fast-serialization-of-numpy-arrays-with-bloscpack.html</guid></item><item><title>Panel: The challenges and frontiers of data science in Europe</title><link>http://pyvideo.org/pydata-berlin-2014/panel-the-challenges-and-frontiers-of-data-scien.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Adam Drake</dc:creator><pubDate>Sun, 27 Jul 2014 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2014-07-27:pydata-berlin-2014/panel-the-challenges-and-frontiers-of-data-scien.html</guid></item></channel></rss>

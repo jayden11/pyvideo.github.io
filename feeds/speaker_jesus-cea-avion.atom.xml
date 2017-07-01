@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_jesus-cea-avion.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-03-12T00:00:00+00:00</updated><entry><title>Python and DTrace</title><link href="http://pyvideo.org/pycon-sk-2016/python-and-dtrace.html" rel="alternate"></link><published>2016-03-12T00:00:00+00:00</published><updated>2016-03-12T00:00:00+00:00</updated><author><name>Jesús Cea Avión</name></author><id>tag:pyvideo.org,2016-03-12:pycon-sk-2016/python-and-dtrace.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;DTrace is a dynamic tracing framework able to comprehensively monitor a
+complete live system, safely and with little performance impact. In this
+talk we will talk about (unofficial) DTrace probes in Python and how can
+you use them to integrate Python processes in the DTrace tracing
+framework as first class citizens without any modification at all. Live
+monitor your python programs for free! No code changes, no performance
+impact. Get insights into the behavior of your system.&lt;/p&gt;
+</summary></entry></feed>

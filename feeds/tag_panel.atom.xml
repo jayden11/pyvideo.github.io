@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/tag_panel.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2011-08-22T00:00:00+00:00</updated><entry><title>DjangoCon 2008 Panel: Django in Journalism</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-panel-django-in-journalism.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Adrian Holovaty</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-django-in-journalism.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderator:
+Adrian Holovaty&lt;/p&gt;
+&lt;p&gt;Panelists:
+Matt Waite, Maura Chace, Matt Croydon, Ben Welsh&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="panel"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Panel: Django Success Stories</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-panel-django-success-stories.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Jacob Kaplan-Moss</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-django-success-stories.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderator:
+Jacob Kaplan-Moss&lt;/p&gt;
+&lt;p&gt;Panelists:
+Matt Croydon, Michael Greer, Joshua Jag Ginsberg, Leah Culver, Andy McCurdy, Jason Yan&lt;/p&gt;
+</summary><category term="Django"></category><category term="panel"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Panel: Django Technical Design</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-panel-django-technical-design.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Michael Trier</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-django-technical-design.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderated by Michael Trier&lt;/p&gt;
+&lt;p&gt;Panelists: Jacob Kaplan-Moss, Adrian Holovaty, Simon Willison, James Bennett, Malcolm Tredinnick&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="panel"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>DjangoCon 2008 Panel: Schema Evolution</title><link href="http://pyvideo.org/djangocon-2008/djangocon-2008-panel-schema-evolution.html" rel="alternate"></link><published>2008-09-06T00:00:00+00:00</published><updated>2008-09-06T00:00:00+00:00</updated><author><name>Michael Trier</name></author><id>tag:pyvideo.org,2008-09-06:djangocon-2008/djangocon-2008-panel-schema-evolution.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Moderator:
+Michael Trier&lt;/p&gt;
+&lt;p&gt;Panelists:
+Simon Willison, Russ Keith-Magee, Andrew Godwin&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.djangocon.org"&gt;http://www.djangocon.org&lt;/a&gt;&lt;/p&gt;
+</summary><category term="Django"></category><category term="panel"></category><category term="djangocon"></category><category term="djangocon2008"></category></entry><entry><title>Panel: Python in the webs</title><link href="http://pyvideo.org/pycon-au-2011/panel-python-in-the-webs.html" rel="alternate"></link><published>2011-08-22T00:00:00+00:00</published><updated>2011-08-22T00:00:00+00:00</updated><author><name>Dylan Jay</name></author><id>tag:pyvideo.org,2011-08-22:pycon-au-2011/panel-python-in-the-webs.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;This will be a panel discussion wherein we wax philosophical about the
+state of web frameworks in Python - talking about invention,
+reinvention, multitudes of choice, how all of them suck, etc. Panelists
+will include Dylan Jay, Malcolm Tredinnick, Russell Keith-Magee and
+Richard Jones.&lt;/p&gt;
+</summary><category term="panel"></category><category term="web"></category></entry><entry><title>Panel: Form Generator Generators (#28)</title><link href="http://pyvideo.org/pycon-us-2010/pycon-2010--panel--form-generator-generators---28.html" rel="alternate"></link><published>2010-02-19T00:00:00+00:00</published><updated>2010-02-19T00:00:00+00:00</updated><author><name>Unknown</name></author><id>tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--panel--form-generator-generators---28.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Panel: Form Generator Generators&lt;/p&gt;
+&lt;p&gt;Christopher Perkins; Brandon Craig Rhodes (Rhodes Mill Studios, Inc.);
+Chris P McDonough (Agendaless Consulting); Jacob Kaplan-Moss
+(&lt;a class="reference external" href="mailto:jacob&amp;#64;jacobian.org"&gt;jacob&amp;#64;jacobian.org&lt;/a&gt;); Jonathan Ellis&lt;/p&gt;
+&lt;p&gt;It seems that almost every python web framework in existence has solved
+the problem of automatically generating forms. Some have straight
+forward techniques, some are unique or even an unusual approach to the
+problem. The question is: &amp;quot;what can we learn from each other?&amp;quot;. This
+panel will examine the different ways developers generate forms by
+offering examples, and summarizing the functionality, differences, and
+similarities between these valuable web development tools.&lt;/p&gt;
+&lt;p&gt;[VIDEO HAS ISSUES: Feedback galore when moving between mics, cover your
+ears]&lt;/p&gt;
+</summary><category term="forms"></category><category term="panel"></category><category term="pycon"></category><category term="pycon2010"></category><category term="restish"></category><category term="turbogears"></category><category term="web"></category><category term="web2py"></category><category term="zope"></category></entry><entry><title>How to sell Python</title><link href="http://pyvideo.org/pycon-us-2011/pycon-2011--how-to-sell-python.html" rel="alternate"></link><published>2011-03-11T00:00:00+00:00</published><updated>2011-03-11T00:00:00+00:00</updated><author><name>Chris Shenton</name></author><id>tag:pyvideo.org,2011-03-11:pycon-us-2011/pycon-2011--how-to-sell-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;How to sell Python&lt;/p&gt;
+&lt;p&gt;Presented by Daniel Greenfeld , C. Titus Brown , Dan Mesh , Chris
+Shenton , Rich Leland , Frank Wiles&lt;/p&gt;
+&lt;p&gt;A lot of people want to use Python, but their customer, management,
+school, government, or organization won't let them. Python is a great
+tool, but it can be challenging to get in the door. This panel will
+explore how companies and individuals have successfully introduced
+Python, what tools are available to sell Python, and what pitfalls there
+are to avoid.&lt;/p&gt;
+&lt;p&gt;Abstract&lt;/p&gt;
+&lt;p&gt;A lot of people want to use Python, but their customer, management,
+school, government, or organization won't let them. Python is a great
+tool, but it can be challenging to get in the door. This panel will
+explore how companies and individuals have successfully introduced
+Python, what tools are available to sell Python, and what pitfalls there
+are to avoid.&lt;/p&gt;
+&lt;p&gt;Possible questions will include:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;What is a good example success story you can share?&lt;/li&gt;
+&lt;li&gt;What pitfalls should you avoid?&lt;/li&gt;
+&lt;li&gt;How do you deal with organizations that have already spent
+bucketloads of money on a piss-poor technology stack, are hurting for
+it, but can't seem to let go?&lt;/li&gt;
+&lt;li&gt;How do you fight Fear-Uncertainty-Doubt (FUD) spread by people who
+stand to lose from introducing Python?&lt;/li&gt;
+&lt;li&gt;What tools are available to help sell Python?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Five panelists will be chosen from a broad spectrum of individuals
+including academic, government, for-profit organizations, and non-profit
+organizations.&lt;/p&gt;
+&lt;p&gt;Speakers:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Academia: C. Titus Brown&lt;/li&gt;
+&lt;li&gt;Goverment: Chris Shenton of Koansys/NASA&lt;/li&gt;
+&lt;li&gt;Large Commercial Organization: Dan Mesh of Evite&lt;/li&gt;
+&lt;li&gt;Small Commercial Organization: Frank Wiles of RevSys&lt;/li&gt;
+&lt;li&gt;Non-Profit Organization: Rich Leland of National Geographic&lt;/li&gt;
+&lt;/ul&gt;
+</summary><category term="panel"></category><category term="pycon"></category><category term="pycon2011"></category><category term="sellingpython"></category></entry></feed>

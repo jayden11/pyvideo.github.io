@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_robert-brewer.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2012-03-10T00:00:00+00:00</updated><entry><title>How CherryPy supports Python 2 and 3</title><link href="http://pyvideo.org/pycon-us-2012/how-cherrypy-supports-python-2-and-3.html" rel="alternate"></link><published>2012-03-10T00:00:00+00:00</published><updated>2012-03-10T00:00:00+00:00</updated><author><name>Robert Brewer</name></author><id>tag:pyvideo.org,2012-03-10:pycon-us-2012/how-cherrypy-supports-python-2-and-3.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;CherryPy was the first web framework to be made available for use with
+Python 3, and we tried several approaches to support both Python 2 and 3
+before settling on one. Learn about the ups and the downs of each
+approach, and ways you can make your own porting project easier.&lt;/p&gt;
+</summary></entry></feed>

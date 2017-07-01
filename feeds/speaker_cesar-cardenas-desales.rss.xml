@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sat, 15 Oct 2016 00:00:00 +0000</lastBuildDate><item><title>So you "want" to maintain a Python legacy code base?</title><link>http://pyvideo.org/pycon-pl-2016/so-you-want-to-maintain-a-python-legacy-code-base.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;div class="line-block"&gt;
+&lt;div class="line"&gt;While many programmers will agree that implementing new Software is
+the most entertaining part of our jobs, the truth is that the vast
+majority of developers spend a great amount of time performing
+maintenance, which in an world that praises innovation 'is a dirty job
+that somebody's gotta do'. In this talk I will describe a series of
+techniques and Python tools that have proven useful for taking over a
+legacy code base and getting it move forward, all within a well
+defined process:&lt;/div&gt;
+&lt;div class="line"&gt;1. Understand. Hold your horses! Don't touch that code yet, even it
+you really want to. Understand the spirit of your project, its
+architecture. Ask around, create personas, poll users, document the
+product.&lt;/div&gt;
+&lt;div class="line"&gt;2. Get yourself a safety net. Create lots of unit tests, pytest or
+nose are your friends.&lt;/div&gt;
+&lt;div class="line"&gt;3. Enhance. Start with small improvements, check and beautify your
+code with tools such as flake8, pep8 and pylint, perform code reviews.&lt;/div&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">César Cardenas Desales</dc:creator><pubDate>Sat, 15 Oct 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-10-15:pycon-pl-2016/so-you-want-to-maintain-a-python-legacy-code-base.html</guid></item><item><title>Revisión de código en Python</title><link>http://pyvideo.org/pycon-es-2015/revision-de-codigo-en-python.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;El objetivo de esta charla es dar a conocer los beneficios de la revisión de código, detallando los aspectos prácticos para llevar a cabo esta técnica de manera exitosa en proyectos colaborativos de desarrollo de software escritos en Python.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Cesar Cardenas Desales</dc:creator><pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-02-02:pycon-es-2015/revision-de-codigo-en-python.html</guid><category>Track Básico</category><category>code review</category></item></channel></rss>

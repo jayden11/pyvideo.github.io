@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 02 Aug 2015 00:00:00 +0000</lastBuildDate><item><title>Sunday Lightning Talks</title><link>http://pyvideo.org/pyohio-2013/sunday-lightning-talks-0.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Lightning Talks&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;0:00:00 Catherine Devlin - Midwest Python Workshop for woman and their
+friends.&lt;/p&gt;
+&lt;p&gt;0:04:25 Christian Wyglendowski - PALM: Protobufs Are Lightweight
+Messages&lt;/p&gt;
+&lt;p&gt;0:08:23 Larry Hastings - Get with the Grain of the Pickle&lt;/p&gt;
+&lt;p&gt;0:12:40 Michael Yanovich - Don't Ask Me About It License&lt;/p&gt;
+&lt;p&gt;0:17:24 Ron DuPlain - Lazy Pandas&lt;/p&gt;
+&lt;p&gt;0:22:47 Raymond Chandler III - SpkrBar.com&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sun, 28 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-28:pyohio-2013/sunday-lightning-talks-0.html</guid><category>lightning</category></item><item><title>Saturday Lightning Talks</title><link>http://pyvideo.org/pyohio-2013/saturday-lightning-talks-0.html</link><description>&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;PyOhio 2013 Saturday Lightning Talks&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;(00:00) Gears&lt;/p&gt;
+&lt;p&gt;(0:04:43) Ron DuPlain - Use Werkzeug's web-based interactive debugger
+with Tornado.&lt;/p&gt;
+&lt;p&gt;(0:09:54) Chad Whitacre - &lt;a class="reference external" href="https://www.gittip.com"&gt;https://www.gittip.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(0:14:56) Larry Hastings - Two Clever Uses Of... XOR!&lt;/p&gt;
+&lt;p&gt;(0:17:52) Joe Shaw - Woven photo service &lt;a class="reference external" href="http://woventheapp.com"&gt;http://woventheapp.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;(0:23:30) Ann Elliott - pySerial on Raspberry Pi&lt;/p&gt;
+&lt;p&gt;(0:29:38) Christopher Felton - Binary Hello World&lt;/p&gt;
+&lt;p&gt;(0:33:22) Eric Welch - EqPy&lt;/p&gt;
+&lt;p&gt;(0:38:51) Brad Montgomery - Julython&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 27 Jul 2013 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2013-07-27:pyohio-2013/saturday-lightning-talks-0.html</guid><category>lightning</category></item><item><title>**More lightning talks!**</title><link>http://pyvideo.org/pyohio-2015/more-lightning-talks.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://youtu.be/mKK2GKxFMSE?t=0h0m0s"&gt;(0:00:00)&lt;/a&gt; 2015 was great,
+2016 needs you. Eric and Brian&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://youtu.be/mKK2GKxFMSE?t=0h3m6s"&gt;(0:03:06)&lt;/a&gt; Issue trackers
+for your town. - Chad Whitacre&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://youtu.be/mKK2GKxFMSE?t=0h7m48s"&gt;(0:07:48)&lt;/a&gt; How much can I
+share with five minutes? -Ron DuPlain&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://youtu.be/mKK2GKxFMSE?t=0h12m55s"&gt;(0:12:55)&lt;/a&gt; Computer
+colors importance. -Scott Sievert&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://youtu.be/mKK2GKxFMSE?t=0h17m2s"&gt;(0:17:02)&lt;/a&gt; Piecing
+together a story with Google Maps. Lars&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://youtu.be/mKK2GKxFMSE?t=0h22m6s"&gt;(0:22:06)&lt;/a&gt; Back to the
+Cheese Shop. -Cameron&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://youtu.be/mKK2GKxFMSE?t=0h22m52s"&gt;(0:22:52)&lt;/a&gt; Logging
+Framework and Postgres -Matthew Wilson&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://youtu.be/mKK2GKxFMSE?t=0h25m40s"&gt;(0:25:40)&lt;/a&gt; Conda and
+Virtualenv -Brain Costlow&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://youtu.be/mKK2GKxFMSE?t=0h30m30s"&gt;(0:30:30)&lt;/a&gt; PyOhio 2017
+-Brain Costlow&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://youtu.be/mKK2GKxFMSE?t=0h33m15s"&gt;(0:33:15)&lt;/a&gt; All good
+things come to an end -Lars&lt;/li&gt;
+&lt;/ul&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sun, 02 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-02:pyohio-2015/more-lightning-talks.html</guid><category>lightning</category></item><item><title>**Lightning talks!**</title><link>http://pyvideo.org/pyohio-2015/lightning-talks-15.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-01:pyohio-2015/lightning-talks-15.html</guid><category>lightning</category></item><item><title>Plenary: Saturday Evening Lightning Talks</title><link>http://pyvideo.org/pycon-us-2010/pycon-2010--plenary--saturday-evening-lightning-t.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Saturday Evening Lightning Talks&lt;/p&gt;
+&lt;p&gt;(00:00) Jacob Kaplan-Moss - Introduction&lt;/p&gt;
+&lt;p&gt;(00:30) Guido van Rossum - PSF community service awards&lt;/p&gt;
+&lt;p&gt;(02:42) Ka-Ping Yee - Using scrape.py to test your web apps&lt;/p&gt;
+&lt;p&gt;(07:35) Ayman Hourieh - Python debugging techniques&lt;/p&gt;
+&lt;p&gt;(12:28) Robin Mills - Geo-tagging and Phatch&lt;/p&gt;
+&lt;p&gt;(17:30) Allen Short - Big brother's design rules&lt;/p&gt;
+&lt;p&gt;(21:25) David Goodger - PyCon swag&lt;/p&gt;
+&lt;p&gt;(25:00) David Ewing - Python in tiny embedded systems for the Smart Grid
+and beyond&lt;/p&gt;
+&lt;p&gt;(30:15) Dmitry Jemerov - Introducing PyCharm&lt;/p&gt;
+&lt;p&gt;(33:50) Dirkjan Ochtman - PEP 385: hg conversion&lt;/p&gt;
+&lt;p&gt;(37:30) Jesse Noller - Python: Hell Yeah.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Unknown</dc:creator><pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2010-02-19:pycon-us-2010/pycon-2010--plenary--saturday-evening-lightning-t.html</guid><category>debugging</category><category>embedded</category><category>hg</category><category>lightning</category><category>lightningtalk</category><category>phatch</category><category>pycharm</category><category>pycon</category><category>pycon2010</category><category>scrape.py</category></item></channel></rss>

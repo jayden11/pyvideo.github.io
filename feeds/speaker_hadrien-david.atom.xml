@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_hadrien-david.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2016-11-13T00:00:00+00:00</updated><entry><title>Painful serverless</title><link href="http://pyvideo.org/pycon-ca-2016/painful-serverless.html" rel="alternate"></link><published>2016-11-13T00:00:00+00:00</published><updated>2016-11-13T00:00:00+00:00</updated><author><name>Hadrien David</name></author><id>tag:pyvideo.org,2016-11-13:pycon-ca-2016/painful-serverless.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;For the last 2 years, serverless architecture has become a huge trend.
+Amazon Lambdas is one of the first function as a service solution which
+I have used since its early beginning. This talk covers the pain it can
+be to set up a REST API operating AWS API Gateway &amp;amp; Lambdas, the
+solutions and practices to overcome it.&lt;/p&gt;
+&lt;div class="section" id="hadrien-david-bio"&gt;
+&lt;h4&gt;Hadrien David Bio&lt;/h4&gt;
+&lt;p&gt;Hadrien is a software engineer at Dialogue.co, and is currently
+developing a service for better healthcare for Canadians. Member of
+Montreal Python user group, passionated about team work and open source
+culture, he spends a lot of time designing software architecture and
+riding his bicycle whether it rains or snows.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Pyramid-Royal: building restful web services the easy way</title><link href="http://pyvideo.org/pycon-ca-2013/pyramid-royal-building-restful-web-services-the.html" rel="alternate"></link><published>2013-08-11T00:00:00+00:00</published><updated>2013-08-11T00:00:00+00:00</updated><author><name>Hadrien David</name></author><id>tag:pyvideo.org,2013-08-11:pycon-ca-2013/pyramid-royal-building-restful-web-services-the.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Pyramid provides a great foundation to build applications that follow
+the Resource-Oriented Architecture described in the book RESTful Web
+services, but you have to build the top layer. Discover Pyramid-Royal,
+an Open Source library that provides that layer.&lt;/p&gt;
+</summary><category term="Lightning talk"></category></entry><entry><title>The Joys and Pains of Using Pyramid</title><link href="http://pyvideo.org/pycon-ca-2013/the-joys-and-pains-of-using-pyramid.html" rel="alternate"></link><published>2013-08-10T00:00:00+00:00</published><updated>2013-08-10T00:00:00+00:00</updated><author><name>Éric Araujo</name></author><id>tag:pyvideo.org,2013-08-10:pycon-ca-2013/the-joys-and-pains-of-using-pyramid.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;A tour of Pyramid’s best and worst features, from the perspective of
+developers who love elegance and pragmatism.&lt;/p&gt;
+</summary><category term="talk"></category></entry></feed>

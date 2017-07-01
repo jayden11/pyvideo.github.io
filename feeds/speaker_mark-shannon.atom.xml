@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_mark-shannon.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2012-07-06T00:00:00+00:00</updated><entry><title>Making CPython Fast Using Trace-based Optimisations</title><link href="http://pyvideo.org/europython-2011/making-cpython-fast-using-trace-based-optimisatio.html" rel="alternate"></link><published>2011-07-13T00:00:00+00:00</published><updated>2011-07-13T00:00:00+00:00</updated><author><name>Mark Shannon</name></author><id>tag:pyvideo.org,2011-07-13:europython-2011/making-cpython-fast-using-trace-based-optimisatio.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2011] Mark Shannon - 24 June 2011 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;CPython can be made faster by implementing the sort of optimizations
+used in the PyPy VM, and in my HotPy VM. All the necessary changes can
+be made without modifying the language or the API.&lt;/p&gt;
+&lt;p&gt;The CPython VM can be modified to support optimizations by adding an
+effective garbage collector and by separating the virtual-machine state
+from the real- machine state (like Stackless).&lt;/p&gt;
+&lt;p&gt;Optimizations can be implemented incrementally. Since almost all of the
+optimizations are implemented in the interpreter, all hardware platforms
+can benefit. JIT compiler(s) can then be added for common platforms
+(intel, ARM, etc.).&lt;/p&gt;
+&lt;p&gt;For more information see &lt;a class="reference external" href="http://hotpy.blogspot.com/"&gt;http://hotpy.blogspot.com/&lt;/a&gt;&lt;/p&gt;
+</summary><category term="cpython"></category><category term="jit"></category><category term="pypy"></category><category term="vm"></category></entry><entry><title>HotPy (2) - A High Performance Binary-Compatible Virtual Machine for Python</title><link href="http://pyvideo.org/europython-2012/hotpy-2-a-high-performance-binary-compatible.html" rel="alternate"></link><published>2012-07-06T00:00:00+00:00</published><updated>2012-07-06T00:00:00+00:00</updated><author><name>Mark Shannon</name></author><id>tag:pyvideo.org,2012-07-06:europython-2012/hotpy-2-a-high-performance-binary-compatible.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;[EuroPython 2012] Mark Shannon - 5 JULY 2012 in &amp;quot;Track Lasagne&amp;quot;&lt;/p&gt;
+&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;HotPy (2) is a new interpreter for Python. It is binary compatible with
+CPython and reuses CPython’s object and module implementations. The core
+interpreter is new and uses many of the techniques developed during the
+1990s and 2000s plus a technique developed during my PhD. Once the first
+stage of the optimisation chain is completed (May or June), HotPy is
+expected to be between 2 and 3 times as fast as CPython. It will
+probably never be as fast as PyPy, but it might be possible to get
+close. During the talk I will explain how it works (with lots of
+pictures), and how it compares to CPython and PyPy. I will also discuss
+whether the techniques used in HotPy would be suitable for Jython and
+IronPython.&lt;/p&gt;
+</summary></entry></feed>

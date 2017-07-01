@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>PyVideo.org</title><link href="http://pyvideo.org/" rel="alternate"></link><link href="http://pyvideo.org/feeds/speaker_luciano-ramalho.atom.xml" rel="self"></link><id>http://pyvideo.org/</id><updated>2017-05-17T00:00:00+00:00</updated><entry><title>Descritores de atributos em Python</title><link href="http://pyvideo.org/python-brasil-2012/descritores-de-atributos-em-python.html" rel="alternate"></link><published>2012-11-23T00:00:00+00:00</published><updated>2012-11-23T00:00:00+00:00</updated><author><name>Luciano Ramalho</name></author><id>tag:pyvideo.org,2012-11-23:python-brasil-2012/descritores-de-atributos-em-python.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Descritores de atributos em Python - Luciano Ramalho&lt;/p&gt;
+</summary></entry><entry><title>Decorators and descriptors decoded</title><link href="http://pyvideo.org/pycon-us-2017/decorators-and-descriptors-decoded.html" rel="alternate"></link><published>2017-05-17T00:00:00+00:00</published><updated>2017-05-17T00:00:00+00:00</updated><author><name>Luciano Ramalho</name></author><id>tag:pyvideo.org,2017-05-17:pycon-us-2017/decorators-and-descriptors-decoded.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Python developers use decorators and descriptors on a daily basis, but
+many don't understand them well enough to create (or debug) them.
+Decorators are widely deployed in popular Python Web frameworks.
+Descriptors are the key to the database mappers used with those
+frameworks, but under the covers they play an even more crucial role in
+Python as the device that turns plain functions into bound methods,
+setting the value of the &lt;tt class="docutils literal"&gt;self&lt;/tt&gt; argument. This tutorial is a gentle
+introduction these important language features, using a test-driven
+presentation and exercises, and covering enhancements in Python 3.6 that
+make class metaprogramming easier to get right.&lt;/p&gt;
+&lt;p&gt;Decorators without closures are presented first, highlighting the
+difference between &lt;em&gt;run time&lt;/em&gt; and &lt;em&gt;import time&lt;/em&gt; that is crucial when
+meta-programming. We then get a firm grounding on closures and how they
+are implemented in Python, before moving to higher order function
+decorators and class decorators.&lt;/p&gt;
+&lt;p&gt;Coverage of descriptors starts with a close look at Python's
+&lt;tt class="docutils literal"&gt;property&lt;/tt&gt; built-in function and dynamic attribute look up. We then
+implement some ORM-like field validation descriptors, encounter a
+usability problem, and leverage PEP 487 -- Simpler customisation of
+class creation -- to solve it. Alternative implementations using a class
+decorator and a metaclass will be contrasted to the PEP 487 solution.&lt;/p&gt;
+</summary></entry><entry><title>Trilha Pydata | Girando pratos: concorrência moderna em Python</title><link href="http://pyvideo.org/python-brasil-2015/trilha-pydata-girando-pratos-concorrencia-moderna-em-python-luciano-ramalho.html" rel="alternate"></link><published>2015-11-09T00:00:00+00:00</published><updated>2015-11-09T00:00:00+00:00</updated><author><name>Luciano Ramalho</name></author><id>tag:pyvideo.org,2015-11-09:python-brasil-2015/trilha-pydata-girando-pratos-concorrencia-moderna-em-python-luciano-ramalho.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Palestra na trilha de Pydata da Conferência Python Brasil 11 [2015] - São José dos Campos&lt;/p&gt;
+&lt;p&gt;A conferência Python Brasil aconteceu dos dias 09 e 10 de Novembro de 2015, no Novotel, em São José dos Campos.&lt;/p&gt;
+&lt;p&gt;Palestra do Luciano Ramalho sobre Girando pratos: concorrência moderna em Python&lt;/p&gt;
+&lt;p&gt;Mais informações:&lt;/p&gt;
+&lt;p&gt;Site: &lt;a class="reference external" href="http://pythonbrasil.github.io/pythonb"&gt;http://pythonbrasil.github.io/pythonb&lt;/a&gt;...
+Twitter: &amp;#64;pythonbrasil
+Facebook: &lt;a class="reference external" href="http://www.facebook.com/pythonbrasil"&gt;http://www.facebook.com/pythonbrasil&lt;/a&gt;
+Manual do Big Kahuna: &lt;a class="reference external" href="https://manual-do-big-kahuna.readthed"&gt;https://manual-do-big-kahuna.readthed&lt;/a&gt;...&lt;/p&gt;
+</summary></entry><entry><title>Pythonic Objects: implementing productive APIs with the Python Data Model</title><link href="http://pyvideo.org/pycon-us-2016/luciano-ramalho-pythonic-objects-implementing-productive-apis-with-the-python-data-model.html" rel="alternate"></link><published>2016-05-29T00:00:00+00:00</published><updated>2016-05-29T00:00:00+00:00</updated><author><name>Luciano Ramalho</name></author><id>tag:pyvideo.org,2016-05-29:pycon-us-2016/luciano-ramalho-pythonic-objects-implementing-productive-apis-with-the-python-data-model.html</id><summary type="html">&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Speaker: Luciano Ramalho&lt;/p&gt;
+&lt;p&gt;Python is so consistent that often we can infer the behavior of new objects by assuming they work as the built-ins. The Python Data Model is the foundation of this consistent behavior. This talk presents the construction of Pythonic objects: classes that feel &amp;quot;&amp;quot;natural&amp;quot;&amp;quot; to a Python programmer, and leverage some of the best language features by implementing key protocols of the Data Model.&lt;/p&gt;
+&lt;p&gt;Slides can be found at: &lt;a class="reference external" href="https://speakerdeck.com/pycon2016"&gt;https://speakerdeck.com/pycon2016&lt;/a&gt; and &lt;a class="reference external" href="https://github.com/PyCon/2016-slides"&gt;https://github.com/PyCon/2016-slides&lt;/a&gt;&lt;/p&gt;
+</summary></entry><entry><title>Pingo means "pin, go!"</title><link href="http://pyvideo.org/chipy/pingo-means-pin-go.html" rel="alternate"></link><published>2014-07-09T00:00:00+00:00</published><updated>2014-07-09T00:00:00+00:00</updated><author><name>Luciano Ramalho</name></author><id>tag:pyvideo.org,2014-07-09:chipy/pingo-means-pin-go.html</id><summary type="html"></summary></entry><entry><title>38. ABC: the mother of Python</title><link href="http://pyvideo.org/pycon-us-2012/38-abc-the-mother-of-python.html" rel="alternate"></link><published>2012-03-11T00:00:00+00:00</published><updated>2012-03-11T00:00:00+00:00</updated><author><name>Luciano Ramalho</name></author><id>tag:pyvideo.org,2012-03-11:pycon-us-2012/38-abc-the-mother-of-python.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Before Python, Guido was a contributor to the ABC language and
+environment. ABC was designed to teach programming, and introduced many
+&amp;quot;Pythonic&amp;quot; ideas: integrated dicts and tuples, structure by indentation,
+strong typing without declarations etc. With high demand for Python in
+education, the legacy of ABC is more relevant than ever as we design
+courses and environments for learners.&lt;/p&gt;
+</summary></entry><entry><title>Iteration &amp; Generators: the Python Way</title><link href="http://pyvideo.org/pycon-us-2013/iteration-generators-the-python-way.html" rel="alternate"></link><published>2013-03-17T00:00:00+00:00</published><updated>2013-03-17T00:00:00+00:00</updated><author><name>Luciano Ramalho</name></author><id>tag:pyvideo.org,2013-03-17:pycon-us-2013/iteration-generators-the-python-way.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Did you know that &amp;quot;for a, (b, c) in s:&amp;quot; is a valid Python line? From the
+elegant for statement through list/set/dict comprehensions and generator
+functions, this talk shows how the Iterator pattern is so deeply
+embedded in the syntax of Python, and so widely supported by its
+libraries, that some of its most powerful applications can be overlooked
+by programmers coming from other languages.&lt;/p&gt;
+</summary><category term="talk"></category></entry><entry><title>Encapsulation with descriptors</title><link href="http://pyvideo.org/pycon-us-2013/encapsulation-with-descriptors.html" rel="alternate"></link><published>2013-03-15T00:00:00+00:00</published><updated>2013-03-15T00:00:00+00:00</updated><author><name>Luciano Ramalho</name></author><id>tag:pyvideo.org,2013-03-15:pycon-us-2013/encapsulation-with-descriptors.html</id><summary type="html">&lt;h3&gt;Summary&lt;/h3&gt;&lt;p&gt;Python has no private fields, but the property decorator lets you
+replace public attributes with getters and setters without breaking
+client code. And the descriptor mechanism, used in Django for model
+field declarations, enables wide reuse of getter/setter logic via
+composition instead of inheritance. This talk explains how properties
+and descriptors work by refactoring a practical example.&lt;/p&gt;
+</summary><category term="talk"></category></entry></feed>

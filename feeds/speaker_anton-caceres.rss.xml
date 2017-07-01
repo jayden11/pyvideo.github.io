@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>PyVideo.org</title><link>http://pyvideo.org/</link><description></description><lastBuildDate>Sun, 12 Mar 2017 00:00:00 +0000</lastBuildDate><item><title>Lightning talks: PyCon web 2017</title><link>http://pyvideo.org/pycon-sk-2017/lightning-talks-pycon-web-2017.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Lightning talks: Anton Caceres - PyCon web 2017&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anton Caceres</dc:creator><pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-03-12:pycon-sk-2017/lightning-talks-pycon-web-2017.html</guid></item><item><title>From Code to Community</title><link>http://pyvideo.org/pycon-sk-2017/from-code-to-community.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;This talk is about people, not tools. It takes you on a journey from building software to building a community.&lt;/p&gt;
+&lt;p&gt;Python communities are special in many ways, from non-commercial nature to viral enthusiasm and friendliness. This talk shares one recipe of growing such community, covering hands-on experience, insider details and financial challenges.&lt;/p&gt;
+&lt;p&gt;The recipe is based on the story how one year ago a tempting idea of making Python meetups in Munich was converted into PyCon.DE. No companies, no funds, no business network. Just Python community, and some enthusiasm.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anton Caceres</dc:creator><pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2017-03-11:pycon-sk-2017/from-code-to-community.html</guid></item><item><title>Better async code with Python 3</title><link>http://pyvideo.org/pycon-es-2015/better-async-code-with-python-3.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Learn async web development hands-on by using asyncio event loop in combination with subgenerator delegation syntax (yield from), creating beautiful concurrent code without writing a single callback.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anton Caceres</dc:creator><pubDate>Tue, 02 Feb 2016 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2016-02-02:pycon-es-2015/better-async-code-with-python-3.html</guid><category>workshop</category><category>asyncio</category></item><item><title>Better asynchronous code with Tornado and Python 3</title><link>http://pyvideo.org/europython-2015/better-asynchronous-code-with-tornado-and-python-3.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;Anton Caceres - Better asynchronous code with Tornado and Python 3
+[EuroPython 2015]
+[23 July 2015]
+[Bilbao, Euskadi, Spain]&lt;/p&gt;
+&lt;p&gt;The asyncio module introduced in Python 3.4 is a game-changer for I/O
+management and event-driven network programming in Python. Aiming to
+be a lower-level implementation of an asynchronous event loop, it
+intends that higher level frameworks like Tornado, Twisted or Gevent
+will build on top of it, taking advantage of the shared interface for
+writing concurrent event-driven code across different Python
+frameworks.&lt;/p&gt;
+&lt;p&gt;This talk connects theory with practice, presenting how Tornado can
+run in the asyncio event loop and take advantage of the subgenerator
+delegation syntax (yield from) to provide a high degree of concurrency
+while keeping the simplicity of sequential code. It explains the
+concept of coroutines, futures and ioloop, exposing Python 3 code for
+sample web tasks. The talk completes with a basic demo of running this
+code on Tornado, comparing its syntax and performance with popular
+asynchronous frameworks from other languages.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anton Caceres</dc:creator><pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-08-05:europython-2015/better-asynchronous-code-with-tornado-and-python-3.html</guid></item><item><title>Asynchronous Web Development with Python 3</title><link>http://pyvideo.org/pycon-italia-2015/asynchronous-web-development-with-python-3.html</link><description>&lt;h3&gt;Description&lt;/h3&gt;&lt;p&gt;The asyncio module with updated chainable coroutines introduced with
+Python 3.4 was a game-changer for I/O management and asynchronous web
+development in Python. Even web frameworks like Tornado that already had
+an own asynchronous IO-loop implementation, can now take advantage of
+the subgenerator delegation syntax to provide a high degree of
+concurrency and responsiveness while keeping the simplicity of
+sequential code. This talk will focus on the new way of writing
+asynchronous code with Python 3, explaining the concept of futures,
+coroutines and ioloop. It will complete with a basic demo of running
+this code on Tornado, comparing its syntax and performance with other
+popular web frameworks.&lt;/p&gt;
+&lt;p&gt;It is also possible to present this topic in a workshop format. Contact
+me for details.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Anton Caceres</dc:creator><pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:pyvideo.org,2015-05-29:pycon-italia-2015/asynchronous-web-development-with-python-3.html</guid></item></channel></rss>
